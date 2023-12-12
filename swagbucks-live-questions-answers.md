@@ -24132,3 +24132,63 @@
 - [x] 1984
 - [ ] 1996
 - [ ] 2012
+
+#### Which of the following video game series revolves around auto racing?
+
+- [x] Gran Turismo
+- [ ] Super Smash Bros
+- [ ] Medal of Honor
+
+#### Which game show offers contestants multiple-choice questions?
+
+- [ ] Wheel of Fortune
+- [x] Who Wants to Be a Millionaire?
+- [ ] The Chase
+
+#### What section of a newspaper contains job listings?
+
+- [x] Classified
+- [ ] Sports
+- [ ] Lifestyle
+
+#### Which of the following Disney Park lands is fake?
+
+- [ ] Tomorrowland
+- [ ] Fantasyland
+- [x] Lunchladyland
+
+#### What Canadian city is home to the CN Tower?
+
+- [x] Toronto
+- [ ] Vancouver
+- [ ] Edmonton
+
+#### What band's name is an acronym made up of the first initials?
+
+- [ ] The Rolling Stones
+- [x] ABBA
+- [ ] 2 Live Crew
+
+#### Where was the first fast food burger chain founded?
+
+- [ ] California
+- [ ] Illinois
+- [x] Kansas
+
+#### In science, what term is used to describe push or pull?
+
+- [ ] Flow
+- [x] Force
+- [ ] Echo
+
+#### Who did George Foreman face in the Rumble in the Jugle?
+
+- [ ] Tommmy Lister
+- [ ] Mike Tyson
+- [x] Muhammad Ali
+
+#### Which of the following is NOT a Britney Spears song?
+
+- [ ] Opps! I Did It Again
+- [ ] Hit Me Baby (One More Time)
+- [x] Have You Ever Seen The Rain?
