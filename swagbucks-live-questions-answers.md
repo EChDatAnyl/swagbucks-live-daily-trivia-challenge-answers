@@ -29934,3 +29934,81 @@
 - [ ] Mase
 - [x] Bad Bunny
 - [ ] Lady Gaga
+
+#### Henry Ford is credited with which innovation in car making?
+
+- [ ] Welding
+- [x] The Assembly Line
+- [ ] Compressors
+
+#### Which of these soups does NOT contain beets?
+
+- [ ] Chlodnik
+- [x] Gornisht
+- [ ] Borscht
+
+#### Which rapper got his stage name from Fozzy Bear's catchphrase?
+
+- [x] Waka Flocka Flame
+- [ ] Jay-Z
+- [ ] Ghostface Killah
+
+#### In "Musical Chairs", what are you supposed to do when the music stops?
+
+- [x] Sit in a chair
+- [ ] Stop singing
+- [ ] Fall to the ground
+
+#### Which of the following is the proper way to write "you are"?
+
+- [ ] Your
+- [x] You're
+- [ ] Ur
+
+#### What is the name of Apple's virtual assistant?
+
+- [x] Siri
+- [ ] Alexa
+- [ ] Jeeves
+
+#### What is the world's deepest lake?
+
+- [ ] Lake Matano
+- [ ] Lake Hauroko
+- [x] Lake Baikal
+
+#### Which State was NOT admitted to the Union as a result of the Missouri compromise?
+
+- [ ] Maine
+- [x] Michigan
+- [ ] Missouri
+
+#### "U Can't Touch This" and "Pray" where hits by what Oakland-based rapper?
+
+- [ ] Eminem
+- [ ] Macklemore
+- [x] MC Hammer
+
+#### Who is not an author of the Federalist papers?
+
+- [ ] John Jay
+- [ ] James Madison
+- [x] Thomas Paine
+
+#### What do grabatologists collect?
+
+- [ ] Gloves
+- [x] Neckties
+- [ ] Vacuum cleaners
+
+#### Which Hall of Fame baseball player was a VP of Personnel for Chock Full O' Nuts Coffee after retiring?
+
+- [ ] Gaylord Perry
+- [x] Jackie Robinson
+- [ ] Mickey Mantle
+
+#### Which of the following countries is in the Eastern Hemisphere?
+
+- [ ] United States
+- [ ] Belize
+- [x] China
