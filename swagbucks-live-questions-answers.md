@@ -30054,3 +30054,63 @@
 - [ ] Hostel
 - [x] The Babadook
 - [ ] It
+
+#### In 1963, tthe AL, NL, and NFL MVPs all wore what jersey number?
+
+- [ ] 7
+- [ ] 16
+- [x] 32
+
+#### In "Super Mario Bros", what do you touch to make Mario grow?
+
+- [ ] Flower
+- [x] Mushroom
+- [ ] Star
+
+#### "Akontion" was the original term for what Olympic Track & Field event?
+
+- [ ] Discus
+- [ ] Shot Put
+- [x] Javelin
+
+#### Jockey Frank Hayes won a race in 1923 despite what disadvantage?
+
+- [x] He was dead
+- [ ] He was blind
+- [ ] He had no arms
+
+#### What super flexible doll was one of the top-selling toys of 1976?
+
+- [ ] Barbie
+- [ ] G.I. Joe
+- [x] Stretch Armstrong
+
+#### What was the name of the Brady Bunch's live-in housekeeper?
+
+- [ ] Carol
+- [ ] Sam
+- [x] Alice
+
+#### A Puggle is a combination of which two dog breeds?
+
+- [x] Pug and Begle
+- [ ] Dalmatian and Collie
+- [ ] Malamute and Bloodhound
+
+#### Which of these pieces was composed by Ludwig van Beethoven?
+
+- [x] Symphony No. 9
+- [ ] Clair de Lune
+- [ ] Ride of the Valkyries
+
+#### Which two areas of Disneyland contain a nod to Halley's Comet?
+
+- [x] Tomorrowland and Main Street U.S.A.
+- [ ] Tomorrowland and Fantasyland
+- [ ] Tomorrowland and Galaxy's Edge
+
+#### What "measured" snack came out in 1991?
+
+- [ ] Gushers
+- [ ] Oatmeal Swirlers
+- [x] Fruit by the Foot
