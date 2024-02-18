@@ -30012,3 +30012,45 @@
 - [ ] United States
 - [ ] Belize
 - [x] China
+
+#### Which of these Netflix shows is animated?
+
+- [ ] Easy
+- [x] F is for Family
+- [ ] 3%
+
+#### Generally, what is the widest key on a keyboard?
+
+- [x] Spacebar
+- [ ] Tab
+- [ ] Enter
+
+#### Shakespeare's Hamlet is traditionally set in what country?
+
+- [x] Denmark
+- [ ] Spain
+- [ ] China
+
+#### Which of the following is NOT one of the original U.S. colonies?
+
+- [ ] Maryland
+- [x] Maine
+- [ ] Massachusetts
+
+#### Which mineral on the Mohs Scale has the shortest chemical equation?
+
+- [ ] Quartz
+- [ ] Talc
+- [x] Diamond
+
+#### Who was known for his TV show teaching you to paint "Happy Little Trees"?
+
+- [ ] Andy Warhol
+- [ ] Pablo Picasso
+- [x] Bob Ross
+
+#### What horror film did "The Exorcist" director William Friedkin say was the most terrifying he'd ever seen?
+
+- [ ] Hostel
+- [x] The Babadook
+- [ ] It
