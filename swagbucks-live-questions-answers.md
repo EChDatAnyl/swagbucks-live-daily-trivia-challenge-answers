@@ -30114,3 +30114,51 @@
 - [ ] Gushers
 - [ ] Oatmeal Swirlers
 - [x] Fruit by the Foot
+
+#### Which of these types of milk is vegan?
+
+- [x] Almond Milk
+- [ ] Buttermilk
+- [ ] Whole Milk
+
+#### What math functino gives you the SUM of two numbers?
+
+- [ ] Subtraction
+- [ ] Division
+- [x] Addition
+
+#### What is Paddington Bear named for?
+
+- [ ] A Football Club
+- [ ] A Theater
+- [x] A Train Station
+
+#### Who plays The Grinch in the live action movie?
+
+- [x] Jim Carrey
+- [ ] Tim Allen
+- [ ] Steve Carell
+
+#### When a note's pitch is lower than it's supposed to be, what is it called?
+
+- [ ] Sharp
+- [x] Flat
+- [ ] Adagio
+
+#### In what movie does Rhett Butler not give a darn?
+
+- [x] Gone With The Wind
+- [ ] The Maltese Falcon
+- [ ] It Happened One Night
+
+#### Philadelphia is known as "The City of Brotherly" what?
+
+- [x] Love
+- [ ] Loans
+- [ ] Litigation
+
+#### In ancident Egypt, which animal was believed to be scared?
+
+- [ ] Mice
+- [ ] Snakes
+- [x] Cats
