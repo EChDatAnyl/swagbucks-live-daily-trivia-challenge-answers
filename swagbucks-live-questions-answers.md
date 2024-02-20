@@ -30162,3 +30162,57 @@
 - [ ] Mice
 - [ ] Snakes
 - [x] Cats
+
+#### What would you most likely use to visit the Asthenosphere?
+
+- [ ] A rocket
+- [x] A drill
+- [ ] A submarine
+
+#### Which board game's commercial features the line "Pretty Sneaky, Sis"?
+
+- [ ] Battleship
+- [x] Connect Four
+- [ ] Stratego
+
+#### John McEnroe was known for what sport?
+
+- [x] Tennis
+- [ ] Gymnastics
+- [ ] Wrestling
+
+#### What is the name of the terrifying clown in "It"?
+
+- [x] Pennywise
+- [ ] Nickelsmart
+- [ ] Dimeclever
+
+#### What is the only U.S. capital without a McDonald's?
+
+- [x] Monteplier, Vermont
+- [ ] Salem, Oregon
+- [ ] Helena, Montana
+
+#### Which of the following animals has a prehensile tail?
+
+- [x] Anteater
+- [ ] Hippo
+- [ ] Horse
+
+#### The Hyundai Comboy is better known in the rest of the world as what?
+
+- [x] Nintendo Entertainment System
+- [ ] Hyundai Elantra
+- [ ] Macbook Pro
+
+#### Which of these horror villains does NOT wear a mask?
+
+- [ ] Michael Myers
+- [x] Freddy Krueger
+- [ ] Jason Voorhees
+
+#### Which Disney movie has characters named after sea trash?
+
+- [ ] The Sword in the Stone
+- [x] Little Mermaid
+- [ ] Wreck-It Ralph
