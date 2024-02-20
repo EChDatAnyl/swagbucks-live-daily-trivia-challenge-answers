@@ -18754,8 +18754,8 @@
 #### In which decade did acid wash jeans become popular?
 
 - [ ] 1950s
-- [ ] 1980s
-- [x] 2000s
+- [x] 1980s
+- [ ] 2000s
 
 #### In 1994, which Disney animated film's stage adaptation debuted on Broadway?
 
@@ -30216,3 +30216,51 @@
 - [ ] The Sword in the Stone
 - [x] Little Mermaid
 - [ ] Wreck-It Ralph
+
+#### Which of the following is NOT part of a standard drum kit?
+
+- [ ] Snare drum
+- [ ] High hat
+- [x] Bassoon
+
+#### In which city would you find both the CN Tower and the Hockey Hall of Fame?
+
+- [ ] Seattle
+- [x] Toronto
+- [ ] Miami
+
+#### In the Star Wars universe, what are robots called?
+
+- [x] Droids
+- [ ] Doohickeys
+- [ ] Whatchamacallits
+
+#### Zoos in Prague and Berlin annually feed their elephants what special meal?
+
+- [ ] Fruitcake
+- [ ] Easter Lilies
+- [x] Christmas Trees
+
+#### Where are you most likely to use a tittle?
+
+- [ ] Kitchen
+- [x] Term Paper
+- [ ] Sewing Machine
+
+#### If you don't crack under pressure, you are as cool as...
+
+- [ ] A torch
+- [ ] A banana
+- [x] A cucumber
+
+#### Marc Antony had a famous romance with what other historical figure?
+
+- [ ] Marie Antoinette
+- [x] Cleopatra
+- [ ] Lady Godiva
+
+#### What is the tittle of Devo's biggest hit?
+
+- [x] Whip it
+- [ ] Puppet Boy
+- [ ] That's Good
