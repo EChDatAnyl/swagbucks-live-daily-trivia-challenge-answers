@@ -30324,3 +30324,57 @@
 - [x] Jem
 - [ ] She-Ra
 - [ ] Velma
+
+#### Which part of the body is used to make a fist?
+
+- [ ] Knee
+- [x] Hand
+- [ ] Eyelid
+
+#### According to legend, which British King led The Round Table?
+
+- [ ] Charles I
+- [x] Arthur
+- [ ] Edmund
+
+#### At which college can you earn a Pirate Certificate?
+
+- [ ] Pepperdine
+- [x] MIT
+- [ ] University of Miami
+
+#### According to Rotten Tomatoes, what is the highest-rated Christmas movie of all time?
+
+- [ ] Miracle on 34th Street
+- [ ] The Shop Around the Corner
+- [x] Meet Me in St. Louis
+
+#### Mickey first spoke in which animated short?
+
+- [ ] Steamboat Willie
+- [x] The Karnival Kid
+- [ ] The Skeleton Dance
+
+#### In what year was the first Kwanzaa celebrated?
+
+- [ ] 530 B.C.
+- [ ] 1861 A.D.
+- [x] 1966 A.D.
+
+#### What Sate's official flower is often smothered with peanut butter and made into a bird feeder?
+
+- [ ] New Hampshire
+- [ ] Vermont
+- [x] Maine
+
+#### Which of these stars never appeared on a Degrassi series?
+
+- [ ] Drake
+- [x] Ryan Gosling
+- [ ] Nina Dobrev
+
+#### Which of these movie monsters was named after a childhood bully?
+
+- [ ] Jason Voorhees
+- [ ] Norman Bates
+- [x] Freddy Krueger
