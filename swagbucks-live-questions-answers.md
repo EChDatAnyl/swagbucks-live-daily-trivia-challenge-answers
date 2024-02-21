@@ -30264,3 +30264,63 @@
 - [x] Whip it
 - [ ] Puppet Boy
 - [ ] That's Good
+
+#### Eddie Murphy rose to fame on what TV sketch show?
+
+- [ ] The Carol Burnett Show
+- [ ] Laugh-in
+- [x] Saturday Night Live
+
+#### What cliffhanger ended the 1979-80 season of Dallas?
+
+- [x] Who Shot JR?
+- [ ] What's That Smell?
+- [ ] Got Milk?
+
+#### Diff'rent Strokes introduced the world to what catchphrase?
+
+- [ ] Not so fast...
+- [x] Whatchu talkin' bout, Willis?
+- [ ] I did it again!
+
+#### What sitcom debuted in 1987 with bob Saget as the widowered father of three girls?
+
+- [ ] Step By Step
+- [ ] Family Matters
+- [x] Full House
+
+#### Michelle Pfeiffer starred in which of the following short-lived 80's TV shows?
+
+- [ ] Automan
+- [x] B.A.D. Cats
+- [ ] Manimal
+
+#### What military dramedy's 1982 finale "Goodbye, Farewell and Amen" was watched by over 105 million households?
+
+- [x] M*A*S*H
+- [ ] McHale's Navy
+- [ ] Hogan's Heroes
+
+#### "Joaine Loves Chachi" was the unsuccessful spinoff of what hit show?
+
+- [ ] Soap
+- [ ] All In The Family
+- [x] Happy Days
+
+#### Early in the production of "Knight Rider", what name was considered for K.I.T.T.?
+
+- [ ] K.A.R.R.
+- [x] T.A.T.T.
+- [ ] N.I.T.E.
+
+#### What 1980's cartoon series ended episodes with safety lessons with the qutote "knowing is half the battle"?
+
+- [ ] Transformers
+- [ ] Thundercats
+- [x] G.I. Joe
+
+#### Cartoon character Jerrica Benton moonlighted as what rock star?
+
+- [x] Jem
+- [ ] She-Ra
+- [ ] Velma
