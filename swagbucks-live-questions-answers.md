@@ -10478,9 +10478,9 @@
 
 #### Which of these is NOT a standard coffee type?
 
-- [x] Caffeinated
+- [ ] Caffeinated
 - [ ] Decaffeinated
-- [ ] Filled with big rocks
+- [x] Filled with big rocks
 
 #### Angelina Jolie plays the live action version of what animated villain?
 
@@ -12683,12 +12683,6 @@
 - [ ] Grape nuts
 - [x] Chestnuts
 - [ ] Macadamia nuts
-
-#### What is the name of the chain of music themed restaurants filled with memorabilia?
-
-- [ ] Planet Hollywood
-- [ ] TGI Friday's
-- [x] The Hard Rock Cafe
 
 #### What is the name of the chain of music themed restaurants filled with memorabilia?
 
@@ -30480,3 +30474,39 @@
 - [x] Janet Jackson
 - [ ] La Toya Jackon
 - [ ] Tito Jackson
+
+#### On TV, what does the M in MTV stand for?
+
+- [ ] Merriment
+- [x] Music
+- [ ] Madness
+
+#### Cap'n Crunch's full name includes a tribute to which famous explorer?
+
+- [ ] Columbus
+- [x] Magellan
+- [ ] Cook
+
+#### In which country could you visit the Forbidden City?
+
+- [ ] Japan
+- [ ] Vietnam
+- [x] China
+
+#### In 2004, who hit a home run from one State into another?
+
+- [ ] Jim Thome
+- [ ] Barry Bonds
+- [x] Adam Dunn
+
+#### Where would you go to borrow books?
+
+- [ ] Adattoir
+- [x] Library
+- [ ] Cafeteria
+
+#### How many unique words were used in Green Eggs and Ham?
+
+- [ ] 37
+- [ ] 42
+- [x] 50
