@@ -30420,3 +30420,63 @@
 - [ ] Tate's
 - [x] Chocklit Shoppe
 - [ ] Riverdale Diner
+
+#### The songs "Beat It" and "Billie Jean" are singles off of what 80's album?
+
+- [ ] Graceland
+- [ ] Slippery When Wet
+- [x] Thriller
+
+#### What did Wham! ask you to do before you go-go?
+
+- [x] Wake me up
+- [ ] Tie your shoes
+- [ ] Close the door
+
+#### Before he became a meme, who scored hits with "Never Gonna Give You Up" and "Together Forever"?
+
+- [ ] Robert Palmer
+- [x] Rick Astley
+- [ ] Thomas Dolby
+
+#### What year was the first state-sanctioned rock festival in the Soviet Union?
+
+- [x] 1980
+- [ ] 1986
+- [ ] 1989
+
+#### What was the name of Guns n' Roses' debut album?
+
+- [ ] Purple Rain
+- [x] Appetite for Destruction
+- [ ] Nevermind
+
+#### Which of the following bands formed in the 1980's?
+
+- [ ] Van Halen
+- [ ] The Police
+- [x] Motley Crue
+
+#### Chuck D and Flavor Flav were both members of what rap group?
+
+- [x] Public Enemy
+- [ ] Run DMC
+- [ ] De La Soul
+
+#### The band Fred Zeppelin was formed in 1982 by the children of which rock star?
+
+- [ ] Robert Plant
+- [x] Frank Zappa
+- [ ] Mick Jagger
+
+#### Who dressed as Marilyn Monroe for her "Material Girl" music video?
+
+- [ ] Cyndi Lauper
+- [ ] Joan Jett
+- [x] Madonna
+
+#### Which of Michael Jackson's siblings had a hit album called "Rhythm Nation 1814"?
+
+- [x] Janet Jackson
+- [ ] La Toya Jackon
+- [ ] Tito Jackson
