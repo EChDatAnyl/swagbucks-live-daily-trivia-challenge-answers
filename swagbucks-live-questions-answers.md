@@ -30378,3 +30378,45 @@
 - [ ] Jason Voorhees
 - [ ] Norman Bates
 - [x] Freddy Krueger
+
+#### What famous comedian turned down a role as one of the original Ghostbusters?
+
+- [ ] John Candy
+- [x] Eddie Murphy
+- [ ] Steve Martin
+
+#### Which fairy tale character has an encounter with three bears?
+
+- [x] Goldilocks
+- [ ] Little Miss Mufflet
+- [ ] Cinderella
+
+#### According to the children's song, what did Old MacDonald have?
+
+- [ ] Psoriasis
+- [ ] A leather fanny pack
+- [x] A farm
+
+#### The Holderness Family's "Xmas Jammies" and the hit it parodies both sample what song?
+
+- [ ] Miami
+- [x] And the Beat Goes On
+- [ ] Pleasure
+
+#### In which U.S. State is cannibalism illegal?
+
+- [ ] None of them
+- [x] Idaho
+- [ ] All of them
+
+#### Which First Lady secretly took over duties for her husband over the course of 17 months?
+
+- [x] Edith Wilson
+- [ ] Mary Todd Lincoln
+- [ ] Lucretia Garfield
+
+#### On "Riverdale", what is the name of the diner where the kids hang out?
+
+- [ ] Tate's
+- [x] Chocklit Shoppe
+- [ ] Riverdale Diner
