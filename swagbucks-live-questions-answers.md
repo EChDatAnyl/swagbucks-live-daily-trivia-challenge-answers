@@ -30618,3 +30618,123 @@
 - [x] I've Had The Time Of My Life
 - [ ] Do You Want To Dance?
 - [ ] Land of 1,000 Dances
+
+#### What Brat Pack movie centers around a gorup of high schoolers serving detention?
+
+- [x] The Breakfast Club
+- [ ] For Keeps?
+- [ ] Arthur
+
+#### "The Lost Boys" is about a group of teens who are secretly what type of monster?
+
+- [ ] Zombie
+- [ ] Werewolf
+- [x] Vampire
+
+#### Which of these 1980's movies is a Buddy Cop movie?
+
+- [ ] Red Dawn
+- [x] Lethal Weapon
+- [ ] Best Little Whorehouse in Texas
+
+#### Who starred in and wrote the theme song for "9 to 5"?
+
+- [ ] Reba McEntire
+- [ ] Linda Ronstadt
+- [x] Dolly Parton
+
+#### In "The Hoonies", whose treasure is everyone seeking?
+
+- [x] One-Eyed Willy
+- [ ] Two-Eyed Thomas
+- [ ] Four-eyed Frederick
+
+#### Which of the following comedy stars did NOT appear in "Caddyshack"?
+
+- [ ] Bill Murray
+- [ ] Rodney Dangerfield
+- [x] Jerry Seinfeld
+
+#### During James Cameron's pitch to the studio, what sold them on giving him "Aliens"?
+
+- [ ] Dressing like a Xenomorph
+- [x] Turning the "S" into a dollar sign
+- [ ] Getting Sigourney Weaver's blessing
+
+#### In "Short Circuit", what is the name of the robot that comes to life?
+
+- [x] Johnny Five
+- [ ] Joanie Six
+- [ ] Jimmy Seven
+
+#### Jason Voorhes terrorizes Camp Crystal Lake in what 1980 horror film? (It's Jason's mother Pamela; Jason appears starting in Part II)
+
+- [ ] Phantasm
+- [ ] Silent Night, Deadly Night
+- [x] Friday the 13th
+
+#### Who played Ferris Bueller in "Ferris Bueller's Day Off"?
+
+- [ ] Alan Ruck
+- [x] Matthew Broderick
+- [ ] Matthew Modine
+
+#### What "Family Ties" actor starred as scott Howard in "Teen Wolf"?
+
+- [ ] Justine Bateman
+- [ ] Michael Gross
+- [x] Michael J. Fox
+
+#### Oliver Stone's Oscar-nominated movie "Platoon" takes place during what war?
+
+- [ ] Operation: Desert Storm
+- [x] Vietnam War
+- [ ] World War I
+
+#### In "Bill & Ted's Excellent Adventure", why are they traveling through time?
+
+- [ ] For money
+- [ ] For love
+- [x] For a school assignment
+
+#### How many times do you say Beetlejuice's name out loud to summon him?
+
+- [x] Three
+- [ ] Four
+- [ ] Five
+
+#### In "Beverly Hills Cop", Axel Foley is originally from what city?
+
+- [ ] Hoboken
+- [x] Detroit
+- [ ] Vancouver
+
+#### Which action star was almost cast as the lead in "Beverly Hills Cop"?
+
+- [ ] Arnold Schwarzenegger
+- [ ] Mel Gibson
+- [x] Sylvester Stallone
+
+#### In which 1980's movie does Gordon Gekko say "Greed, for lack of a better word, is good"?
+
+- [x] Wall Street
+- [ ] Secret of My Success
+- [ ] Big Business
+
+#### Who is the mail villain in 1984's "Ghostbusters"?
+
+- [ ] Emperor Palpatine
+- [x] Gozer the Gozerian
+- [ ] Bill Tannen
+
+#### Which of the following 1980's baseball movies does NOT star Kevin Costner?
+
+- [ ] Bull Durham
+- [ ] Field of Dreams
+- [x] Eight Men Out
+
+#### In "The Karate Kid" who teaches Daniel LaRusso karate?
+
+- [x] Mister Miyagi
+- [ ] John Kreese
+- [ ] Johnny Lawrence
