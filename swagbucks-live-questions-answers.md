@@ -30738,3 +30738,81 @@
 - [x] Mister Miyagi
 - [ ] John Kreese
 - [ ] Johnny Lawrence
+
+#### Who recorded the hit songs "Teenage Dream", "Last Friday Night", and "Firework"?
+
+- [ ] P!nk
+- [x] Katy Perry
+- [ ] Britney Spears
+
+#### Seoul is the captial of what country?
+
+- [ ] France
+- [x] South Korea
+- [ ] Pakistan
+
+#### Corn Flakes, Corn Pops, and Corn Chex are all types of what?
+
+- [ ] Apple
+- [ ] Biscuit
+- [x] Cereal
+
+#### Who did George W. Bush defeat in the 2000 Presidential election?
+
+- [ ] Barack Obama
+- [ ] John Kerry
+- [x] Al Gore
+
+#### Which of the following is NOT a Dolly Parton song?
+
+- [ ] Jolene
+- [x] Coal Miner's Daughter
+- [ ] Coal of Many Colors
+
+#### What guitar legend passed away on October 6th, 2020?
+
+- [x] Eddie Van Halen
+- [ ] Keith Richards
+- [ ] Jimi Hendrix
+
+#### In "It's Beginning to Look A Lot Like Christmas", which of the following is NOT a sign?
+
+- [ ] Toys in every store
+- [ ] A tree in the Grand Hotel
+- [x] It's 89 degrees
+
+#### Which of the following pieces of lab equipment is used to produce flame?
+
+- [x] Bunsen Burner
+- [ ] Buns and burners
+- [ ] Cinnamon Buns
+
+#### Which of these film ratings requries you to be 18 or older to gain admission?
+
+- [ ] PG
+- [ ] PG-13
+- [x] NC-17
+
+#### Heinz and Hunt's are both brands of what?
+
+- [ ] Car
+- [x] Ketchup
+- [ ] Milk
+
+#### Which of these is NOT on the periodic table?
+
+- [ ] Gold
+- [ ] Carbon
+- [x] Cookies
+
+#### Which famous ocean liner sank on her first voyage in 1912?
+
+- [ ] The Hindenburg
+- [x] The Titanic
+- [ ] The Poseidon
+
+#### What artist is best known as a painter?
+
+- [ ] Mozart
+- [x] Picasso
+- [ ] Cher
