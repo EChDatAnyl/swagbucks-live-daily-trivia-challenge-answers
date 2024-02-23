@@ -30510,3 +30510,111 @@
 - [ ] 37
 - [ ] 42
 - [x] 50
+
+#### Which film's storyline is NOT based around a MacGuffin?
+
+- [ ] Pulp Ficiton
+- [x] Shrek
+- [ ] The Maltese Falcon
+
+#### Who created the Muppets?
+
+- [x] Jim Henson
+- [ ] Walt Disney
+- [ ] Fred Rogers
+
+#### What Greek storyteller created a series of famous fables?
+
+- [ ] Zeus
+- [x] Aesop
+- [ ] Pericles
+
+#### Ed McMahon began episodes of The Tonight Show by saying "HEEEEEEEEEE'S" who?
+
+- [x] Johnny
+- [ ] Jombi
+- [ ] Jenkins
+
+#### In tennis, what is the term for a score of 40-40?
+
+- [ ] Ace
+- [ ] Love
+- [x] Deuce
+
+#### What animal was on the cover of the Beach Boys album Pet Sounds?
+
+- [ ] Dog
+- [ ] Sheep
+- [x] Goat
+
+#### What is the only continent that sits in all four hemispheres?
+
+- [ ] Asia
+- [x] Africa
+- [ ] Australia
+
+#### Paul Revere's signals were one if by land, and how many if by sea?
+
+- [ ] None
+- [x] Two
+- [ ] Five hundred
+
+#### In which 80's movie does Tom Cruise play Maverick?
+
+- [ ] Risky Business
+- [x] Top Gun
+- [ ] The Outsiders
+
+#### Who starred in the 80's hits Beverly Hills Cop, 48 Hours, and The Golden Child?
+
+- [x] Eddie Murphy
+- [ ] Arsenio Hall
+- [ ] Chevy Chase
+
+#### Cher won a Best Actress Oscar for her role in which 80's movie?
+
+- [ ] Major League
+- [ ] Mystic Pizza
+- [x] Moonstruck
+
+#### In "Pretty Woman", how long is Vivian's deal to stay with Edward?
+
+- [x] A Week
+- [ ] A Month
+- [ ] A Year
+
+#### Kurt Russell and Goldie Hawn stared their relationship on the set of which 1980's movie?
+
+- [ ] Overboard
+- [ ] Private Benjamin
+- [x] Swing Shift
+
+#### In which movie does Kevin Bacon bring dancing and rock n roll to a small town where it's been banned?
+
+- [ ] Fast Forward
+- [x] Footloose
+- [ ] Breakin' 2: Electric Boogaloo
+
+#### In "Dead Poets Society", what poem do the boys quote in tribute to Mr. Keating?
+
+- [x] O Captain! O Captain!
+- [ ] As Toilsome I Wander'd Virginia's Woods
+- [ ] Long, too Long America
+
+#### After starring in Moonlighting, who became a movie star after playing John McClane?
+
+- [ ] Cybill Shepherd
+- [ ] Curtis Armstrong
+- [x] Bruce Willis
+
+#### In "The Empire Strikes Back", who says "Do or do not - there is no try."?
+
+- [ ] Darth Vader
+- [x] Yoda
+- [ ] Obi Wan Kenobi
+
+#### What song plays during the final dance of the 1987 movie "Dirty Dancing"?
+
+- [x] I've Had The Time Of My Life
+- [ ] Do You Want To Dance?
+- [ ] Land of 1,000 Dances
