@@ -30816,3 +30816,27 @@
 - [ ] Mozart
 - [x] Picasso
 - [ ] Cher
+
+#### What was the first fruit eaten on the moon?
+
+- [ ] Applesauce
+- [ ] Dried apricots
+- [x] Canned peaches
+
+#### What does a Botanist study?
+
+- [x] Plants
+- [ ] Space
+- [ ] Mountains
+
+#### Who was the first artist to hold the top 10 slots on the Billboard Hot 100 chart in the US simultaneously?
+
+- [ ] Elvis Presley
+- [ ] Beyonce
+- [x] Taylor Swift
+
+#### The always-lit Disneyland lamp meant to symbolize Walt's presence in the park can be found where?
+
+- [ ] City Hall
+- [ ] New Orleans Square
+- [x] Firehouse
