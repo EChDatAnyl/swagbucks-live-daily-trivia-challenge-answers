@@ -30840,3 +30840,45 @@
 - [ ] City Hall
 - [ ] New Orleans Square
 - [x] Firehouse
+
+#### For what type of commentary is TV personality Stephen A. Smith famous?
+
+- [x] Sports
+- [ ] Film
+- [ ] Political
+
+#### Which of the following MLB teams came from the 19th century American Association of Base Ball Clubs?
+
+- [x] Los Angeles Dodgers
+- [ ] Seattle Pilots
+- [ ] Cleveland Guardians
+
+#### McAfee is known for what kind of software?
+
+- [x] Antivirus
+- [ ] Sound editing
+- [ ] Sports games
+
+#### When Disneyland opened, what year was the setting for Tomorrowland?
+
+- [ ] 2000
+- [x] 1986
+- [ ] 1995
+
+#### When McDonald's first drive-thru opened, for which specific group was it designed?
+
+- [x] The Military
+- [ ] Working men
+- [ ] Stay-at-home Moms
+
+#### By what other name is Aragorn known?
+
+- [ ] Stinger
+- [x] Strider
+- [ ] Stamper
+
+#### What science is the study of how organisms interact with each other and their envrionment?
+
+- [x] Ecology
+- [ ] E-college
+- [ ] Economy
