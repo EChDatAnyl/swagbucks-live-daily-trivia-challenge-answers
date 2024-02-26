@@ -30882,3 +30882,51 @@
 - [x] Ecology
 - [ ] E-college
 - [ ] Economy
+
+#### What produce is a member of the grass family?
+
+- [ ] Grapes
+- [x] Corn
+- [ ] Cranberries
+
+#### Which movie featured two people falling in love on a sinking boat?
+
+- [ ] Speed
+- [x] Titanic
+- [ ] Batman Forever
+
+#### If you evenly split three dozen treats between nine dogs, how many treats would each dog get?
+
+- [x] Four
+- [ ] Five
+- [ ] Six
+
+#### What WWE Superstar is known as The Texas Rattlesnake?
+
+- [x] Stone Cold Steve Austin
+- [ ] Bray Wyatt
+- [ ] Big E
+
+#### What kind of bottle do you normally use a corkscrew to open?
+
+- [ ] Soda bottle
+- [x] Wine bottle
+- [ ] Ship in a bottle
+
+#### Yellowstone National Park is the home of what famous geyser?
+
+- [x] Old Faithful
+- [ ] Young Faithful
+- [ ] Faith Hill
+
+#### What band has hits like "Satisfaction", "Wild Horses", and "Start Me Up"?
+
+- [x] The Rolling Stones
+- [ ] The Beatles
+- [ ] Led Zeppelin
+
+#### According to the Lesley Gore song, "It's my party and I'll" what?
+
+- [ ] Have another piece of cake
+- [ ] Be there late
+- [x] Cry if I want to
