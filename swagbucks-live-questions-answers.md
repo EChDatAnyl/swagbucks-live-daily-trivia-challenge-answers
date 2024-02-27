@@ -30930,3 +30930,111 @@
 - [ ] Have another piece of cake
 - [ ] Be there late
 - [x] Cry if I want to
+
+#### In "Forgetting Sarah Marshall", on which TV show does Sarah Marshall star?
+
+- [ ] Goodlooking
+- [ ] J.T. Lancer
+- [x] Crime Scene: Scene of the Crime
+
+#### What vegetable does Popeye eat to gain strength?
+
+- [ ] Carrots
+- [x] Spinach
+- [ ] Broccoli
+
+#### What is the largest ocean on Earth?
+
+- [ ] Atlantic Ocean
+- [x] Pacific Ocean
+- [ ] Indian Ocean
+
+#### On what streaming service does Stranger Things appear?
+
+- [ ] Hulu
+- [ ] Amazon Prime
+- [x] Netflix
+
+#### What is the term for a set of 13 of an item?
+
+- [ ] Dirty Dozen
+- [x] Baker's Dozen
+- [ ] Score
+
+#### What animal is traditionally cooked in a pit during a luau?
+
+- [ ] Cow
+- [ ] Chicken
+- [x] Pig
+
+#### What playground game involves one person chasing all the other players?
+
+- [x] Tag
+- [ ] Hopscotch
+- [ ] Red Rover
+
+#### What is a perfect score in bowling?
+
+- [ ] 0
+- [ ] 100
+- [x] 300
+
+#### Which holiday involves an Egg Hunt?
+
+- [x] Easter
+- [ ] New Year's Eve
+- [ ] Halloween
+
+#### The Stock Market Crash of 1929 led to what era of American history?
+
+- [ ] The Baby Boom
+- [x] The Great Depression
+- [ ] The Gilded Age
+
+#### In addition to the tail, what part of the original My Little Pony doll could you groom?
+
+- [ ] Eyelashes
+- [ ] Lips
+- [x] Mane
+
+#### Tim McGraw is married to what other country singer?
+
+- [x] Faith Hill
+- [ ] Miranda Lambert
+- [ ] Clarrie Underwood
+
+#### Which comic book series follows a group of superheroes including Wolverine, Cyclops, and Storm?
+
+- [ ] Justice League
+- [ ] League of Extraordinary Gentlemen
+- [x] X-Men
+
+#### What is a chicken's uropygial gland used for?
+
+- [ ] Laying Eggs
+- [x] Preening
+- [ ] Digesting food
+
+#### What is the term for a reaction that releaess energy into its surrounds?
+
+- [ ] Chain Reaction
+- [ ] Overreaction
+- [x] Exothermic Reaction
+
+#### Who sang "My Heart Will Go On" for the movie "Titanic"?
+
+- [ ] Adele
+- [x] Celine Dion
+- [ ] Madonna
+
+#### According to the saying, "It is better to have loved and lost..."
+
+- [x] Than never to have loved at all
+- [ ] Than to get popcorn stuck in your teeth
+- [ ] Than to leave during rush hour
+
+#### Samuel L. Jackson starred in a movie where what creature are let loose on a plane?
+
+- [x] Snakes
+- [ ] Rats
+- [ ] Lions
