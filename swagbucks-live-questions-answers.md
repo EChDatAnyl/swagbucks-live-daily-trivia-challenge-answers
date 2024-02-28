@@ -31038,3 +31038,63 @@
 - [x] Snakes
 - [ ] Rats
 - [ ] Lions
+
+#### Who was not a storytelling character in the Canterbury Tales?
+
+- [ ] The Pstfonrt
+- [x] The Butcher
+- [ ] The Miller
+
+#### Christmas Island is a territory belonging to what country?
+
+- [x] Australia
+- [ ] United States
+- [ ] New Zealand
+
+#### Philo of Byblos wrote what's believed to be the first what?
+
+- [ ] Bible
+- [x] Thesaurus
+- [ ] Instruciton Manual
+
+#### Who was Robin Hood's sworn enemy?
+
+- [ ] The Sheriff of London
+- [ ] The Sheriff of Doncaster
+- [x] The Sheriff of Nottingham
+
+#### What comedy duo was a big inspiration for Scooby-Doo?
+
+- [ ] Laurel and Hardy
+- [x] Abbott and Costello
+- [ ] Burns and Allen
+
+#### What body part is missing from the sculpture of the Great Sphinx?
+
+- [x] Nose
+- [ ] Mouth
+- [ ] Ears
+
+#### Which of the following types of sushi doesn't contain fish?
+
+- [x] Rainbow Veggie Roll
+- [ ] Spicy Tuna Rolll
+- [ ] Salom Roll
+
+#### Due to its colors and effects, what liquor is known as "The Green Fairy"?
+
+- [ ] Whiskey
+- [ ] Vodka
+- [x] Absinthe
+
+#### Belshazzar saw the writing on the wall. But who figured out what it meant?
+
+- [x] Daniel
+- [ ] Elijah
+- [ ] Jeremiah
+
+#### Which of the following restaurant chains is a Brazilian Steakhouse?
+
+- [x] Fogo de Chao
+- [ ] P.F. Chang's
+- [ ] TGI Friday's
