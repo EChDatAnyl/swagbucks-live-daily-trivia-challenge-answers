@@ -31158,3 +31158,39 @@
 - [ ] Paradox
 - [x] Oxymoron
 - [ ] Exaggeration
+
+#### Which of the following words is a verb?
+
+- [ ] Flatty
+- [ ] Enormous
+- [x] Sprang
+
+#### At which of the following restaurants is your entire meal cooked in front of you?
+
+- [ ] Sweet Tomatoes
+- [ ] Morton's The Steakhouse
+- [x] Benihana
+
+#### In "Fancy", what drink does Iggy Azalea NOT reference?
+
+- [ ] Champagne
+- [x] Wine
+- [ ] Vodka
+
+#### According to theater superstition, what are you NEVER supposed to do backstage?
+
+- [ ] Look directly into a mirror
+- [ ] Wink
+- [x] Whistle
+
+#### Based on their natural life cycle, which one of the Muppet Babies should not have arms?
+
+- [ ] Baby Fozzie
+- [x] Baby Kermit
+- [ ] Baby Piggy
+
+#### Which Broadway musical features the songs "Music of the Night" and "Think of Me"?
+
+- [ ] Les Miserables
+- [x] Phantom of the Opera
+- [ ] Cats
