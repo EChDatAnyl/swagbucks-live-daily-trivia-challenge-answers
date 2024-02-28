@@ -31098,3 +31098,63 @@
 - [x] Fogo de Chao
 - [ ] P.F. Chang's
 - [ ] TGI Friday's
+
+#### Tsar Nicholas II and his family were executed during which revolution?
+
+- [ ] The French Revolution
+- [ ] The American Revolution
+- [x] The Russian Revolution of 1917
+
+#### According to the saying, "There's no such thing as a free" what?
+
+- [ ] Towel
+- [x] Lunch
+- [ ] Pontiac
+
+#### Christopher Reeve, Henry Cavill, and Brandon Routh have all portrayed which superhero?
+
+- [ ] Hawkgirl
+- [ ] Hellboy
+- [x] Superman
+
+#### In Sweden, what is considered to be an unlucky gift to give a lover?
+
+- [x] Silk Handkerchief
+- [ ] Chocolates
+- [ ] A Hat
+
+#### Which Quarterback has won the most Super Bowl championships of all time?
+
+- [ ] Dan Marino
+- [ ] Randall Cunningham
+- [x] Tom Brady
+
+#### What is the name of the fictional city where Batman operates?
+
+- [ ] Metropolis
+- [x] Gotham City
+- [ ] Star City
+
+#### In 2010, a handful of California schools made a stir by banning what book from 4th & 5th grade classrooms?
+
+- [ ] The Cat in the Hat
+- [ ] Harry Potter and the Goblet of Fire
+- [x] The Merriam-Webster Dictionary
+
+#### July 4th is celebrated as Independence Day in which country?
+
+- [x] United States
+- [ ] Turkey
+- [ ] Switzerland
+
+#### Which of the following is a nickname for the United States?
+
+- [ ] Land of Arcades
+- [ ] Land of 1,000 Dances
+- [x] Land of Opportunity
+
+#### "Jumbo Shrimp" and "Seriously Funny" are examples of what figure of speech?
+
+- [ ] Paradox
+- [x] Oxymoron
+- [ ] Exaggeration
