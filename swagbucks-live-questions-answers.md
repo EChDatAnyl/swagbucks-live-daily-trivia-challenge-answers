@@ -31194,3 +31194,57 @@
 - [ ] Les Miserables
 - [x] Phantom of the Opera
 - [ ] Cats
+
+#### If you "let the cat out of the bag", what are you doing?
+
+- [x] Telling a secret
+- [ ] Getting drunk
+- [ ] Cleaning your house
+
+#### "Better Call Saul" is a spinoff of what AMC show?
+
+- [ ] Halt and Catch Fire
+- [ ] Mad Men
+- [x] Breaking Bad
+
+#### Who was NOT invited to the recording of "We Are The World" because the producer chose Cyndi Lauper instead?
+
+- [ ] Prince
+- [x] Madonna
+- [ ] Stevie Nicks
+
+#### A vibraphone most closely resembles what other instrument?
+
+- [ ] Harp
+- [x] Xylophone
+- [ ] Saxophone
+
+#### At which race was the tradition of the winner being sprayed with champagne born?
+
+- [ ] Indianapolis 500
+- [ ] Monaco Grand Prix
+- [x] Le Mans
+
+#### How many fingers come in a standard pack of Kit-Kats?
+
+- [x] Four
+- [ ] Eight
+- [ ] Thirty
+
+#### What animal's scientific name means "The Glutton"?
+
+- [ ] Gorilla
+- [ ] Hog
+- [x] Wolverine
+
+#### According to common courtesy, what are you supposed to say when you're asking for something?
+
+- [x] Please?
+- [ ] Gimme!
+- [ ] Well?!
+
+#### Which of these sports uses gloves and a bat?
+
+- [ ] Racquetball
+- [ ] Handball
+- [x] Baseball
