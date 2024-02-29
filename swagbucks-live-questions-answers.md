@@ -31248,3 +31248,27 @@
 - [ ] Racquetball
 - [ ] Handball
 - [x] Baseball
+
+#### Which of these modes of transportation is meant for water travel?
+
+- [ ] Hang Glider
+- [x] Yacht
+- [ ] Segway
+
+#### What part of a Guinea Pig never stops growing?
+
+- [ ] Hair
+- [ ] Nails
+- [x] Teeth
+
+#### Who led the Isralites out of Egypt?
+
+- [x] Moses
+- [ ] Abraham
+- [ ] Esau
+
+#### According to the saying, how many people does it take to tango?
+
+- [ ] One
+- [x] Two
+- [ ] Three
