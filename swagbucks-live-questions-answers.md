@@ -31380,3 +31380,15 @@
 - [x] Charlie Parker
 - [ ] John Lennon
 - [ ] Billy Joel
+
+#### according to Nielsen, whose album "As I Am" was the top selling album of 2008?
+
+- [ ] Lil Wayne
+- [x] Alicia Keys
+- [ ] Garth Brooks
+
+#### If lobsters wore shoes, how many pairs of shoes would it have to buy?
+
+- [x] 5
+- [ ] 4
+- [ ] 6
