@@ -31392,3 +31392,39 @@
 - [x] 5
 - [ ] 4
 - [ ] 6
+
+#### Which of the following countries has the fewest time zones?
+
+- [ ] Canada
+- [x] China
+- [ ] Micronesia
+
+#### What is the only city in the world to lie on two continents?
+
+- [ ] Cairo
+- [x] Istanbul
+- [ ] Omsk
+
+#### Which of the following is a type of wireless technology?
+
+- [x] Bluetooth
+- [ ] Greenhorn
+- [ ] Red Leather
+
+#### Who was NOT a contestant on RuPaul's Drag Race Season 9?
+
+- [ ] Nina Bo 'Nina Brown
+- [x] Spearmint
+- [ ] Farrah Moan
+
+#### Apple Music was formerly known by what name?
+
+- [ ] Orange Music
+- [x] iTunes
+- [ ] Apple Playlist
+
+#### What is the name of the galaxy that is home to our solar system?
+
+- [x] The Milky Way
+- [ ] The Snickers
+- [ ] The Take Five
