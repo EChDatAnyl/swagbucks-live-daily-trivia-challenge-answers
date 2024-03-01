@@ -31272,3 +31272,111 @@
 - [ ] One
 - [x] Two
 - [ ] Three
+
+#### What baseball team is nicknamed "The Bronx Bombers"?
+
+- [ ] New York Mets
+- [ ] Boston Red Sox
+- [x] New York Yankees
+
+#### What TV show asked the question "Who Shot J.R."?
+
+- [x] Dallas
+- [ ] Friends
+- [ ] Chopped
+
+#### Which makeup brand's slogan is "because you're worth it"?
+
+- [x] L'Oreal
+- [ ] Clarins
+- [ ] Nars
+
+#### Who struggled through the Star-Spangled Banner at the 2018 NBA All-Star Game?
+
+- [ ] William Hung
+- [ ] Mariah Carey
+- [x] Fergie
+
+#### From 1998 to 2013, the title of Ea Sports' PGA Tour Golf included the name of what Pro Golfer?
+
+- [ ] Rory Mcllroy
+- [x] Tiger Woods
+- [ ] Jack Nicklaus
+
+#### Which of these sports involves kicking?
+
+- [x] Soccer
+- [ ] Jai Alai
+- [ ] Ping Pong
+
+#### Colonel Mustard, Miss Peacock, and Mister Green are all characters in what board game?
+
+- [ ] Sorry
+- [x] Clue
+- [ ] Trouble
+
+#### What event did a former Canadian minister call "the ultimate laxative"?
+
+- [ ] Ski Jimp
+- [x] Luge
+- [ ] Bobsled
+
+#### What awards are given out for excellence in Broadway productions?
+
+- [x] Tonys
+- [ ] Emmys
+- [ ] Oscars
+
+#### Fruity Pebbles cereal is tied into what animated series?
+
+- [ ] The Jetsons
+- [x] The Flinstones
+- [ ] Doug
+
+#### Souvlaki is a popular food originating in which Mediterranean nation?
+
+- [ ] France
+- [ ] Morocco
+- [x] Greece
+
+#### What pop star came close to getting the Rachel McAdams role in "The Notebook"?
+
+- [ ] Lady Gaga
+- [x] Britney Spears
+- [ ] Mandy Moore
+
+#### Bitty Babies are part of what toy line?
+
+- [ ] Barbie
+- [ ] Tiny Treasures
+- [x] American Girl Dolls
+
+#### When someone is in close proximity to you, they're said to be what kind of distance away?
+
+- [x] Splitting distance
+- [ ] Dancing distance
+- [ ] Writing distance
+
+#### Which U.S. President played five different musial instruments?
+
+- [ ] Calvin Coolidge
+- [ ] John F. Keneddy
+- [x] Ricahrd Nixon
+
+#### In which decade was Boba Tea invented?
+
+- [x] 1980's
+- [ ] 1120's
+- [ ] 1730's
+
+#### What role did Ryan Gosling play in 2023's "Barbie"?
+
+- [ ] Barbie
+- [ ] Allan
+- [x] Ken
+
+#### Which of the following musicians is known for their contributions to Jazz music?
+
+- [x] Charlie Parker
+- [ ] John Lennon
+- [ ] Billy Joel
