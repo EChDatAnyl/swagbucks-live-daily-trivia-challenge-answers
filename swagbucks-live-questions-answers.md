@@ -31428,3 +31428,81 @@
 - [x] The Milky Way
 - [ ] The Snickers
 - [ ] The Take Five
+
+#### In 2014, what song was scientifically proven to be the catchiest of all time?
+
+- [x] Wannabe
+- [ ] Mambo No. 5
+- [ ] Eye of the Tiger
+
+#### How do you endorse a check?
+
+- [ ] Shred it
+- [ ] Mail it
+- [x] Sign it
+
+#### Who wrote The Great Gatsby?
+
+- [ ] Ernest Hemingway
+- [ ] Sue Grafton
+- [x] F. Scott Fitzegerald
+
+#### Which of these brand names is synonymous with tissues?
+
+- [ ] Q-Tip
+- [ ] Starbucks
+- [x] Kleenex
+
+#### What teaching tool turned puzzle is solved when the colors on all sides match?
+
+- [ ] Bop it
+- [ ] Simon
+- [x] Rubik's Cube
+
+#### In which board game do you buy properties and pay rent?
+
+- [ ] Trivial Pursuit
+- [ ] Risk
+- [x] Monopoly
+
+#### In which sport do you dribble the ball?
+
+- [x] Basketball
+- [ ] Golf
+- [ ] American Football
+
+#### In what city did the world's first heart transplant take place?
+
+- [ ] Cleveland
+- [x] Cape Town
+- [ ] Paris
+
+#### Bicycle Motocross is beter known by what initials?
+
+- [x] BMX
+- [ ] DMX
+- [ ] BMI
+
+#### Why was Rosa Parks arrested in 1955?
+
+- [x] Refusing to give up her seat on a bus
+- [ ] Refusing to leave a lunch counter
+- [ ] Refusing to leave her home
+
+#### What two characters star in Rescue Rangers?
+
+- [ ] Donald n' Goofy
+- [ ] Tweedledee n' Tweedledum
+- [x] Chip n' Dale
+
+#### What are the most common Halloween colors?
+
+- [x] Black and Orange
+- [ ] Yellow and Green
+- [ ] White and Purple
+
+#### In which of the following films would you NOT find a Jack Skellington cameo?
+
+- [x] Frankenweenie
+- [ ] James and the Giant Peach
+- [ ] Coraline
