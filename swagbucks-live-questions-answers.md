@@ -31506,3 +31506,51 @@
 - [x] Frankenweenie
 - [ ] James and the Giant Peach
 - [ ] Coraline
+
+#### What generation was born between 1946 and 1964?
+
+- [x] Baby Boomers
+- [ ] Generation X
+- [ ] Millennials
+
+#### The Seattle Kraken are the newest expansion team in what professional sport?
+
+- [ ] Auto racing
+- [ ] Baseball
+- [x] Ice Hockey
+
+#### "Ballistics: Ecks Vs Sever" starred which pairs of actors?
+
+- [ ] Sylvester Stallone & Jason Staham
+- [ ] Arnold Schwarzenegger & Jackie Chan
+- [x] Lucy Liu & Antonio Banderas
+
+#### The dance from the end of 1991's Beauty and the Beast is recycled from what other Disney Classic??
+
+- [ ] The Little Mermaid
+- [x] Sleeping Beauty
+- [ ] Cinderella
+
+#### Which of these animals primarily slithers?
+
+- [ ] Falcon
+- [ ] Dolphin
+- [x] Snake
+
+#### "The Pirates Who Don't Do Anything" is a movie in what series?
+
+- [ ] Pirates of the Caribbean
+- [x] VeggieTales
+- [ ] Star Trek
+
+#### San Francisco Airport was the first in the world to introduce what innovation?
+
+- [x] Therapy Pig
+- [ ] Wine Bar
+- [ ] Baggage Carousel
+
+#### Which animal's fingerprints can be confused with human fingerprints at a crime scene?
+
+- [x] Koala
+- [ ] Kangaroo
+- [ ] Lemur
