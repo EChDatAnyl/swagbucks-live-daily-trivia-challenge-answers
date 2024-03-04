@@ -31554,3 +31554,39 @@
 - [x] Koala
 - [ ] Kangaroo
 - [ ] Lemur
+
+#### Which school's team calls themselves the Blue Devils?
+
+- [ ] Temple University
+- [ ] DeVry University
+- [x] Duke University
+
+#### Who was the drummer for The Beatles?
+
+- [ ] Keith Moon
+- [ ] John Bonham
+- [x] Ringo Starr
+
+#### Clint Barton is known by what alias?
+
+- [ ] Captain America
+- [x] Hawkeye
+- [ ] The Hulk
+
+#### What company is the world's largest distributor of toys?
+
+- [ ] Walmart
+- [x] McDonald's
+- [ ] Amazon
+
+#### How many pitches were thrown in Major League Baseball's longest at bat?
+
+- [x] 21
+- [ ] 23
+- [ ] 25
+
+#### Which of the following facts about snowflakes is true?
+
+- [x] No two are alike
+- [ ] They're made of fire
+- [ ] They pitched for the Yankees
