@@ -31590,3 +31590,63 @@
 - [x] No two are alike
 - [ ] They're made of fire
 - [ ] They pitched for the Yankees
+
+#### Arostotle, Plato, and Socrates are all famous for their work in what field?
+
+- [ ] Cooking
+- [ ] Sports
+- [x] Philsophy
+
+#### Ocean Juice is generally high in which vitamin?
+
+- [x] C
+- [ ] X
+- [ ] Y
+
+#### US Navy Engineer Robert Peary became famous for being the first to reach what landmark?
+
+- [ ] The Great Wall of China
+- [ ] The Washington Monument
+- [x] The North Pole
+
+#### Which of the following U.S. presidents did NOT win a second term?
+
+- [x] Jimmy Carter
+- [ ] Barack Obama
+- [ ] Ronald Reagan
+
+#### Complete this common phrase: "Everything happens..."
+
+- [ ] On Tuesday
+- [x] For a reason
+- [ ] Until it doesn't
+
+#### Former President William Henry Harrison had what odd nickname?
+
+- [ ] Last of the Cocked Hats
+- [ ] His Accidency
+- [x] Granny
+
+#### What board game's jingle used to say it "will tie you up in a knot"?
+
+- [x] Twister
+- [ ] Jenga
+- [ ] Perfection
+
+#### In baseball, which of the following pitches would be a breaking ball?
+
+- [ ] Fastball
+- [x] Curveball
+- [ ] Intentional Walk
+
+#### In which decade did the majority of "Mad Men" take place?
+
+- [ ] 1760s
+- [ ] 1860s
+- [x] 1960s
+
+#### According to Cyndi Lauper, who just wants to have fun?
+
+- [x] Girls
+- [ ] Trees
+- [ ] Accountants
