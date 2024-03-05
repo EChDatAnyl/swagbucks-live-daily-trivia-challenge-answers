@@ -31650,3 +31650,45 @@
 - [x] Girls
 - [ ] Trees
 - [ ] Accountants
+
+#### What game uses cards with names like "Wild", "Reverse", and "Draw Four"?
+
+- [ ] Blackjack
+- [ ] Old Maid
+- [x] Uno
+
+#### Which of the following is NOT a Pixar film?
+
+- [ ] Toy Story
+- [ ] Finding Nemo
+- [x] Spider-Man: Into The Spider-Verse
+
+#### In History, what does BCE stand for?
+
+- [x] Before Common Era
+- [ ] Biking Clown Envoy
+- [ ] Blackened Chicken Empire
+
+#### Who was first rapper to win the Pulitzer Prize for Music?
+
+- [x] Kendrick Lamar
+- [ ] Common
+- [ ] Lupe Fiasco
+
+#### Which of the following phrases best describes the video game Rocket League?
+
+- [x] Soccer, but with cars
+- [ ] Baseball, but with planes
+- [ ] Hockey, but with bikes
+
+#### Zoology is the study of what?
+
+- [ ] Time
+- [x] Animals
+- [ ] Rocks
+
+#### Which of these Disney Parks attractions will get you wet?
+
+- [ ] Space Mountain
+- [x] Splash Mountain
+- [ ] Rise of the Resistance
