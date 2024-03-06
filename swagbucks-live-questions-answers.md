@@ -31752,3 +31752,51 @@
 - [ ] I hate Mondays
 - [x] Hang in there
 - [ ] Kiss the cook
+
+#### Arthur Miller wrote which classic American play?
+
+- [x] Death of a Salesman
+- [ ] Injury of a Salesman
+- [ ] Life of a Salesman
+
+#### What was the central mystery of "Twin Peaks"?
+
+- [ ] Who shot J.R.?
+- [ ] Who robbed City Hall?
+- [x] Who killed Laura Palmer?
+
+#### What was the name of Iggy Pop's band?
+
+- [x] The Stooges
+- [ ] Metallica
+- [ ] The Beatles
+
+#### Dishes like the "Octuple Bypass Burger" can be found at what controversal Las Vegas restaurant?
+
+- [ ] Hardees
+- [ ] Chippotle
+- [x] Heart Attack Grill
+
+#### Which Shakespeare play begins with a meeting of The Three Witches?
+
+- [ ] Hamlet
+- [x] Macbeth
+- [ ] Othello
+
+#### Which of the following is a position in Soccer?
+
+- [ ] Pitcher
+- [ ] Linebacker
+- [x] Sweeper
+
+#### Which European country has Athens as its capital?
+
+- [x] Greece
+- [ ] England
+- [ ] Austria
+
+#### Kareem Abdul-Jabbar was known by what nickname?
+
+- [ ] Magic
+- [x] The Captain
+- [ ] Air Jordan
