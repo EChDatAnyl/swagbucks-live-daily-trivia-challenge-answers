@@ -31800,3 +31800,81 @@
 - [ ] Magic
 - [x] The Captain
 - [ ] Air Jordan
+
+#### Daredevil uses a form of sonar to overcome the lack of what sense?
+
+- [x] Sight
+- [ ] Smell
+- [ ] Taste
+
+#### Which Peanuts character plays the piano?
+
+- [ ] Linus
+- [ ] Pig Pen
+- [x] Schroeder
+
+#### Which one of these people won the Nobel Peace Prize in the 80s?
+
+- [ ] Mother Teresa
+- [x] Desmond Tutu
+- [ ] Mikhail Gorbachev
+
+#### The London Bridge crosses what famous river?
+
+- [ ] Mississippi
+- [ ] Colorado
+- [x] Thames
+
+#### Lake Tahoe straddles the border between which two States?
+
+- [ ] Nevada and Arizona
+- [x] California and Nevada
+- [ ] Arizona and California
+
+#### What breed of horses are associated with Budweiser?
+
+- [x] Clydesdale
+- [ ] Mustang
+- [ ] Tennessee Walker
+
+#### "All Star" was a hit for what band?
+
+- [ ] The Eagles
+- [ ] Chumbawamaba
+- [x] Smash Mouth
+
+#### Which of the following holiday songs was NOT written by one of the Beatles?
+
+- [x] Fairytale of New York
+- [ ] Wonderful Christmastime
+- [ ] Happy Xmas
+
+#### Which theme park is home to The Wizardling World of Harry Potter?
+
+- [x] Universal Studios
+- [ ] Six Flags
+- [ ] Disney World
+
+#### In "Lady and the Tramp", what dish do the title characters share on their date?
+
+- [ ] Lasagna
+- [ ] Chicken Parmesan
+- [x] Spaghetti and Meatballs
+
+#### A Walter Matthau impression formed the basis for what cartoon character's voice?
+
+- [ ] Fred Flintstone
+- [x] Homer Simpson
+- [ ] Peter Griffin
+
+#### What is the smallest unit of matter that retains all the chemical properties of an element?
+
+- [ ] Cell
+- [x] Atom
+- [ ] Gram
+
+#### Which Jane Austen novel featured the character of Mr. Darcy?
+
+- [ ] 50 Shades of Gray
+- [ ] Harry Potter and the Sorcerer's Stone
+- [x] Pride and Prejudice
