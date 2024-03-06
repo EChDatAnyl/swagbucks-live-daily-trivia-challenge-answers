@@ -31692,3 +31692,63 @@
 - [ ] Space Mountain
 - [x] Splash Mountain
 - [ ] Rise of the Resistance
+
+#### What ice cream chain offers sizes named "Like It", "Love It", and "Gotta Have It"?
+
+- [ ] Thinny DeLites
+- [x] Cold Stone Creamery
+- [ ] Baskin-Robbins
+
+#### In a standard game of Monopoly, what do you build on property spaces?
+
+- [ ] Beaches & Fountains
+- [ ] Playgrounds & Statues
+- [x] Houses & Hotels
+
+#### In American Football, what decides who gets the ball first?
+
+- [ ] Thumb war
+- [x] Coin toss
+- [ ] Rock Paper Scissors
+
+#### Who released the 2003 hit song Toxic?
+
+- [ ] Christina Aguilera
+- [ ] Mandy Moore
+- [x] Britney Spears
+
+#### What is "Cosmic latte"?
+
+- [ ] A celestial body
+- [x] A color
+- [ ] A ring of Saturn
+
+#### For the first several seasons of "South Park", which character was killed off in each episode?
+
+- [ ] Cartman
+- [ ] Mr. Hanky
+- [x] Kenny
+
+#### Which grunge band once put out a song that reveals a secret message about Santa Claus when played in reverse?
+
+- [x] Soundgarden
+- [ ] Pearl Jam
+- [ ] Nirvana
+
+#### What British "bridge meal" generally occurs between 3pm and 4pm?
+
+- [x] Afternoon Tea
+- [ ] Afternoon Hoagies
+- [ ] Afternoon Stew
+
+#### U.S. Route 66 was built to run from Chicago to which West Coast city?
+
+- [ ] Frensno
+- [ ] Solvang
+- [x] Los Angeles
+
+#### What phrase usually appears on motivation posters with a kitten dangling from a branch?
+
+- [ ] I hate Mondays
+- [x] Hang in there
+- [ ] Kiss the cook
