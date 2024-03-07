@@ -31938,3 +31938,39 @@
 - [ ] Cute 'n' Cozy Cafe
 - [x] Dream House
 - [ ] Dreamcamper
+
+#### Complete the title of this Leo Tolstoy book: "War and..."
+
+- [ ] Snacks
+- [ ] The Time of Cholera
+- [x] Peace
+
+#### "After all, tomorrow is another day!" is the last line of what Hollywoood classic?
+
+- [x] Gone With The Wind
+- [ ] Star Wars
+- [ ] The Avengers
+
+#### Which of these sentences features an intransitive verb?
+
+- [x] He arrived
+- [ ] She answered the question
+- [ ] They washed dishes
+
+#### Who played John Rambo?
+
+- [ ] Arnold Schwarzenegger
+- [ ] Chuck Norris
+- [x] Sylvester Stallone
+
+#### The Pommel Horse is part of what Olympic event?
+
+- [ ] Polo
+- [x] Gymnastic
+- [ ] Dressage
+
+#### Which President was assassinated by John Wilkes Booth?
+
+- [ ] James A. Garfield
+- [ ] John F. Kennedy
+- [x] Abraham Lincoln
