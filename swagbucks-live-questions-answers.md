@@ -31878,3 +31878,63 @@
 - [ ] 50 Shades of Gray
 - [ ] Harry Potter and the Sorcerer's Stone
 - [x] Pride and Prejudice
+
+#### Which of the following hair colors was NOT available on the original Barbie?
+
+- [ ] Brunette
+- [ ] Blonde
+- [x] Blue
+
+#### What toy company produces the Barbie toy line?
+
+- [ ] Hasbro
+- [x] Mattel
+- [ ] Worlds of Wonder
+
+#### What year was Barbie's boyfriend Ken introduced?
+
+- [x] 1961
+- [ ] 1984
+- [ ] 2016
+
+#### What is Barbie's middle name?
+
+- [ ] Ruth
+- [x] Millicent
+- [ ] Melissa
+
+#### What color are most Barbie boxes?
+
+- [ ] Blue
+- [ ] Black
+- [x] Pink
+
+#### What is the name of the Barbie doll's fictional hometown?
+
+- [x] Willows
+- [ ] Plesant Corners
+- [ ] Sunnyside
+
+#### In 1976, Barbie got a purple version of what sports car?
+
+- [ ] Aston-Martin
+- [x] Corvette
+- [ ] Shelby Cobra
+
+#### Which of the following celebrities did NOT appear in a Barbie commercial before they were famous?
+
+- [ ] Mila Kunis
+- [ ] Fergie
+- [x] Sarah Michelle Gellar
+
+#### What professional wrestler appears in "Barbie" as Merman Ken?
+
+- [x] John Cena
+- [ ] Ricky Steamboat
+- [ ] Bruno Sammartino
+
+#### In 2023, a beachfront property in Malibu was transformed into a real-life version of which Barbie playset?
+
+- [ ] Cute 'n' Cozy Cafe
+- [x] Dream House
+- [ ] Dreamcamper
