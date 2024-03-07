@@ -31974,3 +31974,57 @@
 - [ ] James A. Garfield
 - [ ] John F. Kennedy
 - [x] Abraham Lincoln
+
+#### Mel Gibson won an Oscar for directing what movie?
+
+- [ ] Paback
+- [ ] Apocalypto
+- [x] Braveheart
+
+#### What fashion trend is constantly used on "Queen Eye" by Tan France?
+
+- [ ] English Cuff
+- [x] French Tuck
+- [ ] Italian Fold
+
+#### What group's debut album was "Straight Outta Compton"?
+
+- [x] N.W.A.
+- [ ] De La Soul
+- [ ] Wu-Tang Clan
+
+#### What is another name for cutoff shorts?
+
+- [x] Daisy Dukes
+- [ ] Put Up Your Dukes
+- [ ] The Dukes of Earl
+
+#### A resume is something you would bring to what?
+
+- [x] Job Interview
+- [ ] Basketball Game
+- [ ] County Fair
+
+#### What flavor becomes available at Starbucks during the fall and winter?
+
+- [ ] Watermelon
+- [ ] Prime Rib
+- [x] Pumpkin Spice
+
+#### Which company claims that you never really own their product, "you merely look after it for the next generation"?
+
+- [ ] Rolls Royce
+- [x] Patek Philippe
+- [ ] Samsonite
+
+#### How do you measure an engine's horsepower before it loses power from auxiliary components?
+
+- [ ] MPG
+- [x] BHP
+- [ ] RPM
+
+#### In which sport do competitors perform tucks and pikes?
+
+- [ ] Dressage
+- [ ] Discus
+- [x] Diving
