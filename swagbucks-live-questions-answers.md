@@ -32028,3 +32028,63 @@
 - [ ] Dressage
 - [ ] Discus
 - [x] Diving
+
+#### Where are the Academy Awards generally held?
+
+- [ ] Bend, Oregon
+- [x] Hollywood, California
+- [ ] Syosset, New York
+
+#### How is the recipient of an Academy Award announced?
+
+- [x] And the Oscar goes to...
+- [ ] And your absolute victor is...
+- [ ] And the shiny dude is going home with...
+
+#### Which of the following movies did NOT win Best Picture?
+
+- [ ] Titanic
+- [ ] Dances With Wolves
+- [x] The Garbage Pail Kids Movie
+
+#### When the infamous streaker ran on stage at the 1974 Oscars, who was presenting?
+
+- [x] David Niven
+- [ ] Robert Redford
+- [ ] George C. Scott
+
+#### When Citizen Kane lost Best Picture, to which movie did it lose?
+
+- [ ] Mrs. Miniver
+- [x] How Green Was My Valley
+- [ ] Cavalcade
+
+#### Who won back-to-back Best Actor Oscars for Philadelphia and Forrest Gump?
+
+- [x] Tom Hanks
+- [ ] James Earl Jones
+- [ ] Daniel Day Lewis
+
+#### Which of the following people has hosted the Oscars the most times?
+
+- [ ] Jerry Lewis
+- [ ] David Niven
+- [x] Jack Lemmon
+
+#### The Academy Awards switched to secret envelopes after the winners got leaked by what publication?
+
+- [ ] Variety
+- [x] Los Angeles Times
+- [ ] National Enquirer
+
+#### What object is the Oscars statuette holding?
+
+- [ ] Camera
+- [x] Sword
+- [ ] Car Keys
+
+#### Who is hosting the 2024 Oscars?
+
+- [ ] Chevy Chase
+- [ ] Steve Martin
+- [x] Jimmy Kimmel
