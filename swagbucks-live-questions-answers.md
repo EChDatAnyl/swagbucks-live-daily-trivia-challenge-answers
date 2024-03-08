@@ -17926,8 +17926,8 @@
 #### If it's 4pm in Las Vegas, what time is it in Nashville, Tennessee?
 
 - [ ] 2:00 PM
-- [ ] 6:00 PM
-- [x] 7:00 PM
+- [x] 6:00 PM
+- [ ] 7:00 PM
 
 #### Who is not typically found in the Nativity Scene?
 
@@ -32088,3 +32088,87 @@
 - [ ] Chevy Chase
 - [ ] Steve Martin
 - [x] Jimmy Kimmel
+
+#### Which of these is a traiditonal Indian dish?
+
+- [x] Curry
+- [ ] Borscht
+- [ ] Wonton Soup
+
+#### Which of these is NOT a cmoonly used crutch word?
+
+- [ ] Basically
+- [ ] Like
+- [x] Supercillious
+
+#### If the Boston Red Sox existed in the 1850's, what type of team would they be?
+
+- [ ] A Corner Ball Team
+- [ ] A House Ball Team
+- [x] A Town Ball Team
+
+#### What device is used to observe stars?
+
+- [ ] Bunsen Burner
+- [x] Telescope
+- [ ] Tweezers
+
+#### Which comic book company is the home of Spider-Man?
+
+- [x] Marvel
+- [ ] DC
+- [ ] Image
+
+#### Which of these is not a prime number?
+
+- [ ] 7
+- [x] 45
+- [ ] 67
+
+#### What Asian utensils are used to pick up food at a sushi restaurant?
+
+- [x] Chopsticks
+- [ ] Sporks
+- [ ] Salad tongs
+
+#### What cereal does Tony the Tiger endorse?
+
+- [ ] Apple Jacks
+- [x] Frosted Flakes
+- [ ] Special K
+
+#### Which of these is the name of a tabloid website and show?
+
+- [ ] TMI
+- [x] TMZ
+- [ ] TMNT
+
+#### What drink recipe is also the title of an early Snoop Dogg hit?
+
+- [ ] Cranberry and Vodka
+- [x] Gin & Juice
+- [ ] Orange Juice and Champagne
+
+#### What colors are the Facebook logo?
+
+- [ ] Green & Yellow
+- [x] Blue & White
+- [ ] Black & Blue
+
+#### Clarenore Stinnes was the first European woman to accomplish what feat?
+
+- [ ] Transatlantic flight
+- [ ] Vote
+- [x] Drive around the world
+
+#### Who campaigned and lost against Abraham Lincoln in 1846?
+
+- [x] Peter Cartwright
+- [ ] Stephen A. Douglas
+- [ ] George B. McClellan
+
+#### What board game was invented to distract children in the polio ward of a hospital?
+
+- [ ] Operation
+- [ ] Trouble
+- [x] Candy Land
