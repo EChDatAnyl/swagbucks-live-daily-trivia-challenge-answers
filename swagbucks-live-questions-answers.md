@@ -32172,3 +32172,99 @@
 - [ ] Operation
 - [ ] Trouble
 - [x] Candy Land
+
+#### In an effort to fight piracy, which movie's VHS release was made with green cassette doors?
+
+- [ ] Raiders of the Lost Ark
+- [x] E.T.
+- [ ] Star Wars
+
+#### Which of these breakfast cereals contains pieces of fruit?
+
+- [ ] Wheaties
+- [ ] Fruity Pebbles
+- [x] Raisin Bran
+
+#### What California-born rapper is featured in Katy Perry's "California Gurls"?
+
+- [x] Snoop Dogg
+- [ ] Reverend Run
+- [ ] Biggie Smalls
+
+#### The phrase "on the Q.T." is the same as saying what?
+
+- [x] On the hush-hush
+- [ ] On the bandstand
+- [ ] On the river
+
+#### Which of the following colors does NOT appear in Ikea's logo?
+
+- [ ] Blue
+- [x] Green
+- [ ] Yellow
+
+#### At the Olympics, which of these is NOT a type of medal?
+
+- [ ] Gold
+- [ ] Silver
+- [x] Tin
+
+#### Which of these words is a state of calm and peacefulness?
+
+- [ ] Senility
+- [x] Serenity
+- [ ] Syncopy
+
+#### When Sacheen Littlefeather refused Marlon Brando's Oscar - who offered it to her?
+
+- [x] Roger Moore
+- [ ] David Niven
+- [ ] Jack Lemmon
+
+#### "Abbott Elementary" is a sitcom about a public school in what city?
+
+- [x] Philadelphia
+- [ ] Los Angeles
+- [ ] Chicago
+
+#### Which former President once owned a haberdashery?
+
+- [ ] Woodrow Wilson
+- [ ] Calvin Coolidge
+- [x] Harry S. Truman
+
+#### Whose nicknames included "The Bambino" and "The Colossus of Clout"?
+
+- [ ] Barry Bonds
+- [ ] Ken Griffey Jr.
+- [x] Babe Ruth
+
+#### According to the saying "Two's company, three is" what?
+
+- [ ] A tripod
+- [x] A crowd
+- [ ] A humdinger
+
+#### Which Disney princess has a Fairy Godmother?
+
+- [ ] Snow White
+- [x] Cinderella
+- [ ] Ariel
+
+#### At Disney resorts, pankcakes are traditionally made in the shape of which character?
+
+- [ ] Goofy
+- [x] Mickey Mouse
+- [ ] Donald Duck
+
+#### Coffee, eucalyptus, menthol, and flower are all failed flavors of what candy?
+
+- [ ] Mentos
+- [ ] Life Savers
+- [x] Pez
+
+#### Which of these shows was not part of NBC's Must See TV?
+
+- [ ] Friends
+- [ ] Mad About You
+- [x] Full House
