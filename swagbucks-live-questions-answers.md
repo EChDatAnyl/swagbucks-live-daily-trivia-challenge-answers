@@ -32268,3 +32268,75 @@
 - [ ] Friends
 - [ ] Mad About You
 - [x] Full House
+
+#### English writer Horance Walpole used what breed to describe a day hotter than the dog days of summmer?
+
+- [ ] Doberman
+- [ ] Rottweller
+- [x] Mastiff
+
+#### Which of the following is NOT one of the events in Olympic gymnastics?
+
+- [ ] Pommel Horse
+- [x] Javelin Throw
+- [ ] Balance Beam
+
+#### What is the capital of Colorado?
+
+- [x] Denver
+- [ ] Boulder
+- [ ] Vail
+
+#### Python, Anaconda, and Viper are all varieties of what petile?
+
+- [ ] Turtle
+- [x] Snake
+- [ ] Chameleon
+
+#### What is Natasha Romanoff's alias?
+
+- [ ] Mockingbird
+- [ ] White Wolf
+- [x] Black Widow
+
+#### Of these three States, which has the most golf courses?
+
+- [x] Michigan
+- [ ] North Carolina
+- [ ] Illinois
+
+#### Which of the following is NOT a comic book publisher?
+
+- [ ] Marvel
+- [ ] DC
+- [x] TD Ameritrade
+
+#### When comsuming dairy gives you stomach issues, what condition do you suffer from?
+
+- [x] Lactose Intolerance
+- [ ] Alopecia
+- [ ] Eczema
+
+#### Who directed Young Frankenstein, Blazing Saddles, and Spaceballs?
+
+- [ ] Ingmar Rergman
+- [ ] Francis Ford Coppola
+- [x] Mel Brooks
+
+#### Which of these is a brand of paper towel?
+
+- [ ] Downy
+- [x] Brawny
+- [ ] Sleepy
+
+#### What hppens when your Oscar acceptance speech goes on too long?
+
+- [ ] A big hook pulls you offstage
+- [x] The band begins playing
+- [ ] Fireworks
+
+#### Which of these dishes is served raw?
+
+- [x] Tuna tartare
+- [ ] Beef Wellington
+- [ ] Tortilla Soup
