@@ -32340,3 +32340,39 @@
 - [x] Tuna tartare
 - [ ] Beef Wellington
 - [ ] Tortilla Soup
+
+#### Which of these viral videos was uploaded first?
+
+- [x] David After Denist
+- [ ] Mr. Trololo
+- [ ] Pumpkin Dance
+
+#### In 1939's Wizard of Oz, what breed of dog was Toto?
+
+- [ ] Yorkshire Terrier
+- [x] Cairn Terrier
+- [ ] Scottish Terrier
+
+#### Who was the first U.S. president to receive fewer popular and electoral college votes than his opponent?
+
+- [ ] Abraham Lincoln
+- [ ] Donald Trump
+- [x] John Quincy Adams
+
+#### "Run, run Rudolph, Santa's gotta make it to town. Santa, make him hurry..."
+
+- [x] Tell him he can take the freeway down
+- [ ] He's gotta help you hit the town
+- [ ] Tell him it's about to go down
+
+#### Conor McGregor is famous for what sport?
+
+- [x] Mixed Martial Arts
+- [ ] Bowling
+- [ ] Table Tennis
+
+#### The Green Bay Packers were the first team to win which championship back-to-back?
+
+- [x] Super Bowl
+- [ ] Stanley Cup
+- [ ] World Series
