@@ -32376,3 +32376,105 @@
 - [x] Super Bowl
 - [ ] Stanley Cup
 - [ ] World Series
+
+#### What Jack Black movie was turned into a Broadway musical in 2015?
+
+- [x] School of Rock
+- [ ] Saving Silverman
+- [ ] Nacho Libre
+
+#### The Beatles made their American TV debut on which show?
+
+- [ ] The Ed Sullivan Show
+- [ ] CBS Evening News
+- [x] The Huntley-Brinkley Report
+
+#### According to the show, what is the reason for Sesame Street's Oscar the Grouch being green?
+
+- [x] A swamp
+- [ ] Garbage
+- [ ] Plant
+
+#### Which of these is NOT a standard game piece in Stratego?
+
+- [ ] Miner
+- [ ] Lieutenant
+- [x] Private
+
+#### In addition to being a restaurant, Ruby Tuesday is the title of a song by what band?
+
+- [ ] The Beatles
+- [x] The Rolling Stones
+- [ ] Led Zeppelin
+
+#### In American Football, how many downs do you get to move the ball 10 yards?
+
+- [ ] One
+- [x] Four
+- [ ] Ten
+
+#### Which of these movies is NOT set during Dia de los Muertos?
+
+- [ ] Coco
+- [x] The Tree of Life
+- [ ] Book of Life
+
+#### Ramadan is a month-long fast observed by what religion?
+
+- [ ] Judaism
+- [ ] Catholicism
+- [x] Islam
+
+#### Beale Street is one of the main drags of what Southern U.S. city?
+
+- [ ] Valdostra, GA
+- [x] Memphis, TN
+- [ ] Ocala, FL
+
+#### In "Coming to America", which comedian plays Prince Akeem?
+
+- [x] Eddie Murphy
+- [ ] Rodney Dangerfield
+- [ ] Steve Martin
+
+#### What breakfast food is often served with fried chicken?
+
+- [ ] Lucky Charms
+- [x] Waffles
+- [ ] Oatmeal
+
+#### What game show is essentially tic tac toe with celebrities?
+
+- [x] Hollywood Squares
+- [ ] Match Game
+- [ ] The $25,000 Pyramid
+
+#### Which of the following was a proposed title for George Orwell's "1984"?
+
+- [ ] The Strike
+- [ ] Something That Happened
+- [x] The Last Man in Europe
+
+#### What board game involves making words out of tiles?
+
+- [ ] Apples to Apples
+- [x] Scrabble
+- [ ] Hungry Hungry Hippos
+
+#### Which of the following substances doesn't mix with water?
+
+- [ ] Kool-Aid
+- [ ] Scotch
+- [x] Oil
+
+#### Which baseball Hall of Famer is known as The Yankee Clipper?
+
+- [x] Joe DiMaggio
+- [ ] Ken Griffey Jr.
+- [ ] Reggie Jackson
+
+#### Who crowned herself as the Queen of Christmas thanks to one of her signature hits?
+
+- [ ] Kelly Clarkson
+- [ ] Cher
+- [x] Mariah Carey
