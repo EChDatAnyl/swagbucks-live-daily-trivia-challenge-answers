@@ -1,4 +1,4 @@
-## Swagbucks LIVE Questions and Answers
+s## Swagbucks LIVE Questions and Answers
 
 #### What Andrew Lloyd Webber musical is based on a collection of poems by T.S. Eliot?
 
@@ -32478,3 +32478,33 @@
 - [ ] Kelly Clarkson
 - [ ] Cher
 - [x] Mariah Carey
+
+#### The politician behind Earth Day represented a state with what motto?
+
+- [x] Forward
+- [ ] Freedom and Unity
+- [ ] Hope
+
+#### The brand Kleenex is synonymous with what household product?
+
+- [x] Tissue
+- [ ] Cleanser
+- [ ] Air freshener
+
+#### Which of these roles was NOT played by Tom Hanks?
+
+- [ ] Forrest Gump
+- [ ] Woody
+- [x] Ethan Hunt
+
+#### What is the name of Han Solo's ship?
+
+- [x] The Millenium Falcon
+- [ ] The Century Falcon
+- [ ] The Decade Falcon
+
+#### "Yodel Boy" became a viral sensation after an impromptu performance of a song by what artist?
+
+- [x] Hank Williams
+- [ ] Silm Whitman
+- [ ] Garth Brooks
