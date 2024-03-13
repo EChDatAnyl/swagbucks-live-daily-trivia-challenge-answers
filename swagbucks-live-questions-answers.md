@@ -1,4 +1,4 @@
-s## Swagbucks LIVE Questions and Answers
+## Swagbucks LIVE Questions and Answers
 
 #### What Andrew Lloyd Webber musical is based on a collection of poems by T.S. Eliot?
 
@@ -10914,7 +10914,7 @@ s## Swagbucks LIVE Questions and Answers
 - [x] Cowboys
 - [ ] Numbers
 
-#### According to Box Office Mojo, which of these horror fimls has the highest worldwide gorss?
+#### According to Box Office Mojo, which of these horror films has the highest worldwide gorss?
 
 - [x] The Nun
 - [ ] Paranormal Activity
@@ -32508,3 +32508,105 @@ s## Swagbucks LIVE Questions and Answers
 - [x] Hank Williams
 - [ ] Silm Whitman
 - [ ] Garth Brooks
+
+#### According to World Population Review, what is the coldest State in the contiguous U.S.?
+
+- [ ] Minnesota
+- [ ] Wyoming
+- [x] North Dakota
+
+#### How many milligrams are in a gram?
+
+- [ ] One hundred
+- [x] One thousand
+- [ ] One million
+
+#### The first known English appearance of the word "night-life" was in a work by what writer?
+
+- [x] Herman Melville
+- [ ] William Shakespeare
+- [ ] John Milton
+
+#### In which of these movies does the main character play baseball?
+
+- [ ] Hoosiers
+- [x] Bull Durham
+- [ ] Miracle
+
+#### Which car manufacturer once asked potential consumers to "Think small"?
+
+- [x] Volkswagen
+- [ ] Flat
+- [ ] Mini Cooper
+
+#### Which of the following feats is NOT included in the 1955 song "The Ballad of Davy Crockett"?
+
+- [ ] Fixing the Liberty Bell
+- [x] Killing a mountain lion
+- [ ] Fighting a war single-handedly
+
+#### Which of these words evolved from Greek mythology?
+
+- [x] Clue
+- [ ] Affirm
+- [ ] Jargon
+
+#### What word does Netflix use to describe their signature noise?
+
+- [ ] Tudum
+- [ ] Bing
+- [ ] Clang
+
+#### What year did Netflix launch?
+
+- [ ] 1949
+- [x] 1998
+- [ ] 1874
+
+#### What color were Netflix DVD envelopes?
+
+- [x] Red
+- [ ] Yellow
+- [ ] Blue
+
+#### What was Netflix's original name?
+
+- [ ] DVD-To-Go
+- [ ] Easyflix
+- [x] Kibble
+
+#### The Netflix seires "The Queen's Gambit" centered around what game?
+
+- [x] Chess
+- [ ] Checkers
+- [ ] Parcheesi
+
+#### What is the name of Ben & Jerry's Netflix-inspired flavor?
+
+- [ ] DVD Chip
+- [x] Netflix & Chill'd
+- [ ] Streaming Strawberry
+
+#### What was the first Netflix original series?
+
+- [ ] House of Cards
+- [ ] Hemlock Grove
+- [x] Lilyhammer
+
+#### "Squid Game" was made and takes place in what country?
+
+- [ ] Denmark
+- [x] South Korea
+- [ ] Canada
+
+#### In "Bird Box", Sandra Bullock's character keeps which part of her body covered to protect herself?
+
+- [ ] Mouth
+- [ ] Ears
+- [x] Eyes
+
+#### What Netflix Original takes place in Indiana?
+
+- [ ] Virgin River
+- [x] Stranger Things
+- [ ] Wednesday
