@@ -21921,9 +21921,9 @@
 
 #### Sub Zero, Scorpion, and Liu Kang are characters from what video game series?
 
-- [x] Super Mario Bros.
+- [ ] Super Mario Bros.
 - [ ] Madden Football
-- [ ] Mortal Kombat
+- [x] Mortal Kombat
 
 #### What do the nouns Riches, Clothes, and Remains have in common?
 
@@ -32610,3 +32610,39 @@
 - [ ] Virgin River
 - [x] Stranger Things
 - [ ] Wednesday
+
+#### On what day of the week is Mother's day observed in the U.S.?
+
+- [x] Sunday
+- [ ] Monday
+- [ ] Tuesday
+
+#### Without breaks, how many minutes are in 3 full professional boxing matches?
+
+- [ ] 36
+- [ ] 72
+- [x] 108
+
+#### Which children's toy is made up of interlocking blocks?
+
+- [ ] Yo-yo
+- [ ] Sit 'n Spin
+- [x] Lego
+
+#### What was the name of the nerdy kid on Saved by the Bell?
+
+- [ ] Zack
+- [ ] Slater
+- [x] Screech
+
+#### What does HVAC satand for?
+
+- [ ] Hey, velvet arms? Cool!
+- [ ] Heavy, Very Ample Crabs
+- [x] Heating, Ventilation, and Air Conditioning
+
+#### If the Rolling Stones song "Wild Horses" was named after the last surviving subspecies of wild horses, what would it be called?
+
+- [ ] Wild Tarpans
+- [x] Wild Przewalskis
+- [ ] Wild Arabians
