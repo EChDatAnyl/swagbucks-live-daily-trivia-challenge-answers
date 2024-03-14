@@ -32742,3 +32742,39 @@
 - [ ] Juggalos
 - [x] Greeks
 - [ ] New Yorkers
+
+#### In the classic children's rhyme, who went up the hill?
+
+- [ ] Little Bo Peep
+- [x] Jack and Jill
+- [ ] Three Blind Mice
+
+#### What John Mayer song is also a law of physics?
+
+- [ ] Continuum
+- [x] Gravity
+- [ ] Neon
+
+#### Which Canadian NBA team won its first championship in 2019?
+
+- [ ] Golden State Warriors
+- [ ] New York Knicks
+- [x] Toronto Raptors
+
+#### A complete sentence must have a subject and a what?
+
+- [x] Predicate
+- [ ] Adverb
+- [ ] Descriptor
+
+#### Which Disney character's name is commonly used in Sweden for write-in votes?
+
+- [x] Donald Duck
+- [ ] Mickey Mouse
+- [ ] Oswald the Rabbit
+
+#### Which of these video games debuted first?
+
+- [ ] Diablo IV
+- [ ] Dark Souls
+- [x] Donkey Kong
