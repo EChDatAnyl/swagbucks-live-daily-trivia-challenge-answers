@@ -32646,3 +32646,99 @@
 - [ ] Wild Tarpans
 - [x] Wild Przewalskis
 - [ ] Wild Arabians
+
+#### The hit songs "Manic Monday", "I Feel For You", and "Nothing Compares 2 U" were all written by what superstar?
+
+- [ ] Paul McCartney
+- [ ] Madonna
+- [x] Prince
+
+#### Martin Luther King gave a famous speech titled "I Have A" what?
+
+- [ ] Cure for the common cold
+- [ ] Lot of student debt
+- [x] Dream
+
+#### Which of the following actors was NOT part of SNL's Season 1 cast?
+
+- [x] Bill Murray
+- [ ] Geroge Coe
+- [ ] Gilda Radner
+
+#### Which acclaimed novel by Margaret Atwood has become a successful series on Netflix?
+
+- [ ] The Handmaid's Tale
+- [x] Alias Grace
+- [ ] Bodyguard
+
+#### Which of the following is NOT one of the seven principles of Kwanzaa?
+
+- [ ] Unity
+- [ ] Cooperative economics
+- [x] Love
+
+#### What was the first product to have a barcode?
+
+- [ ] Canned beans
+- [x] Chewing Gum
+- [ ] Milk
+
+#### In which sport would you throw a roundhouse?
+
+- [ ] Football
+- [ ] Baseball
+- [x] Boxing
+
+#### Ken Jennings went on a historic winning streak on what game show?
+
+- [ ] Win, Lose, or Draw
+- [ ] The Price is Right
+- [x] Jeopardy
+
+#### What kind of coat does Dolly Parton have a famous song about?
+
+- [x] Coat of Many Colors
+- [ ] Raincoat
+- [ ] Fresh Coat of Paint
+
+#### Which of the following TV Theme songs was NOT written by Mike Post?
+
+- [ ] Greatest American Hero
+- [x] Saved By The Bell
+- [ ] The A-Team
+
+#### Zest Soap's jingle said you're not fully clean unless you're what?
+
+- [ ] Also shampooing your hair
+- [ ] Washing your towels regularly
+- [x] Zestfully clean
+
+#### Which of the following is a term for "Goose Bumps"?
+
+- [x] Horripilation
+- [ ] Epistaxis
+- [ ] Desudation
+
+#### Where would you find the Sea of Tranquility?
+
+- [ ] Dallas
+- [x] The Moon
+- [ ] The South Pole
+
+#### As a child, Alexander Hamilton was not allowed to attend a Christian school. What was the reason?
+
+- [ ] He was Jewish
+- [ ] He wasn't a citizen
+- [x] His parents weren't married
+
+#### Quantum of Solace, Goldeneye, and Skyfall are all films in what series?
+
+- [x] James Bond
+- [ ] John Wick
+- [ ] Star Wars
+
+#### What ancient culture is credited with developing the study of history?
+
+- [ ] Juggalos
+- [x] Greeks
+- [ ] New Yorkers
