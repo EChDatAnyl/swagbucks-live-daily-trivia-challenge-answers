@@ -32778,3 +32778,135 @@
 - [ ] Diablo IV
 - [ ] Dark Souls
 - [x] Donkey Kong
+
+#### How many Wonders of the Modern World are there?
+
+- [x] Seven
+- [ ] One Hundred and One
+- [ ] Two Million
+
+#### Chicken Tikka Masala is a dish from what type of cuisine?
+
+- [ ] Italian
+- [ ] French
+- [x] Indian
+
+#### Cockney is an accent commonly found in what country?
+
+- [ ] Australia
+- [x] England
+- [ ] Spain
+
+#### The Amish and Mennonite religions both sprung from what European movement?
+
+- [x] Anabaptism
+- [ ] Calvinism
+- [ ] Intercessors of the Lamb
+
+#### In which country is rotten shark considered a delicacy?
+
+- [ ] Norway
+- [x] Iceland
+- [ ] Sweden
+
+#### Complete this band name: "Crosby, Stills, &..."
+
+- [ ] Meyers
+- [ ] Garfunkel
+- [x] Nash
+
+#### Attila the Hun's forces lifted their siege on Rome in exchange for what?
+
+- [ ] Wives
+- [x] Pepper
+- [ ] Ivory
+
+#### In the 1920's, the term "Alarm Clock" referred to what type of person?
+
+- [ ] Disciplinarian
+- [ ] Slouch
+- [x] Chaperone
+
+#### Whose concert film, released in October of 2023, has become the highest grossing concert film of all time?
+
+- [x] Taylor Swift
+- [ ] The Rolling Stones
+- [ ] BTS
+
+#### What U.S. city's financial district is home to Wall Street?
+
+- [ ] Bismarck
+- [ ] Jackson
+- [x] New York
+
+#### Which breakfast cereal is based on characters from a TV show?
+
+- [ ] Basic 4
+- [x] Fruity Pebbles
+- [ ] Waffle Crisp
+
+#### The Monkees forced what singer to change their name?
+
+- [x] David Bowie
+- [ ] Cher
+- [ ] Robert Plant
+
+#### In a standard game of Monopoly, what property costs the most to buy?
+
+- [ ] Illinois Ave
+- [ ] B&O Railroad
+- [x] Boardwalk
+
+#### Which of these would you take for a headache?
+
+- [ ] M&Ms
+- [ ] Pretzels
+- [x] Tylenol
+
+#### In which of the following games do you roll dice to take your turn?
+
+- [ ] Chess
+- [x] Backgammon
+- [ ] Checkers
+
+#### Which of these terms means you're busy and overwhelmed?
+
+- [ ] A-OK
+- [ ] Grabbing a slice
+- [x] In the weeds
+
+#### In the film "Being There", what is the name erroneously given to Peter Sellers's character?
+
+- [x] Chauncey Gardiner
+- [ ] Chauncey Farmer
+- [ ] Chancey Gardhouse
+
+#### What connects muscles to bones?
+
+- [x] Tendons
+- [ ] Carilage
+- [ ] Sputum
+
+#### What Elizabeth Gilbert novel was turned into a movie starring Julia Roberts?
+
+- [ ] Lather Rinse Repeat
+- [ ] Snap Crackle Pop
+- [x] Eat Pray Love
+
+#### What is a "French kiss" called in France?
+
+- [ ] Bise
+- [x] Galoche
+- [ ] Embrasse
+
+#### Which book was authored by a person with the legal name Eric Arthur Blair?
+
+- [ ] The Catcher in the Rye
+- [ ] Dune
+- [x] Animal Farm
+
+#### Which of these celebrities is older than their famous siblings(s)?
+
+- [x] Ann Cusack
+- [ ] Jake Gyllenhaal
+- [ ] Nick Jonas
