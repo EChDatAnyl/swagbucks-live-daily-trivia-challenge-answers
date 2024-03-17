@@ -32910,3 +32910,87 @@
 - [x] Ann Cusack
 - [ ] Jake Gyllenhaal
 - [ ] Nick Jonas
+
+#### Kumite was an realy rejected name for what video game?
+
+- [ ] Street Fighter
+- [x] Mortal Kombat
+- [ ] Tekken
+
+#### What was the last Star Wars movie to be released on VHS in the U.S.?
+
+- [ ] The Phantom Menace
+- [x] Attack of the Clones
+- [ ] Revenge of the Sith
+
+#### What type of nut is part of the filling of a standard Snickers bar?
+
+- [x] Peanuts
+- [ ] Cashews
+- [ ] Hazenuts
+
+#### "Pointe" is a technique primarily used in which style of dance?
+
+- [ ] Samba
+- [x] Ballet
+- [ ] Pop & Lock
+
+#### Which of these programs is primarily used to edit and alter pictures?
+
+- [ ] Adobe Audition
+- [ ] Adobe Premiere
+- [x] Adobe Photoshop
+
+#### What is J.K. Rowling's first name?
+
+- [x] Joanne
+- [ ] Joy
+- [ ] Julia
+
+#### Where would you find the building that inspired the mold for Lincoln Logs?
+
+- [ ] Illinois
+- [ ] London
+- [x] Tokyo
+
+#### The 1914 assassination of Archduke Franz Ferdinad started which war?
+
+- [x] World War I
+- [ ] The Korean War
+- [ ] The War of the Roses
+
+#### How many gallons of oil are in an oil barrel?
+
+- [x] 42
+- [ ] 72
+- [ ] 100
+
+#### How do you say "yes" in French?
+
+- [ ] Hola
+- [x] Oui
+- [ ] Bonjour
+
+#### Something that's expensive is commonly said to cost what?
+
+- [ ] A bushel and a peck
+- [ ] A beauty and a beast
+- [x] An arm and a leg
+
+#### Which of these games requires a ball?
+
+- [ ] Hopscotch
+- [ ] Simon Says
+- [x] Racquetball
+
+#### What real-life person was the inspiration for Stewie on Family Guy?
+
+- [ ] Montgomery Burns
+- [x] Rex Harrison
+- [ ] Dracula
+
+#### For which genre of music is Reba McEntire known?
+
+- [ ] Punk
+- [ ] Electronica
+- [x] Country
