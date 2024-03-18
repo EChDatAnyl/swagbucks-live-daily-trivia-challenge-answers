@@ -32994,3 +32994,15 @@
 - [ ] Punk
 - [ ] Electronica
 - [x] Country
+
+#### Which of these over-the-counter drugs is the oldest?
+
+- [ ] Dramamine
+- [ ] Tums
+- [x] Pepto Bismol
+
+#### Which is the result of dividing any number by one?
+
+- [x] The number itself
+- [ ] 0
+- [ ] 1
