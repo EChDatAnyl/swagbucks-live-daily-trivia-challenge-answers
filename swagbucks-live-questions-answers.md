@@ -33006,3 +33006,105 @@
 - [x] The number itself
 - [ ] 0
 - [ ] 1
+
+#### Which of the following dishes is usaully made with cow's feet and heads?
+
+- [x] Khash
+- [ ] Surstromming
+- [ ] Beondegi
+
+#### If you suffer from arachnophobia, which animals are you scared of?
+
+- [x] Spiders
+- [ ] Cats
+- [ ] Dolphins
+
+#### What is measured by a tape measure?
+
+- [x] Distance
+- [ ] Volume
+- [ ] Weight
+
+#### In 1900, Margaret Abbott won a gold medal in what sport, not realizing she was in the Olympics?
+
+- [ ] Walking
+- [x] Golf
+- [ ] Horse racing
+
+#### The original prop turned into Han's blaster first appeared in which film?
+
+- [ ] Star Wars
+- [x] The Naked Runner
+- [ ] The Dirty Dozen
+
+#### Scrubs, House, and Grey's Anatomy are shows that center around what type of building?
+
+- [ ] Church
+- [ ] Military base
+- [x] Hospital
+
+#### Who lives in a pineapple under the sea?
+
+- [ ] The Little Mermaid
+- [ ] Aquaman
+- [x] Spongebob Squarepants
+
+#### In the story, who built Pinocchio?
+
+- [ ] Lamwick
+- [ ] The Talking Cricket
+- [x] Geppetto
+
+#### What is the name of one of the main characters in "Little Women"?
+
+- [x] Jo
+- [ ] Symphony
+- [ ] Lisa
+
+#### In a classic 1726 story by Jonathan Swift, who do the Liliputians briefly take as their prisoner?
+
+- [x] Gulliver
+- [ ] Robinson Crusoe
+- [ ] Captain Ahab
+
+#### Beatrix Potter wrote a classic children's book about what character?
+
+- [ ] The Velveteen Rabbit
+- [x] Peter Rabbit
+- [ ] The Little Prince
+
+#### In "Alice's Adventures in Wonderland", what does Alice consume to shrink?
+
+- [x] Potion
+- [ ] Cake
+- [ ] Celery
+
+#### Madame Bovary was originally published in which language?
+
+- [ ] Mandarin
+- [x] French
+- [ ] Spanish
+
+#### What William Makepeace Thackeray novel shares its name with a magazine?
+
+- [ ] Vegue
+- [ ] Life
+- [x] Vanity Fair
+
+#### In the H.G. Wells story "The Invisible Man", what does Hawley Griffin wear over his face?
+
+- [ ] A bag
+- [ ] Nothing
+- [x] Bandages
+
+#### "It was the best of times, it was the worst of times" is the opening line of what Charles Dickens story?
+
+- [ ] Great Expectaitons
+- [x] A Tale of Two Cities
+- [ ] Oliver Twist
+
+#### In the story by Roal Dahl, whose Chocolate Factory does Charlie Bucket visit?
+
+- [ ] Slugworth
+- [ ] Henry Ford
+- [x] Willy Wonka
