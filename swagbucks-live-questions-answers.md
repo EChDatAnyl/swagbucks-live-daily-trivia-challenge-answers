@@ -33108,3 +33108,27 @@
 - [ ] Slugworth
 - [ ] Henry Ford
 - [x] Willy Wonka
+
+#### HBO's "House of the Dragon" is a prequel to what other HBO series?
+
+- [ ] Succession
+- [x] Game of Thrones
+- [ ] Westworld
+
+#### Steve abd Gayle Henson, the inventors of Ranch Dressing, owned what ranch?
+
+- [x] Hidden Valley
+- [ ] Yellowstone
+- [ ] Circle R
+
+#### If you're depressed, what color would you tell people you're feeling?
+
+- [ ] Green
+- [x] Blue
+- [ ] Red
+
+#### By what nickname is Detroit known?
+
+- [ ] The City of Brotherly Love
+- [ ] Sunshine City
+- [x] Motor City
