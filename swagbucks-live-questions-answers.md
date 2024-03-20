@@ -15727,13 +15727,13 @@
 - [ ] Aluminum
 - [ ] Jade
 
-#### Where does Dorthy Gale travel to Oz from?
+#### Where does Dorothy Gale travel to Oz from?
 
 - [ ] Kentucky
 - [x] Kansas
 - [ ] Kathmandu
 
-#### What weather event carries Dorthy and her house to Oz?
+#### What weather event carries Dorothy and her house to Oz?
 
 - [ ] Blizzard
 - [ ] Tsunami
@@ -33132,3 +33132,111 @@
 - [ ] The City of Brotherly Love
 - [ ] Sunshine City
 - [x] Motor City
+
+#### Which of the following celebrities is NOT mentioned in Adam Sandler's original Hanukkah song?
+
+- [ ] Henry Winkler
+- [ ] Curly Howard
+- [x] The Pope
+
+#### Complete the Olive Garden slogan: "When you're here, you're..."
+
+- [ ] Under arrest
+- [x] Family
+- [ ] Picking up the check
+
+#### Which Ramones single charted the highest on the Billboard 100?
+
+- [ ] I Wanna Be Sedated
+- [ ] Bitzkrieg Bop
+- [x] Rockaway Beach
+
+#### What dish does Scrooge anonymously send to the Cratchit household on Christmas morning?
+
+- [x] Turkey
+- [ ] Chicken Cacciatore
+- [ ] Hotdish
+
+#### Which of the following shows is intended for children?
+
+- [ ] Matlock
+- [ ] Dexter
+- [x] Calliou
+
+#### Which cartoon character is always eating carrots?
+
+- [x] Bugs Bunny
+- [ ] Felix the Cat
+- [ ] Ferdinand the Bull
+
+#### Who did not appear in Daddy's Home 2?
+
+- [ ] Mel Gibson
+- [ ] John Cena
+- [x] Terry Crews
+
+#### "Call me Ishmael" is the first line of which classic novel?
+
+- [ ] Oliver Twist
+- [ ] Frankenstein
+- [x] Moby Dick
+
+#### Which kind of sandwich is traditionally paired with tomato soup?
+
+- [ ] Cheesesteak
+- [ ] Po' Boy
+- [x] Grilled Cheese
+
+#### Which of the following continents contains the most countries?
+
+- [x] Africa
+- [ ] Australia
+- [ ] Antarctica
+
+#### If a driver is "hanging a Louie", what direction will they go at the next stop sign?
+
+- [ ] Right
+- [x] Left
+- [ ] Straight
+
+#### Which horror movie villain had his own cable TV show?
+
+- [x] Chucky
+- [ ] The Babadook
+- [ ] Freddy Krueger
+
+#### Where would you go to eat at the bathroom-themed Modern Toilet restaurant?
+
+- [ ] Japan
+- [ ] Germany
+- [x] Taiwan
+
+#### What is the name of Sony's latest gaming console?
+
+- [ ] Lynx
+- [ ] SNES
+- [x] PlayStation 5
+
+#### When you "free solo" a mountain, you're climbing it without what?
+
+- [ ] Shoes
+- [x] Ropes and safety equipment
+- [ ] your hands
+
+#### A chicken named Mike once lived for 18 months without what body part?
+
+- [x] Head
+- [ ] Wings
+- [ ] Stomach
+
+#### Which of the following instruments is handheld?
+
+- [ ] Pipe Organ
+- [ ] Baby Grand Piano
+- [x] Tambourine
+
+#### "There's no crying in baseball!" is a quote from what movie?
+
+- [x] A League of Their Own
+- [ ] Slap Shot
+- [ ] Draft Day
