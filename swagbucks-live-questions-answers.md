@@ -33240,3 +33240,33 @@
 - [x] A League of Their Own
 - [ ] Slap Shot
 - [ ] Draft Day
+
+#### If you're terrified by gorgonzola, what do you suffer from?
+
+- [x] Turophobia
+- [ ] Fromophobia
+- [ ] Doraphobia
+
+#### When you flip a standard coin, what are the rough odds it lands on Tails?
+
+- [x] 50 percent
+- [ ] 75 percent
+- [ ] 25 percent
+
+#### Klepetan and Malena had a 20 year romance before his death. What kind of animals were they?
+
+- [ ] Cats
+- [ ] Elephants
+- [x] Storks
+
+#### Who was the first princess to appear in a Disney animated theatrical release?
+
+- [ ] Snow White
+- [ ] Cinderella
+- [x] Persephone
+
+#### Tyne Daly and Sharon Gless starred on what police drama?
+
+- [ ] Hill Street Blues
+- [ ] T.J. Hooker
+- [x] Cagney and Lacey
