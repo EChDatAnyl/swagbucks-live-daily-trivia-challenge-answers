@@ -33270,3 +33270,63 @@
 - [ ] Hill Street Blues
 - [ ] T.J. Hooker
 - [x] Cagney and Lacey
+
+#### What is the name of the mutated rat who trained the Teenage Mutant Ninja Turtles?
+
+- [ ] Twig
+- [ ] Shard
+- [x] Splinter
+
+#### Which of the following is NOT a position in basketball?
+
+- [ ] Center
+- [ ] Guard
+- [x] Kicker
+
+#### Which State is known as the Buckeye State?
+
+- [ ] Nebraska
+- [ ] California
+- [x] Ohio
+
+#### Which of the following countries has only one prison?
+
+- [x] Liechtenstein
+- [ ] Vatican City
+- [ ] Madagascar
+
+#### Whose autobiography is titled "The Long Walk to Freedom"?
+
+- [x] Nelson Mandela
+- [ ] Andre Agassi
+- [ ] Eminem
+
+#### Which of the following Presidents has NOT won a Grammy?
+
+- [x] Ronald Reagan
+- [ ] Jimmy Carter
+- [ ] Barack Obama
+
+#### Which of the following is NOT one of the flavors in a Five Flavor pack of Life Savers?
+
+- [x] Sardines
+- [ ] Cherry
+- [ ] Orange
+
+#### Which of the following writers once had their dog eat one of their manuscripts?
+
+- [x] John Steinbeck
+- [ ] Mark Twain
+- [ ] William Faulkner
+
+#### French artist Frederic Auguste Bartholdi sculpted what famous American landmark?
+
+- [ ] The Grand Canyon
+- [ ] Hoover Dam
+- [x] Statue of Liberty
+
+#### Who played The Joker in 1989's "Batman"?
+
+- [ ] Robin Williams
+- [ ] Jim Carrey
+- [x] Jack Nicholson
