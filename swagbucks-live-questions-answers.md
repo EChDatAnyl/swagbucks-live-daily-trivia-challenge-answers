@@ -33330,3 +33330,51 @@
 - [ ] Robin Williams
 - [ ] Jim Carrey
 - [x] Jack Nicholson
+
+#### East High is the setting for what popular series of Disney Channel movies?
+
+- [ ] Not Quiet Human
+- [x] High School Musical
+- [ ] Camp Rock
+
+#### Where was Hugh Hefner born?
+
+- [ ] St. Louis
+- [ ] New York
+- [x] Chicago
+
+#### When was the European Union founded?
+
+- [x] 1993
+- [ ] 357
+- [ ] 1776
+
+#### Which of these is NOT currently found in a 12oz Whitman's Sampler?
+
+- [ ] Coconut
+- [ ] Cherry Cordial
+- [x] Marshmallow
+
+#### What is the width of the Staute of Liberty's waist?
+
+- [ ] 22 feet
+- [ ] 32 feet
+- [x] 35 feet
+
+#### In which movie do Dorothy and Toto follow the Yellow Brick Road?
+
+- [ ] The Avengers
+- [ ] My Dinner with Andre
+- [x] The Wizard of Oz
+
+#### Which State's flag was designed by a 13-year-old boy?
+
+- [ ] Tennessee
+- [ ] California
+- [x] Alaska
+
+#### Which of the following Pixar movies starred Jamie Foxx?
+
+- [ ] The Good Dinosaur
+- [x] Soul
+- [ ] Luca
