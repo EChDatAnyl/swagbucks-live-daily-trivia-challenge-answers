@@ -33438,3 +33438,39 @@
 - [x] Hi-YAH!
 - [ ] Take THAT!
 - [ ] BAM!
+
+#### The place on Earth with the shortest name is only a single letter long. What letter is it?
+
+- [ ] Y
+- [x] A
+- [ ] U
+
+#### In the 1960s, diet guru Richard Simmons allegedly appeared in two films by which famous director?
+
+- [x] Federico Fellini
+- [ ] Alfred Hitchcock
+- [ ] Stanley Kubrick
+
+#### Ty Pennington hosted what home renovation show?
+
+- [x] Extreme Makeover: Home Edition
+- [ ] Oops, I Trashed Your House
+- [ ] Hey, Let's Add A Room
+
+#### Caitlyn Jenner's Twitter account was the fastest to reach 1 million followers. How long did it take?
+
+- [x] 4 hours, 3 minutes
+- [ ] 3 hours, 9 minutes
+- [ ] 1 hour, 7 minutes
+
+#### The woman who provided Mulan's singing voice in 1998 also sang for which other Disney character?
+
+- [ ] Esmeralda
+- [ ] Jane Porter
+- [x] Jasmine
+
+#### What gas is used to fuel most lighters?
+
+- [ ] Oxygen
+- [x] Butane
+- [ ] Argon
