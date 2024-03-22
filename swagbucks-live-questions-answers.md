@@ -33378,3 +33378,63 @@
 - [ ] The Good Dinosaur
 - [x] Soul
 - [ ] Luca
+
+#### Who was the creator of The Muppets?
+
+- [ ] Walt Disney
+- [ ] George Lucas
+- [x] Jim Henson
+
+#### At the beginning of "The Muppet Movie", what instrument is Kermit the Frog playing during The Rainbow Connection?
+
+- [ ] Rassoon
+- [x] Banjo
+- [ ] Organ
+
+#### Who are the grumpy, heckling old men from the Muppet Show?
+
+- [x] Statler and Waldorf
+- [ ] Bialystock and Blom
+- [ ] Frick and Frack
+
+#### A Muppet named Snarl the Cigar Box Frackle was reworked into which other Muppet?
+
+- [ ] Lew Zealand
+- [ ] Animal
+- [x] Gonzo the Great
+
+#### On what show did Kermit the Frog make his first TV appearance?
+
+- [ ] The Jimmy Dean Show
+- [x] Sam and Freinds
+- [ ] The Tonight Show
+
+#### The Doozers are constantly having their buildings eaten by who?
+
+- [x] The Fraggles
+- [ ] Marjorie the Trash Heap
+- [ ] Sorocket the Dog
+
+#### Which of these Muppets is a Live-Hand puppet?
+
+- [x] Fozzie Bear
+- [ ] Zoot
+- [ ] Rizzo the Rat
+
+#### In the movie "The Muppets", who plays the human form of Walter?
+
+- [x] Jim Parsons
+- [ ] Seth Rogen
+- [ ] Lin Manuel Miranda
+
+#### Which of the following muppets is operated from within a fully body suit?
+
+- [ ] Gonzo
+- [x] Sweetums
+- [ ] Robin
+
+#### What does Miss Piggy say when she hits someone?
+
+- [x] Hi-YAH!
+- [ ] Take THAT!
+- [ ] BAM!
