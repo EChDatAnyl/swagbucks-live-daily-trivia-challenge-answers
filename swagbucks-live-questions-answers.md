@@ -33474,3 +33474,39 @@
 - [ ] Oxygen
 - [x] Butane
 - [ ] Argon
+
+#### Which of the following activities is NOT part of a standard triathlon?
+
+- [x] Markmanship
+- [ ] Running
+- [ ] Swimming
+
+#### Which restaurant serves the Big Mac?
+
+- [ ] McRestaurant's
+- [x] McDonald's
+- [ ] McFly's
+
+#### Miami Beach is located in which State?
+
+- [ ] Idaho
+- [ ] Texas
+- [x] Florida
+
+#### Who uses inversion therapy to overcome writer's block?
+
+- [x] Dan Brown
+- [ ] Quentin Tarantino
+- [ ] Mitch Albom
+
+#### The King of Swing sings which signature Disney tune?
+
+- [ ] Bout Time
+- [ ] Ev'rybody Wants to Be a Cat
+- [x] I Wanna Be Like You
+
+#### How many feet are in a mile?
+
+- [x] 5,280
+- [ ] 747
+- [ ] 13
