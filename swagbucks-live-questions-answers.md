@@ -33510,3 +33510,57 @@
 - [x] 5,280
 - [ ] 747
 - [ ] 13
+
+#### Which of these was a Lou Reed song?
+
+- [x] Andy's Chest
+- [ ] Wild Walker
+- [ ] Satelite of Stars
+
+#### Which legendary guitarist is also known as Slowhand?
+
+- [x] Eric Clapton
+- [ ] Peter Townshend
+- [ ] Eddie Van Halen
+
+#### Which ancident empire number system has no symbol for zero?
+
+- [x] Roman
+- [ ] Egyptian
+- [ ] Mesopotamian
+
+#### Which band had a song that asked "Would you choose water over wine?"
+
+- [ ] The Foo Fighters
+- [x] Incubus
+- [ ] Sugar Ray
+
+#### According to Pottermore, which of the following items would NOT be found in the Room of Requirement?
+
+- [ ] Sherry bottles
+- [x] A jar of floo powder
+- [ ] Fanged Frisbees
+
+#### What is the Sun's peak emission?
+
+- [x] Green light
+- [ ] Heat
+- [ ] Ultraviolet light
+
+#### Which Disney princess' name is also a word for a salad green?
+
+- [x] Rapunzel
+- [ ] Auroa
+- [ ] Tiana
+
+#### Which Disney film's box office failure stoppped them from making Princess movies until 1989?
+
+- [x] Sleeping Beauty
+- [ ] Cinderella
+- [ ] Alice in Wonderland
+
+#### Reggie Hammond, Kit Ramsey, and Chandler Jarrell are all roles performed by which actor?
+
+- [ ] Christopher Walken
+- [ ] Sacha Baron Cohen
+- [x] Eddie Murphy
