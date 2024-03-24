@@ -33564,3 +33564,51 @@
 - [ ] Christopher Walken
 - [ ] Sacha Baron Cohen
 - [x] Eddie Murphy
+
+#### Which of these historic trade routes began most recently?
+
+- [x] The Silk Road
+- [ ] The Spice Routes
+- [ ] The Incense Route
+
+#### The puck in the first recorded ice hockey game was made from what?
+
+- [ ] Cow dung
+- [x] A lacrosse ball
+- [ ] Stone
+
+#### "Jaws" author Peter Benchley makes a cameo in the original film playing what role?
+
+- [x] An interviewer
+- [ ] A police officer
+- [ ] A fisherman
+
+#### Which of these coins is worth the least?
+
+- [ ] Quarter
+- [ ] Nickel
+- [x] Penny
+
+#### Where would you find the two biggest cut diamonds on Earth?
+
+- [ ] Paris
+- [x] London
+- [ ] Rome
+
+#### Where would you find the largest truck stop in the world?
+
+- [ ] Italy
+- [ ] Kansas
+- [x] Iowa
+
+#### From recent Bud Light commercials, what catchphrase has become a sports meme?
+
+- [x] Dilly Dilly!
+- [ ] Nailed it!
+- [ ] Going, Going, Gone!
+
+#### What rapper proclaimed that "Real G's move in silence like lasagna"?
+
+- [x] Lil Wayne
+- [ ] Lil Yachty
+- [ ] Lil Pump 
