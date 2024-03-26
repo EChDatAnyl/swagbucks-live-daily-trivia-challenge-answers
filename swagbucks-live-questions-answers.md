@@ -33696,3 +33696,45 @@
 - [ ] Inherited
 - [x] Maybelline
 - [ ] A Boboli
+
+#### Which of these Shakespeare plays is a tragedy?
+
+- [ ] A Midsummer Night's Dream
+- [x] Macbeth
+- [ ] The Commedy of Errors
+
+#### What nut is known to be combustible during shipping?
+
+- [x] Pistachios
+- [ ] Peanuts
+- [ ] Cashews
+
+#### When you receive an inivation to an event, what are you asked to do?
+
+- [x] RSVP
+- [ ] CBGB
+- [ ] R2D2
+
+#### Which of these Disney-produced stage adaptations premiered on Broadway first?
+
+- [x] Tarzan
+- [ ] The Little Mermaid
+- [ ] Newsies
+
+#### What brand of fabric softener uses a teddy bear as their mascot?
+
+- [x] Snuggle
+- [ ] Tide
+- [ ] Gain
+
+#### Who owns the world's largest door?
+
+- [x] NASA
+- [ ] The Trump Organization
+- [ ] The Borning Company
+
+#### Which of these pieces of clothing is normally worn around the neck?
+
+- [x] Scarf
+- [ ] Hat
+- [ ] Shoe
