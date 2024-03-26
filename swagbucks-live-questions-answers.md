@@ -33612,3 +33612,63 @@
 - [x] Lil Wayne
 - [ ] Lil Yachty
 - [ ] Lil Pump 
+
+#### Rene Descartes's phiosophy was "I think, therefore I" what?
+
+- [ ] Sleep
+- [x] Am
+- [ ] Fight
+
+#### What kind of creature serves as the mascot for Honey Smacks cereal?
+
+- [ ] Badger
+- [ ] Giraffe
+- [x] Frog
+
+#### What country is known as the Land of the Midnight Sun?
+
+- [x] Norway
+- [ ] United States
+- [ ] England
+
+#### American Sign Language primarily uses what body part to communicate?
+
+- [ ] Knees
+- [ ] Neck
+- [x] Hands
+
+#### Which movie character is famous for saying "Go ahead, make my day"?
+
+- [ ] Darth Vader
+- [x] Dirty Harry
+- [ ] Buzz Lightyear
+
+#### Yo-Yo Ma is known for playing what instrument?
+
+- [ ] Flute
+- [ ] Drums
+- [x] Cello
+
+#### What toy did the NSA suspect might be spying on Americans?
+
+- [ ] Teddy Ruxpin
+- [x] Furby
+- [ ] Let's Rock Elmo
+
+#### A common party game involves holding a relay race where participants carry an egg using what?
+
+- [x] A spoon
+- [ ] A catapult
+- [ ] A diaper
+
+#### Novocaine is used for what medical purpose?
+
+- [ ] Anti-inflammation
+- [x] Numbing
+- [ ] Appetite suppression
+
+#### Michael Jordan, Vince Carter, and Zach Lavine have all won what NBA All-Star weekend competition?
+
+- [x] Dunk Contest
+- [ ] Running Contest
+- [ ] Mr. Congeniality
