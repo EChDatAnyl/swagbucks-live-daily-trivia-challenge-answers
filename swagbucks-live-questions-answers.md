@@ -33672,3 +33672,27 @@
 - [x] Dunk Contest
 - [ ] Running Contest
 - [ ] Mr. Congeniality
+
+#### Cristiano Ronaldo is known for which sport?
+
+- [ ] Golf
+- [x] Soccer
+- [ ] Baseball
+
+#### How many children did Arthur and Molly Weasley have?
+
+- [ ] 6
+- [x] 7
+- [ ] 8
+
+#### Which of these pairs of cities has the largest time difference?
+
+- [ ] Honolulu and Wellington
+- [x] Paris and Sydney
+- [ ] Hong Kong and Copenhagen
+
+#### Complete this slogan: "Maybe she's born with it; maybe it's"...
+
+- [ ] Inherited
+- [x] Maybelline
+- [ ] A Boboli
