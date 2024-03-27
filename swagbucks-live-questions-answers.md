@@ -33798,3 +33798,45 @@
 - [x] Warp Speed
 - [ ] Super Speed
 - [ ] Speedy Delivery
+
+#### Jack Dawkins is the real name of what fictional character?
+
+- [x] Artful Dodger
+- [ ] Scarlet Pimernel
+- [ ] The Invisible Man
+
+#### Complete this common phrase: "The end justifies the..."
+
+- [ ] Smell
+- [ ] Wants
+- [x] Means
+
+#### What fmaous twins played Michelle Tanner on "Full House"
+
+- [ ] Tweedle Dee and Tweedle Dum
+- [ ] The Bobbsey Twins
+- [x] The Olsen Twins
+
+#### The knight, rook, and pawn are pieces in what game?
+
+- [ ] Checkers
+- [ ] Go!
+- [x] Chess
+
+#### What rock star was paid to smoke for a university experiment?
+
+- [ ] Keith Richards
+- [x] Axl Rose
+- [ ] Slash
+
+#### Which of these sports requires a boat?
+
+- [x] Rowing
+- [ ] Racquetball
+- [ ] Running
+
+#### When was the 3-point line added to the NBA?
+
+- [x] 1979
+- [ ] 1999
+- [ ] 2019
