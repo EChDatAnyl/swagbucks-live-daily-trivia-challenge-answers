@@ -33738,3 +33738,63 @@
 - [x] Scarf
 - [ ] Hat
 - [ ] Shoe
+
+#### On the original "Star Trek", how long was their mission supposed to last?
+
+- [ ] Two Hours
+- [ ] 6 Months
+- [x] Five Years
+
+#### What Federation enemy once |assimilated" Captain Picard and turned him into Locutus on "Star Trek: The Next Generation"?
+
+- [ ] Klingons
+- [x] Borg
+- [ ] Romulans
+
+#### Which Star Trek series is set on a space station?
+
+- [x] Deep Space Nine
+- [ ] Strange New Worlds
+- [ ] Lower Decks
+
+#### Which "Star Trek" role was played by Gene Roddenberry's wife?
+
+- [ ] Janice Rand
+- [x] Christine Chapel
+- [ ] Commander Loskene
+
+#### In "Star Trek IV: The Voyage Home", the crew of the Enterprise travels back to 1986 to save what endangered species?
+
+- [x] Humpback Whale
+- [ ] Panda Bear
+- [ ] Bald Eagle
+
+#### Who was the chief medical officer of the Enterprise in the original "Star Trek"?
+
+- [ ] Mister Spock
+- [x] Leonard "Bones" McCoy
+- [ ] Montgomery Scott
+
+#### In what country was the currency altered to stop people from "Spocking" certain bills?
+
+- [x] Canada
+- [ ] United States
+- [ ] England
+
+#### In "Star Trek: Voyager", where does the crew find themselves stranded?
+
+- [ ] Cleveland
+- [ ] A Chuck E. Cheese
+- [x] The Delta Quadrant
+
+#### Who destroys the Enterprise in "Star Trek III: The Search for Spock"?
+
+- [ ] Spock
+- [x] Captain Kirk
+- [ ] Sybok
+
+#### What is the term for the speed at which "Star Trek" starships move?
+
+- [x] Warp Speed
+- [ ] Super Speed
+- [ ] Speedy Delivery
