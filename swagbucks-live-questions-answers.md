@@ -33840,3 +33840,105 @@
 - [x] 1979
 - [ ] 1999
 - [ ] 2019
+
+#### What video game series is set in the Wild West?
+
+- [ ] Overwatch
+- [ ] Rocket League
+- [x] Red Dead Redemption
+
+#### Most plants need what liquid to grow?
+
+- [ ] Maple Syrup
+- [ ] Coke Zero
+- [x] Water
+
+#### On Halloween, what phrase do kids go door to door saying?
+
+- [x] Trick or Treat
+- [ ] GIMME
+- [ ] Do you have any Grey Poupon?
+
+#### Which of the following guitar legends started as a backing musician for Little Richard?
+
+- [ ] Randy Jackson
+- [x] Jimi Hendrix
+- [ ] Stevie Wonder
+
+#### What was the name of Harry S. Truman's train on his 1948 Whistle Stop speech tour?
+
+- [x] Mageilan
+- [ ] Columbus
+- [ ] Independence
+
+#### "The Bee Order" and "Perfectibilists" were early names for what secret group?
+
+- [ ] The Freemasons
+- [ ] Skull and Bones Society
+- [x] The Illuminati
+
+#### Which of these Shrek characters turns into an ogre at night?
+
+- [x] Princess Fiona
+- [ ] Donkey
+- [ ] Farquaad
+
+#### What famous speech was delivered on August 28th, 1963?
+
+- [ ] The Gettysburg Address
+- [x] I Have A Drean
+- [ ] We Shall Fight
+
+#### "Camelot" was used to describe the administration of which 1960's President?
+
+- [ ] Lyndon B. Johnson
+- [ ] Richard Nixon
+- [x] John F. Kennedy
+
+#### In February of 1964, The Beatles made three famous appearances on what variety show?
+
+- [ ] Hullabaloo
+- [ ] The Jackie Gleason Show
+- [x] The Ed Sullivan Show
+
+#### Which of the following people was NOT one of the Chicago 7?
+
+- [ ] Jerry Rubin
+- [x] Huey P. Newton
+- [ ] David Dellinger
+
+#### What flare legged pants became a fashion craze in the 1060s?
+
+- [x] Bell Bottoms
+- [ ] Short Shorts
+- [ ] Cargo Pants
+
+#### When Richard Nixon appeared on "Laugh-IN", what line did he utter?
+
+- [ ] "Here comes the judge!"
+- [x] "Sock it to me?"
+- [ ] "You bet your sweet bippy!"
+
+#### Mary Tyler Moore became famous starring in which 60's sitcom?
+
+- [ ] Green Acres
+- [ ] My Three Sons
+- [x] The Dick Van Dyke Show
+
+#### At the 1967 Monterey Music Festival, how did Jimi Hendrix end his set?
+
+- [x] Lighting his guitar on fire
+- [ ] Playing the National Anthem
+- [ ] Throwing his guitar into the crowd
+
+#### What "Three Days of Peace and Music" festival took place from August 15th to August 18th, 1969?
+
+- [ ] Bonnaroo
+- [x] Woodstock
+- [ ] Lollapalooza
+
+#### What NASA mission landed the first men on the moon?
+
+- [x] Apollo 11
+- [ ] Gemini 2
+- [ ] Mercury 4
