@@ -33942,3 +33942,45 @@
 - [x] Apollo 11
 - [ ] Gemini 2
 - [ ] Mercury 4
+
+#### Who was NOT part of the recording of "Do They Know It's Christmas?"
+
+- [ ] Kool and the Gang
+- [ ] The Style Council
+- [x] Rick Astley
+
+#### What children's story is about a puppet who wants to be a real boy?
+
+- [ ] Rapunzel
+- [ ] Yertle the Turtle
+- [x] Pinocchio
+
+#### What are cookbooks typically filled with?
+
+- [x] Recipies
+- [ ] Schematics
+- [ ] Prescriptions
+
+#### Bort are bits of what gem?
+
+- [x] Diamond
+- [ ] Ruby
+- [ ] Emerald
+
+#### How many days are in a leap year?
+
+- [ ] 365
+- [x] 366
+- [ ] 364
+
+#### Elmo, Big Bird, and Cookie Monster can be found on what TV show?
+
+- [ ] Smash
+- [x] Sesame Street
+- [ ] Unsolved Mysteries
+
+#### Which of these events happened first?
+
+- [x] United Nations founded
+- [ ] The Vietnam War
+- [ ] Operation: Desert Storm
