@@ -33984,3 +33984,63 @@
 - [x] United Nations founded
 - [ ] The Vietnam War
 - [ ] Operation: Desert Storm
+
+#### Martin Sheen played president Jed Bartlet on what TV show?
+
+- [ ] 24
+- [ ] Scandal
+- [x] The West Wing
+
+#### Who has led the Kansas City Chiefs to three of their Super Bowl victories?
+
+- [ ] Joe Montana
+- [ ] Dak Prescott
+- [x] Patrick Mahomes
+
+#### What kind of dish is a Goulash?
+
+- [ ] Pastry
+- [x] Stew
+- [ ] Casserole
+
+#### By unadjusted domestic box office, which of these 1960s films made the most?
+
+- [ ] Goldfinger
+- [ ] The Jungle Book
+- [x] The Sound of Music
+
+#### What is the only band to play on all seven continents?
+
+- [x] Metallica
+- [ ] U2
+- [ ] The Rolling Stones
+
+#### MTV launched what reality show about strangers picked to live in a house?
+
+- [ ] Road Rules
+- [ ] Yo! MTV Raps
+- [x] The Real World
+
+#### In March of 2024, public libraries in Worcester, Massachusetts wiped certain fines from people's accounts in exhcange for what?
+
+- [ ] Baked goods
+- [x] Cat Pictures
+- [ ] Compliments
+
+#### In which country was the potato first domesticated?
+
+- [ ] Ireland
+- [ ] Mexico
+- [x] Peru
+
+#### In "Boom Boom Pow", Fergie says she's so 3008, and you're what?
+
+- [ ] A rat fink
+- [x] 2000 and Late
+- [ ] Walkin' on sunshine
+
+#### What kind of animal is the video game character Sonic?
+
+- [ ] Cat
+- [x] Hedgehog
+- [ ] Fox
