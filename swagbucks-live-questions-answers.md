@@ -34044,3 +34044,33 @@
 - [ ] Cat
 - [x] Hedgehog
 - [ ] Fox
+
+#### Freedom, Freckles, Kat, and Molly are spokes-cows for what product?
+
+- [ ] Aflac
+- [ ] 9Lives
+- [x] Chick-Fil-A
+
+#### Which NBA team almost changed their name to the Swamp Dragons?
+
+- [ ] Orlando Magic
+- [ ] New Orleans Pelicans
+- [x] Brooklyn Nets
+
+#### How long does it take for a blood cell to make a complete circuit of the human body?
+
+- [x] 60 seconds
+- [ ] 10 minutes
+- [ ] 1 hour
+
+#### On which game show are the answers given in the form of questions?
+
+- [x] Jeopardy
+- [ ] Who Wants to Be A Millionaire?
+- [ ] Wheel of Fortune
+
+#### "Within the Woods" was a short film made to sell investors on what feature film?
+
+- [ ] Friday the 13th
+- [ ] The Blair Witch Project
+- [x] The Evil Dead
