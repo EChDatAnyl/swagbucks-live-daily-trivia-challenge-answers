@@ -34074,3 +34074,39 @@
 - [ ] Friday the 13th
 - [ ] The Blair Witch Project
 - [x] The Evil Dead
+
+#### Who was the first explorer to sail directly from Europe to India?
+
+- [ ] Sir Francis Drake
+- [ ] Juan Ponce de Leon
+- [x] Vasco da Gama
+
+#### What actor had a cameo as a First Order Trooper in Star Wars: The Last Jedi?
+
+- [ ] Leonardo DiCaprio
+- [ ] Bill Hader
+- [x] Tom Hardy
+
+#### Elsa Lanchester played the bride of which Universal Monster?
+
+- [ ] Wolfman
+- [ ] Dracula
+- [x] Frankenstein
+
+#### Which of these events happened during BC or BCE?
+
+- [ ] Spanish-American War
+- [ ] Internet launches
+- [x] Construction on Great Wall of China begins
+
+#### In which sport do you roll strikes and spares?
+
+- [x] Bowling
+- [ ] Curling
+- [ ] Bobsled
+
+#### Which of these bands has won the most Grammys?
+
+- [x] Foo Fighters
+- [ ] The Rolling Stones
+- [ ] Fleetwood Mac
