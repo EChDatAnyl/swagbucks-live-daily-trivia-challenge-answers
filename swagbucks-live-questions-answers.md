@@ -34152,3 +34152,39 @@
 - [ ] Lassie
 - [ ] Petey
 - [x] Rin Tin Tin
+
+#### Kanye West, Snoop Dogg, and Drake all make music in what genre?
+
+- [x] Hip-Hop
+- [ ] IHOP
+- [ ] Hop To It
+
+#### Eggnog's two primary ingredients are egg and what?
+
+- [x] Milk
+- [ ] Soda
+- [ ] Caramel
+
+#### Which of these words refers to something being peculiar?
+
+- [ ] Average
+- [x] Idiosyncratic
+- [ ] Expected
+
+#### Lady Gaga's 'Telephone' and Rihanna's 'Umbrella' were both originally written for which other pop singer?
+
+- [ ] Christina Aguilera
+- [x] Britney Spears
+- [ ] Justin Timberlake
+
+#### What do you put in a drink to make it colder?
+
+- [ ] Fire
+- [ ] Some hard work
+- [x] Ice
+
+#### What board game has pieces like the race car, thimble, and dog?
+
+- [x] Monopoly
+- [ ] Life
+- [ ] Checkers
