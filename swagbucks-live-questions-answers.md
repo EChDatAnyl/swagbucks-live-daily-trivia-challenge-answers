@@ -34110,3 +34110,45 @@
 - [x] Foo Fighters
 - [ ] The Rolling Stones
 - [ ] Fleetwood Mac
+
+#### Who led the Buccaneers to a Super Bowl victory on February 7th, 2021?
+
+- [x] Tom Brady
+- [ ] Patrick Mahomes
+- [ ] Jalen Hurts
+
+#### Beau Brummell is responsible for the popularity of what fashion trend?
+
+- [ ] Miniskirts
+- [ ] The goatee
+- [x] Suit and tie
+
+#### Which of the following horses was NOT a Kentucky Derby winner?
+
+- [x] Lookout Below
+- [ ] War Emblem
+- [ ] Mine That Bird
+
+#### Whose "Gospel of Wealth" argues that the rich have an obligation to distribute their wealth for society?
+
+- [x] Andrew Carnegie
+- [ ] Karl Marx
+- [ ] Plato
+
+#### In March of 2019, Disney officially purchased which "Simpsons" and "Family Guy" studio?
+
+- [ ] Paramount
+- [ ] Universal
+- [x] Fox
+
+#### Which of the following was NOT part of Disney World's Bicentennial celebration "American on Parade"?
+
+- [ ] A giant sandwich
+- [ ] Covered Wagons
+- [x] A singing eagle
+
+#### Which dog was rumored to have earned more votes for the 1929 Best Actor Oscar than any human?
+
+- [ ] Lassie
+- [ ] Petey
+- [x] Rin Tin Tin
