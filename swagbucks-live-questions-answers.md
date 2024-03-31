@@ -34188,3 +34188,39 @@
 - [x] Monopoly
 - [ ] Life
 - [ ] Checkers
+
+#### What sport are you competing in if you win a 50-yard dash?
+
+- [ ] Curling
+- [x] Running
+- [ ] Baking
+
+#### Santa Claus is also known as which saint?
+
+- [ ] Saint Andrew
+- [x] Saint Nicholas
+- [ ] Saint George
+
+#### According to the saying, what do April Showers bring?
+
+- [ ] Austin Powers
+- [ ] Fawlty Towers
+- [x] May Flowers
+
+#### Where was the first fast food burger chain founded?
+
+- [ ] California
+- [ ] Illinois
+- [x] Kansas
+
+#### What kind of movie requires special glasses to enjoy?
+
+- [ ] Drive-in
+- [ ] Documentary
+- [x] 3D
+
+#### Once bitten, what transforms Larry Talbot into the Wolfman?
+
+- [ ] A Half Moon
+- [x] A Full Movie
+- [ ] A Lunar Eclipse
