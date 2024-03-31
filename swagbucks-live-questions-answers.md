@@ -34222,5 +34222,41 @@
 #### Once bitten, what transforms Larry Talbot into the Wolfman?
 
 - [ ] A Half Moon
-- [x] A Full Movie
+- [x] A Full Moon
 - [ ] A Lunar Eclipse
+
+#### What music compilation series launched in 1998?
+
+- [ ] Solid Gold!
+- [ ] Just the #1's!
+- [x] Now That's What I Call Music!
+
+#### High School teacher Leonard Skinner inspired the name of what rock band?
+
+- [ ] The Beatles
+- [x] Lynyrd Skynyrd
+- [ ] The Who
+
+#### Whose mother famously owned L.A.'s "The Comedy Store"?
+
+- [x] Pauly Shore
+- [ ] Jason Sudeikis
+- [ ] Sarah Silverman
+
+#### Which Sesame Street character is best known for counting things?
+
+- [ ] Elmo
+- [ ] Big Bird
+- [x] The Count
+
+#### Who tried to conquer the world as the leader of the Mongol Empire?
+
+- [ ] Julius Caesar
+- [x] Genghis Khan
+- [ ] Napoleon
+
+#### Ziggy Stardust was an alter ego for which rocker?
+
+- [ ] John Lennon
+- [ ] Gene Simmons
+- [x] David Bowie
