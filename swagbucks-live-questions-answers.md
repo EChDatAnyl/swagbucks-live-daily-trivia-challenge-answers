@@ -34296,3 +34296,39 @@
 - [ ] World War I
 - [x] U.S. Civil War
 - [ ] Korean War
+
+#### In French, what does "arret" mean?
+
+- [ ] Go
+- [x] Stop
+- [ ] Run
+
+#### Which king did Josephe Jeanne Marie Antoinette von Habsburg-Lorraine marry?
+
+- [ ] Charles VII
+- [ ] Henry VIII
+- [x] Louis XVI
+
+#### In French, what does "Merci Beaucoup" mean?
+
+- [ ] Hello
+- [x] Thank you very much
+- [ ] Where is the bathroom?
+
+#### What game is played in the Main Event of the World Series of Poker?
+
+- [ ] Go Fish
+- [x] No-Limit Hold 'Em
+- [ ] Gin Rummy
+
+#### In 2006, which planet in our solar sytem was reclassified as a Dwarf Planet?
+
+- [ ] Earth
+- [x] Pluto
+- [ ] The Sun
+
+#### Guillermo is the secruity guard and sidekick to which talk show host?
+
+- [ ] Jimmy Fallon
+- [ ] Stephen Colbert
+- [x] Jimmy Kimmel
