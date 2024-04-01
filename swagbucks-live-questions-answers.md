@@ -34260,3 +34260,39 @@
 - [ ] John Lennon
 - [ ] Gene Simmons
 - [x] David Bowie
+
+#### Violin and cello are both parts of what orchestra section?
+
+- [ ] Woodwinds
+- [x] Strings
+- [ ] Brass
+
+#### Which of these companies is known for making toys?
+
+- [ ] Exxon
+- [x] Hasbro
+- [ ] Dole
+
+#### What Elizabeth Gilbert novel was turned into a movie starring Julia Roberts?
+
+- [ ] Lather Rinse Repeat
+- [ ] Snap Crackle Pop
+- [x] Eat Pray Love
+
+#### Who plays Bridget's boss in "Bridget Jones's Diary"?
+
+- [x] Hugh Grant
+- [ ] Colin Firth
+- [ ] James Callis
+
+#### "Bring It On" is a movie about what sport?
+
+- [ ] Baseball
+- [ ] Wrestling
+- [x] Cheerleading
+
+#### General Robert E Lee was a notable figure during which war?
+
+- [ ] World War I
+- [x] U.S. Civil War
+- [ ] Korean War
