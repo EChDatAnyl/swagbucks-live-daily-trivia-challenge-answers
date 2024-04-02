@@ -34398,3 +34398,39 @@
 - [ ] Dan Aykroyd
 - [x] John Candy
 - [ ] John Belushi
+
+#### What breed is the Guinness World Record holder for Shortest Cat?
+
+- [ ] Tabby
+- [x] Munchkin
+- [ ] Exotic Shorthair
+
+#### Drew Barrymore famously starred in what movie as a child?
+
+- [ ] Star Wars
+- [x] E.T.
+- [ ] Raiders of the Lost Ark
+
+#### What game involves people trying to guess something a person sees in the area?
+
+- [ ] Double Dutch
+- [x] I Spy
+- [ ] Red Rover
+
+#### What do you do on Spotify?
+
+- [ ] Get dressed
+- [ ] Order food
+- [x] Listen to music
+
+#### Which Michael J Fox film was filmed first?
+
+- [ ] Back to the Future
+- [x] Teen Wolf
+- [ ] Light of Day
+
+#### The Guiness World Record holder for largest LEGO sculpture is a model of what?
+
+- [ ] Statue of Liberty
+- [ ] The planet Earth
+- [x] London Tower Bridge
