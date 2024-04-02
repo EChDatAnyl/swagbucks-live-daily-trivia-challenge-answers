@@ -34332,3 +34332,69 @@
 - [ ] Jimmy Fallon
 - [ ] Stephen Colbert
 - [x] Jimmy Kimmel
+
+#### What country calls Cairo its capital?
+
+- [x] Egypt
+- [ ] Ghana
+- [ ] Italy
+
+#### Barack Obama's 2008 Presidential campaign used what chant to fire up crowds?
+
+- [x] Yes We Can
+- [ ] Have
+- [ ] Won't
+
+#### What French city is home to a well-known international film festival?
+
+- [ ] Telluride
+- [x] Cannes
+- [ ] Park City
+
+#### When Popeye consumes spinach, from what container does he usually get it?
+
+- [ ] Box
+- [ ] Bag
+- [x] Tin Can
+
+#### Someone with a positive apporoach to solutions is said to have a "what"-do attitude?
+
+- [ ] Will
+- [x] Can
+- [ ] Should
+
+#### Oscar the Grouch lives in what kind of home?
+
+- [x] Garbage Can
+- [ ] Condominium
+- [ ] Yurt
+
+#### If you're planning to do somehtings that's much more complicated that you realize, you're opening a ___ of worms
+
+- [ ] Tube
+- [x] Can
+- [ ] Tupperware
+
+#### Former MLB pitcher Dennis Boyd went by what nickname?
+
+- [ ] Fireball
+- [ ] Slow Throw
+- [x] Oil Can
+
+#### What music hall dance born in the 1840s is still used in French cabaret performances today?
+
+- [x] Can-can
+- [ ] Kickline
+- [ ] Do-si-do
+
+#### What song by The Who was the theme song for CSI: Cyber?
+
+- [ ] My Generation
+- [ ] Happy Jack
+- [x] I Can See For Miles
+
+#### What comedian starred in movies like Uncle Buck, Cool Runnings, and Rookie of the Year?
+
+- [ ] Dan Aykroyd
+- [x] John Candy
+- [ ] John Belushi
