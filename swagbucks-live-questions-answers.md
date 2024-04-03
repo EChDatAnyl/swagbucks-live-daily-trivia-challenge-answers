@@ -34524,3 +34524,39 @@
 - [ ] Merry-Go-Round
 - [ ] Gravitron
 - [x] Roller Coaster
+
+#### How many gallons are in an ounce?
+
+- [ ] 1/64
+- [x] 1/128
+- [ ] 1/16
+
+#### Palmolive and Dawn are brands of what?
+
+- [ ] Men's clothing
+- [x] Dish soap
+- [ ] Tires
+
+#### Who is credited with inventing the first mass-produced helicopter?
+
+- [ ] Gottlieb Daimler
+- [x] Igor Sikorsky
+- [ ] Elmer Sperry
+
+#### In what year did Louis Reard unveil the bikini?
+
+- [ ] 1939
+- [x] 1946
+- [ ] 1951
+
+#### What bygone tradition is mentioned in the song "It's the Most Wonderful Time of the Year"?
+
+- [ ] Drinking wassail
+- [ ] Parlor Games
+- [x] Ghost Stories
+
+#### In the original "Anchorman", which channel is not involved in the street fight?
+
+- [ ] Channel 9
+- [ ] Channel 2
+- [x] Channel 7
