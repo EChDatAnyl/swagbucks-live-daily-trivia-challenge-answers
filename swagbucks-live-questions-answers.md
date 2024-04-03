@@ -34434,3 +34434,93 @@
 - [ ] Statue of Liberty
 - [ ] The planet Earth
 - [x] London Tower Bridge
+
+#### P.T. Selbit is the man behind what performance innovation?
+
+- [x] Sawing a person in half
+- [ ] Mime
+- [ ] The spotlight
+
+#### Which "Seinfeld" character's first name is Cosmo?
+
+- [x] Kramer
+- [ ] Newman
+- [ ] The Soup Nazi
+
+#### Which book has a chapter titled "Gryffindor Versus Ravenclaw"?
+
+- [ ] Goblet of Fire
+- [ ] Chamber of Secrets
+- [x] Prisoner of Azkaban
+
+#### Which of the following films is NOT part of the Marvel Cinematic Universe?
+
+- [ ] Captain Marvel
+- [ ] Iron Man 3
+- [x] Oppenheimer
+
+#### Complete this common phrase: "Better late than..."
+
+- [ ] Early
+- [x] Never
+- [ ] Ovaltine
+
+#### What shape are Cheez-Its crackers?
+
+- [ ] Circle
+- [x] Square
+- [ ] Triangle
+
+#### The Brooklyn Bridge connects Brooklyn to which other borough?
+
+- [x] Manhattan
+- [ ] Staten Island
+- [ ] Queens
+
+#### Who was the middle daughter on "The Brady Bunch"?
+
+- [ ] Marcia
+- [x] Jan
+- [ ] Cindy
+
+#### Meryl Streep once briefly considered what career over acting?
+
+- [x] Lawyer
+- [ ] Doctor
+- [ ] Teacher
+
+#### Which of the following is a Summer Olympics event?
+
+- [ ] Snowboarding
+- [ ] Luge
+- [x] Rowing
+
+#### According to the saying, what is the soul of wit?
+
+- [x] Brevity
+- [ ] Potatoes
+- [ ] Sandals
+
+#### Out of the 24 species of hamster, how many would you find in a typical pet store?
+
+- [ ] One
+- [x] Five
+- [ ] Twelve
+
+#### A common teenage party game involves sitting in a circle and spinning what object to pair people up?
+
+- [ ] Tennis Ball
+- [ ] Piece of paper
+- [x] Bottle
+
+#### What Spider-themed superhero movie was a flop for Sony in 2024?
+
+- [ ] Spider-Man: Into the Spider-Verse
+- [x] Madame Web
+- [ ] Venom
+
+#### The famous Cyclone at Coney Island is what type of classic amusement ride?
+
+- [ ] Merry-Go-Round
+- [ ] Gravitron
+- [x] Roller Coaster
