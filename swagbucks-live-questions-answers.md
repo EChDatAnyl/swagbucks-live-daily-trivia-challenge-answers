@@ -34560,3 +34560,63 @@
 - [ ] Channel 9
 - [ ] Channel 2
 - [x] Channel 7
+
+#### In the early 2000s, Juicy Couture created a fashion trend with what?
+
+- [ ] Hairstyles
+- [ ] Beauty Marks
+- [x] Valour Sweatsuits
+
+#### Which literary character lives at 221B Baker Street?
+
+- [x] Sherlock Holmes
+- [ ] Harry Potter
+- [ ] Mister Darcy
+
+#### What soft drink branded itself as "The Uncola"?
+
+- [ ] Pepsi
+- [ ] Coca-Cola
+- [x] 7-Up
+
+#### Which of the following candies had its own breakfast cereal at one point?
+
+- [ ] Gummy Drops
+- [x] Nerds
+- [ ] Snickers
+
+#### What is the term for a solo in Opera?
+
+- [ ] Ariana
+- [ ] Ariel
+- [x] Aria
+
+#### What character has made the most appearances as a balloon in the Macy's Thanksgiving Parade?
+
+- [ ] Woody Woodpecker
+- [ ] Garfield
+- [x] Snoopy
+
+#### In which of the following playground games are the players divided into teams?
+
+- [x] Capture The Flag
+- [ ] Hopscotch
+- [ ] Foursquare
+
+#### Which of the following is one of the terms for a group of hedgehogs?
+
+- [ ] Swallow
+- [ ] Stick
+- [x] Array
+
+#### Which of the following teams plays in the NBA?
+
+- [ ] New York Giants
+- [x] New York Knicks
+- [ ] New York Rangers
+
+#### Before "Breaking Bad", Bryan Cranston played Hal, the dad on what Fox sitcom?
+
+- [ ] Herman's Head
+- [x] Malcolm in the Middle
+- [ ] Married... With Children
