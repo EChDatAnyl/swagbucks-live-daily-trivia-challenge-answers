@@ -34620,3 +34620,27 @@
 - [ ] Herman's Head
 - [x] Malcolm in the Middle
 - [ ] Married... With Children
+
+#### What style of music was Luciano Pavarotti best known for?
+
+- [ ] Rap
+- [x] Opera
+- [ ] Death Metal
+
+#### Which of the following would you use to season food?
+
+- [x] Paprika
+- [ ] Pap Smear
+- [ ] Papa Smurf
+
+#### Which of these games uses a shuttlecock in place of a ball?
+
+- [ ] Table tennis
+- [x] Badminton
+- [ ] Horseshoes
+
+#### What mineral that's good for our bones can be found in milk?
+
+- [ ] Iron
+- [x] Calcium
+- [ ] Anthracite
