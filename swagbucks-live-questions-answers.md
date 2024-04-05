@@ -34644,3 +34644,63 @@
 - [ ] Iron
 - [x] Calcium
 - [ ] Anthracite
+
+#### Korean artist Psy started a dance craze with what 2012 hit?
+
+- [ ] New Face
+- [ ] DADDY
+- [x] Gangnam Style
+
+#### What restaurant chain uses the Teppanyaki cooking method?
+
+- [ ] The Melting Pot
+- [ ] Subway
+- [x] Benihana
+
+#### What does the phrase "hitting the nail on the head" mean?
+
+- [x] Being exactly right
+- [ ] Avoiding a decision
+- [ ] Missing the point
+
+#### According to Box Office Mojo, "Titanic" was the highest grossing film worldwide in the 1990's. What was #2?
+
+- [ ] Star Wars Episode I: The Phantom Menace
+- [ ] Independence Day
+- [x] Jurassic Park
+
+#### Minoru Yoshida holds what sports record
+
+- [ ] Most strikeouts in a season
+- [x] Most nonstop pushups
+- [ ] Heaviest deadlift
+
+#### What item does Linus from Peanuts always carry with him?
+
+- [ ] Teddy Bear
+- [x] Blanket
+- [ ] Pacifier
+
+#### What celebrity claimed to be the inspiration for Aerosmith's hit "I Don't Want to Miss a Thing" in their memoir
+
+- [ ] Steven Tyler
+- [x] Barbra Streisand
+- [ ] Princess Diana
+
+#### What toy company popularized the phrase "action figure"?
+
+- [x] Hasbro
+- [ ] Mattel
+- [ ] Kenner
+
+#### Nicole Kidman and Evan McGregor starred in what muovie musical?
+
+- [ ] Chicago
+- [x] Moulin Rogue
+- [ ] La La Land
+
+#### "Island in the Stream" is a duet with Kenny Rogers and what other country singer?
+
+- [x] Dolly Parton
+- [ ] Reba McEntire
+- [ ] Wynonna Judd
