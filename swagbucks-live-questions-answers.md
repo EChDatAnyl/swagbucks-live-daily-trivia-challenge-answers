@@ -34704,3 +34704,81 @@
 - [x] Dolly Parton
 - [ ] Reba McEntire
 - [ ] Wynonna Judd
+
+#### What makes a phrase a double entendre?
+
+- [ ] It repeats itself
+- [ ] It only uses two words
+- [x] It has two meanings
+
+#### According to the saying, "Every cloud has a" what?
+
+- [x] Silver linging
+- [ ] Silver spoon
+- [ ] A pillow
+
+#### What is Oprah Winfrey's zodiac sign?
+
+- [ ] Taurus
+- [x] Aquarius
+- [ ] Gemini
+
+#### Which stae's official bird is named after another state?
+
+- [x] Utah
+- [ ] Colorado
+- [ ] Rhode Island
+
+#### Samuel Langhorne Clemens is better known by which pen name?
+
+- [ ] Richard Bachman
+- [x] Mark Twain
+- [ ] Logan Swanson
+
+#### Which Disney animated film takes place in Ancident Greece?
+
+- [x] Hercules
+- [ ] Tangled
+- [ ] Frozen
+
+#### What weather phenomenon gets its name for the Spanish for "little boy"?
+
+- [x] El Nino
+- [ ] Tornado
+- [ ] Blizzard
+
+#### Which U.S. State is made up entirely of islands?
+
+- [ ] Alaska
+- [x] Hawaii
+- [ ] Rhode Island
+
+#### Who wrote the novel "The Chocolate War"?
+
+- [x] Robert Cormier
+- [ ] Roald Dahl
+- [ ] Herman Wouk
+
+#### Where would you find the official world clock?
+
+- [ ] Berlin, Germany
+- [x] Greenwich, England
+- [ ] Venver, Colorado
+
+#### Which band originally sang "All You Need is Love"?
+
+- [ ] The Four Tops
+- [x] The Beatles
+- [ ] Run D.M.C.
+
+#### Which of these countries is located in Europe?
+
+- [ ] Morocco
+- [x] Greece
+- [ ] Nepal
+
+#### On average, which of these weighs the most?
+
+- [ ] Boeing 747
+- [x] Cumulus cloud
+- [ ] Blue Whale
