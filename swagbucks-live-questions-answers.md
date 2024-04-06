@@ -34782,3 +34782,51 @@
 - [ ] Boeing 747
 - [x] Cumulus cloud
 - [ ] Blue Whale
+
+#### What New Mexico town is named for a radio program from the 1940s?
+
+- [x] Truth or Consequences
+- [ ] Password
+- [ ] Good News
+
+#### Which author's dog once literally ate his work?
+
+- [ ] Mark Twain
+- [x] John Steinbeck
+- [ ] William Faulkner
+
+#### Which of these is the title of a Futurama episode?
+
+- [x] Law and Oracle
+- [ ] Frink Gets Testy
+- [ ] The Last Fraction Hero
+
+#### Lentils are a type of what?
+
+- [x] Legume
+- [ ] Corn
+- [ ] Pastry
+
+#### Which of these plays is best known as a musical?
+
+- [ ] The Cherry Orchard
+- [ ] Hamlet
+- [x] West Side Story
+
+#### Which Disney movie features the song "I'll Make A Man Out Of You"?
+
+- [ ] Cinderella
+- [x] Mulan
+- [ ] Lady and the Tramp
+
+#### What flower is customarily worn on Memorial Day?
+
+- [ ] Red Roses
+- [ ] Red Daishies
+- [x] Red Poppies
+
+#### Which of these restaurant chains is known for their buffet?
+
+- [ ] Olive Garden
+- [ ] Outback Steakhouse
+- [x] Golden Corral
