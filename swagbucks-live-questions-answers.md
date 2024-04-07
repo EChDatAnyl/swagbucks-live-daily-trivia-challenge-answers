@@ -34830,3 +34830,33 @@
 - [ ] Olive Garden
 - [ ] Outback Steakhouse
 - [x] Golden Corral
+
+#### Winning the Preakness Stakes, Belmont Stakes, and Kentucky Derby is known as what racing achievement?
+
+- [ ] Triple Threat
+- [ ] Triple Play
+- [x] Triple Crown
+
+#### "Back in Black" and "Thunderstruck" are songs by what band?
+
+- [ ] Megadeth
+- [ ] Bauhaus
+- [x] AC/DC
+
+#### What cable channel now airs first run episodes of "Sesame Street"?
+
+- [ ] TNT
+- [ ] Lifetime
+- [x] HBO
+
+#### What is the name of Captain Hook's sidekick in "Peter Pan"?
+
+- [ ] Mr. Gee
+- [x] Mr. Smee
+- [ ] Mr. Lee
+
+#### The Denver Nuggets, Portland Trailblazers and Miami Heat all play what sport?
+
+- [ ] Honkey
+- [ ] Baseball
+- [x] Basketball
