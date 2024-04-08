@@ -34860,3 +34860,51 @@
 - [ ] Honkey
 - [ ] Baseball
 - [x] Basketball
+
+#### Which of these Disney animated characters first appeared in the 1980s?
+
+- [x] Flounder
+- [ ] Cogsworth
+- [ ] Cinderella
+
+#### Biochemist Patrick O. Brown is most famous for inventing what?
+
+- [x] The Impossible Burger
+- [ ] Insulin
+- [ ] GMOs
+
+#### What is the name of Peter Pan's fairy pal?
+
+- [x] Tinkerbell
+- [ ] Doorbell
+- [ ] Belle of the ball
+
+#### What does "O Tannenbaum" translate to in English?
+
+- [ ] O Holy Night
+- [x] O Christmas Tree
+- [ ] O Fortuna
+
+#### According to Rotten Tomatoes, what is the worst movie of all time?
+
+- [ ] Problem Child
+- [x] Ballistic: Ecks Vs. Sever
+- [ ] One Missed Call
+
+#### The butterfly, crawl, and breaststroke are all used in which sport?
+
+- [x] Swimming
+- [ ] Auto racing
+- [ ] Karate
+
+#### A grotesque of what pop culture figure adorns the Washington National Cathedral?
+
+- [x] Darth Vader
+- [ ] Kermit the Frog
+- [ ] Count Chocula
+
+#### Which of the following words is an adverb?
+
+- [ ] Fort
+- [ ] Stoic
+- [x] Gently
