@@ -22905,7 +22905,7 @@
 
 #### Which of these shows took place in and around the White House?
 
-- [x] Step By Step
+- [ ] Step By Step
 - [x] The West Wing
 - [ ] News Radio
 
@@ -34908,3 +34908,93 @@
 - [ ] Fort
 - [ ] Stoic
 - [x] Gently
+
+#### What is Dirty Harry's last name?
+
+- [x] Callahan
+- [ ] McMessypants
+- [ ] Harrydirtyman
+
+#### Justin Timberlake came from what boy group?
+
+- [ ] Backstreet Boys
+- [x] NSYNC
+- [ ] O-Town
+
+#### Which part of a cow's stomach compressed food into cud?
+
+- [ ] Omasum
+- [ ] Abomasum
+- [x] Rumen
+
+#### Who was the winner of the 1994 World Series?
+
+- [ ] New York Yankees
+- [x] No one
+- [ ] Atlanta Braves
+
+#### Which Disney Channel character is a girl with psychic powers?
+
+- [ ] Andi Mack
+- [ ] Kim Possible
+- [x] Raven Baxter
+
+#### Sacramental bread is also known by what name?
+
+- [x] Communion Water
+- [ ] Sourdough Starter
+- [ ] Pizza Pocket
+
+#### What impish child has had his own comic strip since 1951?
+
+- [ ] Calvin & Hobbes
+- [ ] Big Nate
+- [x] Dennis the Menace
+
+#### Lionel Richie got his start as a member of what group?
+
+- [ ] The Temptations
+- [ ] The Jackson 5
+- [x] Commodores
+
+#### With the exception of the goalkeeper, what are water polo players not allowed to touch?
+
+- [ ] The ball
+- [x] The bottom of the pool
+- [ ] One another
+
+#### What does Ms. Pac-Man wear on her head?
+
+- [ ] Hat
+- [x] Bow
+- [ ] Wig
+
+#### Which of the following animals cannot swim?
+
+- [x] Hippopotamus
+- [ ] Rhinoceros
+- [ ] Wolverine
+
+#### Which of the following wines is a white wine?
+
+- [ ] Merlot
+- [ ] Cabernet Sauvignon
+- [x] Sauvignon Blanc
+
+#### Which of the following cities has not been the subject of a "CSI" spinoff series?
+
+- [ ] Miami
+- [x] Cleveland
+- [ ] New York
+
+#### What cereal brand claims that it stays crunchy, even in milk?
+
+- [x] Cap'n Crunch
+- [ ] Corn Flakes
+- [ ] Cheerios
+
+#### Copenhagen is the capital of which European nation?
+
+- [ ] Sweden
+- [x] Denmark
+- [ ] Austria
