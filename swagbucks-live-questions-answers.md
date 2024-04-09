@@ -34998,3 +34998,51 @@
 - [ ] Sweden
 - [x] Denmark
 - [ ] Austria
+
+#### In which video game do you try to arrange falling shapes into lines?
+
+- [ ] Tron
+- [x] Tetris
+- [ ] Splatterhouse
+
+#### What is the term for abruptly cutting off all contact with another person?
+
+- [x] Ghosting
+- [ ] Wolfman-ing
+- [ ] Dracula-ing
+
+#### Which of these social media apps was created in China?
+
+- [ ] YouTube
+- [ ] Twitter
+- [x] TikTok
+
+#### Funshine, Tender Heart, and Good Luck are the names of toys from what toy line?
+
+- [ ] M.A.S.K.
+- [ ] Centurions
+- [x] Care Bears
+
+#### Which of these films was NOT listed by the writers of "Everything Everywhere All At Once" as an influence of their movie?
+
+- [ ] Jackass
+- [x] Doctor Strange in the Multiverse of Madness
+- [ ] It's a Wonderful Life
+
+#### Who once took communion on the Moon?
+
+- [ ] Neil Armstrong
+- [ ] Alan Shepard
+- [x] Buzz Aldrin
+
+#### Who won their first WWE World Championship in April of 2000, only to have it reversed later that night?
+
+- [ ] Eddie Guerrero
+- [x] Chris Jericho
+- [ ] Jeff Hardy
+
+#### Which of these is not a common Valentine's Day gift?
+
+- [ ] Flowers
+- [x] Pancake Dinner
+- [ ] Chocolates
