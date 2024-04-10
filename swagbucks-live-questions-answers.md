@@ -35046,3 +35046,63 @@
 - [ ] Flowers
 - [x] Pancake Dinner
 - [ ] Chocolates
+
+#### What pasta shape is traditionally paired with cheese to create a classic comfort food?
+
+- [ ] Fusilli
+- [ ] Linguine
+- [x] Macaroni
+
+#### Which of the following is a cookie brand?
+
+- [x] Chips Ahoy
+- [ ] Chips Avast
+- [ ] Arr! Chips!
+
+#### Meatlof is usually served with what side dish?
+
+- [ ] Jelly Beans
+- [x] Mashed potatoes
+- [ ] Tofu
+
+#### Bisquick offers a mix to make which breakfast comfort food?
+
+- [x] Pancakes
+- [ ] Raisin Bran
+- [ ] Omelets
+
+#### During which war did potato chips briefly go extinct in the U.S.?
+
+- [ ] World War I
+- [x] World War III
+- [ ] Spanish-American War
+
+#### What topping usually goes on mashed potatoes?
+
+- [ ] Ice Cream
+- [ ] Spinach
+- [x] Gravy
+
+#### Chuck Monkey, Americone Dream and Mint Chocolate Cookie are ice cream flavors from what company?
+
+- [ ] Blue Bell
+- [x] Ben & Jerry's
+- [ ] Breyers
+
+#### What month is National Soup Month in the U.S.?
+
+- [x] January
+- [ ] December
+- [ ] November
+
+#### In Cincinnati, what sometimes spicy comfort food is served over spaghetti?
+
+- [ ] Chocolate pudding
+- [ ] Jello
+- [x] Chili
+
+#### Borscht is a comfort food soup made from what vegetable?
+
+- [x] Beets
+- [ ] Carrots
+- [ ] Celery
