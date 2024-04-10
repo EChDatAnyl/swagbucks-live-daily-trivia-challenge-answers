@@ -35106,3 +35106,51 @@
 - [x] Beets
 - [ ] Carrots
 - [ ] Celery
+
+#### Barber Marx Sizemore was sued by which famous client for selling their hair clippings?
+
+- [ ] Jay-Z
+- [ ] Donald Trump
+- [x] Neil Armstrong
+
+#### In the 90s, Madonna dated what flamboyant NBA player?
+
+- [x] Dennis Rodman
+- [ ] Tim Duncan
+- [ ] Derrick Coleman
+
+#### Which of these shows did NOT premiere in the 1970s?
+
+- [ ] All in the Family
+- [ ] M*A*S*H
+- [x] Gimme a Break!
+
+#### Lindsey Vonn is famous for competing in what sport?
+
+- [ ] Basketball
+- [ ] Track
+- [x] Skiing
+
+#### Which of these words refers to an excessive amount of something?
+
+- [x] Plethora
+- [ ] Scant
+- [ ] Dearth
+
+#### Which of hte following Billy Joel videos did NOT feature Christie Brinkley?
+
+- [ ] Uptown Girl
+- [x] The Longest Time
+- [ ] Matter of Trust
+
+#### Which toy line features Skeletor and He-Man?
+
+- [ ] Gobots
+- [ ] Starwberry Shortcake
+- [x] Masters of the Universe
+
+#### "Doctors", "Surgeons", and "Complications" were all early ideas for the title of what show?
+
+- [ ] Chicago Hope
+- [ ] E.R.
+- [x] Grey's Anatomy
