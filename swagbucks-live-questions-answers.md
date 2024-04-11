@@ -35154,3 +35154,63 @@
 - [ ] Chicago Hope
 - [ ] E.R.
 - [x] Grey's Anatomy
+
+#### What famous Hollywood movie house has celebrity hand and footprints out front?
+
+- [x] TCL Chinese Theater
+- [ ] AMC Burbank 16
+- [ ] Regal Calabasas Commons
+
+#### What candy line is essentially a paper tube filled with sugar?
+
+- [ ] Rolo
+- [x] Pixie Sticks
+- [ ] Nutty Buddy
+
+#### What city forms a metroplex with Dallas?
+
+- [ ] Austin
+- [x] Fort Worth
+- [ ] Houston
+
+#### What phenomenon's name cames from the Latin for "Stand still"?
+
+- [ ] Frigid
+- [x] Solstice
+- [ ] Catatonic
+
+#### The Billboard Awards honor achievements in what medium?
+
+- [ ] TV
+- [x] Music
+- [ ] Film
+
+#### A Newton is a unit of measurement for what?
+
+- [ ] Humidity
+- [x] Force
+- [ ] Acidity
+
+#### Which of the following is NOT the title of a Star Wars video game?
+
+- [ ] Star Wars Jedi: Survivor
+- [ ] Star Wars: The Force Unleashed
+- [x] Star Wars: We're Secretly Star Trek
+
+#### On September 1st, 1969, Punta Gorda, Florida was pelted by what object falling from the sky?
+
+- [ ] Quarters
+- [x] Golf Balls
+- [ ] Feathers
+
+#### In 2023, who offered her concert film for online rental at a price of $19.89?
+
+- [ ] Ariana Grande
+- [ ] Beyonce
+- [x] Taylor Swift
+
+#### What is the name of ESPN's flagship show?
+
+- [ ] Sports Central
+- [x] SportsCenter
+- [ ] Main Event Sports Report
