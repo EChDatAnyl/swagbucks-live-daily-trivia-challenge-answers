@@ -35214,3 +35214,33 @@
 - [ ] Sports Central
 - [x] SportsCenter
 - [ ] Main Event Sports Report
+
+#### Who was the first American tennis player to win a singles title at Wimbledon?
+
+- [ ] Bill Tilden
+- [x] May Sutton
+- [ ] Richard Sears
+
+#### What holiday usually involves singing carols?
+
+- [ ] Memorial Day
+- [x] Christmas
+- [ ] Independence Day
+
+#### How many categories are there in a standard game of Cranium?
+
+- [x] 4
+- [ ] 10
+- [ ] 100
+
+#### In which casino game do you roll dice?
+
+- [ ] Roulette
+- [x] Craps
+- [ ] Pai Gow
+
+#### What was the first Disney animated movie adapted into a New York stage production?
+
+- [ ] Beauty and the Beast
+- [x] Snow White
+- [ ] The Liong King
