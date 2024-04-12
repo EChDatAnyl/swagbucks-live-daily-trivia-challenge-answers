@@ -35243,4 +35243,64 @@
 
 - [ ] Beauty and the Beast
 - [x] Snow White
-- [ ] The Liong King
+- [ ] The Lion King
+
+#### Jimmmy Page, John Paul Jones, Robert Plant, and John Bonham made up what rock band?
+
+- [ ] Starwberry Alarm Clock
+- [ ] The Band
+- [x] Led Zeppelin
+
+#### Who was known as the Queen of Disco?
+
+- [x] Donna Summer
+- [ ] Diana Ross
+- [ ] Aretha Franklin
+
+#### Which of the following 70s groups is made up of siblings?
+
+- [ ] The Ohio Players
+- [x] The Bee Gees
+- [ ] Commodores
+
+#### Eric Clapton's "Wonderful Tonight" was written about the same woman from which Beatles song?
+
+- [x] Something
+- [ ] I Want You (She's So Heavy)
+- [ ] Sexy Sadie
+
+#### What song by The Clash is about climate change?
+
+- [ ] Rock the Casbah
+- [x] London Calling
+- [ ] Koka Kola
+
+#### "New York State of Mind", "The Stranger", and "Only The Good Die Young" were 70s songs by which artist?
+
+- [x] Billy Joel
+- [ ] Donny Osmond
+- [ ] Isaac Hayes
+
+#### Which of the following 1970s "Girl" songs was originally about a boy?
+
+- [x] Rich Girl
+- [ ] American Girl
+- [ ] She's My Kind of Girl
+
+#### Which of the following bands did NOT have a member in the 70s supergroup Humble Pie?
+
+- [ ] Small Faces
+- [ ] The Herd
+- [x] King Crimson
+
+#### Which of these genres of music was born in the 1970s?
+
+- [ ] Rhumba
+- [ ] Jazz
+- [x] Rap
+
+#### According to the Elton John song, Saturday nights are alright for what?
+
+- [x] Fighting
+- [ ] Pac-Man
+- [ ] Salad
