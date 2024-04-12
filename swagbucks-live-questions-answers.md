@@ -35304,3 +35304,63 @@
 - [x] Fighting
 - [ ] Pac-Man
 - [ ] Salad
+
+#### Traditionally, what color does the bride wear at a wedding?
+
+- [ ] Mauve
+- [x] White
+- [ ] Yellow
+
+#### Which of these is NOT an actual He-Man action figure?
+
+- [ ] Buzz Off
+- [ ] Dragstor
+- [x] Mantis
+
+#### Which of the following animals is warm-blooded?
+
+- [ ] Alligator
+- [ ] Shark
+- [x] Gorilla
+
+#### What happens when you put two magnets of the same pole near one another?
+
+- [x] They repel
+- [ ] They attract
+- [ ] They explode
+
+#### Which of the following two-letter words is NOT legal in the U.S. version of Scrabble?
+
+- [ ] Za
+- [ ] Xu
+- [x] Zo
+
+#### Lin-Manuel Miranda won a Tony for his smash musical about which founding father?
+
+- [ ] Benjamin Franklin
+- [ ] Samuel Adams
+- [x] Alexander Hamilton
+
+#### Japanese novelist Taro Hirai wrote detective function under the phonetic pseudonym of which author?
+
+- [ ] H.P. Lovecraft
+- [ ] Mark Twain
+- [x] Edgar Allan Poe
+
+#### How many current NFL teams have not won the Super Bowl?
+
+- [x] 12
+- [ ] 13
+- [ ] 14
+
+#### 8-Ball and 9-Ball are both versions of what game?
+
+- [ ] Poker
+- [x] Billards
+- [ ] Darts
+
+#### Who had a hit in 2003 with "Up In Da Club"?
+
+- [ ] Ludacris
+- [x] 50 Cent
+- [ ] Snoop Dogg
