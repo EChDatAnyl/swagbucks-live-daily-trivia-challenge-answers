@@ -35364,3 +35364,27 @@
 - [ ] Ludacris
 - [x] 50 Cent
 - [ ] Snoop Dogg
+
+#### What miniature stuffed animals kicked off a collector's craze in the 90s?
+
+- [ ] Pound Puppies
+- [ ] Strawberry Shortcake
+- [x] Beanie Babies
+
+#### Which of these instruments would you use a pick to play?
+
+- [ ] Saxophone
+- [ ] Triangle
+- [x] Banjo
+
+#### Which of the following games is a role playing game?
+
+- [ ] Overwatch
+- [x] Dungeons & Dragons
+- [ ] Crash Bandicoot
+
+#### Which actress' poster was not featured in the movie The Shawshank Redemption?
+
+- [ ] Rita Hayworth
+- [x] Rosie O'Donnell
+- [ ] Raquel Welch
