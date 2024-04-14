@@ -35388,3 +35388,39 @@
 - [ ] Rita Hayworth
 - [x] Rosie O'Donnell
 - [ ] Raquel Welch
+
+#### Which of the following is a martial art?
+
+- [ ] Painting
+- [x] Karate
+- [ ] Tap Dancing
+
+#### Which of these courses tpyically comes before the main course?
+
+- [ ] Dessert
+- [ ] The check
+- [x] Appetizer
+
+#### Which of these toy lines started as a comic book?
+
+- [ ] Playmobil
+- [ ] Strawberry Shortcake
+- [x] Teenage Mutant Ninja Turtles
+
+#### The FBI stopped an investigation into what song's lyrics due to an inability to make out the words?
+
+- [ ] Smells Like Teen Spirit
+- [x] Louie, Louie
+- [ ] In A Gadda Da Vita
+
+#### What is the primary flavor in brownies?
+
+- [ ] Mustard
+- [x] Chocolate
+- [ ] Espresso
+
+#### Who wrote and recorded "Imagine"?
+
+- [ ] John Lennon
+- [x] John Legend
+- [ ] John Cougar Mellencamp
