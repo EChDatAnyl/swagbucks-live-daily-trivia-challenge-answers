@@ -35424,3 +35424,33 @@
 - [ ] John Lennon
 - [x] John Legend
 - [ ] John Cougar Mellencamp
+
+#### Which Roman God supposedly shoots people with a bow and arrow to make them fall in love?
+
+- [x] Cupid
+- [ ] Mars
+- [ ] Neptune
+
+#### Based on floriography, which flower would you give to someone if you're going to be late?
+
+- [x] Eupatorium
+- [ ] Nacissus
+- [ ] Geranium
+
+#### Which Stan is known for creating Spider-Man and other Marvel heroes?
+
+- [ ] Stan Laurel
+- [ ] Stan Fairbairn
+- [x] Stan Lee
+
+#### Which object is generally removed from a golf hole prior to putting?
+
+- [x] A flag
+- [ ] A rabbit
+- [ ] A series of colored handherchiefs
+
+#### What TruTV reality show features a group of comedians trying to embarrass one another in public?
+
+- [x] Impractial Jokers
+- [ ] Too Hot To Handle
+- [ ] Life of Kylie
