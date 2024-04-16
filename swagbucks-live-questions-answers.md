@@ -35556,3 +35556,33 @@
 - [ ] Megatron
 - [ ] Skyscream
 - [x] Optimus Prime
+
+#### In which of the following years did Nintendo NOT produce the one of the holiday's best selling toys?
+
+- [ ] 1989
+- [x] 1747
+- [ ] 1991
+
+#### Which of these happened the year Alexander Graham Bell patented the telephone?
+
+- [ ] Bell Telephone Company Organized
+- [x] "Wild" Bill Hickok Was Shot
+- [ ] First Kentucky Derby
+
+#### In 2000, Chris Weinke became the oldest ever Heisman winner. How old was he?
+
+- [ ] 24
+- [x] 28
+- [ ] 30
+
+#### Which of these board games features a version of a Rube Goldberg machine?
+
+- [ ] Chutes & Ladders
+- [ ] Ticket to Ride
+- [x] Mouse Trap
+
+#### In "Shakespeare in Love", what play is Shakespeare writing?
+
+- [ ] Hamlet
+- [x] Romeo & Juliet
+- [ ] Coriolanus
