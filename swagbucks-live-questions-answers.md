@@ -35454,3 +35454,105 @@
 - [x] Impractial Jokers
 - [ ] Too Hot To Handle
 - [ ] Life of Kylie
+
+#### What franchise is home to Blizzard frozen treats?
+
+- [x] Dairy Queen
+- [ ] Pinkberry
+- [ ] Rita's Italian ice
+
+#### Which of these cities doesn't have a Disney Park?
+
+- [ ] Shanghai
+- [ ] Orlando
+- [x] Poughkeepsie
+
+#### Which of these people starred in Raiders of the Lost Ark?
+
+- [ ] Goldie Hawn
+- [x] Harrison Ford
+- [ ] George Harrison
+
+#### Which of these Supreme Court Cases did NOT deal with segregation?
+
+- [x] Dred Scott v Sandford
+- [ ] Plessy v Ferguson
+- [ ] Brown v The Board of Education
+
+#### Which of these WWE Championships is the fake?
+
+- [ ] World Champion
+- [ ] Tag Team Champion
+- [x] Napping Champion
+
+#### Which of these brands is known for athletic apparel and sneakers?
+
+- [ ] Louis Vuitton
+- [ ] Zara
+- [x] New Balance
+
+#### Lord Grantham and the Dowager Countless are characters from what British show?
+
+- [ ] Ghosts
+- [x] Downton Abbey
+- [ ] Upstairs, Downstairs
+
+#### What is the name of Speed Racer's gadget-loaded car?
+
+- [ ] K.I.T.T.
+- [x] Mach Five
+- [ ] Old Faithful
+
+#### What does the license plate on Doc Brown's Delorean read?
+
+- [ ] DADDYSGRL
+- [ ] OHAITHERE
+- [x] OUTATIME
+
+#### What make and model is James Bond's most iconic car?
+
+- [x] Astron Martin DB5
+- [ ] Chevy Nova
+- [ ] Subaru Forester
+
+#### In what movie is the Family Truckster used to take a family from Chicago to Los Angeles?
+
+- [ ] Are We There Yet?
+- [x] National Lampoon's Vacation
+- [ ] Road Trip
+
+#### On "The Dukes of Hazzard", what is the name of Bo and Luke's car?
+
+- [x] The Heneral Lee
+- [ ] The General Patton
+- [ ] The General Assembly
+
+#### What number does Herbie The Love Bug have painted on him?
+
+- [ ] 12
+- [ ] 23
+- [x] 53
+
+#### In the 1960s, a 1955 Lincoln Futura concept car was turned into what super car?
+
+- [ ] Black Beauty
+- [x] The Batmobile
+- [ ] The Incredibile
+
+#### Which of the following TV/Movie cars can fly?
+
+- [ ] Furiosa's War Rig
+- [ ] Magnum Pl's Ferrari
+- [x] Chitty Chitty Bang Bang
+
+#### In the "Fast and Furous" movies, what is Dom Toretto's main car?
+
+- [ ] 1985 Porsche 911
+- [x] 1970 Dodge Charger
+- [ ] 1976 Renault 5
+
+#### Which of the following characters from the original Transformers cartoon turns into an automobile?
+
+- [ ] Megatron
+- [ ] Skyscream
+- [x] Optimus Prime
