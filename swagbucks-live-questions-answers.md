@@ -35586,3 +35586,57 @@
 - [ ] Hamlet
 - [x] Romeo & Juliet
 - [ ] Coriolanus
+
+#### If you're "pulling someone's leg", what are you doing to them?
+
+- [ ] Singing
+- [x] Joking
+- [ ] Fighting
+
+#### Who is credited with writing the epic poem "The Iliad"?
+
+- [x] Homer
+- [ ] Virgil
+- [ ] Dante Alighieri
+
+#### If Cleopatra had ruled in the country of her ancestors, what would her title have been?
+
+- [ ] Queen of Rome
+- [x] Queen of Greece
+- [ ] Queen of Japan
+
+#### In American Football, what is a Hail Mary?
+
+- [x] A pass
+- [ ] A block
+- [ ] A kick
+
+#### Which of these games centers around getting an object out of your hands as quickly as possible?
+
+- [ ] Hula Hoop
+- [ ] Dodgeball
+- [x] Hot Potato
+
+#### The Carolean Death March, Hakkodasan Disaster, and Storm of the Century were all what kind of weather event?
+
+- [x] Blizzard
+- [ ] Hurricane
+- [ ] Tsunami
+
+#### Which of the following fast food chains offers a "Drive-In" experience?
+
+- [ ] Wendy's
+- [ ] Hardee's
+- [x] Sonic
+
+#### Clogging is a style of dance most similar to what other dancing style?
+
+- [ ] Breakdancing
+- [x] Tap
+- [ ] Waltz
+
+#### When you play or sing something "Forte Fortissimo", how are you supposed to do it?
+
+- [x] Very loud
+- [ ] Very slow
+- [ ] Very quiet
