@@ -35640,3 +35640,27 @@
 - [x] Very loud
 - [ ] Very slow
 - [ ] Very quiet
+
+#### Who wrote and recorded Bohemian Rhapsody?
+
+- [ ] The Rolling Stones
+- [ ] Led Zeppelin
+- [x] Queen
+
+#### What's the name of the lion in The Chronicles of Narnia?
+
+- [ ] Mufasa
+- [ ] Simba
+- [x] Asian
+
+#### Which of these phrases means you're sick?
+
+- [x] Under the weather
+- [ ] Bent out of shape
+- [ ] On a wild goose chase
+
+#### What are you typically NOT supposed to wear after Labor Day?
+
+- [x] White
+- [ ] A ferret on your head
+- [ ] Dentures
