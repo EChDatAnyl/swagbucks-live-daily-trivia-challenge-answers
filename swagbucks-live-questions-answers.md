@@ -35719,8 +35719,44 @@
 - [ ] Gorilla
 - [ ] Buzzard
 
-#### The games Spelling Bee, Connectionsm, and Wordle can all be found in the digital version of what newspaper?
+#### The games Spelling Bee, Connections, and Wordle can all be found in the digital version of what newspaper?
 
 - [ ] USA Today
 - [x] The New York Times
 - [ ] The Philadelphia Bulletin
+
+#### The St. Pauli Girl is a mascot for what type of beverage?
+
+- [x] Beer
+- [ ] Whiskey
+- [ ] Soda
+
+#### What does the J stand for in J. Edgar Hoover?
+
+- [x] John
+- [ ] Nothing
+- [ ] Joseph
+
+#### On Friends, who played Monica's boyfriend Pete Becker?
+
+- [ ] Hank Azaria
+- [ ] Brad Pitt
+- [x] Jon Favreau
+
+#### How many noble houses are there in Westeros?
+
+- [ ] 4
+- [ ] 6
+- [x] 9
+
+#### What supernatural ceature is known for sucking blood from the body?
+
+- [x] Vampire
+- [ ] Mummy
+- [ ] Sasquatch
+
+#### Which of the following things could cause you to gumfiate?
+
+- [ ] A nap
+- [ ] Getting fired
+- [x] An allergic reaction
