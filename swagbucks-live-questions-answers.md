@@ -35664,3 +35664,63 @@
 - [x] White
 - [ ] A ferret on your head
 - [ ] Dentures
+
+#### Which pizza chain ran a long-time "Pizza Pizza" ad campaign?
+
+- [ ] Domino's
+- [ ] Pizza Hut
+- [x] Little Caesars
+
+#### "Just when you thought it was safe to go back in the water" is the tagline for what sequel?
+
+- [ ] Aliens
+- [ ] The Empire Strikes Back
+- [x] Jaws 2
+
+#### Which Los Angeles street is famous for its "Walk of Fame"?
+
+- [x] Hollywood Boulevard
+- [ ] Wilshire Boulevard
+- [ ] Ventura Boulevard
+
+#### In 1983, parents in Ohio tried to have the book "Harriet the Spy" banned on what grounds?
+
+- [ ] Suggestive language
+- [x] It taught children to lie
+- [ ] Violence
+
+#### WWE's Roman Reigns is the "cousin" of what WWE Legends?
+
+- [ ] The Undertaker
+- [ ] Kane
+- [x] The Rock
+
+#### What movie was rumored to contain a Starbucks coffee cup in every shot?
+
+- [ ] Sleepless in Seattle
+- [x] Fight Club
+- [ ] Office Space
+
+#### "Oh, my, God, Becky / Look at her butt..." is the first thing you hear at the start of what song?
+
+- [x] Baby Got Back
+- [ ] Mr. Brightside
+- [ ] Bohemian Rhapsody
+
+#### Vincent Furnier is better known by what stage name?
+
+- [x] Alice Cooper
+- [ ] Dee Snider
+- [ ] Sting
+
+#### Which of the following creatures is an amphibian?
+
+- [x] Frog
+- [ ] Gorilla
+- [ ] Buzzard
+
+#### The games Spelling Bee, Connectionsm, and Wordle can all be found in the digital version of what newspaper?
+
+- [ ] USA Today
+- [x] The New York Times
+- [ ] The Philadelphia Bulletin
