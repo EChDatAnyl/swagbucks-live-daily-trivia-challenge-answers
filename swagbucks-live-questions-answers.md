@@ -35760,3 +35760,63 @@
 - [ ] A nap
 - [ ] Getting fired
 - [x] An allergic reaction
+
+#### Which of the following restaurant chains is famous for the music memorabilia that adorns its walls?
+
+- [x] Hard Rock Cafe
+- [ ] Rainforest Cafe
+- [ ] Planet Hollywood
+
+#### Yuri Gagarin was the first person to travel to what location?
+
+- [ ] The North Pole
+- [x] Space
+- [ ] Mount Everest
+
+#### Which of the following Broadway characters wears a mask?
+
+- [x] The Phantom of the Opera
+- [ ] Alexander Hamilton
+- [ ] Elphaba
+
+#### Which of the following Australlian slang words means "great"?
+
+- [ ] Benvo
+- [x] Bonzer
+- [ ] Bogan
+
+#### Woody from "Toy Story" has a last name. What is it?
+
+- [ ] Bravo
+- [ ] Saddleback
+- [x] Pride
+
+#### 2023's "Oppenheimer" was helmed by which director?
+
+- [ ] Martin Scorsese
+- [x] Christopher Nolan
+- [ ] Kathryn Bigelow
+
+#### What musical event happened from January 28th-29th, 1985?
+
+- [x] "We Are The World" was recorded
+- [ ] Motley Crue played their first concert
+- [ ] Michael Jackson broke the all-time album sales record
+
+#### What two WWE Superstars currently star in Slim Jim commercials?
+
+- [ ] Becky Lynch and Seth Rollins
+- [x] LA Knight and Bianca Belair
+- [ ] Dominik Mysterio and Rhea Ripley
+
+#### MONACO and Ojitos Lindos are hits for which international music superstar?
+
+- [x] Bad Bunny
+- [ ] Taylor Swift
+- [ ] Rick Astley
+
+#### The Super Bowl champion St. Louis Rams were known by what nickname?
+
+- [x] The Greatest Show On Turf
+- [ ] Showtime
+- [ ] The Miracle Mets
