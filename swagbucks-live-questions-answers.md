@@ -35820,3 +35820,93 @@
 - [x] The Greatest Show On Turf
 - [ ] Showtime
 - [ ] The Miracle Mets
+
+#### Who had hit songs with Piano Man and We Didn't Start the Fire?
+
+- [ ] Elton John
+- [ ] James Taylor
+- [x] Billy Joel
+
+#### What term describes a popular and talented female opera singer?
+
+- [ ] Devo
+- [ ] Diver
+- [x] Diva
+
+#### What famous puzzle was the top-selling holiday toy of 1980?
+
+- [ ] Bop It
+- [x] Ribik's Cube
+- [ ] Simon
+
+#### Which of these movies was directed by Spike Lee?
+
+- [ ] The Godfather
+- [x] Do the Right Thing
+- [ ] Star Trek
+
+#### Olive Garden was founded by what large corporation?
+
+- [ ] Coca-Cola
+- [ ] Betty Crocker
+- [x] General Mills
+
+#### Which was NOT the name of a child on the sitcom Step-by-Step?
+
+- [x] Kimmy
+- [ ] Dana
+- [ ] Mark
+
+#### What Michigan city is synonymous with cereal?
+
+- [ ] Lansing
+- [ ] Ann Arbor
+- [x] Battle Creek
+
+#### Which of these NBA coaches didn't win a championship as both a player and coach?
+
+- [ ] Rick Carlisle
+- [ ] Billy Cunningham
+- [x] Doc Rivers
+
+#### According to Kermit the Frog's song, it's not easy being what?
+
+- [ ] A two-sport athlete
+- [ ] A five star general
+- [x] Green
+
+#### What are Klondike bars filled with?
+
+- [x] Ice Cream
+- [ ] Meat
+- [ ] Carrots
+
+#### Who is known as The Coal Miner's Daughter?
+
+- [ ] Dolly Parton
+- [ ] Tammy Wynette
+- [x] Loretta Lynn
+
+#### Yoko Ono was part of what art movement?
+
+- [x] Fluxus
+- [ ] Bauhaus
+- [ ] Les Nabis
+
+#### The original concept model for the Millenium Falcon appears in episode IV as which ship?
+
+- [ ] Land Speeder
+- [ ] Star Destroyer
+- [x] Blockade Runner
+
+#### In "Aladdin", what does Jafar turn himself into?
+
+- [x] A snake
+- [ ] A tiger
+- [ ] A sword
+
+#### Which of these items weighs more than the World's Largest Chocolate Easter Egg?
+
+- [ ] Asian Elephant
+- [x] Cruise Ship Anchor
+- [ ] Model R John Deere Tractor
