@@ -35958,3 +35958,39 @@
 - [ ] Talespin
 - [x] Marsupilami
 - [ ] The Mix-Ups
+
+#### Michael J. Fox travels back to 1955 in which 80's movie?
+
+- [ ] The Secret of My Success
+- [x] Back to the Future
+- [ ] Teen Wolf
+
+#### In 1987 which President traveled to Berlin and said "Mr. Gorbachev, tear down this wall"?
+
+- [x] Ronald Regan
+- [ ] George H.W. Bush
+- [ ] Jimmy Carter
+
+#### Which of these styles of dance only works on a hard surface?
+
+- [ ] Ballet
+- [ ] Lambada
+- [x] Tap Dancing
+
+#### In 2003, what actor won California's Gubernatorial Recall election?
+
+- [ ] Ronald Reagan
+- [x] Arnold Schwarzenegger
+- [ ] Clint Eastwood
+
+#### What type of calender do you use to count down to Christmas Day?
+
+- [ ] Crunchy
+- [x] Advent
+- [ ] Creamy
+
+#### Peter Coyote was cast in E.T. thanks to a bad audition for what other Spielberg movie?
+
+- [x] Raiders of the Lost Ark
+- [ ] Jaws
+- [ ] Close Encounters of the Third Kind
