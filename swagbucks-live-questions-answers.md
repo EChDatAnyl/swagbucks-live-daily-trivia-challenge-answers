@@ -35910,3 +35910,51 @@
 - [ ] Asian Elephant
 - [x] Cruise Ship Anchor
 - [ ] Model R John Deere Tractor
+
+#### What pop star once had a secret Insgtagram account where they rated onion rings?
+
+- [ ] Katy Perry
+- [ ] Taylor Swift
+- [x] Lorde
+
+#### Which reindeer is namechecked first in "Rudolph the Red-nosed Reindeer"?
+
+- [ ] Matt
+- [x] Dasher
+- [ ] Other Matt
+
+#### What is measured in Poise?
+
+- [ ] Fashion
+- [x] Viscosity
+- [ ] Kinetic Energy
+
+#### Noel and Liam Gallagher were members of what band?
+
+- [ ] Third Eye Blind
+- [x] Oasis
+- [ ] Lifehouse
+
+#### In addition to professional wrestling, Brock Lesnar has found success competing in which sport?
+
+- [ ] Curling
+- [ ] Tennis
+- [x] MMA
+
+#### Based on the original purpose, what would be another term for the Best Man at a weddling?
+
+- [ ] Best Substitute
+- [x] Best Kidnapper
+- [ ] Best enemy
+
+#### Who is the Roman God of Love?
+
+- [ ] Venus
+- [x] Cupid
+- [ ] Aphrodite
+
+#### "The Shnookums & Meat Funny Cartoon Show" was a spinoff of what other cartoon?
+
+- [ ] Talespin
+- [x] Marsupilami
+- [ ] The Mix-Ups
