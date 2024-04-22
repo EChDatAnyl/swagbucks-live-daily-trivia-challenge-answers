@@ -30643,7 +30643,7 @@
 - [ ] Linda Ronstadt
 - [x] Dolly Parton
 
-#### In "The Hoonies", whose treasure is everyone seeking?
+#### In "The Goonies", whose treasure is everyone seeking?
 
 - [x] One-Eyed Willy
 - [ ] Two-Eyed Thomas
@@ -35994,3 +35994,45 @@
 - [x] Raiders of the Lost Ark
 - [ ] Jaws
 - [ ] Close Encounters of the Third Kind
+
+#### The 1947 NBA Champions have won how many championships in total?
+
+- [ ] 11
+- [ ] 7
+- [x] 5
+
+#### "The Amarakosha" is a Sanskrit document that serves as an early verison of what?
+
+- [ ] An atlas
+- [x] A theasaurus
+- [ ] An encyclopedia
+
+#### What makes the "Trapper" part of the Trapper Keeper?
+
+- [ ] The trifold cover
+- [ ] Velcro
+- [x] Vertical Pockets
+
+#### In American Football, what is another term for a backwards pass?
+
+- [ ] Fumble
+- [ ] Safety
+- [x] Lateral
+
+#### Which Cameron Crowe character was based on his neighboor?
+
+- [ ] William Miller
+- [x] Lloyd Dobler
+- [ ] David Aames
+
+#### If you wanted to make a camera that had the same resolution as the human eye, what quality would it need to be?
+
+- [ ] 1024 Megapixels
+- [x] 576 Megapizels
+- [ ] 256 Megapixels
+
+#### What is Batman's alter ego?
+
+- [ ] Clark Kent
+- [x] Bruce Wayne
+- [ ] Diana Prince
