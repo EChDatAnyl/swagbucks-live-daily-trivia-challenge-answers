@@ -36036,3 +36036,111 @@
 - [ ] Clark Kent
 - [x] Bruce Wayne
 - [ ] Diana Prince
+
+#### In Fahrenheit, which of the following would be in the range of "room temperature"?
+
+- [ ] 32 degrees
+- [ ] 100 degrees
+- [x] 70 degrees
+
+#### According to the saying, how many are a crowd?
+
+- [ ] One
+- [ ] Two
+- [x] Three
+
+#### Sam and Diane were the main romance in the early years of which sitcom?
+
+- [ ] The Mary Tyler Moore Show
+- [ ] Golden Girls
+- [x] Cheers
+
+#### If Jason James Richter freed the whales from all Sea Worlds, how many States would he have to visit?
+
+- [x] 3
+- [ ] 4
+- [ ] 6
+
+#### Who said the famous quote "Float like a butterfly, sting like a bee"?
+
+- [x] Muhammad Ali
+- [ ] Mike Tyson
+- [ ] Floyd Mayweather Jr.
+
+#### What singer had hits like "Jailhouse Rock", "Blue Suede Shoes" and "Suspicious Minds"?
+
+- [ ] Marilyn Manson
+- [ ] Biggie Small
+- [x] Elvis Presley
+
+#### What brand uses the slogan "Bet you can't eat just one"?
+
+- [ ] M&Ms
+- [ ] Omaha Steaks
+- [x] Lays
+
+#### Which composer was also a Catholic priest?
+
+- [x] Antonio Vivaldi
+- [ ] George Frideric Handel
+- [ ] Fanz Liszt
+
+#### What candy bar warns "Don't let hunger happen to you"?
+
+- [x] Snickers
+- [ ] Skor
+- [ ] Clark
+
+#### Which of these pairs of candies are most similar to one another?
+
+- [ ] Cow Tales & Skittles
+- [ ] Chunky & Starburst
+- [x] Twizzlers & Red Vines
+
+#### Which of these candy brands has a gummies version?
+
+- [x] Life Savers
+- [ ] Werther's
+- [ ] Tic Tac
+
+#### Anise is a fruite whose flavor is similar to what candy?
+
+- [ ] Starlight Mints
+- [ ] Candy Buttons
+- [x] Black Licorice
+
+#### Which of the following candies contains coconut?
+
+- [x] Mounds
+- [ ] Three Musketeers
+- [ ] Milky Way
+
+#### Which of the following candies would NOT be found in a Hershey's Miniatures Candy Bar bag?
+
+- [ ] Krackel
+- [x] Abba Zabba
+- [ ] Mr. Goodbar
+
+#### Former President Ronald Reagan famously loved jelly beans. What was his favorite flavor?
+
+- [x] Licorice
+- [ ] Lemon
+- [ ] Cherry
+
+#### Warheads are what ype of flavored candy?
+
+- [x] Soul
+- [ ] Caramel
+- [ ] Chocolate
+
+#### What candy brand has bars called Tale Five and Nutrageous?
+
+- [ ] Willy Wonka
+- [x] Reese's
+- [ ] Cadbury
+
+#### During Easter, Cadbury puts out chocolate eggs filled with what?
+
+- [x] Creme
+- [ ] Funfetti
+- [ ] Nerds
