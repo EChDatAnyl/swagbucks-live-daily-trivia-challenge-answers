@@ -36144,3 +36144,33 @@
 - [x] Creme
 - [ ] Funfetti
 - [ ] Nerds
+
+#### Complete this quote credited to Yogi Berra: "It ain't over til..."
+
+- [x] It's over
+- [ ] It's midnight
+- [ ] It starts
+
+#### The "Sinner's Bible" had a misprint that encouraged what activity?
+
+- [ ] Murder
+- [ ] Theft
+- [x] Adultery
+
+#### What kind of road assesses a fee for passage?
+
+- [x] Toll road
+- [ ] Freeway
+- [ ] Access road
+
+#### Who is Tom Sawyer's best friend?
+
+- [x] Huckleberry Finn
+- [ ] Holden Caulfield
+- [ ] Harry Potter
+
+#### The song "Cotton's Dream" was re-named after what Olympic champion?
+
+- [ ] Jesse Owens
+- [x] Nadia Comaneci
+- [ ] Mary Lou Retton
