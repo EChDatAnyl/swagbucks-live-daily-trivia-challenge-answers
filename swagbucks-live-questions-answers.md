@@ -15955,37 +15955,37 @@
 - [x] Katharine Hepburn
 - [ ] Jane Fonda
 
-### In which country is a bowl of live shrimp considered a delicacy?
+#### In which country is a bowl of live shrimp considered a delicacy?
 
 - [ ] China
 - [ ] Vietnam
 - [x] Thailand
 
-### Whose moderator role on "The View" did Whoopi Goldberg take over?
+#### Whose moderator role on "The View" did Whoopi Goldberg take over?
 
 - [ ] Barbara Walters
 - [x] Rosie O'Donnell
 - [ ] Joy Behar
 
-### The first U.S. cookbook was published by whom?
+#### The first U.S. cookbook was published by whom?
 
 - [x] Amelia Simmons
 - [ ] Betty Crocker
 - [ ] Susannah Carter
 
-### Which of these people is the daughter of an Oscar-winning mother and a Grammy-winning father?
+#### Which of these people is the daughter of an Oscar-winning mother and a Grammy-winning father?
 
 - [ ] Shiloh Jolie-Pitt
 - [ ] Carrie Fisher
 - [x] Moses Martin
 
-### What is the name of the interstellar government Earth belongs to?
+#### What is the name of the interstellar government Earth belongs to?
 
 - [ ] United Way
 - [x] United Federation of Planets
 - [ ] United Arab Emirates
 
-### Bulova made the first TV commercial. How much did they pay for the air time?
+#### Bulova made the first TV commercial. How much did they pay for the air time?
 
 - [ ] 75 cents
 - [ ] 5 dollars
@@ -16117,7 +16117,7 @@
 - [x] What is Love
 - [ ] Pump Up The Jam
 
-#### What fromer Nickelodeon star is SNL's longest-tenured cast member?
+#### What former Nickelodeon star is SNL's longest-tenured cast member?
 
 - [x] Kenan Thompson
 - [ ] Tim Meadows
@@ -36174,3 +36174,153 @@
 - [ ] Jesse Owens
 - [x] Nadia Comaneci
 - [ ] Mary Lou Retton
+
+#### Colgate, Aquafresh, and Crest are all brands of what household item?
+
+- [ ] Supergule
+- [x] Toothpaste
+- [ ] Sponge
+
+#### What flavor is the standard Wendy's Frosty?
+
+- [ ] Mint
+- [ ] Blueberry
+- [x] Chocolate
+
+#### Trafalgar Square is found in which European city?
+
+- [x] London
+- [ ] Pairs
+- [ ] Vienna
+
+#### What year was the first 3D movie shown in a theater?
+
+- [x] 1920
+- [ ] 1944
+- [ ] 1951
+
+#### Which of the following movies does NOT have a socre by John Williams?
+
+- [ ] Jaws
+- [ ] Star Wars
+- [x] The Matrix
+
+#### "I feel the need... the need for speed!" is a quote from what movie?
+
+- [ ] Driving Miss Daisy
+- [x] Top Gun
+- [ ] Batman
+
+#### Which of the following countries has a national anthem with no lyrics?
+
+- [x] Kosovo
+- [ ] Liechtenstein
+- [ ] Switzerland
+
+#### Phase 10, Skip Bo, and Old Maid are all what type of game?
+
+- [ ] Board game
+- [ ] Role playing game
+- [x] Card game
+
+#### What branch of science is concerned with fossil animals and plants?
+
+- [ ] Psychiatry
+- [x] Paleontology
+- [ ] Seismology
+
+#### Which literary character is famous for stealing from the rich and giving to the poor?
+
+- [ ] Heathcliff
+- [x] Robin Hood
+- [ ] Cinderella
+
+#### Which of the following African-Americans was features on a U.S. postage stamp first?
+
+- [ ] Frederick Douglass
+- [x] Booker T. Washington
+- [ ] George Washington Carver
+
+#### In a famous episode of "I Love Lucy", Lucy and Ethel have to deal with a conveyor belt carrying what food item?
+
+- [ ] Rolls
+- [ ] Lollipops
+- [x] Chocolate Bon-Bons
+
+#### What kind of cheese is most commonly used as a pizza topping?
+
+- [ ] Pepper Jack
+- [x] Mozzarella
+- [ ] American
+
+#### What kind of electric charge does an electron have?
+
+- [ ] Positive
+- [x] Negative
+- [ ] Neutral
+
+#### When are you most likely to come across people yelling "Erin Go Bragh"?
+
+- [x] St. Patrick's Day
+- [ ] Mardi Gras
+- [ ] Boxing Day
+
+#### What are the main divisions of books called?
+
+- [ ] Battalions
+- [ ] Quarters
+- [x] Chapters
+
+#### Tommy Cash once released what song contradicting his brother?
+
+- [ ] Freed from Folsom
+- [x] I Didn't Walk The Line
+- [ ] Ring of Water
+
+#### The NFL's Saints play in which city?
+
+- [ ] Jacksonville
+- [x] New Orleans
+- [ ] Atlanta
+
+#### According to British Royalty, sitting with only the ankles crossed together is known as what?
+
+- [x] The Duchess Slant
+- [ ] The Queen's Cross
+- [ ] The Princess Pose
+
+#### The Worm, Headspin, and Windmill are all moves from what style of dance?
+
+- [ ] Waltz
+- [ ] Tango
+- [x] Breakdancing
+
+#### Unless you used an appliance, what would you need to dice an onion?
+
+- [ ] Meat tenderizer
+- [x] Knife
+- [ ] Tablespoon
+
+#### What group made it to the Rock and Roll Hall of Fame despite only having a single Billboard top ten hit?
+
+- [x] The Greateful Dead
+- [ ] Bon Jovi
+- [ ] Simon and Garfunkel
+
+#### Which of the following Disney Park attractions is NOT a trackless ride?
+
+- [ ] Pooh's Hunny Hunt
+- [x] Geyser Gulch
+- [ ] Mystic Manor
+
+#### Astronomer Carl Sagan hosted what TV series?
+
+- [x] Cosmos
+- [ ] Battlestar Galactica
+- [ ] Star Trek
+
+#### What building did Microsoft pay to bathe in colorful lights for the release of Windows 95?
+
+- [x] Empire State Building
+- [ ] Museum of Modern Art
+- [ ] Crysler Building
