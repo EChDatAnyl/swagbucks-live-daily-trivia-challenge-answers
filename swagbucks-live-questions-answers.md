@@ -36324,3 +36324,63 @@
 - [x] Empire State Building
 - [ ] Museum of Modern Art
 - [ ] Crysler Building
+
+#### The Atlantic, Pacific, Indian, Arctic, and Anatarctic are the names of what geographic features?
+
+- [x] Oceans
+- [ ] Forrests
+- [ ] Rivers
+
+#### Which sitcom's theme song talks about the family "Movin' on up to the East Side"?
+
+- [x] The Jeffersons
+- [ ] The Simpsons
+- [ ] All In The Family
+
+#### What 2024 Film release featured a tie-in with a "controversial" popcorn bucket?
+
+- [ ] Miller's Girl
+- [ ] Megamind: The Doom Syndicate
+- [x] Dune: Part 2
+
+#### "Senagalu" or "Bengal gram" are also known by what name?
+
+- [ ] Lima Beans
+- [x] Chickpeas
+- [ ] Carrots
+
+#### Which of the following playground games uses a bouncy rubber ball?
+
+- [x] Jacks
+- [ ] Marbles
+- [ ] Freeze Tag
+
+#### Someone with Arachibutyrophobia would be most afraid of which of the following foods?
+
+- [ ] Broccoli
+- [ ] Chicken
+- [x] Peanut Butter
+
+#### Daniel "Ruby" Ruettiger famously played in a football game for which college?
+
+- [x] Notre Dame
+- [ ] Cabrini
+- [ ] Drexel
+
+#### Which of the following planets from our solar system spins clockwise?
+
+- [ ] Saturn
+- [ ] Earth
+- [x] Venus
+
+#### Which of the following styles of dance was born in the 1920s?
+
+- [ ] Ballet
+- [x] Swing
+- [ ] Breakdancing
+
+#### Juneau is the capital of which State?
+
+- [x] Alaska
+- [ ] Tennessee
+- [ ] Maine
