@@ -36384,3 +36384,111 @@
 - [x] Alaska
 - [ ] Tennessee
 - [ ] Maine
+
+#### Which President was a football team business manager?
+
+- [ ] Harry S. Truman
+- [x] Herbert Hoover
+- [ ] Gerald Ford
+
+#### Which of these characters was NOT part of G.I. Joe's initial 1982 relaunch?
+
+- [ ] Stalker
+- [ ] Zap
+- [x] Tripwire
+
+#### In the Super Mario Bros games, what is the name of Mario's brother?
+
+- [x] Luigi
+- [ ] Wario
+- [ ] Bowser
+
+#### Which of the following is NOT the name of one of the kids who visits Willy Wonka's factory?
+
+- [ ] Mike Teavee
+- [ ] Veruca Salt
+- [x] Harry Potter
+
+#### Which playground game involves dodging a red rubber ball?
+
+- [ ] Jai Aiai
+- [ ] Hopscotch
+- [x] Dodgeball
+
+#### In what sport are three strikes officially known as a turkey?
+
+- [ ] Baseball
+- [ ] Cricket
+- [x] Bowling
+
+#### What current video game is known for its Battle Royale mode?
+
+- [x] Fortnite
+- [ ] NBA 2K21
+- [ ] Pac-Man
+
+#### What band had a hit with Hotel California?
+
+- [x] The Eagles
+- [ ] The Band
+- [ ] Steve Miller Babd
+
+#### Duraflame's original parent company was the world's largest supplier for what product?
+
+- [x] Pencil
+- [ ] Paper
+- [ ] Propane
+
+#### Stanley Kubrick reportedly destroyed the majority of the sets, costumes, and props for which of his films?
+
+- [x] 2001: A Space Odyssey
+- [ ] The Shining
+- [ ] A Clockwork Orange
+
+#### From which sci-fi movie did Duran Duran get their name?
+
+- [ ] Forbidden Planet
+- [x] Barbarella
+- [ ] A Clockwork Orange
+
+#### What is the name of Elon Musk's american vehicle company?
+
+- [ ] Chevrolet
+- [ ] Voltswagen
+- [x] Tesla
+
+#### In "Wallace and Gromit", what is Gromit?
+
+- [ ] A Sheep
+- [ ] A Chat
+- [x] A Dog
+
+#### Which of thefollowing was once used to make food dyes?
+
+- [ ] Golden Leaf
+- [x] Coal Tar
+- [ ] Guano
+
+#### Tom Brady is the quarterback for which NFL team?
+
+- [ ] Carolina Panthers
+- [ ] Atlanta Falcons
+- [x] New England Patriots
+
+#### What continent is home to the world's largest desert?
+
+- [ ] Africa
+- [ ] Asia
+- [x] Antarctica
+
+#### Who was the first actor offered the role of John McClane in "Die Hard"?
+
+- [ ] Bruce Lee
+- [x] Frank Sinatra
+- [ ] Sylvester Stallone
+
+#### What is the State Fruite of New York?
+
+- [ ] Kiwi
+- [x] Apple
+- [ ] Pomegranate
