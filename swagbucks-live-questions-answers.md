@@ -36487,8 +36487,128 @@
 - [x] Frank Sinatra
 - [ ] Sylvester Stallone
 
-#### What is the State Fruite of New York?
+#### What is the State Fruit of New York?
 
 - [ ] Kiwi
 - [x] Apple
 - [ ] Pomegranate
+
+#### "Cogswell's Caper" was the subtitle to a Nintendo game about what cartoon family?
+
+- [ ] The Flintstones
+- [ ] The Simpsons
+- [x] The Jetsons
+
+#### In 1962, Marilyn Monroe famously sang "Happy Birthday" to JFK. Which celebrity sang it to him a year later?
+
+- [x] Audrey Hepburn
+- [ ] Shirley Maclaine
+- [ ] Marilyn Monroe
+
+#### The voice behind the Mortal Kombat video games is also famous for making what?
+
+- [ ] Drones
+- [x] Pinball Machines
+- [ ] Calculators
+
+#### Mayim Bialik and Ken Jennings share hosting duties on what game show?
+
+- [ ] Wheel of Fortune
+- [ ] Family Feud
+- [x] Jeopardy!
+
+#### In which sport is scoring measured in runs?
+
+- [ ] Tennis
+- [x] Baseball
+- [ ] Basketball
+
+#### What type of engine is Mazda most famous for?
+
+- [ ] In-Line 4 Cylinder
+- [x] Rotary Engine
+- [ ] V-8
+
+#### Under which President was the "War on Drugs" started?
+
+- [ ] Ronald Reagan
+- [x] Richard Nixon
+- [ ] Kimmy Carter
+
+#### How are the children in "Peter Pan" able to fly?
+
+- [ ] Air Miles
+- [x] Pixle Dust
+- [ ] Catapult
+
+#### What game does the Queen of Hearts order Alice to play?
+
+- [ ] Chess
+- [x] Croquet
+- [ ] War
+
+#### How many moons does the earth have?
+
+- [ ] 2
+- [x] 1
+- [ ] 4
+
+#### The Bolshoi is a famous ballet theater in what city?
+
+- [ ] London
+- [ ] Paris
+- [x] Moscow
+
+#### What are the two categories of cards you draw in Monopoly?
+
+- [ ] Move and Stop
+- [x] Chance and Community Chest
+- [ ] Pay and Receive
+
+#### Exposure to extreme low temperatures can cause what condition?
+
+- [x] Hypothermia
+- [ ] Heat Exhaustion
+- [ ] Sleep Apnea
+
+#### Crumbl is a franchise store that serves food items?
+
+- [ ] Pasta
+- [x] Cookies
+- [ ] Wine
+
+#### What Italian city has canals, but no roads?
+
+- [x] Venice
+- [ ] Rome
+- [ ] Florence
+
+#### Which of these classic novels is about an orphan?
+
+- [x] Oliver Twist
+- [ ] A Connecticut Yankee in King Arthur's Court
+- [ ] The Scarlet Letter
+
+#### "Echo Boomers" and "Gen Y" are both alternative names for which generation?
+
+- [ ] Baby Boomers
+- [ ] The Greatest Generation
+- [x] Millennials
+
+#### Taylor Swift cheered her boyfriend on at what 2024 sporting event?
+
+- [ ] The World Series
+- [x] The Super Bowl
+- [ ] The NBA Championship
+
+#### Which of the following music stars is from Canada?
+
+- [ ] Taylor Swift
+- [ ] Willie Nelson
+- [x] Drake
+
+#### Who got Oscar nominations for his roles in movies like Chinatown, Terms of Endearment, and As Good As It Gets?
+
+- [x] Jack Nicholson
+- [ ] Leonardo DiCaprio
+- [ ] Tom Hanks
