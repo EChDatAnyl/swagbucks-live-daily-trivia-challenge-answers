@@ -36612,3 +36612,39 @@
 - [x] Jack Nicholson
 - [ ] Leonardo DiCaprio
 - [ ] Tom Hanks
+
+#### How many countries make up the United Kingdom?
+
+- [ ] One
+- [x] Four
+- [ ] Eight
+
+#### Who wrote the book "How I Play Golf"?
+
+- [x] Tiger Woods
+- [ ] Arnold Palmer
+- [ ] Jack Nicklaus
+
+#### The name "Charlie's Angels" was inspired by a painting that previously belonged to which celebrity?
+
+- [x] Frank Sinatra
+- [ ] Paul Newman
+- [ ] Johnny Carson
+
+#### Which of these objects is commonly shaped like a disc?
+
+- [ ] Box
+- [ ] Pyramid
+- [x] Frisbee
+
+#### If you work in Silicon Valley, which U.S. city is closest to your office?
+
+- [x] San Francisco
+- [ ] Las Vegas
+- [ ] Seattle
+
+#### Jennifer Lopez recently reunited with which former fiance?
+
+- [ ] Marc Anthony
+- [ ] Chris Judd
+- [x] Ben Affleck
