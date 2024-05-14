@@ -36648,3 +36648,15 @@
 - [ ] Marc Anthony
 - [ ] Chris Judd
 - [x] Ben Affleck
+
+#### Which credit card company claimed to be "Everywhere you want to be?"
+
+- [ ] Discover
+- [x] Visa
+- [ ] Diner's Club
+
+#### On what platform would you catch the Hogwarts Express?
+
+- [ ] 9 1/3
+- [ ] 9 1/2
+- [x] 9 3/4
