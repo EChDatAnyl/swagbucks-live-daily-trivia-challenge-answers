@@ -36660,3 +36660,27 @@
 - [ ] 9 1/3
 - [ ] 9 1/2
 - [x] 9 3/4
+
+#### The Pro Bowl is the all-star game for which sports league?
+
+- [ ] Premier League
+- [ ] PGA
+- [x] NFL
+
+#### Once used as a shampoo by barbers, what is lotium made out of?
+
+- [x] Stale urine
+- [ ] Pig's blood
+- [ ] Bay Rum
+
+#### In business, what does CEO stand for?
+
+- [x] Chief Executive Officer
+- [ ] Cold Electrical Outlet
+- [ ] Coffee-Energized Orc
+
+#### Which of these musical styles involves no instruments?
+
+- [ ] Baroque
+- [ ] Big Band
+- [x] Beatboxing
