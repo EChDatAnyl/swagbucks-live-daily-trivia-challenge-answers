@@ -36684,3 +36684,93 @@
 - [ ] Baroque
 - [ ] Big Band
 - [x] Beatboxing
+
+#### In "Forrest Gump", what does Forrest say life is like?
+
+- [ ] A highway
+- [ ] A melody
+- [x] A box of chocolates
+
+#### Who wrote "The Jungle Book"?
+
+- [x] Rubyard Kipling
+- [ ] J.R.R. Tolkien
+- [ ] Piers Anthony
+
+#### Which of these teen dramas is based on the Archie Comics?
+
+- [ ] Gossip Girl
+- [ ] 90210
+- [x] Riverdale
+
+#### Which of the following was the name of a GI Joe from 1982-1994?
+
+- [ ] Bandit
+- [x] Bazooka
+- [ ] Banshee
+
+#### Which of these would a hedgehog most likely consume?
+
+- [ ] Chitalpa
+- [ ] Bugloss
+- [x] Worms
+
+#### What unleavened bread is eaten during the Passover seder?
+
+- [ ] Pita
+- [ ] Saltines
+- [x] Matzoh
+
+#### Which of the following dishes contains red meat?
+
+- [ ] Turkey a la King
+- [ ] Chicken Parmesan
+- [x] Beef Wellington
+
+#### What European city has a Colosseum in the middle of it?
+
+- [ ] London
+- [ ] Paris
+- [x] Rome
+
+#### Which of these 1980's G.I. Joe toys is worth the most on the collectible market?
+
+- [x] USS Flagg
+- [ ] Dragonfly Helicopter
+- [ ] Headquarters Command Center
+
+#### Which of the following is NOT a room on a standard Clue board?
+
+- [ ] Study
+- [ ] Kitchen
+- [x] Cigar Room
+
+#### What clothing store started out selling excursion goods?
+
+- [x] Abercrombie & Fitch
+- [ ] Banana Reoublic
+- [ ] The Gap
+
+#### What sport involves firing a rifle at clay pigeons?
+
+- [ ] Biathlon
+- [x] Skeet Shooting
+- [ ] Shuffleboard
+
+#### In a standard box of Foot Loops cereal, how many flavors are there?
+
+- [x] One
+- [ ] Five
+- [ ] Ten
+
+#### Wrath of Khan, Search for Spcok, and The Undiscovered Country are all subtitles to films in what series?
+
+- [ ] Harry Potter
+- [ ] Fast & Furious
+- [x] Star Trek
+
+#### Who is the lead singer of Metallica?
+
+- [x] James Hetfield
+- [ ] Bruce Dickinson
+- [ ] Ronnie James Dio
