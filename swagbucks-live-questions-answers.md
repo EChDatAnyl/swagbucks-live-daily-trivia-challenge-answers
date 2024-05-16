@@ -36774,3 +36774,39 @@
 - [x] James Hetfield
 - [ ] Bruce Dickinson
 - [ ] Ronnie James Dio
+
+#### According to Plato, what is the mother of invention?
+
+- [ ] A lady named Carla
+- [ ] Meryl Streep
+- [x] Necessity
+
+#### In which month was JFK assassinated?
+
+- [ ] October
+- [x] November
+- [ ] December
+
+#### First run in 1883, the Orient Express went from Paris to what destination?
+
+- [x] Istanbul
+- [ ] Omsk
+- [ ] Beijing
+
+#### Dizzy Gillespie is best known for playing what instrument?
+
+- [ ] Gong
+- [ ] Upright Bass
+- [x] Trumpet
+
+#### What animals are the tallest in the world?
+
+- [x] Giraffes
+- [ ] Flamingos
+- [ ] Humans
+
+#### Coca-Cola helped create the modern interpretation of which holiday figure?
+
+- [ ] The Easter Bunny
+- [ ] Thanksgiving Turkey
+- [x] Santa Claus
