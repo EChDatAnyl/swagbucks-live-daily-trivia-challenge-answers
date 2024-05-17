@@ -36810,3 +36810,105 @@
 - [ ] The Easter Bunny
 - [ ] Thanksgiving Turkey
 - [x] Santa Claus
+
+#### "All You NeedIs Love" was a single from what group?
+
+- [x] The Beatles
+- [ ] The Rolling Stones
+- [ ] The Who
+
+#### 7-11's Big Gulp holds how many fluid ounces of liquid?
+
+- [ ] 8oz
+- [ ] 16oz
+- [x] 32oz
+
+#### Sting was the bassist and lead singer for what band?
+
+- [x] The Police
+- [ ] The Cars
+- [ ] The Romantics
+
+#### One of the Real Housewives starred in which Disney movie?
+
+- [ ] Herbie Rides Again
+- [ ] Hot Lead and Cold Feet
+- [x] Escape to Witch Mountain
+
+#### In his famous speech, Ronald Reagan said "Mr. Gorbachev, tear down this" WHAT?
+
+- [ ] Arby's
+- [ ] Website
+- [x] Wall
+
+#### Which of these words describes the obervational illusion of directional change?
+
+- [x] Parallax
+- [ ] Refraction
+- [ ] Inception
+
+#### What is Chandler's last name in the sitcom Friends?
+
+- [x] Bing
+- [ ] Bong
+- [ ] Friendster
+
+#### What dog breed is associated with firefighters?
+
+- [ ] Borzoi
+- [x] Dalmatian
+- [ ] St. Bernard
+
+#### What kind of sea animal was Free Willy?
+
+- [x] Orca
+- [ ] Bottlenose Dollphin
+- [ ] Tiger Shark
+
+#### What color is the back of an adult male gorilla?
+
+- [ ] Black
+- [x] Silver
+- [ ] Red
+
+#### Which of the following is a way to properly tell a butterfly apart from a moth?
+
+- [ ] Time of day that they fly
+- [ ] Only one is colorful
+- [x] Their antennae
+
+#### What are female Peacocks called?
+
+- [x] Peahens
+- [ ] Peachicks
+- [ ] Peacocks
+
+#### What kind of animal is Curious George?
+
+- [ ] Fox
+- [x] Monkey
+- [ ] Alligator
+
+#### "Water bear" and "Moss piglet" are other names for what microanimal?
+
+- [x] Tardigrade
+- [ ] Springtail
+- [ ] Demodex Mites
+
+#### Grevy's Zebras are named after a former Head of State of which country?
+
+- [ ] Kenya
+- [x] France
+- [ ] England
+
+#### Which of the following animals hibernates during the winter?
+
+- [x] Grizzly Bear
+- [ ] Owl
+- [ ] Deer
+
+#### What is the term for a baby cat?
+
+- [ ] Pup
+- [x] Kitten
+- [ ] Whelp
