@@ -36912,3 +36912,87 @@
 - [ ] Pup
 - [x] Kitten
 - [ ] Whelp
+
+#### In which horror film franchise are victims told "I want to play a game?"
+
+- [ ] Psycho
+- [ ] Gholies
+- [x] Saw
+
+#### The "Knight Rider" theme is based on a work from what genre?
+
+- [ ] Opera
+- [ ] Musical Theater
+- [x] Ballet
+
+#### Which country celebrates their Thanksgiving on the second Monday in October?
+
+- [x] Canada
+- [ ] Thailand
+- [ ] United States
+
+#### Which of the following words has its letters in alphabetical order?
+
+- [ ] Chest
+- [x] Almost
+- [ ] Okra
+
+#### Brett Favre won his only Super Bowl ring with what team?
+
+- [x] Green Bay Packers
+- [ ] Minnesota Vikings
+- [ ] Arizona Candinals
+
+#### What triggers anaphylactic shock?
+
+- [x] Allergies
+- [ ] Electricity
+- [ ] Ice Cubes
+
+#### What cartoon hero fought the Mechanical Monsters, The Arctic Giant, and the Mummies?
+
+- [ ] Mighty Mouse
+- [ ] Underdog
+- [x] Superman
+
+#### Selena Gomez rose to fame playing Russo on what Disney Channel series?
+
+- [ ] Suite Life of Zack and Cody
+- [x] The Wizards of Waverly Place
+- [ ] That's So Raven
+
+#### What NBA team just signed LeBron James to a four-year deal?
+
+- [x] Los Angeles Lakers
+- [ ] Toronto Blue Jays
+- [ ] Manchester United
+
+#### Which of the following is the title of a J.D. Salinger book?
+
+- [x] Catcher in the Rye
+- [ ] Pitcher in the Wheat
+- [ ] Manager in the Sourdough
+
+#### In the early 20th century, a "Pozzee wallah" was someone who was very fond of what?
+
+- [ ] Jazz
+- [ ] Gin
+- [x] Jam
+
+#### In which year did Disneyland first open?
+
+- [x] 1955
+- [ ] 1984
+- [ ] 2003
+
+#### In which famous film does Dave 'kill' Hal?
+
+- [x] 2001: A Space Odyssey
+- [ ] Goodfellas
+- [ ] One Flew Over the Cuckoo's Nest
+
+#### In Canada, what British holiday is celebrated the day after Christmas?
+
+- [ ] Maple Leaf Day
+- [x] Boxing Day
+- [ ] Hockey Day
