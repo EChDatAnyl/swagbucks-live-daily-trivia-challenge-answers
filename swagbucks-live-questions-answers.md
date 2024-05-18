@@ -36996,3 +36996,39 @@
 - [ ] Maple Leaf Day
 - [x] Boxing Day
 - [ ] Hockey Day
+
+#### Which of these candies contains no chocolate?
+
+- [x] Starburst
+- [ ] Kit Kat
+- [ ] Milky Way
+
+#### What does a spectrometer measure?
+
+- [x] Electromagnetic Radiation
+- [ ] Patricle Density
+- [ ] Liquid Viscosity
+
+#### What TV special helped kill the aluminum Christmas tree industry?
+
+- [ ] Rudolph the Red-Nosed Reindeer
+- [ ] How the Grinch Stole Christmas
+- [x] A Charlie Brown Christmas
+
+#### In "The Night Before Christmas", versions of what treat dance in children's head?
+
+- [ ] Snickers
+- [ ] Abba Zabba
+- [x] Sugar Plums
+
+#### Cheerioats was the original name of what breakfast cereal?
+
+- [ ] Froot Loops
+- [ ] Frosted Flakes
+- [x] Cheerios
+
+#### Who is credited with the invension of the printing press?
+
+- [x] Johannes Gutenberg
+- [ ] Isaac Newton
+- [ ] Galileo Galilei
