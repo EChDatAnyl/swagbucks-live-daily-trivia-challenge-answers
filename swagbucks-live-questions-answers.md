@@ -37032,3 +37032,39 @@
 - [x] Johannes Gutenberg
 - [ ] Isaac Newton
 - [ ] Galileo Galilei
+
+#### Santa Maria delle Grazie in Milan is home to which famous work of art?
+
+- [ ] The Mona Lisa
+- [x] The Last Supper
+- [ ] Starry Night
+
+#### Why would you dial 113 in South Korea?
+
+- [x] To report a spy
+- [ ] To report an accident
+- [ ] To report weight loss
+
+#### Where would you find the Cherry Blossom Capital of the World?
+
+- [ ] Kyoto
+- [x] Macon
+- [ ] Washington, D.C.
+
+#### Which state flag does NOT contain blue?
+
+- [ ] Colorado
+- [x] New Mexico
+- [ ] Wisconsin
+
+#### "Heartbreak Hotel" was an early hit for what singer?
+
+- [x] Elvis Presley
+- [ ] Frank Sinatra
+- [ ] Ritchie Valens
+
+#### Which CW superhero is played by someone whose first and last name start with the same letter?
+
+- [x] The Flash
+- [ ] Green Arrow
+- [ ] Supergirl
