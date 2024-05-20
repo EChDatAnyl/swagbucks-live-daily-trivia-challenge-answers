@@ -37068,3 +37068,39 @@
 - [x] The Flash
 - [ ] Green Arrow
 - [ ] Supergirl
+
+#### Reigning NBA MVP Giannis Antetokounmpo goes by what nickname?
+
+- [ ] Air Jordan
+- [ ] Black Mamba
+- [x] The Greek Freak
+
+#### The song "Seasons of Love" is from what Broadway musical?
+
+- [x] Rent
+- [ ] A Chorus Line
+- [ ] The Light in the Plazza
+
+#### If Rockey Balboa fought a shark, where would Mickey tell him to hit it to cause the most pain?
+
+- [ ] Nose
+- [x] Gills
+- [ ] Fins
+
+#### Whic of these objects has a ferrule?
+
+- [ ] Scarf
+- [x] Pencil
+- [ ] Shampoo bottle
+
+#### Val Kilmer starred in an ABC Afterschool Special with what other future star?
+
+- [x] Michelle Pfeiffer
+- [ ] Julia Roberts
+- [ ] Geena Davis
+
+#### Full House, Step by Step, and Family Matters were all part of what programming block?
+
+- [x] TGIF
+- [ ] BYOB
+- [ ] ASAP
