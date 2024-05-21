@@ -37164,3 +37164,39 @@
 - [ ] John Legend
 - [x] Matthew Broderick
 - [ ] Ryan Reynolds
+
+#### Which classic horror film featured the first on-screen use of LSD?
+
+- [ ] The Cabinet of Dr. Caligari
+- [ ] Days of the Triffids
+- [x] The Tingler
+
+#### Buenos Aires is the capital of which country?
+
+- [ ] Brazil
+- [ ] Mexico
+- [x] Argentina
+
+#### Which planet is closest to the Sun?
+
+- [ ] Earth
+- [ ] Mercury
+- [x] Mars
+
+#### Peter Pan, Skippy, and Jif are all brands of what?
+
+- [x] Peanut butter
+- [ ] Jelly
+- [ ] Eggs
+
+#### "Friendship of Magic" is a TV series based on which 80s toy?
+
+- [ ] Transformers
+- [ ] G.I. Joe
+- [x] My Little Pony
+
+#### According to a survey by Preply, what is the most hated corporate jargon?
+
+- [x] New Normal
+- [ ] Circle Black
+- [ ] Give 110 Present
