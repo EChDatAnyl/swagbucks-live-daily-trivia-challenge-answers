@@ -37104,3 +37104,63 @@
 - [x] TGIF
 - [ ] BYOB
 - [ ] ASAP
+
+#### Which of these types of footwear is open toe?
+
+- [ ] Sneaker
+- [x] Flip Flop
+- [ ] Construction Boot
+
+#### In which country did the Olympic games originate?
+
+- [ ] Egypt
+- [ ] Ireland
+- [x] Greece
+
+#### Which of the following tourist attractions in Asia?
+
+- [ ] CN Tower
+- [x] Taj Mahal
+- [ ] Grand Canyon
+
+#### The Le Mans Auto Race famously goes for what amount of time?
+
+- [ ] 30 Minutes
+- [ ] 1 Week
+- [x] 24 Hours
+
+#### Which of the following is NOT a Nintendo character?
+
+- [x] Kratos
+- [ ] Mario Mario
+- [ ] Donkey Kong
+
+#### A park in Collegedale, Tennessee has structures that look like what snack company's treats?
+
+- [x] Little Debbie
+- [ ] Hostess
+- [ ] Frito Lay
+
+#### In the Smash Mouth hit "All Star", the lyrics say 'Somebody once told the world is gonna" what?
+
+- [ ] Spin
+- [x] Roll me
+- [ ] Crash into the moon
+
+#### Which of the following actors has NOT appeared in a "Fast and Furious" movie?
+
+- [x] Nicolas Cage
+- [ ] Vin Diesel
+- [ ] Jason Statham
+
+#### What is Superman's weakness?
+
+- [ ] The Color Yellow
+- [x] Kryptonite
+- [ ] Water
+
+#### Sarah Jessica Parker is married to what other celebrity?
+
+- [ ] John Legend
+- [x] Matthew Broderick
+- [ ] Ryan Reynolds
