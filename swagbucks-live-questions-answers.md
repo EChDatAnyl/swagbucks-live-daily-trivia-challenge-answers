@@ -37290,3 +37290,39 @@
 - [ ] North Coast and South Coast
 - [ ] Canada and Europe
 - [x] East Coast and West Coast
+
+#### What is a term for a museum worker who provides tours?
+
+- [x] Docent
+- [ ] Dodollar
+- [ ] Dodecahedron
+
+#### The book "Game Change" covers the presidential election of what year?
+
+- [ ] 1980
+- [ ] 2000
+- [x] 2008
+
+#### What number did NHL legend wayne Gretzky wear?
+
+- [x] 99
+- [ ] 143
+- [ ] 0
+
+#### What band has a famous song that starts with "Somebody once told me/The world is gonna roll me..."?
+
+- [ ] Velvet Underground
+- [x] Smash Mouth
+- [ ] The Proclaimers
+
+#### Who had a 1981 hit with the song "9 To 5" from the film of the same name?
+
+- [ ] Shania Twain
+- [ ] Reba McEntire
+- [x] Dolly Parton
+
+#### RZA, GZA, and Method Man are all part of what rap group?
+
+- [ ] De La Soul
+- [x] Wu-Tang Clan
+- [ ] Sugar hill Gang
