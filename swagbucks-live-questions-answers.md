@@ -9993,8 +9993,8 @@
 #### If you break your clavicle, what part of your body did you injure?
 
 - [ ] Your shoulder blade
-- [x] Your funny bone
-- [ ] Your collarbone
+- [ ] Your funny bone
+- [x] Your collarbone
 
 #### Which State is home to EPCOT?
 
@@ -15456,12 +15456,6 @@
 - [ ] The Ants & The Grasshopper
 - [ ] The Wolf & His Shadow
 - [x] Rizzoli & Isles
-
-#### Jay-Z is married to which music superstar?
-
-- [ ] Chaka Khan
-- [ ] Barbra Streisand
-- [x] Beyoncé
 
 #### Otto Von Bismarck went by what nickname?
 
@@ -37200,3 +37194,99 @@
 - [x] New Normal
 - [ ] Circle Black
 - [ ] Give 110 Present
+
+#### The 1985 sitcom "Sara" starred what future Oscar winner?
+
+- [ ] Tom Hanks
+- [x] Geena Davis
+- [ ] Helen Hunt
+
+#### What rapper performed a concert within the game Fortnite?
+
+- [ ] 50 Cent
+- [x] Travis Scott
+- [ ] Lil Uzi Vert
+
+#### According to the National Turkey Federation, what percentage of people eat Turkey on Thanksgiving?
+
+- [ ] 75%
+- [x] 88%
+- [ ] 94%
+
+#### Who played Facebook founder Mark Zuckerberg in the movie The Social Network?
+
+- [ ] Michael Cera
+- [x] Jesse Eisenberg
+- [ ] Justin Timerlake
+
+#### A Scottish teacher named James Pillans is often cited as the inventor of what classroom aid?
+
+- [ ] Chalk eraser
+- [x] Wall-mounted Blackboard
+- [ ] Table arm chair
+
+#### What game show asks contestants to guess the results of a survey?
+
+- [ ] The Price is Right
+- [ ] Match Game
+- [x] Family Feud
+
+#### What is the name of Bruce Springsteen's backing group?
+
+- [x] The E Street Band
+- [ ] The Time
+- [ ] The 1910 Fruitgum Company
+
+#### Aretha Franklin went by which of the following nicknames?
+
+- [ ] The Great One
+- [x] The Queen of Soul
+- [ ] Jacko
+
+#### Beyonce was originally part of what girl group?
+
+- [ ] Salt n' Pepa
+- [ ] En Vogue
+- [x] Destiny's Child
+
+#### How old was Mozart when he composed his first piece of music?
+
+- [x] 5
+- [ ] 9
+- [ ] 11
+
+#### Trance, Deep house, and Dubstep are all sub genres of what type of music?
+
+- [ ] Bluegrass
+- [ ] Rock
+- [x] Electronic Dance Music
+
+#### What was the first song ever recorded?
+
+- [ ] Mary Had A Little Lamb
+- [x] Au Clair De La Lune
+- [ ] Silent Night
+
+#### Which of the following bands is NOT from England?
+
+- [ ] The Beatles
+- [ ] The Rolling Stones
+- [x] BTS
+
+#### Musicians use circular breathing to extend the amount of time they can play which instrument without a break in the sound?
+
+- [x] Didgeridoo
+- [ ] Theremin
+- [ ] Hurdy-gurdy
+
+#### Slash, Jeff Beck, and Joe Walsh are all known for playing what instrument?
+
+- [ ] Viola
+- [x] Guitar
+- [ ] Sitar
+
+#### In the 1990s, which two hip hop scenes were at war with one another?
+
+- [ ] North Coast and South Coast
+- [ ] Canada and Europe
+- [x] East Coast and West Coast
