@@ -37326,3 +37326,63 @@
 - [ ] De La Soul
 - [x] Wu-Tang Clan
 - [ ] Sugar hill Gang
+
+#### What mint milkshake gets an annual limited release at McDonald's?
+
+- [x] The Shamrock Shake
+- [ ] The Gren Dream
+- [ ] The Minty Monster
+
+#### Gwen Stefani is married to which colleague from "The Voice"?
+
+- [ ] Adam Levine
+- [ ] Niall Horan
+- [x] Brake Shelton
+
+#### White light going into a prism and coming out a rainbow is an example of what phenomenon?
+
+- [x] Refraction
+- [ ] Retention
+- [ ] Reignition
+
+#### "Thinking about the immortality of the crab" is a way to say you're daydreaming in what language?
+
+- [ ] Mandarin
+- [ ] Italian
+- [x] Spanish
+
+#### What are the two letters commonly used in a game of Tic-tac-toe?
+
+- [x] X and O
+- [ ] J and K
+- [ ] W and T
+
+#### What variety of owl is known for its piercing shriek?
+
+- [ ] Barred Owl
+- [ ] Great Horned Owl
+- [x] Barn Owl
+
+#### In tennis, what term is used for a score of zero?
+
+- [ ] Zilch
+- [x] Love
+- [ ] Hate
+
+#### When a band called the Sex Maggots weren't allowed to put thier name on a marquee, what did they change it to?
+
+- [x] Goo Goo Dolls
+- [ ] Nine Inch Nails
+- [ ] Limp Bizkit
+
+#### Whose superhero alter ego is Iron Man?
+
+- [ ] Dr. Donald Blake
+- [x] Tony Stark
+- [ ] Steve Rogers
+
+#### Uggs is primariyl known for making what?
+
+- [x] Boots
+- [ ] Bread
+- [ ] Modems
