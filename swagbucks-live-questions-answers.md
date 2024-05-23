@@ -37381,8 +37381,56 @@
 - [x] Tony Stark
 - [ ] Steve Rogers
 
-#### Uggs is primariyl known for making what?
+#### Uggs is primarily known for making what?
 
 - [x] Boots
 - [ ] Bread
 - [ ] Modems
+
+#### Which celebrity is a former Mouseketeer?
+
+- [ ] Taylor Swift
+- [x] Ryan Gosling
+- [ ] Avril Lavigne
+
+#### NBA Hall of Famer Earvin Johnson is better known by what nickname?
+
+- [x] Magic
+- [ ] The Stifle Tower
+- [ ] J Crossover
+
+#### How many keys are there on a standard piano?
+
+- [ ] 101
+- [x] 88
+- [ ] 52
+
+#### In what century did the recipe for pumpkin pie start appearing in cookbooks?
+
+- [ ] 20th
+- [x] 17th
+- [ ] 18th
+
+#### What are rabbits incapable of doing?
+
+- [ ] Swallowing
+- [x] Vomiting
+- [ ] Climbing
+
+#### All and Tide are brands of what?
+
+- [ ] Candy
+- [ ] Tissue
+- [x] Laundry Detergent
+
+#### What is the slogan for Bounty paper towels?
+
+- [x] The Quicker Picker Upper
+- [ ] The Clean Maker
+- [ ] Makes Messes Disappear
+
+#### Which of these forks is the largest?
+
+- [ ] Salad Fork
+- [ ] Shrimp Fork
+- [x] Dinner Fork
