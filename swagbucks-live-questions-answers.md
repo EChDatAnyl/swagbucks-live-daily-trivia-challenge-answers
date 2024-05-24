@@ -37542,3 +37542,75 @@
 - [x] Guitar
 - [ ] Harpsichord
 - [ ] Drums
+
+#### What singer is featured in "Uptown Funk"?
+
+- [ ] Jamie Foxx
+- [x] Bruno Mars
+- [ ] Adam Levine
+
+#### Shaquille O'Neal is board member and pitchman for what pizza brand?
+
+- [ ] Domino's
+- [x] Papa John's
+- [ ] Pizza Hut
+
+#### What is the official slogan used by The Austin Independent Business Alliance?
+
+- [ ] Absolutely Austin
+- [ ] The Lone Star City
+- [x] Keep Austin Weird
+
+#### What was given to the working class of Ancient Egypt for extra "strength" when building the pyramids?
+
+- [ ] Basil
+- [x] Garlic
+- [ ] Mint
+
+#### Cesar Ritz and his chef Aususte Escoffier were invited to run what hotel in 1889?
+
+- [x] Savoy Hotel
+- [ ] Hotel de Ville
+- [ ] Ritz-Carlton
+
+#### What band formed in 1978 while the members were at a party in Venice, CA?
+
+- [x] The Go-Go's
+- [ ] The Police
+- [ ] Blondie
+
+#### Which of the following planets is farthest from the sun?
+
+- [ ] Earth
+- [ ] Mars
+- [x] Neptune
+
+#### What State is nicknamed The Keystone State?
+
+- [x] Pennsylvania
+- [ ] Delaware
+- [ ] Vermont
+
+#### According to Mornings.co.uk, which of hte following is the best classic rock song to fall asleep to?
+
+- [x] Your Song
+- [ ] Going to California
+- [ ] Wish You Were Here
+
+#### On Cheers, what MLB team did Sam Malone play for?
+
+- [ ] Los Angeles Dodgers
+- [x] Boston Red Sox
+- [ ] New York Yankees
+
+#### Which of the following animals cannot jump?
+
+- [ ] Grasshopper
+- [x] Elephant
+- [ ] Kangaroo
+
+#### The typical snow globe is filled with what liquid?
+
+- [x] Water
+- [ ] Maple Syrup
+- [ ] Tar
