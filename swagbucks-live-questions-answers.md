@@ -37434,3 +37434,111 @@
 - [ ] Salad Fork
 - [ ] Shrimp Fork
 - [x] Dinner Fork
+
+#### What was the State of Washington originally going to be called?
+
+- [x] Columbia
+- [ ] Lincoln
+- [ ] Jackson
+
+#### A coy photo of what sitcom star became a meme in September of 2023?
+
+- [x] Kevin James
+- [ ] Bonnie Franklin
+- [ ] Dick Van Dyke
+
+#### From what city is Saturday Night Live broadcast?
+
+- [ ] Los Angeles
+- [ ] Chicago
+- [x] New York
+
+#### Famous siblings Jhole, Kourtney and Kim all share what last name?
+
+- [ ] Jenner
+- [ ] Jackson
+- [x] Kardashian
+
+#### Which musical act never hit #1 on the Billboard Hot 100 in the 70s?
+
+- [ ] Chic
+- [ ] Walter Murphy
+- [x] Village People
+
+#### What is the memory span of a goldfish?
+
+- [ ] Three seconds
+- [ ] Four weeks
+- [x] Five months
+
+#### Who threw the most recorded innings in MLB history?
+
+- [ ] Nolan Ryan
+- [x] Cy Young
+- [ ] Gaylord Perry
+
+#### Another way of saying "start from scratch" is:
+
+- [ ] Build a better mousetrap
+- [ ] A penny saved is a penny earned
+- [x] Back to the drawing board
+
+#### While sitting down for a meal, where are you supposed to place your napkin?
+
+- [ ] On your head
+- [ ] On the floor
+- [x] On your lap
+
+#### Krispy Kreme is known for what food item?
+
+- [ ] Candy Bar
+- [x] Donut
+- [ ] Ice Cream
+
+#### Which continent is home to the Amazon river?
+
+- [ ] Africa
+- [ ] Asia
+- [x] South America
+
+#### Which silent film star has a Taylor Swift song named after her?
+
+- [ ] Mary Pickford
+- [x] Clara Bow
+- [ ] Mabel Normand
+
+#### The name Penguin comes from the Welsh for what?
+
+- [ ] Cold Bird
+- [ ] Flat Feet
+- [x] White Head
+
+#### "Power of the Force" is a series figures in which toy line?
+
+- [ ] Centurions
+- [x] Star Wars
+- [ ] Smurfs
+
+#### Which Disney World restaurant was granted a Michelin Star in 2024?
+
+- [ ] Jaleo
+- [ ] Chefs de France
+- [x] Victoria & Albert's
+
+#### What was the first year the IRS allowed the E-Filing of taxes?
+
+- [x] 1986
+- [ ] 1993
+- [ ] 2004
+
+#### Which of the following movies did NOT star Ben Affleck and Matt Damon?
+
+- [ ] Good Will Hunting
+- [ ] Air
+- [x] The Godfather Part III
+
+#### John Mayer is known for playing what instrument?
+
+- [x] Guitar
+- [ ] Harpsichord
+- [ ] Drums
