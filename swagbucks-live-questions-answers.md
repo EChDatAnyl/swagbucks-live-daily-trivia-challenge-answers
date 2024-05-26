@@ -37614,3 +37614,69 @@
 - [x] Water
 - [ ] Maple Syrup
 - [ ] Tar
+
+#### What year did Tiger Woods win his first Masters?
+
+- [x] 1997
+- [ ] 1941
+- [ ] 492
+
+#### Morris Michtom came up with what famous toy?
+
+- [x] Teddy Bear
+- [ ] Slinky
+- [ ] Pogo Stick
+
+#### Chlorophyll is a pigment that gives plants what color?
+
+- [x] Green
+- [ ] Red
+- [ ] Blue
+
+#### The man who plays "Fake Chris Paul" in State Farm commercials also popularized what dance?
+
+- [ ] The Shiggy
+- [ ] The Milly Rock
+- [x] The Carlton
+
+#### What is the name of the undergarment used to shape and slim the body?
+
+- [x] Corset
+- [ ] Coronet
+- [ ] Corsage
+
+#### Which of these insults means someone is a gossip-monger?
+
+- [x] Quidnunc
+- [ ] Quisquillan
+- [ ] Morosoph
+
+#### What food substance is created by bees?
+
+- [x] Honey
+- [ ] Caramel
+- [ ] Pizza Pockets
+
+#### Which Harry Potter character originally had the surname Puckle?
+
+- [x] Hermione
+- [ ] Ron
+- [ ] Harry
+
+#### In Game of Thrones, which god is not mentioned in the wedding vows between Robb Stark and Talisa?
+
+- [ ] Crone
+- [ ] Stranger
+- [x] Fire
+
+#### In which musical are you asked to "Listen to the Music of the Night"?
+
+- [ ] Candide
+- [x] Phantom of the Opera
+- [ ] Starlight Express
+
+#### Which one of these celebrities does not have the same birthday as the other two?
+
+- [ ] David Beckham
+- [ ] Ellie Kemper
+- [x] Randy Travis
