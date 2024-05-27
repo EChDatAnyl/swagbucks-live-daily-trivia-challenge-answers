@@ -37710,3 +37710,27 @@
 - [x] Walk This Way
 - [ ] Dream On
 - [ ] Rag Doll
+
+#### David Beckham is known for playing what sport?
+
+- [ ] Baseball
+- [x] Soccer
+- [ ] Cricket
+
+#### "Look Ma, No Cavities!" was the slogan of what brand?
+
+- [x] Crest
+- [ ] Snickers
+- [ ] Perrier
+
+#### Who has never hosted Jeopardy?
+
+- [ ] Art Fleming
+- [ ] Alex Trebek
+- [x] Wink Martindale
+
+#### Which rapper recorded with a speed-metal group called Body Count?
+
+- [ ] Eminem
+- [x] Ice T
+- [ ] Vanilla Ice
