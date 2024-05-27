@@ -37680,3 +37680,33 @@
 - [ ] David Beckham
 - [ ] Ellie Kemper
 - [x] Randy Travis
+
+#### What game features a "boneyard" and variations like Mexican Train?
+
+- [ ] Mastermind
+- [x] Dominoes
+- [ ] Don't Break The Ice
+
+#### the number "Summer Lovin" can be found in which Broadway musical?
+
+- [x] Grease
+- [ ] Brigadon
+- [ ] In The Heights
+
+#### Which Saint is also known as Santa Claus?
+
+- [x] Saint Nicholas
+- [ ] Saint Steve
+- [ ] Saint Bob
+
+#### In a formal dining setting, when is it appropriate to start eating?
+
+- [ ] When you feel like it
+- [ ] When you hear a bell
+- [x] After everyone at the table has been served
+
+#### Which Aerosmith song did Run DMC bring back to the charts?
+
+- [x] Walk This Way
+- [ ] Dream On
+- [ ] Rag Doll
