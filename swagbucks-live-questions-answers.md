@@ -16239,8 +16239,8 @@
 
 #### Which of these Oscar winning actresses has an Oscar-winning father?
 
-- [ ] Jane Fonda
-- [x] Jennifer Lawrence
+- [x] Jane Fonda
+- [ ] Jennifer Lawrence
 - [ ] Anne Hathaway
 
 #### What was recently found to be hidden in the streaming service Peacock’s User Agreement?
@@ -37734,3 +37734,33 @@
 - [ ] Eminem
 - [x] Ice T
 - [ ] Vanilla Ice
+
+#### Which of the following is a game you would typically play at a carnival?
+
+- [x] Ring Toss
+- [ ] Balance Your Taxes
+- [ ] Does This Look Infected?
+
+#### Who dresssed like Marilyn Monroe in her video for "Material Girl"?
+
+- [x] Madonna
+- [ ] Strawberry Shortcake
+- [ ] Rainbow Brite
+
+#### Pirouettte, Ronde de Jambe, and Plie are all terms from what style of dance?
+
+- [ ] Modern
+- [ ] Tap
+- [x] Ballet
+
+#### What was the first official mascot of the Olympics?
+
+- [ ] Amik the Beaver
+- [ ] Schneemann the Snowman
+- [x] Waldi the Dachshund
+
+#### In which state would you find an attraction filled with miniature versions of other roadside attractions?
+
+- [ ] Ohio
+- [x] Kansas
+- [ ] Arizona
