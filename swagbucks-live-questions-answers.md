@@ -37764,3 +37764,93 @@
 - [ ] Ohio
 - [x] Kansas
 - [ ] Arizona
+
+#### "I'm Lovin' It" is a slogan for which Fast Food chain?
+
+- [ ] Burger King
+- [ ] Jack in the Box
+- [x] McDonald's
+
+#### Which Fast Food chain makes the Baconator?
+
+- [ ] Burger King
+- [x] Wendy's
+- [ ] Jack in the Box
+
+#### A "Flame Broiled" signature sandwich is the calling card of which restaurant?
+
+- [x] Burger King
+- [ ] Raising Cane's
+- [ ] Checkers
+
+#### What was the original price of the Big Mac?
+
+- [ ] 25 cents
+- [x] 45 cents
+- [ ] 1 dollar
+
+#### On which day of the week are Chick-fil-A locations closed?
+
+- [ ] Monday
+- [ ] Friday
+- [x] Sunday
+
+#### Which of the following fast food chains does NOT assemble your food in front of you?
+
+- [x] KFC
+- [ ] Subway
+- [ ] Chipotle
+
+#### Shaquille O'Neal once owned 155 restaurants from what chain?
+
+- [ ] Rally's
+- [x] Five Guys
+- [ ] Shake Snack
+
+#### What fast food chain is often in a combination building with KFC?
+
+- [ ] Bojangles
+- [x] Taco Bell
+- [ ] Del Taco
+
+#### What is the name of the kid's meal at McDonald's?
+
+- [x] Happy Meal
+- [ ] Kiddie Meal
+- [ ] Treasure Meal
+
+#### In 2019, Popeye's created a sensation when they introduced what spicy menu item?
+
+- [ ] Roasted potatoes
+- [ ] Ice cream sundae
+- [x] Fried Chicken Sandwich
+
+#### Jessica Simpson starred in a reality show with what pop star, who was her first husband?
+
+- [x] Nick Lachey
+- [ ] Justin Timberlake
+- [ ] Donnie Wahlberg
+
+#### What is a parasol meant to protect you from?
+
+- [ ] Wind
+- [ ] Carpenter Ants
+- [x] The Sun
+
+#### A series of viral videos featured objects being cut into, revealing that they were actually what?
+
+- [ ] Hollow
+- [ ] Papier-mache
+- [x] Cakes
+
+#### According to international aviation standards, conditions become "foggy" when visibility is less than what distance?
+
+- [ ] 600 meters
+- [ ] 3,500 meters
+- [x] 1,000 meters
+
+#### Easter is always celebrated on which day of the week?
+
+- [ ] Monday
+- [ ] Friday
+- [x] Sunday
