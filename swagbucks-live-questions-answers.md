@@ -37914,3 +37914,27 @@
 - [x] Rick Grimes
 - [ ] Bart Simpson
 - [ ] Tim "The Toolman" Taylor
+
+#### During which of the following periods of time did dinosaurs roam the earth?
+
+- [ ] Stone age
+- [x] Jurassic period
+- [ ] Renaissance
+
+#### Which fast food chain still has carhops?
+
+- [ ] Ruth's Chris
+- [ ] Bloomingdale's
+- [x] Sonic
+
+#### What is the last known line written by Leonardo Da Vinci in his notebooks?
+
+- [ ] Learning never exhausts the mind.
+- [x] Because the soup is getting cold.
+- [ ] Art is never finished, only abandoned.
+
+#### In the summer of 2022, a little kid named Tariq went viral professing his love for what food?
+
+- [x] Corn
+- [ ] Hot dogs
+- [ ] Cotton Candy
