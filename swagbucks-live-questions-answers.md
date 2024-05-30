@@ -37854,3 +37854,63 @@
 - [ ] Monday
 - [ ] Friday
 - [x] Sunday
+
+#### What is the term for the increase in the rate or speed of something?
+
+- [x] Acceleration
+- [ ] Deceleration
+- [ ] Launch
+
+#### Which of the following bands is NOT named after one of its members?
+
+- [ ] Van Halen
+- [ ] Dave Matthews Band
+- [x] The Beatles
+
+#### Marcus Aurelius, Caligula, and Julius Caesar all ruled over which Empire?
+
+- [ ] Ottoman Empire
+- [x] Roman Empire
+- [ ] Byzantine Empire
+
+#### When the original Gap opened in 1969, they only sold two things: jeans and what other item?
+
+- [ ] Bread
+- [x] Record Tapes
+- [ ] Flowers
+
+#### Ryan Gosling and Mikey Day starred in a viral 2024 SNL sketch dressed as which cartoon characters?
+
+- [x] Beavis and Butt-Head
+- [ ] Yogi Bear and Boo-Boo
+- [ ] Scooby-Doo and Shaggy
+
+#### As of 2024, who owns the most Michelin star restaurants?
+
+- [x] Alain Ducasse
+- [ ] Gordon Ramsay
+- [ ] Jose Andres
+
+#### What is the capital of Michigan?
+
+- [ ] Da Yoopers
+- [x] Lansing
+- [ ] Ann Arbor
+
+#### Where would you go to find a specially built "Polar Bear Jail"?
+
+- [ ] Alaska
+- [x] Canada
+- [ ] Russia
+
+#### Nestle Quik is made to be added to what beverage?
+
+- [x] Milk
+- [ ] Orange Juice
+- [ ] Soda
+
+#### On "The Walking Dead," what is the name of the main protagonist?
+
+- [x] Rick Grimes
+- [ ] Bart Simpson
+- [ ] Tim "The Toolman" Taylor
