@@ -32089,7 +32089,7 @@
 - [ ] Borscht
 - [ ] Wonton Soup
 
-#### Which of these is NOT a cmoonly used crutch word?
+#### Which of these is NOT a commonly used crutch word?
 
 - [ ] Basically
 - [ ] Like
@@ -37998,3 +37998,69 @@
 - [ ] Cream
 - [x] The Rolling Stones
 - [ ] The Band
+
+#### Which word has the most to do with flattery and coaxing?
+
+- [x] Wheedle
+- [ ] Carphology
+- [ ] Deterge
+
+#### What's the name for the lab device that produces a single flame for heating?
+
+- [x] Bunsen Burner
+- [ ] Bunsen Honeydew
+- [ ] Uni-flame
+
+#### Which of these characters was never a manager at the Scranton branch for any period of time?
+
+- [ ] Creed Bratton
+- [ ] Kevin Malone
+- [x] Toby Flenderson
+
+#### Where would you most likely hear a somniloquy?
+
+- [ ] On a stage
+- [ ] In a library
+- [x] In a bed
+
+#### Misty May-Treanor and Kerri Walsh won three consecutive gold medals in which Olympic event?
+
+- [ ] Archery
+- [ ] Synchronized Swimming
+- [x] Beach Volleyball
+
+#### The first European reigning monarch to visit the United States went by what title?
+
+- [x] Prince
+- [ ] Emperor
+- [ ] King
+
+#### Claude Monet is most closely associated with which art movement?
+
+- [ ] Dadaism
+- [ ] Naturalism
+- [x] Impressionism
+
+#### Starting with "The Muppet Christmas Carol", what was added to projects as a tribute to Jim Henson?
+
+- [ ] Rainbow
+- [x] Shooting star
+- [ ] Sunrise
+
+#### Which of these is NOT a Pixar movie?
+
+- [ ] Onward
+- [x] Antz
+- [ ] The Good Dinosaur
+
+#### Which rock band's fan club holds the Guinness Record for being the longest-running?
+
+- [x] Queen
+- [ ] The Rolling Stones
+- [ ] The Beatles
+
+#### Which fictional TV animal would most likely be friends with a farrier?
+
+- [ ] Lassie
+- [x] Mr. Ed
+- [ ] Mickey Mouse
