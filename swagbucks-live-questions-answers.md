@@ -37938,3 +37938,63 @@
 - [x] Corn
 - [ ] Hot dogs
 - [ ] Cotton Candy
+
+#### "Every Kiss begins with Kay" is the jingle for what type of retailer?
+
+- [ ] Cosmetics
+- [x] Jewelry
+- [ ] Formal Wear
+
+#### What type of meat is in a traditional Carbonara?
+
+- [x] Pork
+- [ ] Lamb
+- [ ] Chicken
+
+#### In which direction does the sun set for the majority of the Earth?
+
+- [ ] East
+- [x] West
+- [ ] South
+
+#### What did the term "Flash in the pan" originally refer to?
+
+- [x] A misfiring weapon
+- [ ] Cooking
+- [ ] A magic trick
+
+#### "Blazing Saddles" was the first movie to feature what?
+
+- [ ] Western/Comedy Crossover
+- [x] Audible Farts
+- [ ] Interracial Kiss
+
+#### The USS Arizona was sunk during a sneak attack on which U.S. Naval Base?
+
+- [x] Pearl Harbor
+- [x] Pensacola
+- [ ] Patuxent River
+
+#### Fictional characters Basil Brush and Tod are both what kinds of animal?
+
+- [ ] Eagle
+- [x] Fox
+- [ ] Cat
+
+#### Knucklebones was a precursor to what playground game?
+
+- [ ] Hopscotch
+- [ ] King of the Hill
+- [x] Jacks
+
+#### Actors Clint Eastwood, Robert Redford, and Mel Gibson have won the Oscar in what non-acting category?
+
+- [ ] Best Cinematography
+- [ ] Best Costume Design
+- [x] Best Director
+
+#### Mick Jagger is the lead singer of what band?
+
+- [ ] Cream
+- [x] The Rolling Stones
+- [ ] The Band
