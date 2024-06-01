@@ -38064,3 +38064,21 @@
 - [ ] Lassie
 - [x] Mr. Ed
 - [ ] Mickey Mouse
+
+#### What color was Sega's Vectorman character?
+
+- [ ] Red
+- [ ] Blue
+- [x] Green
+
+#### Who makes the DS handheld console?
+
+- [ ] Sega
+- [ ] Microsoft
+- [x] Nintendo
+
+#### In "I, Tonya", who played Tonya Harding?
+
+- [x] Margot Robbie
+- [ ] Laura Dern
+- [ ] Scarlett Johansson
