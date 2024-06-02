@@ -38082,3 +38082,39 @@
 - [x] Margot Robbie
 - [ ] Laura Dern
 - [ ] Scarlett Johansson
+
+#### Which of the following sports teams is NOT based in New York?
+
+- [ ] Yankees
+- [ ] Knicks
+- [x] Lakers
+
+#### The Haskell Free Library and Opera House straddles the border between which two places?
+
+- [ ] Washington and Vancouver
+- [ ] Minnesota and Winnipeg
+- [x] Vermont and Quebec
+
+#### Who was Elvis's manager?
+
+- [x] Colonel Tom Parker
+- [ ] Brian Epstein
+- [ ] Scooter Braun
+
+#### Who released the hit album "Thriller"?
+
+- [ ] Janet Jackson
+- [ ] Tito Jackson
+- [x] Michael Jackson
+
+#### The Goodyear Blimp is the official bird of what city?
+
+- [x] Redondo Beach, California
+- [ ] Akron, Ohio
+- [ ] Patterson, New Jersey
+
+#### In which of these reality shows do the contestants constantly travel to different locations in a season?
+
+- [ ] Survivor
+- [ ] Big Brother
+- [x] The Amazing Race
