@@ -38118,3 +38118,33 @@
 - [ ] Survivor
 - [ ] Big Brother
 - [x] The Amazing Race
+
+#### What is the Texas Two Step?
+
+- [x] A dance
+- [ ] A car
+- [ ] A plane
+
+#### In which city was the majority of "Escape from New York" actually filmed?
+
+- [ ] New York
+- [x] St. Louis
+- [ ] Cleveland
+
+#### Which of these is a hairstyle?
+
+- [x] Beehive
+- [ ] Beeswax
+- [ ] Bee sting
+
+#### What planet is known as "Earth's Evil Twin"?
+
+- [x] Venus
+- [ ] Mars
+- [ ] Neptune
+
+#### Which of these African-American firsts occurred most recently?
+
+- [ ] First to play professional baseball
+- [x] First to win an Olympic Gold Medal
+- [ ] First to vote
