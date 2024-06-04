@@ -23539,12 +23539,6 @@
 - [ ] Injunction
 - [ ] Subpoena
 
-#### What European city is home to the Arc de Triomphe?
-
-- [ ] London
-- [x] Paris
-- [ ] Barcelona
-
 #### The first long track speed skating event took place in 1863 in what country?
 
 - [x] Norway
@@ -38148,3 +38142,99 @@
 - [ ] First to play professional baseball
 - [x] First to win an Olympic Gold Medal
 - [ ] First to vote
+
+#### Who won the Battle of Hastings in 1066?
+
+- [x] William the Conqueror
+- [ ] General Patton
+- [ ] The Autobots
+
+#### the Toll House Inn is the birthplace of what treat?
+
+- [ ] Carrot Cake
+- [x] Chocolate Chip Cookies
+- [ ] Caramel Corn
+
+#### In Italian, what does "Amore" mean?
+
+- [ ] Live
+- [x] Love
+- [ ] Laugh
+
+#### The Mamelukes were slaves who ended up taking over which country?
+
+- [x] Egypt
+- [ ] Greece
+- [ ] Persia
+
+#### Which of the following MLB teams is based in Canada?
+
+- [x] Blue Jays
+- [ ] Rays
+- [ ] White Sox
+
+#### Who wrote and recorded the James Bond theme "Live and Let Die"?
+
+- [x] Paul McCartney
+- [ ] Billie Eilish
+- [ ] Tina Turner
+
+#### SUR Restaurant in West Hollywood is the setting for which reality show?
+
+- [ ] Monster House
+- [ ] I'm A Celebrity... Get Me Out Of Here!
+- [x] Vanderpump Rules
+
+#### On which dating show did a contestant ask questions to three suitors hidden behind a screen?
+
+- [x] The Dating Game
+- [ ] Studs
+- [ ] Singled Out
+
+#### In which competitive cooking show do chefs create dishes from Mystery Baskets?
+
+- [ ] Top Chef
+- [x] Chopped
+- [ ] Cupcake Wars
+
+#### Which reality tv producer hosts the Bravo show "Watch What Happens Live"?
+
+- [ ] Eli Holzman
+- [ ] Mona Scott-Young
+- [x] Andy Cohen
+
+#### Erin and Ben Napier host which home improvement show?
+
+- [ ] Trading Spaces
+- [x] Home Town
+- [ ] Help! I Wrecked My House
+
+#### Who was the winner of the first season of "American Idol"?
+
+- [ ] Carrie Underwood
+- [ ] Ruben Studdard
+- [x] Kelly Clarkson
+
+#### Which of the following reality shows is the fake?
+
+- [ ] Cheaters
+- [ ] Skating With Celebrities
+- [x] I'm In Love With A Clown
+
+#### On which reality show does Captain Lee tell the crew to "break out all the toys"?
+
+- [x] Below Deck
+- [ ] Ice Road Truckers
+- [ ] The Valley
+
+#### Which of the following businesspeople is NOT a regular Shark on "Shark Tank"?
+
+- [ ] Mark Cuban
+- [ ] Barbara Corcoran
+- [x] Jeff Bezos
+
+#### Jeff Probst hosts which reality game show?
+
+- [ ] Big Brother
+- [x] Survivor
+- [ ] Road Rules
