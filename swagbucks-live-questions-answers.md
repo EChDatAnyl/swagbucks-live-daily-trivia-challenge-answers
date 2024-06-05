@@ -35125,7 +35125,7 @@
 - [ ] Scant
 - [ ] Dearth
 
-#### Which of hte following Billy Joel videos did NOT feature Christie Brinkley?
+#### Which of the following Billy Joel videos did NOT feature Christie Brinkley?
 
 - [ ] Uptown Girl
 - [x] The Longest Time
@@ -38238,3 +38238,159 @@
 - [ ] Big Brother
 - [x] Survivor
 - [ ] Road Rules
+
+#### The Iliad and The Odyssey are epic poems traditionally attributed to which writer?
+
+- [ ] Terrance
+- [x] Homer
+- [ ] Marge
+
+#### Which movie used the tagline "Don't worry, summer is coming"?
+
+- [x] Baywatch
+- [ ] 500 Days of Summer
+- [ ] Couples Retreat
+
+#### What Disney TV show introduced the world to the Mouseketeers?
+
+- [ ] Davy Crockett
+- [ ] The Adventures of Spin & Marty
+- [x] The Mickey Mouse Club
+
+#### Which of these people has not created an animated sitcom on FOX?
+
+- [ ] Seth MacFarlane
+- [ ] Loren Bouchard
+- [x] Stephen Hillenburg
+
+#### What talkg show host played Doug's sister on King of Queens?
+
+- [ ] Leah Remini
+- [x] Ricki Lake
+- [ ] Bonnie Hunt
+
+#### Which State is known as the Empire State?
+
+- [ ] Florida
+- [x] New York
+- [ ] Ohio
+
+#### In 2011, an Alabama law firm sued what restaurant over the makeup of their meat?
+
+- [ ] McDonald's
+- [x] Taco Bell
+- [ ] Arby's
+
+#### British taxation of American colonists led to what event?
+
+- [ ] The Boston Dance Party
+- [ ] The Boston Slumber Party
+- [x] The Boston Tea Party
+
+#### In the French comic Asterix, who is Asterix's best friend?
+
+- [ ] Vercingetorix
+- [x] Obelix
+- [ ] Dogmatix
+
+#### Harriet Tubman helped free slaves using a network of activists and safehouses known as what?
+
+- [ ] The Freedom Trail
+- [x] The Underground Railroad
+- [ ] The Long Walk Home
+
+#### "Uptown Girl" Christie Brinkley was famously married to what musician?
+
+- [ ] Jon Don Jovi
+- [ ] Bruce Springsteen
+- [x] Billy Joel
+
+#### What U.S. holiday, celebrated on February 2nd, is also the title of a Bill Murray movie?
+
+- [ ] President's Day
+- [x] Groundhog Day
+- [ ] National Freedom Day
+
+#### The Quest and Rift are VR headsets from whta company?
+
+- [ ] Sony
+- [x] Oculus
+- [ ] Nintendo
+
+#### What type of doctor deals specifically with the eyes?
+
+- [x] Optometrist
+- [ ] Cardiologist
+- [ ] Rheumatologist
+
+#### In the MCU, which of these characters does NOT draw their powers from an Infinity Stone?
+
+- [ ] Scarlet Witch
+- [x] Groot
+- [ ] Vision
+
+#### Which Pixar character is a Space Ranger for Star Commmand?
+
+- [ ] WALL-E
+- [ ] Hamm
+- [x] Buzz Lightyear
+
+#### Roblox and Fortnite both have their own editions of sort dart blasters from what brand?
+
+- [x] Nerf
+- [ ] Barbie
+- [ ] Transformers
+
+#### What is the only position in soccer that can touch the bball with their hands while it's in play?
+
+- [ ] Halfback
+- [ ] Sweeper
+- [x] Goalkeeper
+
+#### What fictional country is the home of Black Panther?
+
+- [ ] Krakoa
+- [x] Wakanda
+- [ ] Krypton
+
+#### Crash, Hi-Hat, and Ride are all varieties of what musical instrument?
+
+- [x] Cymbal
+- [ ] Flute
+- [ ] Zither
+
+#### The League of Nations was the forerunner to what intergovernmental organization?
+
+- [ ] NAFTA
+- [ ] The League of Extraordinary Gentlemen
+- [x] The United Nations
+
+#### In Western civilization, what is the female equivalent to the bow?
+
+- [x] Curtsy
+- [ ] Jig
+- [ ] High kick
+
+#### The term Debbie Downer originated on what TV show?
+
+- [ ] Friends
+- [x] Saturday Night Live
+- [ ] Rugrats
+
+#### According to the saying, what goeth before the fall?
+
+- [x] Pride
+- [ ] Prejudice
+- [ ] Zombies
+
+#### In the comic strip Beetle Bailey, in which branch of the armed forces does he serve?
+
+- [ ] Coast Guard
+- [ ] Merchant Marines
+- [x] Army
+
+#### When Moonlight won the Best Picture Oscar in 2017, what other movie was mistakenly announced first?
+
+- [ ] Amadeus
+- [x] La La Land
+- [ ] Lawrence of Arabia
