@@ -38394,3 +38394,33 @@
 - [ ] Amadeus
 - [x] La La Land
 - [ ] Lawrence of Arabia
+
+#### What sweet bread is commonly eaten in Italy at Christmas time?
+
+- [ ] Pantomime
+- [ ] Pantaloon
+- [x] Panettone
+
+#### According to legend, what happens when you make eye contact with a basilisk?
+
+- [ ] You fall asleep
+- [x] You die
+- [ ] You turn into a basilisk
+
+#### Based on the history of milinery, what would the Mad Hatter put in Alice's tea to make her as mad as he was?
+
+- [x] Mercury
+- [ ] Absinthe
+- [ ] Sulphate
+
+#### What toy manufacturer has released a new playset called "Crokscrew Crash Track"?
+
+- [x] Hot Wheels
+- [ ] My Little Pony
+- [ ] Lego
+
+#### Which Eric Carmen song would and Egyptian god under the rule of Pharaoh Akhenaton most likely relate to?
+
+- [x] All By Myself
+- [ ] Make Me Lose Control
+- [ ] Hungry Eyes
