@@ -38514,3 +38514,21 @@
 - [ ] 24 Hours
 - [ ] 40 Weeks
 - [x] 365 Days
+
+#### When you let the cat out of the bag, what are you doing?
+
+- [ ] Making a mean comment
+- [x] Spilling a secret
+- [ ] Painting a picture
+
+#### Which of these was NOT a story from Grimms' Fairy Tales?
+
+- [ ] The Good Bargain
+- [ ] Clever Else
+- [x] Wolfskin
+
+#### Which of these crimes refers to stealing someone's personal property?
+
+- [x] Larceny
+- [ ] Jaywalking
+- [ ] Speeding
