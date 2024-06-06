@@ -38424,3 +38424,93 @@
 - [x] All By Myself
 - [ ] Make Me Lose Control
 - [ ] Hungry Eyes
+
+#### What is the name of the captain who relentlessly pursued Moby Dick?
+
+- [ ] Cook
+- [ ] Morgan
+- [x] Ahab
+
+#### Pottery is a method of making things using what material?
+
+- [ ] Acrylics
+- [x] Clay
+- [ ] Wood
+
+#### Which of these Muppets is red?
+
+- [ ] Grover
+- [x] Elmo
+- [ ] Dr. Teeth
+
+#### What cereal is promoted as "Magically Delicious"?
+
+- [ ] Cocoa Puffs
+- [x] Lucky Charms
+- [ ] Cheerios
+
+#### According to IMDB, how many characters in "The Polar Express" did Tom Hanks play?
+
+- [ ] Four
+- [ ] Five
+- [x] Six
+
+#### In shoes, a stiletto is a type of:
+
+- [ ] Leather
+- [x] Heel
+- [ ] Strap
+
+#### Which of these dishes is traditonally served in a flour or corn tortilla?
+
+- [x] Taco
+- [ ] Sloppy Joe
+- [ ] Saag Paneer
+
+#### Which U.S. State has the largest population?
+
+- [ ] Flordia
+- [ ] Montana
+- [x] California
+
+#### DJ Steve Aoki was once heir to what restaurant chain?
+
+- [ ] Yoshinoya Bowl
+- [x] Benihana
+- [ ] Panda Express
+
+#### Which muppet acted as the host of "The Muppet Show"?
+
+- [x] Kermit the Frog
+- [ ] Beaker
+- [ ] Sweeturns
+
+#### Which of the following inventions is older than the wheel?
+
+- [x] Calendars
+- [ ] Stethoscopes
+- [ ] Paper
+
+#### Who won the 2024 Grammy for Best Album?
+
+- [ ] SZA
+- [ ] boygenius
+- [x] Taylor Swift
+
+#### What is the unofficial name of the guy in Monopoly?
+
+- [x] Rich Uncle Pennybags
+- [ ] Mr. Monopoly
+- [ ] I.M. Getinrich
+
+#### In the game of "Tag", what name is given to the person running around trying to tag people?
+
+- [x] It
+- [ ] That
+- [ ] What
+
+#### Approximately how long does it take the Earth to complete one orbit of the sun?
+
+- [ ] 24 Hours
+- [ ] 40 Weeks
+- [x] 365 Days
