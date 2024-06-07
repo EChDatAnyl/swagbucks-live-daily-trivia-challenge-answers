@@ -38532,3 +38532,93 @@
 - [x] Larceny
 - [ ] Jaywalking
 - [ ] Speeding
+
+#### In which country did ancient civilizations compete in a sport called "Cauldron-Lifting"?
+
+- [x] China
+- [ ] Scotland
+- [ ] Greece
+
+#### What band is known for the long beards worn by their guitar and bass players?
+
+- [x] ZZ Top
+- [ ] Mumford and Sons
+- [ ] Led Zeppelin
+
+#### "Are you not entertained?!" by this 2001 Best Picture winner with Russell Crowe and Joaquin Phoenix?
+
+- [ ] Ben Hur
+- [ ] Rome
+- [x] Gladiator
+
+#### In what game would the pieces be popped out of place when the timer went off?
+
+- [x] Perfection
+- [ ] Operation
+- [ ] Crossfire
+
+#### Which of these movies is a sequel?
+
+- [ ] Jojo Rabbit
+- [x] Bad Boys for Life
+- [ ] Knives Out
+
+#### Who played the title role in 2024's "The Fall Guy"?
+
+- [x] Ryan Gosling
+- [ ] Emily Blunt
+- [ ] Aaron Taylor-Johnson
+
+#### In "E.T. The Extra Terrestrial", E.T. builds a device that allows him to do what?
+
+- [ ] Fly
+- [x] Phone home
+- [ ] Make candy
+
+#### What was Disney's first animated feature film?
+
+- [x] Snow White and the Seven Dwarfs
+- [ ] 101 Diamatians
+- [ ] Encanto
+
+#### In "Citizen Kane", what is Charles Foster Kane's dying word?
+
+- [ ] Xanadu
+- [ ] Onward
+- [x] Rosebud
+
+#### In "The African Queen", what is the African Queen?
+
+- [x] A boat
+- [ ] A jewel
+- [ ] A horse
+
+#### Who won an Academy Award for playing the title role in "Erin Brockovich"?
+
+- [ ] Kathy Bates
+- [x] Julia Roberts
+- [ ] Meryl Streep
+
+#### In "Field of Dreams", after leaving baseball what did Moonlight Graham do for a living?
+
+- [ ] Fireman
+- [ ] Salesman
+- [x] Doctor
+
+#### Which of the following movies was directed by "The Master of Suspense"?
+
+- [ ] Anatomy of a Murder
+- [x] The Trouble With Harry
+- [ ] In The Heat of the Night
+
+#### Which movie character utters the phrases "I'll be back" and "Hasta la vista, baby"?
+
+- [ ] Thanos
+- [x] The Terminator
+- [ ] Rambo
+
+#### Which of the following movies is a musical?
+
+- [ ] Quiz Show
+- [ ] Nell
+- [x] Chicago
