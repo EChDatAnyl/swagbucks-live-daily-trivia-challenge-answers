@@ -38622,3 +38622,75 @@
 - [ ] Quiz Show
 - [ ] Nell
 - [x] Chicago
+
+#### Founded in 1933, what did the NRA stand for?
+
+- [ ] National Rifle Association
+- [x] National Recovery Administration
+- [ ] National Recreation Area
+
+#### Which car's chassis was used to build the only street legal version of Speed Racer's Mach 5?
+
+- [x] C4 Corvette
+- [ ] Lotus 3 Eleven
+- [ ] Shelby Cobra
+
+#### Which of these "Survivor" contestants has played the most total days?
+
+- [ ] Rupert Boneham
+- [x] Parvati Shallow
+- [ ] Eirie Fields
+
+#### What "Wild and Crazy Guy" had an auto biography titled "Born Standing Up"?
+
+- [ ] Abraham Lincoln
+- [x] Steve Martin
+- [ ] Neil Armstrong
+
+#### Which of the following is an integer?
+
+- [x] 1
+- [ ] 5.4
+- [ ] 4/3
+
+#### Which of the following is NOT an astrological sign?
+
+- [ ] Aquarius
+- [ ] Sagittarius
+- [x] Hilarious
+
+#### What ticketing company was the subject of a 2023 hearing by the U.S. Senate Judiciary Panel?
+
+- [ ] StubHub
+- [ ] Ticket Leap
+- [x] Live Nation
+
+#### At the beginning of Memorial Day, the flag is flown at what height?
+
+- [x] Half-staff
+- [ ] Upside Down
+- [ ] 1,000,000 feet
+
+#### Where did the Wright Brothers make their famous first flight?
+
+- [ ] Buffalo, New York
+- [x] Kitty Hawk, North Carolina
+- [ ] Cleveland, Ohio
+
+#### At a wedding, what is the male counterpart to the bride called?
+
+- [ ] The Minister
+- [x] The Groom
+- [ ] The DJ
+
+#### Fatima al-Fihri is known for establishing the world's first what?
+
+- [ ] Pub
+- [x] University
+- [ ] Hospital
+
+#### Liam and Noel Gallagher founded what band?
+
+- [ ] The Beatles
+- [x] Oasis
+- [ ] The White Stripes
