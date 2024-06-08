@@ -38694,3 +38694,51 @@
 - [ ] The Beatles
 - [x] Oasis
 - [ ] The White Stripes
+
+#### Which of the following musicals is about a planet that eats people?
+
+- [ ] Come From Away
+- [ ] Kiss of the Spider Woman
+- [x] Little Shop of Horrors
+
+#### When a pro athlete's contract with their team is up, what do they become?
+
+- [ ] Double Agent
+- [ ] Thickening Agent
+- [x] Free Agent
+
+#### Which Seinfeld star appeared in commercials for McDonald's McDLT?
+
+- [x] Jason Alexander
+- [ ] Julia Louis-Dreyfus
+- [ ] Michael Richards
+
+#### What backup QB led Alabama to an overtime win in the 2018 National Championship Game?
+
+- [ ] DaVonta Smith
+- [ ] Jalen Hurts
+- [x] Tua Tagovailoa
+
+#### The painting "Arrangement in Grey and Black No. 1" is better known by what name?
+
+- [x] Whistler's Mother
+- [ ] Whistler's Uncle
+- [ ] Whistler's Adoped Cousin
+
+#### What item of clothing is not worn by Hobbits?
+
+- [ ] Pants
+- [ ] Shirts
+- [x] Shoes
+
+#### The real Uncle Sam served in the War of 1812 as what?
+
+- [ ] Mall carrier
+- [ ] Weapons mechanic
+- [x] Meat packer
+
+#### Which of the following shows features people having their items appraised?
+
+- [ ] Home Town
+- [x] Antiques Roadshow
+- [ ] Cake Boss
