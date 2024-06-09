@@ -38742,3 +38742,57 @@
 - [ ] Home Town
 - [x] Antiques Roadshow
 - [ ] Cake Boss
+
+#### Which of these groups had a female lead singer?
+
+- [ ] The Rolling Stones
+- [x] No Doubt
+- [ ] The Sugar Hill Hang
+
+#### What is in the middle of a standard Oreo cookie?
+
+- [x] Creme filling
+- [ ] Pretzels
+- [ ] Caramel
+
+#### What's the name for the person who hosts the shows at a circus?
+
+- [ ] Clown
+- [ ] Lion Tamer
+- [x] Ringmaster
+
+#### Kraft often pairs which pasta shape with cheese?
+
+- [x] Macaroni
+- [ ] Rice-A-Roni
+- [ ] Spin-a-rooni
+
+#### Flathead and Phillips Head are two types of what?
+
+- [x] Screwdriver
+- [ ] Wrench
+- [ ] Hammer
+
+#### What tissue connects bones and muscles?
+
+- [ ] Teeny Dons
+- [ ] Tin Dawns
+- [x] Tendons
+
+#### What singer once played themselves on an episode of "The A-Team"?
+
+- [ ] Merle Haggard
+- [ ] Cyndi Lauper
+- [x] Boy George
+
+#### What term is used to describe someone who creates stage scripts for a living?
+
+- [x] Playwright
+- [ ] Screenwriter
+- [ ] Drector
+
+#### Megan Rapinoe won Olympic gold for the U.S. competing in what event?
+
+- [ ] Equestrian
+- [x] Soccer
+- [ ] Beach Volleyball
