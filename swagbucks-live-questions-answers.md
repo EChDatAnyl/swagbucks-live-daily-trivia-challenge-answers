@@ -38796,3 +38796,39 @@
 - [ ] Equestrian
 - [x] Soccer
 - [ ] Beach Volleyball
+
+#### What comedy event features a panel of comedians viciously insulting the guest of honor?
+
+- [x] Roast
+- [ ] Bringer
+- [ ] Open Mic
+
+#### How many children does Mick Jagger have?
+
+- [ ] 4
+- [x] 8
+- [ ] 10
+
+#### What is the name of Captain Hook's boatswain in "Peter Pan"?
+
+- [ ] Smity
+- [ ] Smegol
+- [x] Smee
+
+#### Diner's Club was an early version of what product?
+
+- [ ] DoorDash
+- [x] The Credit Card
+- [ ] The VIP Section
+
+#### Danny BeVito currently stars on what sitcom?
+
+- [ ] The Wonder Years
+- [ ] Abbott Elementary
+- [x] It's Always Sunny In Phiiladelphia
+
+#### Which of the following is a Track & Field event?
+
+- [ ] High Dive
+- [x] Javelin
+- [ ] Pommel Horse
