@@ -38832,3 +38832,51 @@
 - [ ] High Dive
 - [x] Javelin
 - [ ] Pommel Horse
+
+#### Which of these is not a National Lampoon movie?
+
+- [x] Caddyshack
+- [ ] Animal House
+- [ ] Joy of Sex
+
+#### How does Alice end up in Wonderland?
+
+- [ ] Through the want ads
+- [x] Down the rabbit hole
+- [ ] Over the rainbow
+
+#### Which of these drinks contains coffee?
+
+- [x] Frappuccino
+- [ ] Boilermaker
+- [ ] Margarita
+
+#### How many universally accepted basic tastes are perceived by our taste buds?
+
+- [ ] One
+- [x] Five
+- [ ] One million
+
+#### "Mock Trial with J. Reinhold" is a show-within-a-show from what sitcom?
+
+- [x] Arrested Development
+- [ ] Modern Family
+- [ ] Seinfeld
+
+#### On which game show are you trying to guess how people answered a survey?
+
+- [x] Family Feud
+- [ ] Deal or No Deal
+- [ ] Card Sharks
+
+#### What is the main ingredient in sabich?
+
+- [x] Eggplant
+- [ ] Meat
+- [ ] Chickpea
+
+#### Sally Ride was the first American woman to do what?
+
+- [x] Go to space
+- [ ] Vote
+- [ ] Run for President
