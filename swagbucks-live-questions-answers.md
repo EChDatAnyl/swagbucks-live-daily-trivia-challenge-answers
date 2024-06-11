@@ -38940,3 +38940,45 @@
 - [ ] One
 - [ ] Two
 - [x] Three
+
+#### What Canadian city is home to the CN Tower?
+
+- [x] Toronto
+- [ ] Vancouver
+- [ ] Edmonton
+
+#### Not counting Infinity War, how many versions of the Iron Man Armor has Tony Stark built in the MCU?
+
+- [x] 47
+- [ ] 48
+- [ ] 50
+
+#### Which of these toys is supposed to come back when you throw it?
+
+- [ ] Baseball
+- [ ] Javelin
+- [x] Boomerang
+
+#### What future rock star also performed on the Ed Sullivan Show the night the Beatles debuted?
+
+- [x] Davy Jones
+- [ ] David Crosby
+- [ ] Donnie Osmond
+
+#### Er Enish is a Turkish sport that can be described with which two words?
+
+- [ ] Camel Golf
+- [ ] Dog Gymnastics
+- [x] Horseback Wrestling
+
+#### In what city does The Simpsons primarily take place?
+
+- [ ] Shelbyville
+- [ ] Capital City
+- [x] Springfield
+
+#### Gadget Hackwrench from Rescue Rangers is based on a character from what movie?
+
+- [x] Real Genius
+- [ ] Revenge of the Nerds
+- [ ] Weird Science
