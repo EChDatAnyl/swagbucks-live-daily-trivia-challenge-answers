@@ -38880,3 +38880,63 @@
 - [x] Go to space
 - [ ] Vote
 - [ ] Run for President
+
+#### What mesh-backed headwear saw a resurgence in popularity in the 2000's?
+
+- [ ] Jeff Caps
+- [x] Trucker Hat
+- [ ] Pith Helemets
+
+#### What color is standard Hawaiian Punch?
+
+- [x] Red
+- [ ] Green
+- [ ] Orange
+
+#### Which U.S. State is The Tarheel State?
+
+- [ ] Pennsylvania
+- [ ] Iowa
+- [x] North Carolina
+
+#### The Marshall Plan was devised to give aid to Europe from the U.S. after which war?
+
+- [x] World War II
+- [ ] Vietnam War
+- [ ] Crimean War
+
+#### Farsi is the official language of which country?
+
+- [ ] India
+- [x] Iran
+- [ ] Ireland
+
+#### What comedian hosts a TV show called "Last Week Tonight"?
+
+- [x] John Oliver
+- [ ] John Stewart
+- [ ] John Hodgman
+
+#### As of April 2024, which of the following people is NOt a member of the SNL "Five Timers Club"?
+
+- [ ] Kristen Wiig
+- [ ] Candice Bergen
+- [x] Miley Cyrus
+
+#### Ozzy Osbourne was the lead singer of which band?
+
+- [ ] No Doubt
+- [x] Black Sabbath
+- [ ] Led Zeppelin
+
+#### Jeff Foxworthy hosted the game show "Are You Smarter Than A" what?
+
+- [x] Fifth Grader
+- [ ] Physics Professor
+- [ ] Baby
+
+#### What is the maximum number of times a volleyball team can make contact with the ball before it goes over the net?
+
+- [ ] One
+- [ ] Two
+- [x] Three
