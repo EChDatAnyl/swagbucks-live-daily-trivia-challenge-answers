@@ -38982,3 +38982,39 @@
 - [x] Real Genius
 - [ ] Revenge of the Nerds
 - [ ] Weird Science
+
+#### Capri Sun is a brand of what?
+
+- [x] Juice Pouch
+- [ ] Sunscreen
+- [ ] Protein Shake
+
+#### Which of the following was NOT developed by someone from the AAPI community?
+
+- [ ] YouTube
+- [ ] The N95 Respirator
+- [x] Super Soaker
+
+#### What country would you visit if you wanted to stand the farthest form the center of the Earth?
+
+- [ ] Canada
+- [ ] Nepal
+- [x] Ecuador
+
+#### Which of the following dishes is traditionally spicy?
+
+- [ ] Vanilla Pudding
+- [ ] Chocolate milkshake
+- [x] Curry
+
+#### What is used to test a scientific theory?
+
+- [ ] Hypothesis
+- [x] Experiment
+- [ ] Observation
+
+#### Roger Bannister was the first person to achieve what athletic feat?
+
+- [ ] Pitch a perfect game
+- [x] Run a sub-4 minute mile
+- [ ] Swim the English Channel
