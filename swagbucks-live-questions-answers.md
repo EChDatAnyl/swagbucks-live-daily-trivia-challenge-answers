@@ -39018,3 +39018,93 @@
 - [ ] Pitch a perfect game
 - [x] Run a sub-4 minute mile
 - [ ] Swim the English Channel
+
+#### What is the term for animals that only eat plants?
+
+- [ ] Carnivore
+- [ ] Chickentarian
+- [x] Herbivore
+
+#### Tom Holland is in a long-term relationship with which "Spider-Man" co-star?
+
+- [ ] Angourie Rice
+- [x] Zendaya
+- [ ] Marisa Tomei
+
+#### Which of the following hairstyles is described as "business in the front, party in the back"?
+
+- [ ] Bob
+- [ ] Shag
+- [x] Mullet
+
+#### Austin Richard Post is better known by what name?
+
+- [x] Post Malone
+- [ ] Post Bran Flakes
+- [ ] Post Office
+
+#### During the Middle Ages, what animal's horn was believed to be able to purify water?
+
+- [ ] Rhinoceros
+- [x] Narwhal
+- [ ] Deer
+
+#### Shredder, Bebop, and Rocksteady are villains in which toy line?
+
+- [ ] Centurions
+- [ ] M.A.S.K
+- [x] Teenage Mutant Ninja Turtles
+
+#### Which of the following athletes has won the most gold medals at the Olympics?
+
+- [ ] Jesse Owens
+- [ ] Simone Biles
+- [x] Michael Phelps
+
+#### What was the original Michelin Guide created to sell?
+
+- [ ] Meals
+- [x] Automobiles and tires
+- [ ] Telephones
+
+#### Joe Mantegna and Mandy Patinkin have both been the lead of what TV series?
+
+- [ ] Becker
+- [ ] Chicago Hope
+- [x] Criminal Minds
+
+#### What alcoholic beverage serves as the base for a margarita?
+
+- [ ] Scotch
+- [x] Tequila
+- [ ] Pinot Grigio
+
+#### "Te Amo" is the way to say "I love you" in which language?
+
+- [ ] French
+- [ ] Dutch
+- [x] Spanish
+
+#### Which HBO series centers around the robots revolting at a Delos park?
+
+- [ ] Big Little Lies
+- [ ] Game of Thrones
+- [x] Westworld
+
+#### How many of the five Olympic ring colors are represented in a bowl of Froot Loops cereal?
+
+- [x] 4
+- [ ] 3
+- [ ] 5
+
+#### Which of these flying inventions took to the air first?
+
+- [ ] Helicopter
+- [x] Hot Air Balloon
+- [ ] Airpane
+
+#### Which of the following singers was NOT in the Backstreet Boys?
+
+- [ ] Howie Dorough
+- [ ] AJ McLean
+- [x] Lance Bass
