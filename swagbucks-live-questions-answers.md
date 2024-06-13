@@ -39108,3 +39108,63 @@
 - [ ] Howie Dorough
 - [ ] AJ McLean
 - [x] Lance Bass
+
+#### Cruella de Vil is the villain in which Disney movie?
+
+- [ ] Lady and the Tramp
+- [ ] The Aristocats
+- [x] 101 Dalmatians
+
+#### According to the song in "Cinderella", what is a dream?
+
+- [x] A wish your heart makes
+- [ ] A veritable smorgasbord
+- [ ] A battlefield
+
+#### What household objects serve as the Queen's armed guard in "Alice in Wonderland"?
+
+- [ ] Teacups
+- [x] Playing Cards
+- [ ] Books
+
+#### Which Disney animated movie stars John Travolta?
+
+- [x] Bolt
+- [ ] Home one the Range
+- [ ] Oliver & Company
+
+#### Which Tony-winner wrote the songs for "Encanto"?
+
+- [ ] Stephen Sondheim
+- [ ] Andrew Lloyd Webber
+- [x] Lin-Manuel Miranda
+
+#### In "Big Hero 6", the film's setting is a city whose name combines which two cities?
+
+- [x] San Francisco and Tokyo
+- [ ] Tokyo and Los Angeles
+- [ ] Los Angeles and San Francisco
+
+#### In "The Emperor's New Groove", what kind of animal is Kuzco turned into?
+
+- [ ] Snake
+- [x] Llama
+- [ ] Falcon
+
+#### Which Disney animated film has a story about two department store hats falling in love?
+
+- [ ] Fantasia
+- [ ] Saludos Amigos
+- [x] Make Mine Music
+
+#### What is the name of Geppetto's cat in "Pinocchio"?
+
+- [ ] Seville
+- [x] Figaro
+- [ ] Jiminy
+
+#### Which Disney "Fab Five" character is one of the Three Caballeros?
+
+- [x] Donald Duck
+- [ ] Goofy
+- [ ] Minnie Mouse
