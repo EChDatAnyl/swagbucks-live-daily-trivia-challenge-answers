@@ -22795,7 +22795,7 @@
 - [ ] Where the Wild Things Are
 - [x] The Little Prince
 
-#### Which of hte following reality shows is a wilderness survival contest?
+#### Which ofthe following reality shows is a wilderness survival contest?
 
 - [ ] American Chopper
 - [ ] Miz & Mrs.
@@ -24715,7 +24715,7 @@
 - [ ] Alaska
 - [ ] Norway
 
-#### Which of hte following ski slope designations denotes the steepest and most difficult slope?
+#### Which ofthe following ski slope designations denotes the steepest and most difficult slope?
 
 - [ ] Bunny Slope
 - [ ] Yellow Diamond
@@ -25177,7 +25177,7 @@
 - [ ] Around the Neighborhood
 - [ ] Fun City
 
-#### Which of hte following is NOT one of the Canadian provinces?
+#### Which ofthe following is NOT one of the Canadian provinces?
 
 - [ ] British Columbia
 - [ ] Ontario
@@ -27157,7 +27157,7 @@
 - [ ] Five
 - [x] Two
 
-#### Which of hte following games is meant for only two players?
+#### Which ofthe following games is meant for only two players?
 
 - [ ] Scrabble
 - [x] Chess
@@ -37585,7 +37585,7 @@
 - [ ] Delaware
 - [ ] Vermont
 
-#### According to Mornings.co.uk, which of hte following is the best classic rock song to fall asleep to?
+#### According to Mornings.co.uk, which ofthe following is the best classic rock song to fall asleep to?
 
 - [x] Your Song
 - [ ] Going to California
@@ -39168,3 +39168,27 @@
 - [x] Donald Duck
 - [ ] Goofy
 - [ ] Minnie Mouse
+
+#### Sous Vide involves cooking food in what liquid?
+
+- [x] Water
+- [ ] Beer
+- [ ] Tomato sauce
+
+#### Which U.S city does NOT have all 4 major sports leagues within their city limits?
+
+- [x] New York
+- [ ] Los Angeles
+- [ ] Denver
+
+#### Who played Olivia Pope on "Scandal"?
+
+- [ ] Katie Lowes
+- [ ] Bellamy Young
+- [x] Kerry Washington
+
+#### Belgium's "Frietmuseum" is a museum dedicated entirely to what?
+
+- [ ] Horror films
+- [x] Potato fries
+- [ ] The history of shipping
