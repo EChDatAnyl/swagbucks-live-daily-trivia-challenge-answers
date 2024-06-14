@@ -39294,3 +39294,57 @@
 - [x] Iron Man
 - [ ] Thor
 - [ ] Captain America
+
+#### Marigold is a shade of what color?
+
+- [ ] Blue
+- [x] Yellow
+- [ ] Brown
+
+#### Red Bull, Monster, and Rockstar are all brands of what kind of beverage?
+
+- [x] Energy Drink
+- [ ] Fruit Juice
+- [ ] Beer
+
+#### Which actor who played Sherlock Holmes is distantly related to Arthur Conan Doyle?
+
+- [x] Benedict Cumberbatch
+- [ ] Jonny Lee Miller
+- [ ] Robert Downy Jr.
+
+#### According to NASA, around the year 15,000 what star will take Polaris' place as the North Star?
+
+- [x] Vega
+- [ ] Rigel
+- [ ] Sirius
+
+#### Which of the following toy lines is based on a TV show?
+
+- [x] Doc McStuffins
+- [ ] Super Soaker
+- [ ] Boglins
+
+#### In 1967, 7-11 released what novelty promotional single?
+
+- [ ] Always Open For You
+- [ ] Slurpee Madness
+- [x] Dance the Slurp
+
+#### What is the term for a reel of mistakes from a movie or TV show?
+
+- [x] Bloopers
+- [ ] Blippers
+- [ ] Blorps
+
+#### Which of these is a term of measurement of an object's heaviness?
+
+- [x] Weight
+- [ ] Volume
+- [ ] Height
+
+#### From which director did Motorola need to get permission before releasing the Droid phone?
+
+- [x] George Lucas
+- [ ] Steven Spielberg
+- [ ] Ron Howard
