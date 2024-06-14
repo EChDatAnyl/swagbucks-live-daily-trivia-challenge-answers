@@ -39192,3 +39192,105 @@
 - [ ] Horror films
 - [x] Potato fries
 - [ ] The history of shipping
+
+#### Which of these 80s songs hit #1 in the U.S. first?
+
+- [ ] Physical
+- [x] Bette Davis Eyes
+- [ ] Endless Love
+
+#### According to mythology, who founded Rome?
+
+- [ ] Marc Antony and Cleopatra
+- [ ] Heckie and Jeckie
+- [x] Romulus and Remux
+
+#### 2008's "The Dark Knight" is a sequel to what film?
+
+- [ ] Superman Returns
+- [ ] Iron Man
+- [x] Batman Begins
+
+#### Which of these is a sign that an audience enjoyed a show?
+
+- [ ] Booing
+- [ ] Throwing tomatoes
+- [x] Standing Ovation
+
+#### At the end of "Blade Runner", Ridley Scott uses footage from what other film?
+
+- [ ] Logan's Run
+- [x] The Shining
+- [ ] Silent Running
+
+#### The Venus de Milo statue is missing which body part?
+
+- [x] Arms
+- [ ] Back
+- [ ] Neck
+
+#### The songs "Live and Let Die", "Goldfinger", and "Skyfall" were all title tracks for films in which series?
+
+- [ ] Lethal Weapon
+- [x] James Bond
+- [ ] Die Hard
+
+#### What concept is usually depicted as a father?
+
+- [x] Time
+- [ ] Earth
+- [ ] Nature
+
+#### Sigmund Freud is known as the Father of what?
+
+- [ ] Snacks
+- [x] Psychoanalysis
+- [ ] Geography
+
+#### Which TV show featured TV dad Frank Costanza?
+
+- [x] Seinfeld
+- [ ] Union Square
+- [ ] The Single Guy
+
+#### What professional wrestler was known as "Big Daddy Cool"?
+
+- [ ] Scott Steiner
+- [ ] Scott Hall
+- [x] Kevin Nash
+
+#### Quincy Jones is the father of an actor who had a leading role on what sitcom?
+
+- [ ] Blackish
+- [x] Parks & Recreation
+- [ ] Arrested Development
+
+#### In the Star Wars Universe, who is Kylo Ren's father?
+
+- [ ] Luke Skywalker
+- [ ] Emperor Palpatine
+- [x] Han Solo
+
+#### In which Apple TV+ show do a famous father and son play the same character at different ages?
+
+- [ ] For All Mankind
+- [x] Monarch: Legacy of Monsters
+- [ ] The Morning Show
+
+#### On "Modern Family", what does Phil Dunphy do for a living?
+
+- [x] Real Estate Agent
+- [ ] Chef
+- [ ] Chauffeur
+
+#### Paul McCartney wrote "Hey Jude" for Julian, the son of which other Beatle?
+
+- [ ] Ringo
+- [x] John
+- [ ] George
+
+#### In "Avengers: Endgame", which hero is the father of a little girl named Morgan?
+
+- [x] Iron Man
+- [ ] Thor
+- [ ] Captain America
