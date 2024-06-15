@@ -39348,3 +39348,51 @@
 - [x] George Lucas
 - [ ] Steven Spielberg
 - [ ] Ron Howard
+
+#### Which animal meows?
+
+- [x] Cat
+- [ ] Dog
+- [ ] Salamander
+
+#### Cadbury Creme Eggs are closely associated with which holiday?
+
+- [x] Easter
+- [ ] Arbor Day
+- [ ] Christmas
+
+#### An octave is a series of how many notes in a musical scale?
+
+- [x] Eight
+- [ ] Six
+- [ ] Four
+
+#### Back in the 1950s, producer Max E. Youngstein defined a Blockbuster as any movie that made at least what amount?
+
+- [x] $2 million
+- [ ] $10 million
+- [ ] $30 million
+
+#### What singer had a Minnesota estate called Paisley Park?
+
+- [ ] Freddie Mercury
+- [ ] John Lennon
+- [x] Prince
+
+#### What country is home to the Notre Dame Cathedral?
+
+- [ ] Spain
+- [x] France
+- [ ] England
+
+#### Which of these Halloween costumes would most likely involves fangs?
+
+- [ ] Princess Leia
+- [ ] He-Man
+- [x] Dracula
+
+#### Davy Jones, Peter Tork, Mickey Dolenz and Mike Nesmith are members of what band?
+
+- [ ] The Beatles
+- [ ] Led Zeppelin
+- [x] The Monkees
