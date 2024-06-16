@@ -39396,3 +39396,51 @@
 - [ ] The Beatles
 - [ ] Led Zeppelin
 - [x] The Monkees
+
+#### What area is supposedly home to Santa Claus?
+
+- [x] North Pole
+- [ ] The North Face
+- [ ] Pole Position
+
+#### The co-creator of "Empire" also had a recurring role on what popular show?
+
+- [x] Buffy the Vampire Slayer
+- [ ] Fresh Prince of Bel Air
+- [ ] Friends
+
+#### The original Yoo-hoo is what flavor?
+
+- [ ] Blueberry
+- [x] Chocolate
+- [ ] Pork
+
+#### What rapper once said "I'm so ahead of my time my parents haven't met yet"?
+
+- [x] Big L
+- [ ] Jay-Z
+- [ ] Eminem
+
+#### In First Aid, Abdominal Thrusts are also known by what name?
+
+- [ ] The Heidegger Maneuver
+- [x] The Heimlich Maeuver
+- [ ] The Feuerbach Maneuver
+
+#### Which of the following is NOT a standard ice cream cone?
+
+- [ ] Waffle Cone
+- [x] Traffic Cone
+- [ ] Sugar Cone
+
+#### What is an abnormal outward curvature of the thoracic vertebrate also known as?
+
+- [x] Dowager's Hump
+- [ ] Buffalo Hump
+- [ ] Quazi Hump
+
+#### In chess, what piece can capture en passant?
+
+- [x] Pawn
+- [ ] Rook
+- [ ] Queen
