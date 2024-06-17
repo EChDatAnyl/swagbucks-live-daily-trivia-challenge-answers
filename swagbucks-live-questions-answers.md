@@ -39474,3 +39474,45 @@
 - [ ] New York
 - [ ] Virgina
 - [x] North Carolina
+
+#### What would you use to measure atmospheric pressure?
+
+- [x] Barometer
+- [ ] Thermometer
+- [ ] Tachometer
+
+#### According to Mental Floss, the screenwriter of "Heathers" originally wanted which director for it?
+
+- [ ] Steven Spielberg
+- [x] Stanley Kubrick
+- [ ] Francis Ford Coppola
+
+#### According to conspiracy theories, which historical figure definitely did NOT write the Shakespeare plays?
+
+- [ ] Earl Edward de Vere
+- [ ] Sir Francis Bacon
+- [x] Sir John Falstaff
+
+#### Which of these animals is a mollusk?
+
+- [x] Clam
+- [ ] Lobster
+- [ ] Flounder
+
+#### Which of the following Colonial-Era terms refers to being drunk?
+
+- [ ] Sabby
+- [x] Fishy
+- [ ] Gut-Founded
+
+#### The Battle of Waterloo was the downfall of what French ruler?
+
+- [ ] Julius Caesar
+- [ ] Charles de Gaulie
+- [x] Napoleon
+
+#### The Gold Rush of 1849 started in which state?
+
+- [x] California
+- [ ] Louislana
+- [ ] Illinois
