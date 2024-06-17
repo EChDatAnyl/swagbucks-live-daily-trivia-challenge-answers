@@ -39444,3 +39444,33 @@
 - [x] Pawn
 - [ ] Rook
 - [ ] Queen
+
+#### What Steven Spielberg movie is set during the U.S. Civil War?
+
+- [x] Lincoln
+- [ ] 1941
+- [ ] E.T.
+
+#### Which sport has a penalty box?
+
+- [ ] Basketball
+- [ ] Tennis
+- [x] Ice Hockey
+
+#### In which children's game do you tell someone to "come over"?
+
+- [x] Red Rover
+- [ ] Checkers
+- [ ] Hopscotch
+
+#### Ziggy Stardust and The Thin White Duke are aliases for what rock star?
+
+- [x] David Bowie
+- [ ] Mick Jagger
+- [ ] Jim Morrison
+
+#### In which U.S. State would you find a piece of land permanently leased to England?
+
+- [ ] New York
+- [ ] Virgina
+- [x] North Carolina
