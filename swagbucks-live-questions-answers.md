@@ -39516,3 +39516,39 @@
 - [x] California
 - [ ] Louislana
 - [ ] Illinois
+
+#### What song tells you to be "a little bit softer now" and "a little bit louder now"?
+
+- [x] Shout
+- [ ] Celebrate
+- [ ] Wobble Baby
+
+#### Which of these is a VR headset?
+
+- [ ] Oculus Yawn
+- [ ] Oculus Banana
+- [x] Oculus Rift
+
+#### An Ax from "The Shining" appears in which of these Pixar films?
+
+- [ ] Brave
+- [ ] Toy Story 3
+- [x] Coco
+
+#### What is Ron's Patronus?
+
+- [ ] An Otter
+- [x] A Dog
+- [ ] A Hawk
+
+#### Dawg is the pet pooch in which comic strip?
+
+- [ ] Tank McNamara
+- [x] Hi and Lois
+- [ ] The Lockhorns
+
+#### The Rosewood sets from Pretty Little Liars were also used on which show?
+
+- [ ] Hart of Dixie
+- [x] Gilmore Girls
+- [ ] The Vampire Diaries
