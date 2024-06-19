@@ -39660,3 +39660,39 @@
 - [ ] Venus
 - [x] Gillette
 - [ ] Francesca
+
+#### Which of these alcoholic drinks do you pop the cork to open?
+
+- [ ] Gin
+- [x] Champagne
+- [ ] Vodka
+
+#### What was the relationship between Inspector Gadget and Penny on the 80s cartoon of the same name?
+
+- [ ] Father and daughter
+- [ ] No relation
+- [x] Uncle and niece
+
+#### Shirley MacLaine is the sister of what famous actor?
+
+- [ ] Walter Matthau
+- [x] Warren Beatty
+- [ ] Wilford Brimley
+
+#### What classic rock song contains a criticism of a Neil Young song?
+
+- [x] Sweet Home Alabama
+- [ ] Brass in Pocket
+- [ ] We're an American Band
+
+#### What is the name of Microsoft's operating system?
+
+- [ ] MacOS
+- [ ] Linux
+- [x] Windows
+
+#### What children's book features a boy named Milo and a dog named Tock with a clock in his belly?
+
+- [x] The Phantom Tollbooth
+- [ ] Bridge to Terabithia
+- [ ] The House with a Clock in its Walls
