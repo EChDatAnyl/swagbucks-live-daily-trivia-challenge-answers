@@ -39552,3 +39552,111 @@
 - [ ] Hart of Dixie
 - [x] Gilmore Girls
 - [ ] The Vampire Diaries
+
+#### What breakfast cereal has a bee as its mascot?
+
+- [ ] Rice Krispies
+- [ ] Corn Flakes
+- [x] Honey Nut Cheerios
+
+#### "Bishy Bishy Barnabee" is an English nickname for what creature?
+
+- [ ] Deer
+- [x] Ladybug
+- [ ] Butterfly
+
+#### Saint Patrick is the patron Saint of what country?
+
+- [ ] Scotland
+- [ ] Wales
+- [x] Ireland
+
+#### Which of these cities is home to a college publicly scouting 14-year old Kiyaunta Goodwin?
+
+- [ ] Atlanta, GA
+- [ ] Nashville, TN
+- [x] Louisville, KY
+
+#### Which of the following words is a synonym for fast?
+
+- [ ] Dank
+- [ ] Dawdling
+- [x] Swift
+
+#### What liquid is commonly poured over cereal?
+
+- [x] Milk
+- [ ] Valvoline
+- [ ] Karo Syrup
+
+#### In ancient Rome, what animal would you most likely see at an aquarium?
+
+- [ ] Fish
+- [x] Cow
+- [ ] Bird
+
+#### Which of the following movies is a sequel to "Minions"?
+
+- [ ] The Last Wish
+- [ ] Wakanda Forever
+- [x] Rise of Gru
+
+#### Snyder's of Hanover makes what kind of snacks?
+
+- [ ] Tortillas
+- [ ] Beef Jerky
+- [x] Pretzels
+
+#### Which of the following actors won back-to-back Best Actor Oscars?
+
+- [ ] Rami Malek
+- [x] Tom Hanks
+- [ ] Denzel Washington
+
+#### Who is the lead singer of U2?
+
+- [x] Bono
+- [ ] The Edge
+- [ ] Adam Clayton
+
+#### Kate McKinnon, Kristen Wiig and Maya Rudolph all rose to fame on what TV show?
+
+- [ ] The Tonight Show
+- [ ] Friends
+- [x] Saturday Night Live
+
+#### According to Insurify, which of the following car brands is most likely to get its driver a speeding ticket?
+
+- [ ] BMW
+- [x] Infiniti
+- [ ] Mazda
+
+#### In the Pop-o-Matic Trouble board, what does the Pop-o-Matic feature do?
+
+- [x] Rool dice
+- [ ] Draw a card
+- [ ] Choose your piece
+
+#### Hippopotomonstrosesquip pedaliophobia is the fear of what?
+
+- [ ] Hippos
+- [ ] Large Feets
+- [x] Long Words
+
+#### In 2023, Margot Robbie starred in a movie based on what toy line?
+
+- [x] Barbie
+- [ ] Paddington Bear
+- [ ] Transformers
+
+#### Which of the following magazines is primarily dedicated to music?
+
+- [ ] Mother Jones
+- [x] Rolling Stone
+- [ ] Popular Mechanics
+
+#### What shaving brand used the jingle "The best a man can get" in their TV commercials?
+
+- [ ] Venus
+- [x] Gillette
+- [ ] Francesca
