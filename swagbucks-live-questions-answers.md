@@ -39696,3 +39696,45 @@
 - [x] The Phantom Tollbooth
 - [ ] Bridge to Terabithia
 - [ ] The House with a Clock in its Walls
+
+#### In Semaphore, people commmunicate using which objects?
+
+- [ ] Lipstick
+- [x] Flags
+- [ ] Hats
+
+#### What is a baseball game divided into?
+
+- [ ] Periods
+- [x] Innings
+- [ ] Quarters
+
+#### In which country would you find a public library with a karaoke bar?
+
+- [ ] Japan
+- [ ] Canada
+- [x] Finland
+
+#### According to his song, where does Dr. Facilier have friends?
+
+- [ ] In the desert
+- [x] On the other side
+- [ ] In the underworld
+
+#### Which of the following sea creatures is classified as a crustacean?
+
+- [x] Lobster
+- [ ] Whale
+- [ ] Clam
+
+#### What kind of cat does Phoebe sing about in her signature song?
+
+- [x] Smelly Cat
+- [ ] Dirty Cat
+- [ ] Filrty Cat
+
+#### Which of hte following women is NOT part of Barbie's Inspiring Women line?
+
+- [x] Michelle Obama
+- [ ] Sally Ride
+- [ ] Ella Fitzgerald
