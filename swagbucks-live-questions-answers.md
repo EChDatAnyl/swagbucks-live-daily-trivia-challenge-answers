@@ -39738,3 +39738,63 @@
 - [x] Michelle Obama
 - [ ] Sally Ride
 - [ ] Ella Fitzgerald
+
+#### What year did the original Juneteenth take place?
+
+- [x] 1865
+- [ ] 104
+- [ ] 1215
+
+#### Juneteenth followed the events of which war?
+
+- [ ] The Spanish-American War
+- [x] The U.S. Civil War
+- [ ] World War I
+
+#### The first Juneteenth happened when U.S. Soldiers shared an executive decree in Galveston Bay, a bay in which State?
+
+- [ ] Oklahoma
+- [ ] Illinois
+- [x] Texas
+
+#### The hymn "Lift Every Voice and Sing" is known by what nickname?
+
+- [x] The Black National Anthem
+- [ ] The Song of Freedom
+- [ ] The Hymn of Solidarity
+
+#### Which amendment to the Constitution abolished slavery?
+
+- [ ] 4th
+- [x] 13th
+- [ ] 19th
+
+#### In the 1870s, a group of former slaves in Texas raised money to create Emancipation Park in which modern-day city?
+
+- [ ] Dallas
+- [ ] Austin
+- [x] Houston
+
+#### What period in American history immediately followed the Civil War?
+
+- [x] Reconstruction
+- [ ] Industrial Revolution
+- [ ] Jazz Age
+
+#### Which of the following is an actual alternative name for Juneteenth?
+
+- [ ] Rebirth Day
+- [ ] Lincoln Day
+- [x] Jubilee Day
+
+#### The Emancipation Proclamation is attributed to which President?
+
+- [ ] Rutherford B. Hayes
+- [x] Abraham Lincoln
+- [ ] Calvin Coolidge
+
+#### Juneteenth is often compared to what other American holiday?
+
+- [ ] Memorial Day
+- [ ] Flag Day
+- [x] Independence Day
