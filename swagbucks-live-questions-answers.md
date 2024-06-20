@@ -28581,7 +28581,7 @@
 
 #### What do bees collect from flowers to make honey?
 
-- [x] Nectar
+- [x] Nectar and Pollen
 - [ ] Wax
 - [ ] Carbon Dioxide
 
@@ -39816,3 +39816,45 @@
 - [ ] 5 Euros
 - [ ] A Million Dollars
 - [x] A Penny
+
+#### Which of the following statements about Walt Disney is FALSE>
+
+- [ ] He was the head of pageantry for the 1960 Winter Olympics
+- [x] He had pet mice growing up
+- [ ] He once played Peter Pan in a school day
+
+#### What famous novel is abou a bunch of school boys stranded on an island?
+
+- [ ] Ulysses
+- [ ] Mrs. Dalloway
+- [x] Lord of the Files
+
+#### Which of these movies won a Best Picture Oscar?
+
+- [x] The Godfather
+- [ ] Tango and Cash
+- [ ] The Meg
+
+#### Where is the actaul Mecca located?
+
+- [ ] Canada
+- [x] The Middle East
+- [ ] Europe
+
+#### Rise of the Resistance is a new parks attraction that can be found in what area of Disneyland?
+
+- [ ] Main Street
+- [ ] Critter Country
+- [x] Galaxy's Edge
+
+#### What is the world's biggest island by area?
+
+- [ ] Madagascar
+- [ ] Australia
+- [x] Greenland
+
+#### According to EW, which of these movies does NOT pass the Bechdel Test?
+
+- [ ] American Pie 2
+- [x] Wayne's World
+- [ ] How to Lose A Guy in 10 Days
