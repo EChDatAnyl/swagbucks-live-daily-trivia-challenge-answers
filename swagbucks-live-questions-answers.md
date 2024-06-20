@@ -39798,3 +39798,21 @@
 - [ ] Memorial Day
 - [ ] Flag Day
 - [x] Independence Day
+
+#### What year was the microwave oven patented?
+
+- [ ] 1927
+- [ ] 1935
+- [x] 1945
+
+#### Which of these Star Wars quotes was spoken by a Mon Calamari?
+
+- [ ] "Wesa got a grand army..."
+- [x] "It's a trap!"
+- [ ] "Do or do not - there is no try."
+
+#### How many did the pie man charge Simple Simon for a sample?
+
+- [ ] 5 Euros
+- [ ] A Million Dollars
+- [x] A Penny
