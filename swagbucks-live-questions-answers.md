@@ -39918,3 +39918,39 @@
 - [ ] NHL
 - [x] MLB
 - [ ] NBA
+
+#### Which candy manufacturer, named for a popular children's literature character, made Dina-Sour Eggs in the 1980s?
+
+- [x] Willy Wonka
+- [ ] Madeleine
+- [ ] Clifford the Big Red Dog
+
+#### Which SNL alum has a cameo in "Indiana Jones and the Temple of Doom"?
+
+- [ ] Kristen Wiig
+- [x] Dan Aykroyd
+- [ ] Bill Murray
+
+#### In 1943, the first "Fashion Week" was held in what American city?
+
+- [ ] Newark
+- [x] New York
+- [ ] New Hope
+
+#### Which of the following words is a contraction?
+
+- [x] Don't
+- [ ] Will
+- [ ] Can
+
+#### In his self portrait, whay does Van Gogh have a bandage on his head?
+
+- [ ] He had a headache
+- [ ] Fashion
+- [x] He had cut off his ear
+
+#### Which U.S. State is known as the Hoosier State?
+
+- [x] Indiana
+- [ ] Ohio
+- [ ] Michigan
