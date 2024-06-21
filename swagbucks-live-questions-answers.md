@@ -39858,3 +39858,63 @@
 - [ ] American Pie 2
 - [x] Wayne's World
 - [ ] How to Lose A Guy in 10 Days
+
+#### Which of the following is NOT a waterpark?
+
+- [ ] Raging Waters
+- [ ] Typhoon Lagoon
+- [x] Galaxy's Edge
+
+#### What is the main ingredient in Cotton Candy?
+
+- [x] Sugar
+- [ ] Chocolate
+- [ ] Bread
+
+#### Which inscets are common picnic pests?
+
+- [ ] Earwigs
+- [ ] Termites
+- [x] Ants
+
+#### Sheep farmer Elkanah Watson held the first County Fair in 1811. Where was it located?
+
+- [ ] Ontario
+- [x] Massachusetts
+- [ ] New York
+
+#### The Kingda Ka Roller Coaster at Siz Flags Great Adventure holds what record?
+
+- [ ] World's Fastest Coaster
+- [ ] Coaster with the most Loops
+- [x] World's Tallest Coaster
+
+#### What substance is used to draw on driveways during the summertime?
+
+- [x] Chalk
+- [ ] Pastel Paint
+- [ ] Clay
+
+#### What film is widely considered to be the first Summer Blockbuster?
+
+- [ ] Star Wars
+- [x] Jaws
+- [ ] E.T.
+
+#### In camping terminology, what is a "Billy" used for?
+
+- [x] Cooking
+- [ ] Sleeping
+- [ ] Bathroom
+
+#### Which of the following is NOT a U.S. National Park?
+
+- [ ] Grand Canyon
+- [ ] Everglades
+- [x] Busch Gardens
+
+#### Which sport is holding their All-Star game on July 16, 2024?
+
+- [ ] NHL
+- [x] MLB
+- [ ] NBA
