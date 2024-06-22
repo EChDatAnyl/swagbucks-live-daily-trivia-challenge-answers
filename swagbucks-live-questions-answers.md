@@ -39954,3 +39954,39 @@
 - [x] Indiana
 - [ ] Ohio
 - [ ] Michigan
+
+#### What is the name of the robot in the 1927 film "Metropolis"?
+
+- [ ] Gort
+- [x] Maria
+- [ ] Ro-Man
+
+#### During World War II, which U.S. State declared war on Germany for tax purposes?
+
+- [ ] California
+- [x] Vermont
+- [ ] Flordia
+
+#### Guy Fieri hosts what food-based TV show?
+
+- [x] Diners, Drive-Ins and Dives
+- [ ] Unwrapped
+- [ ] Iron Chef
+
+#### A video from National Geographic showed that what animal laughs when tickled?
+
+- [x] Rat
+- [ ] Elephant
+- [ ] Bat
+
+#### What animal is in the Playboy logo?
+
+- [x] Rabbit
+- [ ] Fox
+- [ ] Cat
+
+#### Which U.S. president married his high school teacher?
+
+- [x] Millard Fillmore
+- [ ] James K Polk
+- [ ] Martin Van Buren
