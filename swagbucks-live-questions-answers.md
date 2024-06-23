@@ -39990,3 +39990,39 @@
 - [x] Millard Fillmore
 - [ ] James K Polk
 - [ ] Martin Van Buren
+
+#### Which of these toys is used to create drawings?
+
+- [ ] Barbie
+- [x] Spirograph
+- [ ] Pinky Ball
+
+#### Who were the first father and son combo in the Hockey Hall of Fame?
+
+- [x] Bobby & Brett Hull
+- [ ] Syl & Syl Apps Jr.
+- [ ] Brent & Brandon Sulter
+
+#### In which 80s movie does Johnny 5 come alive?
+
+- [ ] Back to School
+- [x] Short Circuit
+- [ ] Always
+
+#### Who played Ace Ventura: Pet Detective?
+
+- [x] Jim Carrey
+- [ ] Damon Wayans
+- [ ] Bill Hader
+
+#### Which of the following is a car racing game?
+
+- [ ] Battlefield
+- [x] Gran Turismo
+- [ ] Space Invaders
+
+#### What children's toy jingle ended with "turn on the magic of shining lights"?
+
+- [ ] Rainbow Brite
+- [ ] Gio Worm
+- [x] Lite Brite
