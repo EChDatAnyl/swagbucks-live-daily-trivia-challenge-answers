@@ -40026,3 +40026,33 @@
 - [ ] Rainbow Brite
 - [ ] Gio Worm
 - [x] Lite Brite
+
+#### What series of books was written by R.L. Stine?
+
+- [x] Goosebumps
+- [ ] Duckpimples
+- [ ] Pigeonblemishes
+
+#### The 1960 play "The Jeweler's Shop" was written by what public figure?
+
+- [x] Pope John Paul II
+- [ ] Richard Nixon
+- [ ] Margaret Thatcher
+
+#### Which children's TV host began each show by putting on a sweater?
+
+- [ ] Big Bird
+- [x] Mister Rogers
+- [ ] Captain Kangaroo
+
+#### What Seth Rogen movie features the character McLovin'?
+
+- [ ] This is the End
+- [x] Superbad
+- [ ] The 40-Year Old Virgin
+
+#### Complete this JFK quote: "Ask not what your country can do for you..."
+
+- [ ] Ask if you can use the bathroom
+- [ ] Ask if it's time to eat yet
+- [x] Ask what you can do for your country
