@@ -40146,3 +40146,33 @@
 - [x] Psychic Readings
 - [ ] Recipes
 - [ ] Coat Sales
+
+#### What TV show introduced the world to Kelly Clarkson>
+
+- [x] American Idol
+- [ ] The X-Factor
+- [ ] The Sing-Off
+
+#### Which of the following is not a real Vitamin?
+
+- [ ] Vitamin K
+- [ ] Vitamin J
+- [x] Vitamin Z
+
+#### For 68 years, Charles Osborne continuously suffered from what condition?
+
+- [ ] Insomnia
+- [x] Hiccups
+- [ ] Flatulence
+
+#### Snickerdoodles contain which spice?
+
+- [x] Cinnamon
+- [ ] Garlic
+- [ ] Oregano
+
+#### Which of these TV shows was set in the 1960s?
+
+- [ ] The Simpsons
+- [x] Mad Men
+- [ ] Cheers
