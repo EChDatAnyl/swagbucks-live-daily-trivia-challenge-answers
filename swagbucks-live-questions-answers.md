@@ -40056,3 +40056,93 @@
 - [ ] Ask if you can use the bathroom
 - [ ] Ask if it's time to eat yet
 - [x] Ask what you can do for your country
+
+#### Elephants are NOT native to which of the following continents?
+
+- [ ] Africa
+- [x] North America
+- [ ] Asia
+
+#### In the last episode of Sopranos, what song is playing when the screen cuts to black?
+
+- [x] Don't Stop Believing
+- [ ] Come and Get It
+- [ ] Layla
+
+#### which Star Wars droid was voiced by a professional mime?
+
+- [x] C-3PO
+- [ ] R2-D2
+- [ ] BB8
+
+#### According to the Pat Benatar song, Love is a what?
+
+- [ ] Albatross
+- [ ] Babydoll
+- [x] Battlefield
+
+#### In the original Star Wars trilogy, who was Luke's sibling?
+
+- [x] Princess Leia
+- [ ] Han Solo
+- [ ] Chewbacca
+
+#### Who starred in Aerosmith videos for songs like "Crazy" and "Cryin'" in addition to the movie "Clueless"?
+
+- [ ] Liv Tyler
+- [x] Alica Silverstone
+- [ ] Sarah Michelle Gellar
+
+#### Which of the following presidents was NOT in the office during the 1990s?
+
+- [ ] Geroge H.W. Bush
+- [ ] Bill Clinton
+- [x] Geroge W. Bush
+
+#### Who led the Chicago Bulls to 6 NBA Championships during the 1990s?
+
+- [x] Michael Jordan
+- [ ] Harold Miner
+- [ ] Larry Johnson
+
+#### A Budweiser campaign that started in 1999 featured a bunch of friends repeating what phrase to one another?
+
+- [ ] "Drinkin' time!"
+- [ ] "Let's Party!"
+- [x] "Whatssup?!"
+
+#### In 1994, which pop star married Lisa Marie Presley?
+
+- [x] Michael Jackson
+- [ ] George Michael
+- [ ] Bryan Adams
+
+#### What robotic, hamster-like toy was the hot Christmas item in 1998?
+
+- [ ] Teddy Ruxpin
+- [x] Furby
+- [ ] Popples
+
+#### What Daymond John-created clothing brand took off in the 90s?
+
+- [ ] And1
+- [ ] Ecko Unltd
+- [x] FUBU
+
+#### Ty Warner brought what 1990s collectibles craze to stories?
+
+- [x] Beanie Babies
+- [ ] Tamagotchi
+- [ ] Bubble Tape
+
+#### What Olympic medal-winning ice skater was attacked prior to the 1994 U.S. Championships?
+
+- [ ] Kristi Yamaguchi
+- [x] Nancy Kerrigan
+- [ ] Tara Lipinski
+
+#### Miss Cleo appeared in informercials selling what over-the-phone service?
+
+- [x] Psychic Readings
+- [ ] Recipes
+- [ ] Coat Sales
