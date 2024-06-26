@@ -40266,3 +40266,27 @@
 - [ ] Missy Elliott
 - [x] Alanis Morissette
 - [ ] Melissa Etheridge
+
+#### MEatloaf is usually served with what side dish?
+
+- [ ] Jelly Beans
+- [x] Mashed potatoes
+- [ ] Tofu
+
+#### In 1986, the prime minister of which European country was assassinated on his way home from the cinema?
+
+- [ ] Lichtenstein
+- [ ] Poland
+- [x] Sweden
+
+#### What former American Idol contestant hosts their own talk show?
+
+- [ ] Justin Guarini
+- [ ] Ruben Studdard
+- [x] Kelly Clarkson
+
+#### Which plant's moons are named after Shakespeare and Alexander Pope characters?
+
+- [ ] Neptune
+- [x] Uranus
+- [ ] Saturn
