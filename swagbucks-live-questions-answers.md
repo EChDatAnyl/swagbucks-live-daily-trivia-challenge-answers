@@ -40176,3 +40176,93 @@
 - [ ] The Simpsons
 - [x] Mad Men
 - [ ] Cheers
+
+#### What bird holds the Guinness World Record for Fastest Bird in Level Flight?
+
+- [x] Gray-Headed Albatross
+- [ ] Peregrine Falcon
+- [ ] Common Swift
+
+#### Cleopatra's ancestry taces back to which country?
+
+- [ ] China
+- [x] Greece
+- [ ] Italy
+
+#### What is generally considered to be the appropriate way to greet someone in a business setting?
+
+- [x] Handshake
+- [ ] Hugging
+- [ ] High-five
+
+#### What inscet famously eats wood?
+
+- [ ] Files
+- [ ] Termites
+- [ ] Caterpillars
+
+#### In 2005, what captive female animal used parthenogenesis to produce babies without a male?
+
+- [ ] Jellyfish
+- [ ] Platypus
+- [x] Komodo Dragon
+
+#### Who had number one hits in the 90s with songs like "Vogue", "Justify My Love", and "Take A Bow"?
+
+- [ ] k.d. lang
+- [x] Mandonna
+- [ ] Cyndi Lauper
+
+#### Boyz II Men rose to fame with what hit song about their hometown?
+
+- [x] Motownphilly
+- [ ] Motownwaukegan
+- [ ] Motownboise
+
+#### Whitney Houston recorded a cover of which Dolly Parton song for the soundtrack to "The Bodyguard"?
+
+- [ ] Jolene
+- [ ] My Tennessee Mountain Home
+- [x] I Will Always Love You
+
+#### Which of the following artists appeared on "MTV Unplugged" the earliest?
+
+- [ ] Neil Young
+- [ ] Eric Clapton
+- [x] Sinead O'Connor
+
+#### Which band released "Dookie", their first studio album, in 1994?
+
+- [ ] Nirvana
+- [x] Green Day
+- [ ] Stone Temple Pilots
+
+#### In a 1994 song, TLC warned "Don't go chasing" what?
+
+- [x] Waterfalls
+- [ ] Fire Trucks
+- [ ] The Wind
+
+#### What group was known for wearing their clothes backwards?
+
+- [ ] Another Bad Creation
+- [ ] Sudden Impact
+- [x] Kriss Kross
+
+#### What 90s band was exposed for lip syncing?
+
+- [ ] O-Town
+- [x] Milli Vanilli
+- [ ] Right Said Fred
+
+#### What warning sticker was first added to albums in the 90s?
+
+- [x] Parental Advisory: Explict Lyrics
+- [ ] Slippery When Wet
+- [ ] Caution: Falling Rocks Ahead
+
+#### Whose 1995 album "Jagged Little Pill" has sold over 33 million copies worldwide?
+
+- [ ] Missy Elliott
+- [x] Alanis Morissette
+- [ ] Melissa Etheridge
