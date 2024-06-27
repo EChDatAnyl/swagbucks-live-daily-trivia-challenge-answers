@@ -40290,3 +40290,93 @@
 - [ ] Neptune
 - [x] Uranus
 - [ ] Saturn
+
+#### Water is made from which two elements?
+
+- [ ] Helium and Oxygen
+- [x] Hydrogen and Oxygen
+- [ ] Carbon and Boron
+
+#### DJ, Stephanie, and Michelle Tanner are the kids on which ABC sitcom?
+
+- [ ] Family Matters
+- [x] Full House
+- [ ] Family Ties
+
+#### What song is traditionally played to ring in the new year?
+
+- [ ] Pop Goes the Weasel
+- [ ] High Hopes
+- [x] Auld Lang Syne
+
+#### Whihc Julia Roberts character would Jack the Ripper most likely go after?
+
+- [x] Vivian Ward
+- [ ] Isabel Kelly
+- [ ] Mary Reilly
+
+#### What galactic empire is an enemy of Starfleet?
+
+- [ ] Dothraki
+- [x] Romulan
+- [ ] Wookiee
+
+#### Complete this slogan: "It's not delivery, it's..."
+
+- [x] DiGiorno
+- [ ] De Vito
+- [ ] Delovely
+
+#### Which of the following shows debuted in the 1990s?
+
+- [ ] I Love Lucy
+- [ ] The Addams Family
+- [x] The X-Files
+
+#### George Clooney starred on which 90s drama?
+
+- [x] ER
+- [ ] Law & Order
+- [ ] Oz
+
+#### Which of the following "Saved By The Bell" characters did NOT appear on "Saved By The Bell: The College Years"?
+
+- [x] Jessie Spano
+- [ ] A.C. Slater
+- [ ] Kelly Kapowski
+
+#### "Lois & Clark" ws an ABC show about which superhero? 
+
+- [ ] Spider-Man
+- [x] Superman
+- [ ] The Flash
+
+#### Who won a writing Emmy for their self-titled show?
+
+- [x] Ben Stiller
+- [ ] Jerry Seinfeld
+- [ ] Roseanne Barr
+
+#### In addition to "Beavis and Butt-Head", what other 90s animated series did Mike Judge create?
+
+- [ ] Eek the Cat
+- [ ] Ren and Stimpy
+- [x] King of the Hill
+
+#### What breed of dog was Wishborne?
+
+- [ ] Beagle
+- [x] Jack Russell Terrier
+- [ ] Mutt
+
+#### In the theme song to "The Fresh Prince of Bel Air", where does Will claim he spent most of his days?
+
+- [x] The Playground
+- [ ] The Plateau
+- [ ] The Limo
+
+#### Singer Brandy Norwood starred on which 90s show?
+
+- [x] Moesha
+- [ ] Living Single
+- [ ] Martin
