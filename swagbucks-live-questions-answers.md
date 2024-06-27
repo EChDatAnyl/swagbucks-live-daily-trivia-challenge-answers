@@ -40380,3 +40380,39 @@
 - [x] Moesha
 - [ ] Living Single
 - [ ] Martin
+
+#### What is the term for a group of Jellyfish?
+
+- [x] Smack
+- [ ] Float
+- [ ] Wiggle
+
+#### Brenda Barnes launched the corporate "returnship" program for moms at which company"
+
+- [x] Sara Lee
+- [ ] Huggies
+- [ ] Pepsi
+
+#### The original Assassin's Creed video game was supposed to be a spinoff of what other video game series?
+
+- [ ] Hitman
+- [ ] Tomb Raider
+- [x] Prince of Persia
+
+#### How many frames are there in a standard game of bowling?
+
+- [x] Ten
+- [ ] Twelve
+- [ ] Fifteen
+
+#### Which of these complexes based on Disney films is fake?
+
+- [ ] Bambi Complex
+- [ ] Cinderella Complex
+- [x] Dumbo Complex
+
+#### In which country is there a tradition of hand-craving a Love Spoon for the woman you love?
+
+- [ ] Denmark
+- [x] Wales
+- [ ] Italy
