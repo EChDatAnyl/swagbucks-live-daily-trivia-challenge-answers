@@ -40506,3 +40506,39 @@
 - [ ] Peter Cottontail
 - [ ] Corduroy Bear
 - [x] Winnie the Pooh
+
+#### What former PGA Masters champion returned to form and won again in 2019?
+
+- [ ] Rory Mcllory
+- [ ] Phil Mickelson
+- [x] Tiger Woods
+
+#### On a five dollar bill, where would you find the phrase "USA FIVE" microprinted?
+
+- [ ] Lincoln's collar
+- [x] On the number five
+- [ ] Along the border
+
+#### What non-existent word was entered into Webster's New International Dictionary, Second Edition by mistake?
+
+- [x] Dord
+- [ ] Flarn
+- [ ] Sturp
+
+#### Per capita, which country drinks the most coffee?
+
+- [ ] Brazil
+- [ ] United States
+- [x] Finland
+
+#### What girl group was Beyonce in before she went solo?
+
+- [x] Destiny's Child
+- [ ] The Spice Girl
+- [ ] Wilson Philips
+
+#### "First in Flight" appears on license plates for which American State?
+
+- [ ] North Dakota
+- [x] North Carolina
+- [ ] New Mexico
