@@ -40416,3 +40416,63 @@
 - [ ] Denmark
 - [x] Wales
 - [ ] Italy
+
+#### In "Jurassic Park", which dinosaur figures out how to open doors?
+
+- [x] T-Rex
+- [x] Velociraptor
+- [ ] Triceratops
+
+#### Which of the following 1990s movies did NOT star Tom Cruise?
+
+- [x] Tombstone
+- [ ] Mission: Impossible
+- [ ] A Few Good Men
+
+#### In "The Big Lebowski", by what nickname is Jeff Lebowski known?
+
+- [ ] Big Guy
+- [ ] The Ski-Man
+- [x] The Dude
+
+#### In which 90s movie does a character played by Roise Perez go on Jeopardy as a contestant?
+
+- [x] White Men Can't Jump
+- [ ] It Could Happen To You
+- [ ] Do The Right Thing
+
+#### Kathy Bates was convinced by her niece to do which 90s movie?
+
+- [ ] Misery
+- [ ] Titanic
+- [x] The Waterboy
+
+#### In which 90s movie was the line "You're KILLING me, Smalls!" uttered?
+
+- [ ] The Truman Show
+- [x] The Sandlot
+- [ ] Clerks
+
+#### What future Oscar-winner was almost entirely cut out of 1992's "Poison Ivy" because he couldn't remember his lines?
+
+- [ ] Matthew McConaughey
+- [ ] Brendan Fraser
+- [x] Leonardo DiCaprio
+
+#### What 90s movie was the first to premiere over a computer?
+
+- [ ] The Mummy
+- [x] Party Girl
+- [ ] The Lawnmower Man
+
+#### In "Ace Ventura: Pet Detective", what kind of animal is Ace Ventura trying to find?
+
+- [x] Dolphin
+- [ ] Wombat
+- [ ] Earthworm
+
+#### Who plays Woody in "Toy Story"?
+
+- [ ] Wallace Shawn
+- [x] Tom Hanks
+- [ ] Tim Allen
