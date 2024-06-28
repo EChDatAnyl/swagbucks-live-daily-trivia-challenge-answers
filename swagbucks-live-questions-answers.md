@@ -40476,3 +40476,33 @@
 - [ ] Wallace Shawn
 - [x] Tom Hanks
 - [ ] Tim Allen
+
+#### What line of dolls come with historical biographies and stores that offer hair styling?
+
+- [ ] Raggedy Ann
+- [ ] Teddy Ruxpin
+- [x] American Girl
+
+#### What is the last name of the bully on The Simpsons?
+
+- [ ] Streep
+- [x] Muntz
+- [ ] Clooney
+
+#### Which of these is NOT a character from "The Tick"?
+
+- [ ] Bi-Polar Bear
+- [ ] American Maid
+- [x] The Five-Legged Man
+
+#### "The Great Muppet Caper" was filmed back-to-back with what other movie?
+
+- [ ] The Muppet Movie
+- [ ] Labyrinth
+- [x] The Dark Crystal
+
+#### What literary character was crated by A.A. Miline?
+
+- [ ] Peter Cottontail
+- [ ] Corduroy Bear
+- [x] Winnie the Pooh
