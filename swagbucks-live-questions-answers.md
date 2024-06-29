@@ -40542,3 +40542,33 @@
 - [ ] North Dakota
 - [x] North Carolina
 - [ ] New Mexico
+
+#### Which of these Disney characters is a dog?
+
+- [x] Goofy
+- [ ] Chip
+- [ ] Dale
+
+#### The Eagles had a hit song named after what place of lodging?
+
+- [ ] Hoilday Inn
+- [x] Hotel California
+- [ ] Motel 6
+
+#### What do dogs do when they're happy?
+
+- [ ] Clap their hands
+- [ ] Sing opera
+- [x] Wag their tails
+
+#### In February of 2002, what High School Junior was the Sports Illustrated cover athlete?
+
+- [ ] Carmelo Anthony
+- [ ] B.J. Upton
+- [x] BeBron James
+
+#### What negative title did Leonard Nimoy choose for his first autobiography?
+
+- [ ] I Don't Like Star Trek
+- [ ] My Ears Aren't Pointy
+- [x] I Am Not Spock
