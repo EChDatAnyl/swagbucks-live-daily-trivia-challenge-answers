@@ -40572,3 +40572,39 @@
 - [ ] I Don't Like Star Trek
 - [ ] My Ears Aren't Pointy
 - [x] I Am Not Spock
+
+#### Strategist Sun Tzu wrote what famous book?
+
+- [ ] The Art of Computers
+- [ ] The Art of Sleeping
+- [x] The Art of War
+
+#### What video game is essentailly a bunch of cars playing soccer?
+
+- [x] Rocket League
+- [ ] NHL 21
+- [ ] Among Us
+
+#### What type of food is typically prepared in boiling water?
+
+- [ ] Lettuce
+- [ ] Ice Cream
+- [x] Pasta
+
+#### Chester the Cheetah is the mascot for which snack?
+
+- [x] Cheetos
+- [ ] Planter's Peanuts
+- [ ] Smarfood
+
+#### Which of these sports requires a racket?
+
+- [ ] Polo
+- [ ] Hurdles
+- [x] Racquetball
+
+#### English writer Horace Walpole used what breed to describe a day hotter than the dog days of summer?
+
+- [ ] Doberman
+- [ ] Rottweiler
+- [x] Mastiff
