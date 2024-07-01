@@ -40608,3 +40608,39 @@
 - [ ] Doberman
 - [ ] Rottweiler
 - [x] Mastiff
+
+#### What is the first name of Scooby Doo's Shaggy?
+
+- [ ] Neville
+- [x] Norville
+- [ ] Norman
+
+#### Campanology is the study of what?
+
+- [ ] Outdoors
+- [x] Bells
+- [ ] Politics
+
+#### How do you say "yes" in French?
+
+- [ ] Hola
+- [x] Oui
+- [ ] Bonjour
+
+#### In which direction do the pieces move in a game of checkers?
+
+- [x] Diagonally
+- [ ] Circularly
+- [ ] Left to Right
+
+#### Sagarmatha is also known by what name?
+
+- [ ] The Dala Lama
+- [ ] The Taj Mahal
+- [x] Mount Everest
+
+#### Philadelphia was once the name of which country's capital?
+
+- [ ] Greece
+- [x] Jordan
+- [ ] Italy
