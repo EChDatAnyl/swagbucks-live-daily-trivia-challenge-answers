@@ -40644,3 +40644,39 @@
 - [ ] Greece
 - [x] Jordan
 - [ ] Italy
+
+#### What convicted criminal once ran a soup kitchen?
+
+- [ ] Jeffrey Dahmer
+- [ ] John Dillinger
+- [x] Al Capone
+
+#### Which major TV network is owned by Disney?
+
+- [x] ABC
+- [ ] CBS
+- [ ] NBC
+
+#### Siberia makes up 3/4 of what country?
+
+- [x] Russia
+- [ ] Yugoslavia
+- [ ] Ukraine
+
+#### Who is the Chief Executive Officer of WWE?
+
+- [ ] The Rock
+- [x] Vince McMahon
+- [ ] Ted Turner
+
+#### What brand released the first pair of pre-washed Acid Wash jeans?
+
+- [ ] Levi's
+- [x] Guess
+- [ ] The Gap
+
+#### A quesadilla is almost always filled with what?
+
+- [ ] Rocks
+- [x] Cheese
+- [ ] Hair
