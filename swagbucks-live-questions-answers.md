@@ -40776,3 +40776,51 @@
 - [ ] The Cowsills
 - [x] Hanson
 - [ ] The Bee Gees
+
+#### Eating ice cream too quickly can result in what phenomenon?
+
+- [x] Brain Freeze
+- [ ] Charley Horse
+- [ ] Swimmer's Ear
+
+#### Which of the following did NOT debut at the 1893 World's Fair?
+
+- [ ] Juicy Fruit Gum
+- [ ] The Ferris Wheel
+- [x] The Escalator
+
+#### What beer's slogan once told drinkers to "head for the mountains?"
+
+- [ ] Coors
+- [ ] Sierra Nevada
+- [x] Busch
+
+#### What coffee franchise famously started in Seattle?
+
+- [ ] Caribou Coffee
+- [ ] Dunkin' Donuts
+- [x] Starbucks
+
+#### Complete the name of this cartoon character: "Casper the friendly..."
+
+- [ ] Pumpkin
+- [x] Ghost
+- [ ] Bat
+
+#### How many total Sonnets did William Shakespeare write?
+
+- [ ] 3
+- [x] 154
+- [ ] 1,001
+
+#### In which song by the Clash do we learn that "phony Beatlemania has bitten the dust?"
+
+- [ ] Rock the Casbah
+- [ ] Train in Vain
+- [x] London Calling
+
+#### Which U.S. president was never a cheerleader?
+
+- [ ] George W. Bush
+- [ ] Franklin D. Roosevelt
+- [x] Jimmy Carter
