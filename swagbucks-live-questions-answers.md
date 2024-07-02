@@ -40680,3 +40680,99 @@
 - [ ] Rocks
 - [x] Cheese
 - [ ] Hair
+
+#### Maroon 5 had a hit with "Moves Like" who?
+
+- [ ] Einstein
+- [x] Jagger
+- [ ] Vader
+
+#### What member of a comedic duo starred as TV lawyer Kate McShane?
+
+- [x] Anne Meara
+- [ ] Elaine May
+- [ ] Gracie Allen
+
+#### Which of the following instruments do you play by blowing into it?
+
+- [x] Harmonica
+- [ ] Vibraphone
+- [ ] Tambourine
+
+#### Which of these shows is set in Los Angeles?
+
+- [ ] Seinfeld
+- [ ] Friends
+- [x] L.A. Law
+
+#### What European castle was once believed to contain a gateaway to Hell?
+
+- [x] Houska Castle
+- [ ] Leap Castle
+- [ ] Moosham Castle
+
+#### Which of the following is an energy drink?
+
+- [x] Red Bull
+- [ ] Mr. Pibb
+- [ ] Snapple
+
+#### Elton John & Kiki Dee put out the 1976 Song of the Summer "Don't Go Breaking My" what?
+
+- [x] Heart
+- [ ] Hip
+- [ ] Hands
+
+#### Who released the 1984 Summer hit "When Doves Cry"?
+
+- [ ] The Rolling Stones
+- [ ] Alabama
+- [x] Prince & The Revolution
+
+#### What year was 'NSYNC's "It's Gonna Be Me" a song of the summer?
+
+- [ ] 1968
+- [x] 2000
+- [ ] 2024
+
+#### In 1999, who got hte Summer going with his hit "Livin' La Vida Loca"?
+
+- [x] Ricky Martin
+- [ ] Marc Anthony
+- [ ] Enrique Iglesias
+
+#### "You were my strength when I was weak, You were my voice when I couldn't speak" are lyrics from what Celine Dion Summer hit?
+
+- [ ] My Heart Will Go On
+- [x] Because You Loved Me
+- [ ] All By Myself
+
+#### Who scored multiple Summer hits with songs like "With or Without You" and "I Still Haven't Found What I'm Looking For?"
+
+- [ ] Richard Marx
+- [ ] R.E.M.
+- [x] U2
+
+#### According to NPR, which of the following released a Song of the Summer the EARLIEST?
+
+- [ ] Ritchie Valens
+- [x] The Beach Boys
+- [ ] Cream
+
+#### "I've created a monster/"Cause nobody wants to see Marshall no more/they want Shady, I'm chopped liver" starts what Eminem hit?
+
+- [ ] Empire State of Mind
+- [ ] Grenade
+- [x] Without Me
+
+#### In Destiny Child's "Bills, Bills, Bills", what kind of bill is NOT mentioned?
+
+- [ ] Phone
+- [ ] Automobile
+- [x] Mello-Roos Tax
+
+#### What family band had a 1997 Song of the Summer with "MMMBop"?
+
+- [ ] The Cowsills
+- [x] Hanson
+- [ ] The Bee Gees
