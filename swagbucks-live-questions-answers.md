@@ -29697,7 +29697,7 @@
 
 #### What was the first Harry Potter book?
 
-- [x] The Philosopher's Tone
+- [x] The Philosopher's Stone
 - [ ] The Goblet of Fire
 - [ ] The Deathly Hallows
 
@@ -40884,3 +40884,27 @@
 - [ ] Spain
 - [x] United Arab Emirates
 - [ ] Japan
+
+#### How many total candles are lit during the 8 days of Hanukkah?
+
+- [x] 44
+- [ ] 1
+- [ ] 6
+
+#### Which of the following is NOT one of the names of the Teenage Mutant Ninja Turtles?
+
+- [x] Botticelli
+- [ ] Donatello
+- [ ] Michelangelo
+
+#### "Paseo del Prado" and "Rue de la Paix" are foreign versions of which Monopoly property?
+
+- [ ] Go
+- [ ] Pennsylvania Avenue
+- [x] Boardwalk
+
+#### What group's hits included "YMCA", "Macho Man", and "In The Navy"?
+
+- [ ] The Ohio Players
+- [x] The Village People
+- [ ] The Bee Gees
