@@ -40824,3 +40824,63 @@
 - [ ] George W. Bush
 - [ ] Franklin D. Roosevelt
 - [x] Jimmy Carter
+
+#### Which of the following is NOT one of the Miranda Rights?
+
+- [ ] You have the right to remain silent
+- [ ] You have the right to an attorney
+- [x] You have the right to unlimited soup, salad, and breadsticks
+
+#### Where did Shepherd's Pie orginate?
+
+- [ ] Thailand
+- [x] The United Kingdom
+- [ ] Canada
+
+#### Which of the following scientific theories is believed to be responsible for Earthquakes?
+
+- [x] Plate tectonics
+- [ ] Superstring
+- [ ] Single climate theory
+
+#### In sailing, what does "footloose" refer to?
+
+- [ ] The Anchor
+- [x] The Sail
+- [ ] The Captain
+
+#### "Well, it's one for hte money, two for the show. Three to get ready now go, cat, go" is the first line of what song?
+
+- [ ] Bohemian Rhapsody
+- [ ] Baby Got Back
+- [x] Blue Suede Shoes
+
+#### Who wrote a novel starting with the famous line "It was the best of times, it was the worst of times"?
+
+- [ ] Harlan Coben
+- [x] Charles Dickens
+- [ ] Danielle Steele
+
+#### What TV show popularized the phrase "Get the hell out of Dodge?"
+
+- [ ] The Lone Ranger
+- [ ] Bonanza
+- [x] Gunsmoke
+
+#### Which of the following American Football positions plays defense?
+
+- [x] Linebacker
+- [ ] Wide Receiver
+- [ ] Halfback
+
+#### In which game do you flip over face-down cards, trying to find identical images?
+
+- [ ] Uno
+- [x] Memory
+- [ ] Pinochle
+
+#### Dubai is the most populous city in what country?
+
+- [ ] Spain
+- [x] United Arab Emirates
+- [ ] Japan
