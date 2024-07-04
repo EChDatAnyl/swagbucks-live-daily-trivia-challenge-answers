@@ -40908,3 +40908,63 @@
 - [ ] The Ohio Players
 - [x] The Village People
 - [ ] The Bee Gees
+
+#### What bird is commonly used as a symbol of the United States?
+
+- [ ] Peacock
+- [x] Bald Eagle
+- [ ] Loon
+
+#### What is the first word in America's Pledge of Allegiance?
+
+- [x] "I"
+- [ ] "We"
+- [ ] "When"
+
+#### What sport is known as America's National Pastime?
+
+- [ ] Hockey
+- [ ] Lacrosse
+- [x] Baseball
+
+#### Which of the following companies was founded in America?
+
+- [ ] Unilever
+- [x] Celestial Seasonings
+- [ ] Stagecoach Group
+
+#### What pastry is considered to be synonymous with America, despite having its origins in England?
+
+- [x] Apple Pie
+- [ ] Cherry Turnover
+- [ ] Prune Danish
+
+#### Which of these American-born foods was created first?
+
+- [ ] Buffalo Wings
+- [x] Biscuits and Gravy
+- [ ] Lobster Roll
+
+#### Which of the following colors does NOT appear on the American Flag?
+
+- [ ] Red
+- [ ] White
+- [x] Puce
+
+#### On July 4th, 1776, the Declaration of Independence was adopted and printed. On what date was it first signed?
+
+- [ ] July 3rd
+- [x] August 2nd
+- [ ] October 15th
+
+#### What type of fence is normally counted as Americana?
+
+- [x] White picket fence
+- [ ] Chain link fence
+- [ ] Vinyl fence
+
+#### What is the U.S. National Anthem?
+
+- [ ] God Bless the USA
+- [x] The Star-Spangled Banner
+- [ ] America the Beautiful
