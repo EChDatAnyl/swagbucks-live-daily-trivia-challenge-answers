@@ -40968,3 +40968,33 @@
 - [ ] God Bless the USA
 - [x] The Star-Spangled Banner
 - [ ] America the Beautiful
+
+#### In which of these games are the pieces soldiers and military equipment?
+
+- [ ] Checkers
+- [x] Risk
+- [ ] Monopoly
+
+#### Based on the etymology of the word, where would trivia nights be held in ancient Rome?
+
+- [ ] Torture chambers
+- [ ] Horse breeding farms
+- [x] Crossroads
+
+#### Which of the following celebrities has the most stars on the Hollywood Walk of Fame?
+
+- [ ] Bob Hope
+- [x] Gene Autry
+- [ ] Frank Sinatra
+
+#### Who is the main villain in 1984's "Ghostbusters"?
+
+- [ ] Emperor Palpatine
+- [x] Gozer the Gozerian
+- [ ] Biff Tannen
+
+#### Benjamin Franklin made which piece of clothing haute couture in Frane?
+
+- [x] A hat
+- [ ] Glasses
+- [ ] A coat
