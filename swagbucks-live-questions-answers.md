@@ -40998,3 +40998,27 @@
 - [x] A hat
 - [ ] Glasses
 - [ ] A coat
+
+#### What is Bill Nye's nickname?
+
+- [x] The Science Guy
+- [ ] The Math Guy
+- [ ] The Grammar Guy
+
+#### What is the name for the Chinese soup with small dumplings in it?
+
+- [x] Wonton
+- [ ] One Ton
+- [ ] Two Tons
+
+#### What sitcom had lead characters named Sophia, Dorothy, Rose, and Blanche?
+
+- [ ] Designing Women
+- [ ] Cheers
+- [x] The Golden Girls
+
+#### Chip and Joanna Gaines host what reality show?
+
+- [x] Fixer Upper
+- [ ] Survivor
+- [ ] Masterchef
