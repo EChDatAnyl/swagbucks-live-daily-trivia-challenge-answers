@@ -41022,3 +41022,33 @@
 - [x] Fixer Upper
 - [ ] Survivor
 - [ ] Masterchef
+
+#### The first recorded American fundraising drive was organized by whom?
+
+- [ ] Benjamin Franklin
+- [x] Harvard University
+- [ ] The Continental Congress
+
+#### What are the two sides in a traditional game of Tic Tac Toe?
+
+- [ ] Black and White
+- [x] X and O
+- [ ] North or South
+
+#### What is the name for the famous memorial to lost soldiers whose remains were not identified?
+
+- [x] The Tomb of the Unknown Soldier
+- [ ] The Tomb of The Soldier You Don't Known
+- [ ] To Tomb of the non-ID'd Solider
+
+#### How many different lights are on a standard traffic signal?
+
+- [x] Three
+- [ ] Ten
+- [ ] Five Million
+
+#### How do you say hello in French?
+
+- [ ] Shalom
+- [x] Bonjour
+- [ ] Croissant
