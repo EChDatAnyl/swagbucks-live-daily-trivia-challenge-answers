@@ -41052,3 +41052,21 @@
 - [ ] Shalom
 - [x] Bonjour
 - [ ] Croissant
+
+#### What musical is based on the music of ABBA?
+
+- [x] Mamma Mia
+- [ ] Cabaret
+- [ ] Jersey Boys
+
+#### Who made the DS handheld system?
+
+- [ ] Sega
+- [x] Nintendo
+- [ ] Sony
+
+#### Where is the World Series of Poker held?
+
+- [x] Las Vegas
+- [ ] Reno
+- [ ] Carson City
