@@ -41070,3 +41070,57 @@
 - [x] Las Vegas
 - [ ] Reno
 - [ ] Carson City
+
+#### Where are Spider-Man's web shooters located?
+
+- [ ] His ankles
+- [ ] His face
+- [x] His wrists
+
+#### Where does Lilo and Stich mainly take place?
+
+- [ ] Alaska
+- [x] Hawaii
+- [ ] Kansas
+
+#### Someone who's scared of Garfield comics suffers from what fear?
+
+- [ ] Amaxophobia
+- [ ] Atelophobia
+- [x] Ailurophobia
+
+#### Which literary character would be most interested in going to medical school to study phhlebotomy?
+
+- [x] Count Dracula
+- [ ] Cat in the Hat
+- [ ] Moby Dick
+
+#### How many miles are run in a marathon?
+
+- [ ] 24.4
+- [ ] 22.6
+- [x] 26.2
+
+#### What is the slogan for Motel 6?
+
+- [x] We'll leave the light on for you
+- [ ] Soap costs extra
+- [ ] Bring your own towels
+
+#### What board game's playing area is shaped like a 6-pointed star?
+
+- [ ] Chess
+- [ ] Trouble
+- [x] Chinese Checkers
+
+#### Itzhak Perlman is known for what instrument?
+
+- [x] Violin
+- [ ] Bass
+- [ ] Electric guitar
+
+#### Phoenix is the capital of which U.S. State?
+
+- [ ] Pennsylvania
+- [x] Arizona
+- [ ] Washington
