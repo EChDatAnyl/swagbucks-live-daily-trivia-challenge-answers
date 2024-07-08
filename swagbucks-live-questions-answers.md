@@ -41160,3 +41160,33 @@
 - [ ] Oil
 - [ ] Acrylic
 - [x] Rakish
+
+#### What toy brand was dubbed "The World's First Indoor Ball"?
+
+- [x] Nerf
+- [ ] Wilson
+- [ ] Spalding
+
+#### "Mama's Family" spun off from what comedy series?
+
+- [x] The Carol Burnett Show
+- [ ] Maude
+- [ ] Laugh-In
+
+#### Who was Gerald Ford's running mate in the 1976 presidential election?
+
+- [ ] Nelson Rocketfeller
+- [ ] Ronald Reagan
+- [x] Bob Dole
+
+#### What does the LCD in LCD monitor stand for?
+
+- [ ] Larry's Cream Donuts
+- [ ] Let's Call Donna
+- [x] Liquid-Crystal Display
+
+#### The sport of Crew is also known by what name?
+
+- [x] Rowing
+- [ ] Diving
+- [ ] Swimming
