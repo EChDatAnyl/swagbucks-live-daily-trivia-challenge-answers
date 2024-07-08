@@ -41124,3 +41124,39 @@
 - [ ] Pennsylvania
 - [x] Arizona
 - [ ] Washington
+
+#### What was the name of Diana Ross' singing group?
+
+- [ ] The Miracles
+- [x] The Supremes
+- [ ] The Pips
+
+#### What song is based on Paul's method for picking up girls?
+
+- [x] Michelle
+- [ ] I Want You (She's So Heavy)
+- [ ] Sexy Sadie
+
+#### Which British Act on Colonial America happened first?
+
+- [x] Sugar Act
+- [ ] Stamp Act
+- [ ] Tea Act
+
+#### An epidemic inspired the antagonists from what video game?
+
+- [x] Angry Birds
+- [ ] World of Warcraft
+- [ ] Metroid
+
+#### Which of these is the wrold's largest living organism?
+
+- [x] Mushroom
+- [ ] Tree
+- [ ] Whale
+
+#### Which of these is not a type of paint?
+
+- [ ] Oil
+- [ ] Acrylic
+- [x] Rakish
