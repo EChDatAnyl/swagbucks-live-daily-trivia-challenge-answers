@@ -39633,7 +39633,7 @@
 
 #### In the Pop-o-Matic Trouble board, what does the Pop-o-Matic feature do?
 
-- [x] Rool dice
+- [x] Roll dice
 - [ ] Draw a card
 - [ ] Choose your piece
 
@@ -41250,3 +41250,45 @@
 - [x] 5
 - [ ] 6
 - [ ] 7
+
+#### Which of these words comes from Hebrew for "Ear of Corn"?
+
+- [ ] Mensch
+- [ ] Blintz
+- [x] Shibboleth
+
+#### Where were the 2020 Olympics finally held?
+
+- [ ] Shanghai
+- [x] Tokyo
+- [ ] Paris
+
+#### What climate activist was named Time's PErson of the Year in 2019?
+
+- [x] Greta Thunberg
+- [ ] Paul McCartney
+- [ ] Cher
+
+#### When you draw a parallel between dissimilar things, you're comparing apples and ____?
+
+- [x] Oranges
+- [ ] A Dump Truck
+- [ ] Meryl Streep
+
+#### What two teams played in the 2023 Super Bowl?
+
+- [x] Eagles and Chiefs
+- [ ] 49ers and Broncos
+- [ ] Patriots and Giants
+
+#### In "Super Mario Bros", what item do you consume to grow larger?
+
+- [ ] Star
+- [ ] Flower
+- [x] Mushroom
+
+#### Which of these board games uses "Pop-O-Matic" to roll the die?
+
+- [ ] Trivial Pursuit
+- [x] Trouble
+- [ ] Chutes and Ladders
