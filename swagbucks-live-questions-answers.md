@@ -41190,3 +41190,63 @@
 - [x] Rowing
 - [ ] Diving
 - [ ] Swimming
+
+#### Florence Nightingale is known for her work in what field?
+
+- [ ] Quantum Mechanics
+- [x] Nursing
+- [ ] Sports
+
+#### Which of these idioms refers to being indecisive?
+
+- [ ] Cutting corners
+- [ ] Letting the cat out of the bag
+- [x] On the fence
+
+#### Which of these women's hair trends requires the shortest haircut?
+
+- [ ] The Rachel
+- [x] Classic Pixie
+- [ ] Glossy bangs
+
+#### In "Kingsmen", what type of shop serves as the front for their London HQ?
+
+- [x] Tailor
+- [ ] Hot Dog
+- [ ] Comic Book
+
+#### Reginald Kenneth Dwight is best known as what music superstar?
+
+- [ ] Bono
+- [x] Elton John
+- [ ] Billy Joel
+
+#### Where would you find the world's only Ventriloquism museum?
+
+- [x] Kentucky
+- [ ] Italy
+- [ ] Japan
+
+#### FINNEAS is the award winning songwriting partner and brother of which singer?
+
+- [ ] Adele
+- [ ] Halsey
+- [x] Billie Eilish
+
+#### TKO Group Holdings merged WWE with what other sports organization?
+
+- [x] UFC
+- [ ] WNBA
+- [ ] MLS
+
+#### By what common name is Deoxyribonucleic Acid known?
+
+- [ ] Peptides
+- [ ] Hormones
+- [x] DNA
+
+#### How many spots in a row do you need to win a round of Bingo?
+
+- [x] 5
+- [ ] 6
+- [ ] 7
