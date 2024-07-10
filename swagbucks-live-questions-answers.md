@@ -28957,12 +28957,6 @@
 - [x] Silicon
 - [ ] Silicate
 
-#### Which woman was famous for her work with radioactive materials?
-
-- [ ] Goldie Hawn
-- [x] Marie Curie
-- [ ] Sarah Palin
-
 #### Chef Boyardee primarily makes what kind of food?
 
 - [ ] Frozen food
@@ -41364,3 +41358,33 @@
 - [ ] Batman
 - [x] Blue
 - [ ] Danny Phantom
+
+#### Mariah Carey's range is rumored to cover how many total octaves?
+
+- [ ] One
+- [ ] Two
+- [x] Five
+
+#### What do Charms Blow Pops have in their center?
+
+- [ ] A Tootsie Roll
+- [ ] A Coin
+- [x] Bubblegum
+
+#### What was the inspiration for Dolly Parton's hit "Jolene"?
+
+- [ ] A High School Rival
+- [x] A Bank Teller
+- [ ] Her Sister
+
+#### According to the saying, the devil is in the what?
+
+- [ ] Dryer
+- [x] Details
+- [ ] Dumpster
+
+#### Who was the first official guest of Doctor Dre and Ed Lover on "Yo! MTV Raps"?
+
+- [ ] Nancy Reagan
+- [x] Carole King
+- [ ] LL Cool J
