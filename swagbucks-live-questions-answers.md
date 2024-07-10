@@ -41292,3 +41292,75 @@
 - [ ] Trivial Pursuit
 - [x] Trouble
 - [ ] Chutes and Ladders
+
+#### Which Disney animated movie is about a video game character?
+
+- [x] Wreck-It Ralph
+- [ ] Tangled
+- [ ] Brother Bear
+
+#### What is the only U.S. State without a natural lake?
+
+- [ ] New Mexico
+- [x] Maryland
+- [ ] Tennessee
+
+#### What is the name of the T-Rex from "Rugrats"?
+
+- [ ] Godzilla
+- [x] Reptar
+- [ ] Ultrabeast
+
+#### On which Nickeloden show did "sliming" orginate?
+
+- [x] You Can't Do That On Television
+- [ ] Livewire
+- [ ] Don't Just Sit There!
+
+#### What superhero made their first ever appearance on "Ren & Stimpy"?
+
+- [ ] Aquaman
+- [ ] Spider-Man
+- [x] Powdered Toast Man
+
+#### In what city does Spongebob Squarepants live?
+
+- [x] Binkini Bottom
+- [ ] Binkini Top
+- [ ] One Piece Island
+
+#### What future "Full House" actor once starred in a 1984 Nickelodeon show?
+
+- [ ] Bob Saget
+- [x] Dave Coulier
+- [ ] John Stamos
+
+#### What Nickelodeon game show had physical challenges where contestants were covered in food?
+
+- [ ] Legends of the Hidden Temple
+- [ ] Nick Arcade
+- [x] Double Dare
+
+#### On "Rocko's Modern Life", what kind of animal is Rocko?
+
+- [ ] Pellican
+- [x] Wallaby
+- [ ] Tiger
+
+#### Which of the following Nickelodeon shows did NOT star Danny Tamberelli?
+
+- [ ] All That
+- [ ] The Adventures of Pete & Pete
+- [x] iCarly
+
+#### "The Legend of Korra" is a spinoff of what other Nickelodeon animated series?
+
+- [x] Avatar: The Last Airbender
+- [ ] The Loud House
+- [ ] Paw Patrol
+
+#### Steve was the original companion of what Nickelodeon sleuth?
+
+- [ ] Batman
+- [x] Blue
+- [ ] Danny Phantom
