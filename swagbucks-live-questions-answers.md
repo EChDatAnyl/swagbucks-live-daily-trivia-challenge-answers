@@ -41466,3 +41466,39 @@
 - [x] James Gandolfini
 - [ ] James Spader
 - [ ] James Brown
+
+#### What is the term for the point at which two streams flow together to form a larger stream?
+
+- [ ] Join-up
+- [ ] Rapids
+- [x] Confluence
+
+#### Which of these horror movies is about a little girl who is possessed?
+
+- [x] The Exorcist
+- [ ] The Omen
+- [ ] Saw
+
+#### In which board game are you not supposed to see your opponent's pieces?
+
+- [ ] Mancala
+- [x] Battleship
+- [ ] Don't Break the Ice
+
+#### Which of these months has the most days?
+
+- [ ] June
+- [x] January
+- [ ] September
+
+#### Who was the first NFL player to be the official cover athlete of a Madden game?
+
+- [ ] Daunte Culpepper
+- [x] Eddie George
+- [ ] Marshall Faulk
+
+#### What two foods make up a Surf & Turf meal?
+
+- [ ] Pork Chops & Applesauce
+- [ ] Peanut Butter & Jelly
+- [x] Seafood & Red meat
