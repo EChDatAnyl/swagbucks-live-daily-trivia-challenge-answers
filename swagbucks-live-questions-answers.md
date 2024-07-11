@@ -41388,3 +41388,81 @@
 - [ ] Nancy Reagan
 - [x] Carole King
 - [ ] LL Cool J
+
+#### Which book's author is still alive?
+
+- [x] American Psycho
+- [ ] The Catcher in the Rye
+- [ ] To Kill a Mockingbird
+
+#### Who is "The Prince of Ancient Comedy"?
+
+- [x] Aristophanes
+- [ ] Sophocles
+- [ ] Euripides
+
+#### Six standard, 8-studded Lego bricks can be combined in approximately how many ways?
+
+- [ ] One
+- [ ] One hundred
+- [x] One billion
+
+#### Which of these MLB teams holds their spring training in Arizona?
+
+- [ ] New York Mets
+- [ ] Detroit Tigers
+- [x] Milwaukee Brewers
+
+#### Which actor, known mostly for comedy, starred in "Ozark"?
+
+- [ ] Jim Carrey
+- [ ] Ray Romano
+- [x] Jason Bateman
+
+#### Which of the following TV Dramas starred the same actor?
+
+- [x] ER and The Good Wife
+- [ ] Columbo and Deadwood
+- [ ] The Lone Ranger and Lost
+
+#### In the series premiere of "Mad Men", what brand is Sterling Cooper meeting with?
+
+- [ ] Kodak
+- [x] Lucky Strike
+- [ ] Howard Johnson
+
+#### "Twin Peaks" originally centered around the mystery of which character's murder?
+
+- [ ] Audrey Horne
+- [ ] Donna Hayward
+- [x] Laura Palmer
+
+#### Which of the following characters on "Succession" was never CEO of Waystar Royco?
+
+- [ ] Kendall Roy
+- [ ] Rhea Jarrell
+- [x] Frank Vernon
+
+#### "Who Shot JR"? was the cliffhanger season-ending question for what classic TV drama?
+
+- [ ] Falcon Crest
+- [ ] Knots Landing
+- [x] Dallas
+
+#### After binge watching the entire show in two weeks, Sir Anthony Hopkins wrote a fan letter to what Emmy-winning TV drama star?
+
+- [ ] Julianna Margulies
+- [x] Bryan Cranston
+- [ ] Bob Odenkirk
+
+#### What out of place object appeared on "Game of Thrones" by accident?
+
+- [ ] Mechanical Pencil
+- [ ] iPhone
+- [x] Starbucks Cup
+
+#### Who played Tony Soprano?
+
+- [x] James Gandolfini
+- [ ] James Spader
+- [ ] James Brown
