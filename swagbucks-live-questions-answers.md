@@ -41586,3 +41586,9 @@
 - [x] Paul Simon
 - [ ] Bob Dylan
 - [ ] Ice Cube
+
+#### If you're giving up, what are you throwing in?
+
+- [ ] The hat
+- [ ] The rock
+- [x] The towel
