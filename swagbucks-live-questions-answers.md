@@ -41502,3 +41502,87 @@
 - [ ] Pork Chops & Applesauce
 - [ ] Peanut Butter & Jelly
 - [x] Seafood & Red meat
+
+#### Which of these actors won an Oscar for their work on "The Help"?
+
+- [x] Octavia Spencer
+- [ ] Mike Vogel
+- [ ] Chris Lowell
+
+#### Who was the first boy scout to become a U.S. President?
+
+- [ ] Teddy Roosevelt
+- [x] John F. Kennedy
+- [ ] Jimmmy Carter
+
+#### Which of these baseball players has the most career home runs?
+
+- [ ] Willie Mays
+- [ ] Mickey Mantle
+- [x] Alex Rodriguez
+
+#### Who released the 2022 album "Renaissance"?
+
+- [ ] Olivia Rodrigo
+- [x] Beyonce
+- [ ] Lady Gaga
+
+#### Which of these poker hands ranks the highest?
+
+- [ ] One Pair
+- [ ] High Card
+- [x] Royal Flush
+
+#### In the 90's what brand claimed to be "Australian for Beer"?
+
+- [x] Foster's
+- [ ] Guinness
+- [ ] Pabst Blue Ribbon
+
+#### Which "Friends" character greeted women by saying "How YOU doin"'?
+
+- [ ] Ross
+- [ ] Chandler
+- [x] Joey
+
+#### What director turned down the offer to direct "Top Gun"?
+
+- [ ] Steven Spielberg
+- [x] John Carpenter
+- [ ] Mike Nichols
+
+#### "I'm losing it" were the last words of which celebrity?
+
+- [ ] Vince Lombardi
+- [ ] Michael Landon
+- [x] Frank Sinatra
+
+#### If you ask someone "Como esta", what language are you speaking?
+
+- [x] Spanish
+- [ ] Mandarin
+- [ ] Welsh
+
+#### What rapper got their stage name while working for the Oakland Athletics?
+
+- [ ] Eminem
+- [ ] LL Cool J
+- [x] MC Hammer
+
+#### Humans are rumored to share 50% of their DNA with what food?
+
+- [x] Bananas
+- [ ] Beef Jerky
+- [ ] Broccoli
+
+#### In which country do the barrister sometimes wear wigs called "perukes" during criminal trials?
+
+- [x] England
+- [ ] France
+- [ ] United States
+
+#### Art Garfunkel was in a successful dueo with what other singer?
+
+- [x] Paul Simon
+- [ ] Bob Dylan
+- [ ] Ice Cube
