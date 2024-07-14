@@ -41658,3 +41658,33 @@
 - [ ] Wrestling
 - [x] Rocking Climbing
 - [ ] Skateboarding
+
+#### What was the U.S. Men's team's best placement in a World Cup?
+
+- [ ] 101st place
+- [ ] 42nd place
+- [x] 3rd place
+
+#### What future Emmy-winner provided the narration for the original Texas Chainsaw Massacre?
+
+- [ ] William Shatner
+- [x] John Larroquette
+- [ ] James Spader
+
+#### In which card game are you trying to make "books"?
+
+- [x] Go Fish
+- [ ] Uno
+- [ ] War
+
+#### In the nursery rhyme, why did Jack & Jill go up the hill?
+
+- [x] To fetch a pail of water
+- [ ] For some alone time
+- [ ] To sing a happy song
+
+#### What is the name of the high school in Disney's Zombies?
+
+- [x] Seabrook High
+- [ ] Island Breeze High
+- [ ] Beach Wave High
