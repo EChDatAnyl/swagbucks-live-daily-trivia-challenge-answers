@@ -13014,7 +13014,7 @@
 - [ ] South Africa
 - [x] Japan
 
-#### Which of the following series was cancelled and later revived
+#### Which of the following series was cancelled and later revived?
 
 - [ ] American Dad
 - [x] Futurama
@@ -41592,3 +41592,69 @@
 - [ ] The hat
 - [ ] The rock
 - [x] The towel
+
+#### In which society was it believed that redheads become vampires after death?
+
+- [x] Ancident Greece
+- [ ] Maya Civilzation
+- [ ] Victorian England
+
+#### The movie "Bridesmaids" getting produced was the result of Kristen Wiig's role in what other movie?
+
+- [ ] MacGruber
+- [ ] How To Train Your Dragon
+- [x] Knocked Up
+
+#### What is the longest period of a time a manned plane has continuously remained airborne?
+
+- [ ] 23 Days
+- [ ] 47 Days
+- [x] 64 Days
+
+#### Which of these words is a palindrome?
+
+- [x] Bib
+- [ ] Gobble
+- [ ] Sauce
+
+#### Which movie won Best Picture at the 2023 Academy Awards?
+
+- [ ] The Fabelmans
+- [ ] Avatar: The Way of Water
+- [x] Everything Everywhere All At Once
+
+#### Complete this everyday saying: "Don't put all your eggs..."
+
+- [ ] in that bag
+- [x] in one basket
+- [ ] in an airplane
+
+#### What were the first words spoken on MTV?
+
+- [ ] "I Want My MTV"
+- [x] "Ladies and Gentlemen, Rock and Roll"
+- [ ] "The Revolution Has Arrived"
+
+#### When you're angry about something that happened in the past, you're commonly said to have what on your shoulder?
+
+- [ ] An elephant
+- [ ] A rain cloud
+- [x] A chip
+
+#### Who played Elaine on "Seinfeld"?
+
+- [ ] Christine Baranski
+- [ ] Elayne Boosler
+- [x] Julia Louis-Dreyfus
+
+#### Emma Watson is known for playing which Harry Potter character?
+
+- [ ] Harry Potter
+- [x] Hermione Granger
+- [ ] Frank Stallone
+
+#### Free Solo, Traditional, and top Rope are all types of what sport?
+
+- [ ] Wrestling
+- [x] Rocking Climbing
+- [ ] Skateboarding
