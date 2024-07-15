@@ -41688,3 +41688,51 @@
 - [x] Seabrook High
 - [ ] Island Breeze High
 - [ ] Beach Wave High
+
+#### What is the name of Kim Kardashian's shapewear line?
+
+- [ ] Guess?
+- [x] SKIMS
+- [ ] Apple Bottom
+
+#### Which of the following languages doesn't base their number system on body parts?
+
+- [x] Yoruba
+- [ ] Oksapmin
+- [ ] Tzotzil
+
+#### What is unique about American Girl doll Joss Kendrick?
+
+- [ ] She's in a wheelchair
+- [x] She has a hearing aid
+- [ ] She has a prosthetic limb
+
+#### Which band was responsible for the first music video played on MTV?
+
+- [ ] Pat Benatar
+- [ ] The Police
+- [x] The Buggles
+
+#### A "brigantine" is a type of what?
+
+- [x] Sailing ship
+- [ ] Sandwich
+- [ ] Gun
+
+#### Which of the following foods would be considered a "carb"?
+
+- [x] French Fries
+- [ ] Chicken
+- [ ] Ice
+
+#### Harry's House was a hit 2022 album by which artist?
+
+- [ ] Bad Bunny
+- [x] Harry Styles
+- [ ] Lizzo
+
+#### Dutch is the official language of what country?
+
+- [x] The Netherlands
+- [ ] France
+- [ ] The United States
