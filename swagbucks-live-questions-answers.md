@@ -41736,3 +41736,81 @@
 - [x] The Netherlands
 - [ ] France
 - [ ] The United States
+
+#### Which band released albums called "Abbey Road" and "Sgt. Pepper's Lonely Hearts Club Band"?
+
+- [ ] Led Zeppelin
+- [ ] The Who
+- [x] The Beatles
+
+#### What band's albums include "Dookie" and "American Idiot"?
+
+- [ ] Alice in Chains
+- [ ] Nirvana
+- [x] Green Day
+
+#### V-E Day marked the end of what war's European front?
+
+- [ ] World War I
+- [x] World War II
+- [ ] The Vietnam War
+
+#### Which of the following clothing stores specializes in active outdoor clothing?
+
+- [ ] Prada
+- [ ] Dior
+- [x] Patagonia
+
+#### Bordeaux, France is known by what appropriate nickname?
+
+- [ ] City of Pac-Man
+- [x] City of Wine
+- [ ] City of Bike Seats
+
+#### According to the saying, "Give someone an inch and they'll take" what?
+
+- [ ] Two
+- [ ] The Cannoli
+- [x] A Mile
+
+#### Which of the following is an Apple TV+ original show?
+
+- [ ] Stranger Things
+- [x] The Morning Show
+- [ ] House of Cards
+
+#### Who had a 1980s hit with "Born in the USA"?
+
+- [ ] John Cougar Mellencamp
+- [ ] Don Henly
+- [x] Bruce Springsteen
+
+#### Which of the following board games has NOT been adapted into a theatrically released movie?
+
+- [ ] Battleship
+- [ ] Clue
+- [x] Candy Land
+
+#### Super Mario Bros and Duck Hunt came with what video game system?
+
+- [x] Nintendo Entertainment System System
+- [ ] Sega Master System
+- [ ] Atari Lynx
+
+#### Which of the following animals is NOT classified as a scavenger?
+
+- [ ] Seagull
+- [x] Gorilla
+- [ ] Racoon
+
+#### In which of the following sports are players "loaned out"?
+
+- [ ] Baseball
+- [ ] Basketball
+- [x] Soccer
+
+#### Which of the following mobile games is a "Match 3" puzzle game?
+
+- [ ] Angry Birds
+- [x] Candy Crush
+- [ ] Genshin Impact
