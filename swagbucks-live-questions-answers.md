@@ -41814,3 +41814,45 @@
 - [ ] Angry Birds
 - [x] Candy Crush
 - [ ] Genshin Impact
+
+#### Which superhero's alter ego is Clark Kent?
+
+- [ ] Pac-Man
+- [ ] What's Up, Man?
+- [x] Superman
+
+#### In the Tour de France, what color jersey does the leading racer wear?
+
+- [ ] Mauve
+- [x] Yellow
+- [ ] Burnt Umber
+
+#### In the early 19th century, Stufa boys sold what food item on the streets?
+
+- [ ] Popcorn
+- [x] Pizza
+- [ ] Peanuts
+
+#### Where did The Miracle on Ice happen?
+
+- [ ] The Moon
+- [ ] Woodstock
+- [x] The Winter Olympics
+
+#### When something fits you exactly, you would say it fits like a what?
+
+- [x] Golve
+- [ ] Hat
+- [ ] Sock
+
+#### Which of the following words is a term for a malicious deception?
+
+- [ ] Conspiracy
+- [x] Hoax
+- [ ] Humdinger
+
+#### Which of the following objects would cast the largest shadow?
+
+- [ ] A piece of cling wrap
+- [x] The Statue of Liberty
+- [ ] A pane of clear glass
