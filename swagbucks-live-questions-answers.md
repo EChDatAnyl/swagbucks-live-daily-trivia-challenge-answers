@@ -41916,3 +41916,87 @@
 - [x] You Light Up My Life
 - [ ] Enter Sandman
 - [ ] Straight Outta Compton
+
+#### In 2020, CBS launched a solo series about what Star Trek character?
+
+- [ ] Wesley Crusher
+- [x] Jean-Luc Picard
+- [ ] Quark
+
+#### What park is known as "The Happiest Place on Earth"?
+
+- [ ] Parallel Park
+- [ ] Park-a-lounger
+- [x] Disneyland
+
+#### Which of these Jennifers was married to Ben Affleck?
+
+- [ ] Jennifer Lawrence
+- [x] Jennifer Garner
+- [ ] Jennifer Aniston
+
+#### In science, what term is used to describe push or pull?
+
+- [ ] Flow
+- [x] Force
+- [ ] Echo
+
+#### Which actor has won the most Emmys?
+
+- [ ] Mary Tyler Moore
+- [ ] Betty White
+- [x] Julia Louis-Dreyfus
+
+#### Which of these are you most likely to find in a pool hall?
+
+- [x] Baize
+- [ ] Bambosh
+- [ ] Bandobast
+
+#### In the UK, what does the BBC stand for?
+
+- [ ] British Baking Cakes
+- [x] British Broadcasting Corporation
+- [ ] Big Ballyhoo, Champs!
+
+#### What conditions do oyu need to ski?
+
+- [ ] Drought
+- [x] Snow
+- [ ] Hail
+
+#### Which of these companies is known for selling hot dogs?
+
+- [x] Oscar Meyer
+- [ ] Coca Cola
+- [ ] Hostess
+
+#### What kind of hypothetical device is the Turing Machine?
+
+- [ ] Automobile
+- [ ] Lawnmower
+- [x] Computer
+
+#### The "Fight Night" video games were about what sport?
+
+- [ ] Baseball
+- [ ] Soccer
+- [x] Boxing
+
+#### What was the name for the little people who worked in Willy Wonka's factory?
+
+- [ ] Ewoks
+- [x] Oompa Loompas
+- [ ] Hobbits
+
+#### How many rings are in the Olympic Games logo?
+
+- [x] 5
+- [ ] 7
+- [ ] 9
+
+#### Kurt Cobain, Krist Novoselic, and Dave Grohl were all memebers of what band?
+
+- [x] Nirvana
+- [ ] Soundgarden
+- [ ] Pearl Jam
