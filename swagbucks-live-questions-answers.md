@@ -41856,3 +41856,63 @@
 - [ ] A piece of cling wrap
 - [x] The Statue of Liberty
 - [ ] A pane of clear glass
+
+#### What is the primary food sold by Raising Cane's?
+
+- [ ] Caesar Salad
+- [ ] Pulled Pork
+- [x] Chicken Fingers
+
+#### The Great Wall of China was built to protect the country from what?
+
+- [ ] Dogs
+- [x] Invasion
+- [ ] Bill Collectors
+
+#### In the Marvel Comics, who is the Norse god of thunder?
+
+- [ ] Loki
+- [ ] Odin
+- [x] Thor
+
+#### In which country was there a wedding tradition of whipping the groom?
+
+- [ ] Germany
+- [x] South Korea
+- [ ] Thailand
+
+#### Klondike, Freecell, and Spider are all varations of what card game?
+
+- [x] Solitaire
+- [ ] Uno
+- [ ] Rummy
+
+#### Brackish water is a mixture of what two kinds of water?
+
+- [x] Freshwater and Saltwater
+- [ ] Vitamin Water and Smartwater
+- [ ] Ice water and Boiling Water
+
+#### Which of the following songs is NOT about the Titanic?
+
+- [ ] Tempest by Bob Dylan
+- [ ] Down With the Old Canoe by The Dixon Brothers
+- [x] Smoke on the Water by Deep Purple
+
+#### Which NCAA sport has a series of "Bowl" games at the end of its season?
+
+- [ ] Basketball
+- [x] Football
+- [ ] Lacrosse
+
+#### How is Julia Roberts related to Emma Roberts?
+
+- [ ] Sister
+- [ ] Mother
+- [x] Aunt
+
+#### Debby Boone had a 1977 hit with what song?
+
+- [x] You Light Up My Life
+- [ ] Enter Sandman
+- [ ] Straight Outta Compton
