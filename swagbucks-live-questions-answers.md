@@ -42102,3 +42102,51 @@
 - [ ] Hurry up and Wait
 - [x] Disney Genie
 - [ ] Paper Tickets
+
+#### What is a starring mel ballet dancer called?
+
+- [ ] Footsie guy
+- [x] Ballerino
+- [ ] Nimbleman
+
+#### What does a Sucrologist collect?
+
+- [ ] Postcards
+- [x] Sugar packet
+- [ ] Candy
+
+#### In which country would you find traffic lights featuring Elvis and Karl Marx on the lights?
+
+- [ ] Russia
+- [ ] Colombia
+- [x] Germany
+
+#### Christian Bale's performance in "American Psycho" was inspired in part by what actor?
+
+- [ ] Steve Buscemi
+- [x] Tom Cruise
+- [ ] Al Pacino
+
+#### Which Marvel character has NOT yet appeared in the MCU?
+
+- [x] A-Bomb
+- [ ] Cosmo
+- [ ] The Leader
+
+#### Which of these Katharine Hepburn roles won her an Academy Award?
+
+- [x] Ethel Thayer
+- [ ] Rose Sayer
+- [ ] Mary Tyone
+
+#### Which of the following Office programs is a spreadsheet program?
+
+- [ ] Word
+- [ ] PowerPoint
+- [x] Excel
+
+#### DJ Spencer Potter made almost $200,000 selling what musical 80s phone number to a fitness club?
+
+- [x] 867-5309
+- [ ] 123-4567
+- [ ] 555-1212
