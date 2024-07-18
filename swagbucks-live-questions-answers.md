@@ -42000,3 +42000,105 @@
 - [x] Nirvana
 - [ ] Soundgarden
 - [ ] Pearl Jam
+
+#### Whose middle finger is on display at a museum in Florence?
+
+- [ ] Leonardo da Vinci
+- [x] Galileo
+- [ ] Michaelangelo
+
+#### Which of these is a popular brand of oranges?
+
+- [ ] Littles
+- [x] Cuties
+- [ ] Adorables
+
+#### Which of these full-size instruments is generally the largest?
+
+- [ ] Flute
+- [ ] Guitar
+- [x] Harp
+
+#### Which of these is NOT in the top 20 of AFI's top 100 Movie Quotes?
+
+- [x] Bond. James Bond.
+- [ ] Made it, Ma! Top of the world!
+- [ ] I love the smell of napalm in the morning/
+
+#### Christopher Reeve, Brandon Routh, and Henry Cavill have all played what superhero?
+
+- [x] Superman
+- [ ] Aquaman
+- [ ] Black Widow
+
+#### What brand of lollipop has gum in the center?
+
+- [ ] Dum-Dums
+- [ ] Tootsie Pop
+- [x] Blow Pop
+
+#### What color is Garfield?
+
+- [ ] Green
+- [ ] Red
+- [x] Orange
+
+#### What term is used by Disney Parks cast members for the people who visit the parks?
+
+- [ ] Interlopers
+- [x] Guests
+- [ ] The Onslaught
+
+#### Which of the following attractions can be found in New Orleans or Liberty Square at both Disneyland and the Magic Kingdom?
+
+- [ ] Mad Tea Party
+- [ ] The Jungle Cruise
+- [x] The Haunted Mansion
+
+#### What is the term for the group of creatives who design and build Disney Park attractions?
+
+- [x] Imagineers
+- [ ] Dreamcatchers
+- [ ] Ideastronauts
+
+#### The voice behind the Disney Parks "Ghost Host" could be heard narrating what other attraction?
+
+- [ ] Indiana Jones
+- [x] Adventure Through Inner Space
+- [ ] Innoventions
+
+#### "There's A Great Big Beautiful Tomorrow" can be heard in which Disney attraction?
+
+- [ ] Space Mountain
+- [ ] Mission: Space
+- [x] Carousel of Progress
+
+#### Which of the following Disney Parks attractions was an "E-Ticket"?
+
+- [ ] Flight to the Moon
+- [x] TWA Rocket to the Moon
+- [ ] Peter Pan's Flight
+
+#### Where would you go to visit Disney's Aulani resort and spa?
+
+- [ ] Japan
+- [x] Hawaii
+- [ ] France
+
+#### Teresa Salcedo achieved what Disneyland first in 1979?
+
+- [ ] First person to get married in the park
+- [ ] First person to ride Big Thunder Mountain Railroad
+- [x] First baby born in the park
+
+#### What year did Disneyland first open?
+
+- [x] 1955
+- [ ] 1915
+- [ ] 1995
+
+#### What system replaced the FastPass at Disney Parks?
+
+- [ ] Hurry up and Wait
+- [x] Disney Genie
+- [ ] Paper Tickets
