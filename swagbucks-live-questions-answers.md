@@ -42210,3 +42210,39 @@
 - [x] Tennis
 - [ ] Pickleball
 - [ ] Ping Pong
+
+#### Which of these games requires a deck of playing cards?
+
+- [ ] Chinese Checkers
+- [x] Cribbage
+- [ ] Connect Four
+
+#### What is the term for this Monday's online shopping day?
+
+- [x] Cyber Monday
+- [ ] Computer Shopping Monday
+- [ ] Laptop Monday
+
+#### Civil Rights activist Malcolm Little is better known by what name?
+
+- [x] Malcolm X
+- [ ] Martin Luther King
+- [ ] Rosa Parks
+
+#### Which of these Marvel films has the highest Tomatometer rating?
+
+- [ ] Ant-Man
+- [ ] Iron Man 3
+- [x] Doctor Strange
+
+#### Which of these wars was fought in Asia?
+
+- [ ] The French and Indian War
+- [ ] The Spanish-American War
+- [x] The Vietnam War
+
+#### On Sesame Street, what singer had a hit turned into a song about math?
+
+- [x] Bruce Springsteen
+- [ ] Tony Bennett
+- [ ] Charli XCX
