@@ -42150,3 +42150,63 @@
 - [x] 867-5309
 - [ ] 123-4567
 - [ ] 555-1212
+
+#### Which Broadway show is about the Von Trapp Family?
+
+- [ ] Chicago
+- [x] The Sound of Music
+- [ ] Company
+
+#### Which of the following appetizers is traditionally spicy?
+
+- [x] Buffalo wings
+- [ ] Mozzarella sticks
+- [ ] Sourdough Rolls
+
+#### The United States shares its longest border with which country?
+
+- [ ] Peru
+- [ ] England
+- [x] Canada
+
+#### How many countries have a holiday celebrating independence from the UK?
+
+- [ ] 47
+- [x] 65
+- [ ] 81
+
+#### In which decade was sparkling water created?
+
+- [x] 1760s
+- [ ] 1810s
+- [ ] 930s
+
+#### Where was Tetris invented?
+
+- [ ] Spain
+- [ ] Canada
+- [x] Russia
+
+#### What director directed a single shot for Brian De Palma's "Scarface"?
+
+- [x] Steven Spielberg
+- [ ] Sydney Pollack
+- [ ] Oliver Stone
+
+#### How many types of solar storm are there?
+
+- [ ] One
+- [ ] Two
+- [x] Three
+
+#### Which of the following is NOT a lyric from "Ain't No Mountain High Enough"?
+
+- [ ] Ain't no river wide enough
+- [x] Ain't no lipstick red enough
+- [ ] Ain't no valley low enough
+
+#### The Zendaya movie "Challengers" revolves around what sport?
+
+- [x] Tennis
+- [ ] Pickleball
+- [ ] Ping Pong
