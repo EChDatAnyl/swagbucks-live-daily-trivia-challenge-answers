@@ -42246,3 +42246,33 @@
 - [x] Bruce Springsteen
 - [ ] Tony Bennett
 - [ ] Charli XCX
+
+#### Fiill in the blanks of this famous quote: "Be the ____ you wish to see in the world"?
+
+- [ ] Horse
+- [x] Charge
+- [ ] Whistle
+
+#### In Major League Baseball, Lou Gehrig was known as the Iron Horse. Who was known as the Iron Man?
+
+- [x] Cal Ripken Jr.
+- [ ] Reggie White
+- [ ] Dominique Wilkins
+
+#### What is ASCII primarily used for?
+
+- [x] Text Production
+- [ ] Code Compression
+- [ ] Web Design
+
+#### In Santeria, which god is known for his childish pranks?
+
+- [x] Elegue
+- [ ] Chango
+- [ ] Oshun
+
+#### Hobbs & Shaw is part of what film franchise?
+
+- [x] Fast & Furious
+- [ ] Lethal Weapon
+- [ ] Terminator
