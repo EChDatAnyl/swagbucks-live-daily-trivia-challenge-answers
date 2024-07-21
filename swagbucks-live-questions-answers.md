@@ -42276,3 +42276,45 @@
 - [x] Fast & Furious
 - [ ] Lethal Weapon
 - [ ] Terminator
+
+#### Which board game involves chutes & ladders?
+
+- [ ] Memory
+- [ ] Twister
+- [x] Chutes & Ladders
+
+#### Which of these Disney movies stars a feline in the leading role?
+
+- [ ] 101 Dalmatians
+- [ ] Aladdin
+- [x] The Lion King
+
+#### What game is about navigating through a world made of candy?
+
+- [ ] Scrabble
+- [ ] Trouble
+- [x] Candyland
+
+#### What is the standard flavor of Good & Plenty candies?
+
+- [ ] Orange
+- [x] Licorice
+- [ ] Chocolate
+
+#### Ikea's maze-like layout is an example of what principle?
+
+- [ ] Compulsive Buying
+- [ ] Anchoring
+- [x] The Gruen Transfer
+
+#### In which city was Giving Tuesday founded?
+
+- [ ] London
+- [ ] Toronto
+- [x] New York
+
+#### 10 Dowing Street is the home for the Head of State in what country?
+
+- [ ] France
+- [x] United Kingdom
+- [ ] The United States
