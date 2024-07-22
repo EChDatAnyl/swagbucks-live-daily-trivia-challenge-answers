@@ -42318,3 +42318,21 @@
 - [ ] France
 - [x] United Kingdom
 - [ ] The United States
+
+#### What dip gets its name from the Spanish for "sauce"?
+
+- [ ] Mole
+- [x] Salsa
+- [ ] Guacamole
+
+#### Derek Hough became famous on what reality show?
+
+- [x] Dancing With The Stars
+- [ ] I'm A Celebrity, Get Me Out Of There!
+- [ ] Big Brother
+
+#### Based on the science of light spectrums, which one of these bands would include all the others?
+
+- [x] White Zombie
+- [ ] Red Hot Chili Peppers
+- [ ] Blues Traveler
