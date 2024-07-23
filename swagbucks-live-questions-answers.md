@@ -42336,3 +42336,63 @@
 - [x] White Zombie
 - [ ] Red Hot Chili Peppers
 - [ ] Blues Traveler
+
+#### In which movie does Tom Cruise play a Navy Pilot?
+
+- [ ] All the Right Moves
+- [ ] Jack Reacher
+- [x] Top Gun
+
+#### In "Interview With The Vampire", which character does Tom Cruise play?
+
+- [x] Lestat
+- [ ] Armand
+- [ ] Daniel
+
+#### In which movie did Tom Cruise claim to do his own singing?
+
+- [ ] American Made
+- [ ] Valkyrie
+- [x] Rock of Ages
+
+#### In "Jerry Maguire", what leads to Jerry getting fired by his agency?
+
+- [ ] A fireworks show
+- [x] A mission statement
+- [ ] A dance number
+
+#### From whom does Tom Cruise get "The Truth" in "A Few Good Men:?
+
+- [ ] Demi Moore
+- [x] Jack Nicholson
+- [ ] Kevin Pollak
+
+#### What happens to the IMF message Ethan Hunt gets in the "Mission: Impossible" movies?
+
+- [ ] The turn into birds
+- [ ] Nothing
+- [x] They self-destruct
+
+#### In "Tropic Thunder", what drink is Les Grossman constantly asking for?
+
+- [ ] Seagram's 7
+- [ ] Yoo-hoo
+- [x] Diet Coke
+
+#### What does Tom Cruise's character in "Days of Thunder" do for a living?
+
+- [x] NASCAR Driver
+- [ ] Kayaker
+- [ ] Trucker
+
+#### What 1988 Beach Boys song became a hit thanks to "Cocktail"?
+
+- [x] Kokomo
+- [ ] Higher Love
+- [ ] Baby Got Back
+
+#### In which movie does a teenage Tom Crusie dance to "Old Time Rock & Roll"?
+
+- [ ] Edge of Tomorrow
+- [x] Risky Business
+- [ ] The Mummy
