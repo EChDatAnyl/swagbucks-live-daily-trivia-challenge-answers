@@ -42396,3 +42396,33 @@
 - [ ] Edge of Tomorrow
 - [x] Risky Business
 - [ ] The Mummy
+
+#### Where would you find the smallest bone in the human body?
+
+- [x] Middle ear
+- [ ] Leg
+- [ ] Ribs
+
+#### The Stock Market Crash of 1929 was the beginning of what historical event?
+
+- [ ] World War I
+- [ ] The Teapot Dome Scandal
+- [x] The Great Depression
+
+#### "Be Our Guest" is a number from which Disney animated film?
+
+- [x] Beauty and the Beast
+- [ ] Rescuers Down Under
+- [ ] The Sword and the Stone
+
+#### If Porky Pig went to Mexico, what dish could he order without committing cannibalism?
+
+- [ ] Al Pastor
+- [ ] Chorizo
+- [x] Ceviche
+
+#### Who tpyically delivers the "That's All Folks!" at the end of each Looney Tunes short?
+
+- [ ] Sylvester Pussycat
+- [ ] Daffy Duck
+- [x] Porky Pig
