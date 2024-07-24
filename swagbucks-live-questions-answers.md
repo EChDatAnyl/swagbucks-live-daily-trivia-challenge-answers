@@ -42486,3 +42486,39 @@
 - [ ] Eraser
 - [ ] Jingle All The Way
 - [x] Total Recall
+
+#### Which of the following foods was originally sold exclusively to the military?
+
+- [x] M&Ms
+- [ ] Pez
+- [ ] Toaster Strudels
+
+#### Which band's hits include "Start Me Up", "Paint It Black", and "Satisfaction"?
+
+- [x] The Rolling Stones
+- [ ] The Who
+- [ ] LEd Zeppelin
+
+#### Complete this Rolling Stones lyric: I can't get no...
+
+- [ ] Education
+- [x] Satisfaction
+- [ ] Tickets to the game
+
+#### What Oscar winner's first ever role was as The Cowardly Lion in a local play?
+
+- [x] Robert De Nitro
+- [ ] Al Pacino
+- [ ] Tom Hanks
+
+#### What is the name of Apple's media player?
+
+- [ ] Winamp
+- [x] iTunes
+- [ ] Limewire
+
+#### The bands Whitesnake and Rainbow were both splinter groups from what British rock band?
+
+- [ ] Scorpions
+- [x] Deep Purple
+- [ ] Black Sabbath
