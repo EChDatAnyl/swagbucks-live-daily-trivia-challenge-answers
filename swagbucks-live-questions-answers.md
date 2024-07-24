@@ -42421,8 +42421,68 @@
 - [ ] Chorizo
 - [x] Ceviche
 
-#### Who tpyically delivers the "That's All Folks!" at the end of each Looney Tunes short?
+#### Who typically delivers the "That's All Folks!" at the end of each Looney Tunes short?
 
 - [ ] Sylvester Pussycat
 - [ ] Daffy Duck
 - [x] Porky Pig
+
+#### In "The Terminator", who is the T-8000 hunting down?
+
+- [ ] Zuzu Petals
+- [x] Sarah Connor
+- [ ] Keyser Soze
+
+#### In which Rocky movie does he first win the World Championship?
+
+- [x] Rocky II
+- [ ] Rocky IV
+- [ ] Rocky v
+
+#### In which film series do Arnold Schwarzenegger and Sylvester Stallone share the screen?
+
+- [ ] Ocean's 11
+- [ ] The Hunger Games
+- [x] The Expendables
+
+#### What is the title of the first Rambo movie?
+
+- [x] First Blood
+- [ ] Last Blood
+- [ ] The Stranger
+
+#### What was the first character Arnold Schwarzenegger played on screen?
+
+- [ ] Himself
+- [ ] Conan the Barbarian
+- [x] Hercules
+
+#### Which Sylvester Stallone movie is about an Arm Wrestling championship?
+
+- [x] Over the Top
+- [ ] Nighthawks
+- [ ] Cannonball
+
+#### In "Twins", who plays Arnold Schwarzenegger's twin brother?
+
+- [ ] Dolph Lundgren
+- [x] Danny Devito
+- [ ] David Hasselhoff
+
+#### In "Tango & Cash", what animal does the villain keep as pets?
+
+- [ ] Alligators
+- [ ] Falcons
+- [x] Rats
+
+#### In which city does the original Rocky take place?
+
+- [ ] New York
+- [x] Philadelphia
+- [ ] Chicago
+
+#### In which movie is Arnold Schwarzenegger trying to get to Mars?
+
+- [ ] Eraser
+- [ ] Jingle All The Way
+- [x] Total Recall
