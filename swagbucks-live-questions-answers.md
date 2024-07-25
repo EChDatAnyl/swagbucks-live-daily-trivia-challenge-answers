@@ -42582,3 +42582,51 @@
 - [ ] Kiss of Death
 - [x] Jurassic Park
 - [ ] Changing Lanes
+
+#### Which professional sports team has won the most consecutive championships?
+
+- [x] Boston Celtics
+- [ ] New York Yankees
+- [ ] Detroit Red Wings
+
+#### What is the term for a group of Flamingos?
+
+- [ ] Fritter
+- [x] Flamboyance
+- [ ] Flair
+
+#### Which country has not fought in a war since 1814?
+
+- [ ] Australia
+- [ ] Switzerland
+- [x] Sweden
+
+#### In "The Empire Strikes Back", Han Solo is encased in what substance?
+
+- [ ] Ice
+- [ ] Swamp Mud
+- [x] Carbonite
+
+#### Which of these animals lays eggs?
+
+- [x] Turtles
+- [ ] Deer
+- [ ] Kangaroo
+
+#### What friendly neighborhood web slinger made his debut in Amazing Fantasy #15?
+
+- [ ] The Human Torch
+- [x] Spider-Man
+- [ ] The Incredible Hulk
+
+#### Which President was the first to install a bowling alley in the White House?
+
+- [x] Harry S Truman
+- [ ] Richard Nixon
+- [ ] Lyndon B. Johnson
+
+#### Who coined the phrase "Founding Fathers"?
+
+- [ ] Thomas Jefferson
+- [ ] Abaham Lincoln
+- [x] Warren G. Harding
