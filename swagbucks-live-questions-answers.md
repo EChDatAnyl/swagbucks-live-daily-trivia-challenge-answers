@@ -42522,3 +42522,63 @@
 - [ ] Scorpions
 - [x] Deep Purple
 - [ ] Black Sabbath
+
+#### In which movie does Samuel L. Jackson play a hitman who quotes Ezekiel 25:17?
+
+- [ ] Django Unchained
+- [x] Pulp Fiction
+- [ ] The Protege
+
+#### In "The Hitman's Bodyguard", which Deadpool actor plays the titular bodyguard?
+
+- [x] Ryan Reynolds
+- [ ] Ed Skrein
+- [ ] Jed Rees
+
+#### Which of the following movies does NOT star Samuel L. Jackson?
+
+- [ ] The Avengers
+- [ ] Deep Blue Sea
+- [x] Terms of Endearment
+
+#### Which Eddie Murphy movie features one of Samuel L. Jackson's early roles?
+
+- [ ] 48 Hours
+- [x] Coming to America
+- [ ] The Distinguished Gentleman
+
+#### In the Star Wars prequels, what color is Mace Windu's lightsaber blade?
+
+- [ ] Black
+- [ ] Clear
+- [x] Purple
+
+#### Samuel L. Jackson appeared in the third installment of which horror series?
+
+- [x] The Exorcist
+- [ ] Friday the 13th
+- [ ] Phantasm
+
+#### Who directed Samuel L. Jackson in the movies "School Daze", "Do The Right Thing", and "Jungle Fever"?
+
+- [ ] James Cameron
+- [x] Spike Lee
+- [ ] Kathryn Bigelow
+
+#### Samuel L. Jackson is the highest-grossing actor in Hollywood history. Which of these movies grossed the most worldwide?
+
+- [ ] Incredibles 2
+- [ ] Star Wars: The Rise of Skywalker
+- [x] Avengers: Age Of Ultron
+
+#### What was the first MCU film to feature Nick Fury?
+
+- [x] Iron Man
+- [ ] Spider-Man: Homecoming
+- [ ] Guardians of the Galaxy
+
+#### In which movie is Samuel L. Jackson' character killed by a velociraptor?
+
+- [ ] Kiss of Death
+- [x] Jurassic Park
+- [ ] Changing Lanes
