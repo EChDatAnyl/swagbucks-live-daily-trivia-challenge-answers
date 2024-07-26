@@ -42630,3 +42630,87 @@
 - [ ] Thomas Jefferson
 - [ ] Abaham Lincoln
 - [x] Warren G. Harding
+
+#### Which of the following Presidents represented the Whig Party?
+
+- [x] Zachary Taylor
+- [ ] James Buchanan
+- [ ] John Quincy Adams
+
+#### What show centers around celebrities performing in disguise?
+
+- [x] The Masked Singer
+- [ ] The Voice
+- [ ] The X Factor
+
+#### Who was the first president born in the United States of America?
+
+- [ ] Andrew Jackson
+- [x] Martin Van Buren
+- [ ] John Quincy Adams
+
+#### Which of the following shows featured characters named The Rock, Stone Cold, and The Undertaker?
+
+- [ ] Tom & Jerry
+- [ ] Little House on the Prairie
+- [x] WWE Smackdown
+
+#### "The Time Warp" is a song from what cult musical?
+
+- [x] The Rocky Horror Picture Show
+- [ ] Brigadoon
+- [ ] Spider-Man: Turn Off The Dark
+
+#### What movie featured Julia Roberts' breakout leading role?
+
+- [x] Pretty Woman
+- [ ] Firehouse
+- [ ] Satisfaction
+
+#### "Runaway Bride" reunited Julia Roberts with which leading man?
+
+- [ ] Jason Patric
+- [ ] Sam Rockwell
+- [x] Richard Gere
+
+#### In which movie does Julia Roberts' character pretend to be Julia Roberts?
+
+- [ ] Dupilcity
+- [x] Ocean's Tweleve
+- [ ] Mother's Day
+
+#### Which of the following movies did NOT result in Julia Roberts getting an Oscar nomination?
+
+- [ ] Steel Magolias
+- [ ] August: Osage County
+- [x] Sleeping With The Enemy
+
+#### Complete this "Notting Hill" quote: "I'm just a girl, standing in front of a boy, asking him..."
+
+- [x] To love her
+- [ ] For a sanwich
+- [ ] The time
+
+#### What is Julia Roberts' lowest-rated movie on Rotten Tomatoes?
+
+- [ ] Mary Reilly
+- [ ] Eat Pray Love
+- [x] Mother's Day
+
+#### Which of the following Julia Roberts characters is a real person?
+
+- [x] Joanne Herring
+- [ ] Samantha Barzel
+- [ ] Alice Sutton
+
+#### In Erin Brockovich, how big is her check at the end of the movie?
+
+- [ ] $2 Million
+- [ ] 20 cents
+- [ ] $10
+
+#### In "Ocean's 11", Julia Roberts plays the ex-wife of which character?
+
+- [ ] Rusty Ryan
+- [ ] Linus Caldwell
+- [x] Daniel Ocean
