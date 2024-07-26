@@ -42714,3 +42714,39 @@
 - [ ] Rusty Ryan
 - [ ] Linus Caldwell
 - [x] Daniel Ocean
+
+#### What gum heavily used twins in its advertising?
+
+- [ ] Hubba Bubba
+- [x] Double Mint
+- [ ] Trident
+
+#### In the song "Prince Ali", which of the following is NOT mentioned?
+
+- [ ] Persian Monkeys
+- [ ] Bears
+- [x] Tigers
+
+#### Which of these weekly shows is produced by WWE?
+
+- [x] Monday Night Raw
+- [ ] Keeping Up With the Kardashians
+- [ ] King of Queens
+
+#### Which of these is NOT the title of a Silly Symphony?
+
+- [ ] Cannibal Capers
+- [ ] Frolicking Fish
+- [x] Racing Raccons
+
+#### Which African country's capital was named "La Coquette" by its former Emperor?
+
+- [ ] Ivory Coast
+- [ ] Deomcratic Republic of Congo
+- [x] Central African Republic
+
+#### What would McDonaldd's not be allowed to serve in the Chew comics universe?
+
+- [x] McNuggets
+- [ ] Fillet-O-Fish
+- [ ] Big Mac
