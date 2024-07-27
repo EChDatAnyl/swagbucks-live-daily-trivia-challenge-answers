@@ -42748,5 +42748,53 @@
 #### What would McDonaldd's not be allowed to serve in the Chew comics universe?
 
 - [x] McNuggets
-- [ ] Fillet-O-Fish
+- [ ] Filet-O-Fish
 - [ ] Big Mac
+
+#### Which of the following Star Wars shows is animated?
+
+- [ ] Andor
+- [ ] Book of Boba Fett
+- [x] The Clone Wars
+
+#### According to Mental Floss, who inspired the look of Yoda's eyes?
+
+- [ ] Sir Alec Guinness
+- [x] Albert Einstein
+- [ ] Frank Oz
+
+#### Which of the following is NOT a square on the standard Scrabble board?
+
+- [ ] Triple Letter Score
+- [ ] Double Word Score
+- [x] Jail
+
+#### Who co-created the TV show "Jackass"?
+
+- [ ] Jack Black
+- [ ] Jack Kerouac
+- [x] Johnny Knoxville
+
+#### "Simlish" is a made up language in what video game?
+
+- [ ] Diablo III
+- [x] The Sims
+- [ ] Galaga
+
+#### Which of these actors has NOT played a live action version of Batman?
+
+- [ ] Adam West
+- [ ] Ben Affleck
+- [x] Louie Anderson
+
+#### What vegetable is the primary ingredient in coleslaw?
+
+- [ ] Radishes
+- [ ] Rhubarb
+- [x] Cabbage
+
+#### Saint Patrick drove what creatures out of Ireland?
+
+- [ ] Sheep
+- [ ] Wolves
+- [x] Snakes
