@@ -27337,7 +27337,7 @@
 - [ ] Bugs Bunny
 - [x] Bambi
 
-#### What kind of animal does Rocket from "Guardians of the Galaxy" most cosely resemble?
+#### What kind of animal does Rocket from "Guardians of the Galaxy" most closely resemble?
 
 - [ ] Fox
 - [x] Raccoon
@@ -42822,3 +42822,39 @@
 - [ ] Batman
 - [ ] Spider-Man
 - [x] Superman
+
+#### A woman who live streamed her birthing process got over 77 million views. Where did she give birth?
+
+- [ ] A desert
+- [x] A rainforest
+- [ ] Her backyard
+
+#### Rond de jambe is a maneuver from what discipline of dance?
+
+- [ ] Foxtrot
+- [x] Ballet
+- [ ] Lambada
+
+#### Stainless steel must contain at least 10% of what metal alloy?
+
+- [x] Chromium
+- [ ] Iron
+- [ ] Aluminum
+
+#### What is the title given to the elected executive head of a State in the U.S.?
+
+- [ ] Mayor
+- [ ] Page
+- [x] Governor
+
+#### Someone who creates a large amount of output could be described using which of the following words?
+
+- [x] Prolific
+- [ ] Probate
+- [ ] Prodding
+
+#### Which candy traditionally comes in fruit flavors?
+
+- [ ] M&Ms
+- [x] Skittles
+- [ ] Reese's Pieces
