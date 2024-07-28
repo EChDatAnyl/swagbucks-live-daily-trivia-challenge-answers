@@ -42798,3 +42798,27 @@
 - [ ] Sheep
 - [ ] Wolves
 - [x] Snakes
+
+#### What activity commonly involves a needle and thread?
+
+- [ ] Rugby
+- [ ] Parasailing
+- [x] Sewing
+
+#### How much money do you start out with in a standard game of Monopoly?
+
+- [x] $1,500
+- [ ] $2,000
+- [ ] $2,500
+
+#### What is a music ensemble made up of three people called?
+
+- [ ] Duet
+- [ ] Quartet
+- [x] Trio
+
+#### Kirk Alyn was the first actor to play which superhero on-screen?
+
+- [ ] Batman
+- [ ] Spider-Man
+- [x] Superman
