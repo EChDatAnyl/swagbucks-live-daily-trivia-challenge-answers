@@ -42858,3 +42858,39 @@
 - [ ] M&Ms
 - [x] Skittles
 - [ ] Reese's Pieces
+
+#### Washington, Adams, and Jefferson are all parts of a group of men known by what name?
+
+- [x] Founding Fathers
+- [ ] Country Daddies
+- [ ] Paper Papas
+
+#### The Acropolis can be found in which European country?
+
+- [ ] Italy
+- [ ] England
+- [x] Greece
+
+#### Which of these is a gourd?
+
+- [x] Pumpkin
+- [ ] Apple
+- [ ] Grape
+
+#### When the official stops a match because one of the boxers is deemed unable to continue, what is the result?
+
+- [x] Technical Knockout
+- [ ] Draw
+- [ ] Tie-up
+
+#### Who starred opposite Tom Hanks in "Sleepless in Seattle" and "You've Got Mail"?
+
+- [ ] Julia Roberts
+- [ ] Sharon Stone
+- [x] Meg Ryan
+
+#### Canada Dry is a brand of:
+
+- [ ] Cory Syrup
+- [x] Ginger Ale
+- [ ] Breakfast cereal
