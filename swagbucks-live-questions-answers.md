@@ -17962,8 +17962,8 @@
 #### In a game of "I Spy", what kind of questions are you allowed to ask?
 
 - [ ] Open answer
-- [ ] Yes/No
-- [x] Multiple Choice
+- [x] Yes/No
+- [ ] Multiple Choice
 
 #### In Soccer, what color card is shown by the on field referee as a caution?
 
@@ -42891,6 +42891,66 @@
 
 #### Canada Dry is a brand of:
 
-- [ ] Cory Syrup
+- [ ] Corn Syrup
 - [x] Ginger Ale
 - [ ] Breakfast cereal
+
+#### Bob Evans is known for what food product?
+
+- [x] Sausage
+- [ ] Chips
+- [ ] Tomato Sauce
+
+#### In "I Spy", what kind of questions are you allowed to ask?
+
+- [ ] Essay
+- [ ] Multiple Choice
+- [x] Yes or no
+
+#### What is commonly known as the World's Most Famous Arena?
+
+- [ ] The Staples Center
+- [x] Madison Square Garden
+- [ ] Pensacola Bay Center
+
+#### Which game show is hosted by Steve Harvey?
+
+- [x] Family Feud
+- [ ] Match Game
+- [ ] Hollywood Squares
+
+#### Johnny Cash was known for wearing what color on stage?
+
+- [ ] White
+- [ ] Green
+- [x] Black
+
+#### In 2014, a crew member of NASA's Expedition 39 behgan growing which vegetable using microgravity and LED lights?
+
+- [ ] Imperator Carrots
+- [ ] Chanterelle Mushrooms
+- [x] Red Romaine Lettuce
+
+#### Who directed the Godfather movies?
+
+- [x] Francis Ford Coppola
+- [ ] Steven Spielberg
+- [ ] George Lucas
+
+#### What phrase appears on the logo for Vans sneakers?
+
+- [x] Off The Wall
+- [ ] Run Through A Wall
+- [ ] Wall Flower
+
+#### Fabio got his start modelling for what kinds of books?
+
+- [x] Romance
+- [ ] Children's
+- [ ] Comedy
+
+#### When you escape something narrowly, you're getting out by the skin of your what?
+
+- [ ] Feet
+- [x] Teeth
+- [ ] Face
