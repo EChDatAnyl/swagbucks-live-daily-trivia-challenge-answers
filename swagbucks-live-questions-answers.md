@@ -42954,3 +42954,27 @@
 - [ ] Feet
 - [x] Teeth
 - [ ] Face
+
+#### On which Disney Parks attraction could you have heard Vincent Price's voice?
+
+- [x] Phantom Manor
+- [ ] The Haunted Mansion
+- [ ] Pirates of the Caribbean
+
+#### In "The Shaggy D.A.", the lead character transforms into what kind of barking animal?
+
+- [ ] Bird
+- [ ] Snake
+- [x] Dog
+
+#### On what continent would you find the real Casablanca?
+
+- [ ] Europe
+- [ ] Asia
+- [x] Africa
+
+#### In hwat museum would you find a villa bedroom that was swallowed by the eruption of Mount Vesuvius?
+
+- [x] The Metropolitan Museum of Art
+- [ ] The Louvre
+- [ ] The British Museum
