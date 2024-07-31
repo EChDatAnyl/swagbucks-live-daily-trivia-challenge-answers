@@ -43062,3 +43062,33 @@
 - [ ] The Southside Fancies
 - [ ] The Dunkaroos
 - [x] The Dream Team
+
+#### Which artist is called the father of Surrealism?
+
+- [x] Salvador Dali
+- [ ] Pablo Picasso
+- [ ] Marcel Duchamp
+
+#### Which singer has a singature song asking "What's Love Got To Do With It?"
+
+- [ ] Aretha Franklin
+- [ ] Gwen Stefani
+- [x] Tina Turner
+
+#### What common item was considered sacrilegious in 11th century Italy?
+
+- [ ] Hairbrush
+- [ ] Glasses
+- [x] Fork
+
+#### According to the nursery rhyme, what did Jack and Jill go up the hill to do?
+
+- [ ] Catch a flight
+- [ ] Write a novel
+- [x] Fetch a pail of water
+
+#### What does the "I" in an ISDN line stand for?
+
+- [x] Intergrated
+- [ ] Internal
+- [ ] International
