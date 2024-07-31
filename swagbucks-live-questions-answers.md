@@ -42973,8 +42973,92 @@
 - [ ] Asia
 - [x] Africa
 
-#### In hwat museum would you find a villa bedroom that was swallowed by the eruption of Mount Vesuvius?
+#### In what museum would you find a villa bedroom that was swallowed by the eruption of Mount Vesuvius?
 
 - [x] The Metropolitan Museum of Art
 - [ ] The Louvre
 - [ ] The British Museum
+
+#### What food substance is made by bees?
+
+- [ ] Syrup
+- [ ] Oatmeal
+- [x] Honey
+
+#### What does a megaphone do to your voice?
+
+- [ ] Quiets it
+- [x] Amplifies it
+- [ ] Shocks it
+
+#### In the first all-talking movie, what type of shop was a front for bootlegging?
+
+- [ ] Apothecary
+- [ ] Soda Shop
+- [x] Barbershop
+
+#### What Kenny Loggins song was used as the theme for "Caddyshack"?
+
+- [ ] Danger Zone
+- [x] I'm Alright
+- [ ] Footloose
+
+#### Where are the 2024 Summer Games being held?
+
+- [ ] Tokyo
+- [ ] Los Angeles
+- [x] Paris
+
+#### Katie Ledecky is competing on behalf of the united States at what sport?
+
+- [ ] Water Polo
+- [x] Swimming
+- [ ] Diving
+
+#### What item is relayed around the world in the lead up to the opening ceremonies of the Olympics?
+
+- [x] A Torch
+- [ ] A Toaster
+- [ ] A Teacup
+
+#### What Olympic event determines the fastest human on the Earth?
+
+- [ ] Race Walking
+- [x] 100 Meter Sprint
+- [ ] Rowing
+
+#### What is the last year Olympic gold medals were made entirely of gold?
+
+- [x] 1912
+- [ ] 1935
+- [ ] 1972
+
+#### Which gymnast finished the vault at the 1996 Summer Olympics despite injuring her ankle?
+
+- [x] Kerri Strug
+- [ ] Simone Biles
+- [ ] Nadia Comaneci
+
+#### What style of Dance became an Olympic event in 2024?
+
+- [ ] Tap
+- [x] Breaking
+- [ ] Waltz
+
+#### Approximately how long was the gap between the last original Olympics and first modern Olympics?
+
+- [ ] 2000 Years
+- [ ] 1000 Years
+- [x] 1500 Years
+
+#### What year did Jesse Owens win 4 Olympic gold medals?
+
+- [x] 1936
+- [ ] 1999
+- [ ] 2021
+
+#### What nickname was given to the USA Men's Basketball team in 1992?
+
+- [ ] The Southside Fancies
+- [ ] The Dunkaroos
+- [x] The Dream Team
