@@ -43194,3 +43194,21 @@
 - [ ] Jimmy Carter
 - [ ] Ronald Reagan
 - [x] George W. Bush
+
+#### Who played Danny Wilde in the 1970s TV series "The Persuaders"?
+
+- [ ] James Garner
+- [ ] Warren Beatty
+- [x] Tony Curits
+
+#### Which of the following is NOT a fast food restaurant?
+
+- [ ] McDonald's
+- [x] Outback Steakhouse
+- [ ] Burger King
+
+#### Which of these conditions is the result of bleeding under the skin?
+
+- [x] Bruise
+- [ ] Chicken Pox
+- [ ] Pimples
