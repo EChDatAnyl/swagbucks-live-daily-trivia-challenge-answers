@@ -16135,7 +16135,7 @@
 - [x] Jim Carrey
 - [ ] Melissa McCarthy
 
-#### Dana Carvey's Church LAdy would often spout what catchphrase?
+#### Dana Carvey's Church Lady would often spout what catchphrase?
 
 - [x] "Well Isn't that special?"
 - [ ] "We are two wild and crazy guys!"
@@ -43092,3 +43092,105 @@
 - [x] Intergrated
 - [ ] Internal
 - [ ] International
+
+#### In which decade did the Berlin Wall fall?
+
+- [ ] 1910s
+- [x] 1980s
+- [ ] 2010s
+
+#### In Super Mario Bros, what is your main objective?
+
+- [ ] Make money
+- [x] Save the princess
+- [ ] Defuse a bomb
+
+#### Who offered $1 Billion to anyone who could pick a perfect March Madness Bracket?
+
+- [ ] Elon Musk
+- [x] Warren Bufflett
+- [ ] Mark Cuban
+
+#### Which of these States has a capital that starts with a vowel?
+
+- [ ] North Dakota
+- [ ] Arkansas
+- [x] Washington
+
+#### Which of these cities hasn't had a Real Housewives show?
+
+- [ ] Atlanta
+- [x] Milwaukee
+- [ ] Beverly Hills
+
+#### What fish is called "The Chicken of the Sea"?
+
+- [ ] Halibut
+- [x] Tuna
+- [ ] Swordfish
+
+#### What liquid was originally known as Mould Juice?
+
+- [ ] Cider
+- [ ] Green smoothies
+- [x] Penicilin
+
+#### What brand's logo contains an arrow that resembles a smile?
+
+- [ ] IBM
+- [ ] Betty Crocker
+- [x] Amazon
+
+#### What popular chocolate chip cookie is sold by Babisco?
+
+- [x] Chips Ahoy!
+- [ ] Thar Be Chips!
+- [ ] Yo Ho, Yo Ho, A Cookie's Life For Me
+
+#### Honolulu is the capital of which State?
+
+- [ ] New Jersey
+- [x] Hawaii
+- [ ] Florida
+
+#### In 1493, what ceatures did Christopher Columbus mistake for mermaids?
+
+- [x] Manatees
+- [ ] Horses
+- [ ] Dogs
+
+#### "Gold and Silver" is the official motto of which State?
+
+- [x] Montana
+- [ ] Wyoming
+- [ ] California
+
+#### What's the minimum age to see an R-rated movie without accompaniment?
+
+- [ ] 13
+- [x] 17
+- [ ] 25
+
+#### Which of the following discontinued breakfast cereals debuted the earliest?
+
+- [ ] Banana Frosted Flakes
+- [ ] Smurf-Berry Crunch
+- [x] Crazy Cow
+
+#### In the very early part of his career, Harrison Ford was under contact to what studio?
+
+- [ ] 20th Century Fox
+- [x] Columbia Pictures
+- [ ] Universal Pictures
+
+#### What band put out "The Dark Side of the Moon" in 1973?
+
+- [ ] The Rolling Stones
+- [x] Pink Floyd
+- [ ] The Eagles
+
+#### Which U.S. President has a daughter who works as a TV host?
+
+- [ ] Jimmy Carter
+- [ ] Ronald Reagan
+- [x] George W. Bush
