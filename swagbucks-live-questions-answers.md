@@ -43212,3 +43212,63 @@
 - [x] Bruise
 - [ ] Chicken Pox
 - [ ] Pimples
+
+#### What is Mary Poppins' job?
+
+- [ ] Actuary
+- [x] Nanny
+- [ ] Maid
+
+#### In which Disney movie does Lindsay Lohan play identical twins?
+
+- [ ] Herbie Goes Bananas
+- [ ] Hot Lead & Cold Feet
+- [x] The Parent Trap
+
+#### Which of the following Disney Parks attractions has NOT been adapted into a feature film?
+
+- [ ] ThE Jingle Cruise
+- [x] It's A Small World
+- [ ] Pirates of the Caribbean
+
+#### Writer and director Steve Brill's hobby resulted in what Disney movie?
+
+- [x] The Mighty Ducks
+- [ ] McFarland, USA
+- [ ] The Rookie
+
+#### Which pop star appeared in "The Princess Diaries"?
+
+- [ ] Britney Spears
+- [ ] Christina Aguilera
+- [x] Mandy Moore
+
+#### "Saving Mr. Banks" is a Disney movie about the making of what other Disney movie?
+
+- [ ] Swiss Family Robinson
+- [ ] Newsies
+- [x] Mary Poppins
+
+#### According to D23, how many Disney movies has Kurt Russell made?
+
+- [ ] 8
+- [x] 12
+- [ ] 20
+
+#### Which of the following Disney films broke the record for longest end credits?
+
+- [ ] 20,000 Leagues Under The Sea
+- [x] Who Framed Roger Rabbit?
+- [ ] The Black Hole
+
+#### Which of the following Disney live action movies includes actors interacting with animation?
+
+- [ ] The Computer Wore Tennis Shoes
+- [ ] Secretariat
+- [x] Bedknobs & Broomsticks
+
+#### In the original "Pete's Dragon", what is the name of Pete's dragon?
+
+- [x] Elliott
+- [ ] Percival
+- [ ] Mr. Belvedere
