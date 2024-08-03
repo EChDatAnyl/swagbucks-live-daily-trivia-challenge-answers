@@ -43272,3 +43272,27 @@
 - [x] Elliott
 - [ ] Percival
 - [ ] Mr. Belvedere
+
+#### Something that's difficult to believe is said to be what?
+
+- [ ] Easy going
+- [ ] On the horizon
+- [x] Hard to swallow
+
+#### What show started with the line "Space: The Final Frontier"?
+
+- [ ] Battlestar Galactica
+- [x] Star Trek
+- [ ] Doctor Who
+
+#### Pen Cap Chew, Bliss, and Ted Ed Fred were former names for what band?
+
+- [ ] Pearl Jam
+- [x] Nirvana
+- [ ] Stone Temple Pilots
+
+#### In which video game is the objective to win a race?
+
+- [x] Pole Position
+- [ ] NBA 2K20
+- [ ] Halo 2
