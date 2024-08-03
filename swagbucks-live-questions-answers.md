@@ -43296,3 +43296,27 @@
 - [x] Pole Position
 - [ ] NBA 2K20
 - [ ] Halo 2
+
+#### In 2010, what pop superstar sang that he would catch a grenade for you?
+
+- [ ] Justin Bieber
+- [ ] Adam Levine
+- [x] Bruno Mars
+
+#### Which of these is NOT botanically considered a fruit?
+
+- [ ] Pepper
+- [ ] Avocado
+- [x] Carrot
+
+#### Which of the following historic vehicles was the most naufragous?
+
+- [ ] The Hindenburg
+- [x] The Titanic
+- [ ] The Enola Gay
+
+#### What "Out of this World" candy bar got a dark chocolate version in the 90s?
+
+- [x] Milky Way
+- [ ] Three Musketeers
+- [ ] Dove
