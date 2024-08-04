@@ -43320,3 +43320,51 @@
 - [x] Milky Way
 - [ ] Three Musketeers
 - [ ] Dove
+
+#### During The Game of Life, what determines how many spaces you move?
+
+- [ ] Dice
+- [ ] Drawing cards
+- [x] Spinning a wheel
+
+#### Chris Evans played which Star-Spangled hero in the Marvel Cinematic Universe?
+
+- [ ] U.S. Agent
+- [ ] Falcon
+- [x] Captain America
+
+#### What is the name of the classic toy that consists of a canister filled with water and glitter what swirls around when shaken?
+
+- [x] Snow Globe
+- [ ] Glitter bomb
+- [ ] Superball
+
+#### What instrument are Elton John, Billy Joel, and Alicia Keys known for playing?
+
+- [ ] Guitar
+- [x] Piano
+- [ ] Flugelhorn
+
+#### From 1912 until 2008, what was the only legal wormwood alcohol sold in America?
+
+- [ ] Absinthe
+- [x] Malort
+- [ ] Jaegermeister
+
+#### What word is NOT in the first verse of Disney's "Yo Ho (A Pirate's Life For Me)"?
+
+- [ ] Pillage
+- [x] Pilfer
+- [ ] Plunder
+
+#### Whose movies include "Dumb & Dumber" and "The Mask"?
+
+- [ ] Mike Myers
+- [x] Jim Carrey
+- [ ] Ben Stiller
+
+#### Who played Ferris Bueller in the movie "Ferris Bueller's Day Off"?
+
+- [ ] John Cusack
+- [ ] Christian Slater
+- [x] Matthew Broderick
