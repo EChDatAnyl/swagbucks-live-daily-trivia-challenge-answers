@@ -43368,3 +43368,27 @@
 - [ ] John Cusack
 - [ ] Christian Slater
 - [x] Matthew Broderick
+
+#### How many vertices does a square have?
+
+- [ ] Two
+- [x] Four
+- [ ] Eight
+
+#### In Monopoly, what kind of roll gets you out of jail automatically?
+
+- [ ] Hard 7
+- [ ] Soft 11
+- [x] Any Doubles
+
+#### Which of the following is not a regulation swimming storke?
+
+- [ ] Breaststroke
+- [ ] Freestyle
+- [x] Forehand
+
+#### What river did George Washington famously cross in 1776?
+
+- [x] The Delaware
+- [ ] The Colorado
+- [ ] The Rhine
