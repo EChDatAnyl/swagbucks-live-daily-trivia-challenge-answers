@@ -43392,3 +43392,39 @@
 - [x] The Delaware
 - [ ] The Colorado
 - [ ] The Rhine
+
+#### The world's oldest depication of an animal is a drawing of a what?
+
+- [ ] Tiger
+- [x] Pig
+- [ ] Fish
+
+#### What candy bar is sold in pairs?
+
+- [ ] Nestle Crunch
+- [ ] Clark Bar
+- [x] Twix
+
+#### Which of the following tools would you use to smooth a rough suface?
+
+- [ ] Miter saw
+- [x] Sander
+- [ ] Drill press
+
+#### Which of these companies is primarily known for making crayons?
+
+- [ ] Mattel
+- [ ] Hasbro
+- [x] Crayola
+
+#### What brand was behind the Pudding Pops line of the 80s and 90s?
+
+- [ ] Life Savers
+- [x] Jell-O
+- [ ] Tic-Tac
+
+#### What was the first MLB team to have their entire starting lineup be of black or Latino descent?
+
+- [x] Pittsburgh Pirates
+- [ ] Los Angeles Dodgers
+- [ ] Cincinnati Reds
