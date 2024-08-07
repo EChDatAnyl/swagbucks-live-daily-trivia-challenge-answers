@@ -43518,3 +43518,39 @@
 - [x] Margot Robbie
 - [ ] Angelina Jolie
 - [ ] Sabrina Carpenter
+
+#### Which U.S. President's "New Deal" helped to end the Great Depression?
+
+- [ ] Herbert Hoover
+- [x] Franklin D. Roosevelt
+- [ ] Richard Nixon
+
+#### "Jimmy Kimmel Live!" always runs out of time before they can get to which guest?
+
+- [x] Matt Damon
+- [ ] Mary Poppins
+- [ ] Bugs Bunny
+
+#### Which of the following was the partial inspiration for YouTube?
+
+- [ ] A TV blooper reel
+- [ ] The Star Wars Kid
+- [x] The Super Bowl "Wardrobe Malfunction"
+
+#### What area of Disneyland is modeled after the Wild West?
+
+- [ ] Fantasyland
+- [ ] Tomorrowland
+- [x] Frontierland
+
+#### Which of these TV moms does NOT have a blended family?
+
+- [ ] Carol Brady
+- [x] Carol Finnerty
+- [ ] Carol Lambert
+
+#### A San Francisco transit system shares its name with which Simpsons character?
+
+- [x] Bart
+- [ ] Lisa
+- [ ] Marge
