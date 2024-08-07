@@ -43428,3 +43428,93 @@
 - [x] Pittsburgh Pirates
 - [ ] Los Angeles Dodgers
 - [ ] Cincinnati Reds
+
+#### "The Show" is Sony's video game series about what sport?
+
+- [ ] Boxing
+- [x] Baseball
+- [ ] Badminton
+
+#### What show was the launchpad for the Olsen Twins?
+
+- [ ] Family Matters
+- [x] Full House
+- [ ] Step By Step
+
+#### Which podcast debuted first?
+
+- [ ] Serial
+- [x] WTF with Marc Maron
+- [ ] Pod Save America
+
+#### What breed of chicken are you most likely to find in American grocery stores?
+
+- [ ] Red Ranger
+- [ ] Leghorn
+- [x] Cornish Cross
+
+#### What British game involves 3 sstrikes and seeds?
+
+- [ ] Cricket
+- [x] Conkers
+- [ ] Rugby
+
+#### Which of the following accessories is worn for support?
+
+- [ ] Nicklace
+- [ ] Earring
+- [x] Girdle
+
+#### Which of the following substances will change its shape when put inside a container?
+
+- [x] Water
+- [ ] Iron
+- [ ] Granite
+
+#### What color is Pac-Man?
+
+- [ ] Red
+- [ ] Blue
+- [x] Yellow
+
+#### BB King's guitar was named Lucille - which guitarist played a guitar they named "Lucy"?
+
+- [x] George Harrison
+- [ ] Steven Van Zandt
+- [ ] Eric Clapton
+
+#### Which of the following kitchen appliances is used for slow cooking meals?
+
+- [ ] Air Fryer
+- [ ] Microwave
+- [x] Crockpot
+
+#### Most of Northern Africa is covered by what desert?
+
+- [ ] Death Valley
+- [x] Sahara
+- [ ] Arabian Desert
+
+#### In what city is it illegal to own a pet rabbit unless you're a magician?
+
+- [ ] Newark, New Jersey
+- [ ] Amsterdam, The Netherlands
+- [x] Queensland, Australia
+
+#### Pickleball most closely resembles which of the following sports?
+
+- [x] Tennis
+- [ ] Tetherball
+- [ ] Billiards
+
+#### Which of the following is NOT the title of a Michael Jackson album?
+
+- [x] Graceland
+- [ ] Thriller
+- [ ] Bad
+
+#### Who plays Harley Quinn in the live action Suicide Squard movies?
+
+- [x] Margot Robbie
+- [ ] Angelina Jolie
+- [ ] Sabrina Carpenter
