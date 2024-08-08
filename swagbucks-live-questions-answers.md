@@ -43614,3 +43614,39 @@
 - [x] Chris Stapleton
 - [ ] Iggy Pop
 - [ ] Patti LaBelle
+
+#### Which of the following is a rule in Synchronized or Artistic Swimming?
+
+- [x] No touching the bottom of the pool
+- [ ] No smiling
+- [ ] No scrubs
+
+#### Which of these people does not currently host a late-night talk show?
+
+- [ ] James Corden
+- [ ] Stephen Colbert
+- [x] Ben Stiller
+
+#### At which of the following places would you most likely find priceless art on display?
+
+- [ ] McDonald's Playland
+- [x] The Louvre
+- [ ] SaladAlley
+
+#### Who is responsible for turning Anakin Skywalker into Darth Vader?
+
+- [x] The Emperor
+- [ ] Princess Leia
+- [ ] Han Solo
+
+#### In which of the following sports do the players NOT use sticks?
+
+- [x] Football
+- [ ] Lacrosse
+- [ ] Hockey
+
+#### Which of the following games was NOT in the first group of indusctees to the World Video Game Hall of Fame?
+
+- [ ] Doom
+- [x] Space Invaders
+- [ ] World of Warcraft
