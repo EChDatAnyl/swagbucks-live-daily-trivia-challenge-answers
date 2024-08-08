@@ -43554,3 +43554,63 @@
 - [x] Bart
 - [ ] Lisa
 - [ ] Marge
+
+#### When a host serves you a cold drink, what are you supposed to use when placing it on a table?
+
+- [x] Coaster
+- [ ] Some loose sand
+- [ ] Tissue paper
+
+#### Sonny the Cuckoo Bird claims to the Cuckoo for what breakfast cereal?
+
+- [ ] Krave
+- [x] Coccoa Puffs
+- [ ] Honey Bunches of Oats
+
+#### Boise is the capital of which State?
+
+- [ ] Iowa
+- [ ] Illinois
+- [x] Idaho
+
+#### The SNL "Five Timers Club" was introduced the fifth time what person hosted?
+
+- [ ] Steve Martin
+- [x] Tom Hanks
+- [ ] Christopher Walken
+
+#### In which card game do you build sets and runs?
+
+- [x] Rummy
+- [ ] War
+- [ ] Poker
+
+#### As of January 2024, which of the following artists have never won a Grammy?
+
+- [ ] They Might Be Giants
+- [x] Barenaked Ladies
+- [ ] Blues Traveler
+
+#### Florence Nightingale became renowned for her nursing work during which war?
+
+- [ ] Vietnam War
+- [x] Grimean War
+- [ ] Gulf War
+
+#### What food item, when first brought to Europe, was believed to be a "concoction of the devil"?
+
+- [ ] Chili
+- [x] Coffee
+- [ ] Ice Cream
+
+#### Who won the 2024 Academy Award for Best Actress?
+
+- [ ] Emma Thompson
+- [ ] Emma Bunton
+- [x] Emma Stone
+
+#### Which of the following artists is known for Country music?
+
+- [x] Chris Stapleton
+- [ ] Iggy Pop
+- [ ] Patti LaBelle
