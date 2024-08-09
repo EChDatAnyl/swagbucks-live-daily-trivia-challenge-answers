@@ -43710,3 +43710,27 @@
 - [ ] A Potion
 - [x] A Spindle
 - [ ] An Apple
+
+#### When you tell an actor to "break a leg", what are you wishing for them?
+
+- [ ] A happy new year
+- [x] Good luck
+- [ ] A delicious meal
+
+#### What comic book writer created Spider-Man, Iron Man, and The Fantastic Four?
+
+- [ ] Len Wein
+- [ ] Kelly Sue DeConnick
+- [x] Stan Lee
+
+#### What is the name of the angel from "It's A Wonderful Life"?
+
+- [ ] Humperdinck
+- [ ] Billy-Bo-Bob
+- [x] Clarence
+
+#### When you call someone using the area code 872, where are they?
+
+- [x] Atlantic Ocean
+- [ ] South Pole
+- [ ] Outer Space
