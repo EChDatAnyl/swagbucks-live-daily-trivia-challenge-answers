@@ -43650,3 +43650,63 @@
 - [ ] Doom
 - [x] Space Invaders
 - [ ] World of Warcraft
+
+#### Who was the original Disney Princess?
+
+- [x] Snow White
+- [ ] Pocahontas
+- [ ] Ariel
+
+#### What color is Belle's dress at the end of "Beauty and the Beast"?
+
+- [ ] Red
+- [ ] Blue
+- [x] Gold
+
+#### Who is the only Disney Princess to come from a Pixar movie?
+
+- [x] Merdia
+- [ ] Cinderella
+- [ ] Belle
+
+#### Which of the Disney Princesses isn't actually a princess?
+
+- [ ] Jasmine
+- [x] Mulan
+- [ ] Rapunzel
+
+#### Who was the first Disney Princess to have a hair out of place?
+
+- [ ] Ariel
+- [x] Belle
+- [ ] Sleeping Beauty
+
+#### What does Ariel give up to get her legs?
+
+- [ ] Gold
+- [x] Her Voice
+- [ ] A Thingamabob
+
+#### In official artwork of the Disney Princesses, what are they NOT supposed to do?
+
+- [x] Look at one another
+- [ ] Sit
+- [ ] Show their teeth
+
+#### Merida was the first Disney Princess who didn't do what?
+
+- [ ] Get married
+- [x] Sing
+- [ ] Wear shoes
+
+#### In "The Princess and the Frog", what food is Tiana known for making?
+
+- [ ] Stew
+- [ ] Peanut Butter
+- [x] Beignets
+
+#### What causes Sleeping Beauty to fall asleep, thanks to Maleficent's curse?
+
+- [ ] A Potion
+- [x] A Spindle
+- [ ] An Apple
