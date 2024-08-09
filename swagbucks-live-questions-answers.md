@@ -43734,3 +43734,39 @@
 - [x] Atlantic Ocean
 - [ ] South Pole
 - [ ] Outer Space
+
+#### What kind of cuisine does Panda Express serve?
+
+- [ ] Italian
+- [x] Chinese
+- [ ] Tex Mex
+
+#### In which CW show do the main characters have magic powers?
+
+- [x] Charmed
+- [ ] Hart of Dixie
+- [ ] 7th Heaven
+
+#### Hicory, Dickory, and Gabby Gater are all characters created by who?
+
+- [ ] Bob Clampett
+- [ ] Hanna-Barbera
+- [x] Walter Lantz
+
+#### What are french fries made from?
+
+- [ ] Tomatoes
+- [x] Potatoes
+- [ ] Lettuce
+
+#### Which First Lady ran the "Just Say No To Drugs" campaign in the 80s?
+
+- [x] Nancy Reagan
+- [ ] Rosalynn Carter
+- [ ] Barbara Bush
+
+#### Which Amendment gave women the right to vote in American?
+
+- [ ] 1st
+- [x] 19th
+- [ ] 259th
