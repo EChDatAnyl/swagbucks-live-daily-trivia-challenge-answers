@@ -43770,3 +43770,45 @@
 - [ ] 1st
 - [x] 19th
 - [ ] 259th
+
+#### In October of 2021, Facebook, Inc, changed to what new name?
+
+- [ ] The Facebook
+- [x] Meta
+- [ ] DoorDash
+
+#### Where does Oscar the Grouch live?
+
+- [ ] In a nest
+- [x] In a trash can
+- [ ] In a condo
+
+#### Al Dvorin was the first person to coin what phrase?
+
+- [ ] "Rock n' Roll"
+- [x] "Elvis has left the building"
+- [ ] "Summer of Love"
+
+#### Marvin Hagler, Mike Tyseon, and Evander Holyfield are best known for what sport?
+
+- [x] Boxing
+- [ ] Curling
+- [ ] Swimming
+
+#### How many years are in a Score?
+
+- [ ] 10
+- [ ] 100
+- [x] 20
+
+#### What deodorant brand has a person whistling at the end of their commercials?
+
+- [x] Old Spice
+- [ ] Perrier
+- [ ] Harshey
+
+#### Who fights for justice with her Lasso of Truth?
+
+- [ ] Black Canary
+- [x] Wonder Woman
+- [ ] Black Widow
