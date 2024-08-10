@@ -43812,3 +43812,33 @@
 - [ ] Black Canary
 - [x] Wonder Woman
 - [ ] Black Widow
+
+#### Which of the following horror movies was NOT partially inspired by Ed Gein?
+
+- [ ] Psycho
+- [ ] The Silence of the Lambs
+- [x] Se7en
+
+#### Paul Simon was once part of a duo with what other singer?
+
+- [ ] Ario Guthrie
+- [ ] Aimee Mann
+- [x] Art Garfunkel
+
+#### Which of these artists is primarily known for song parodies?
+
+- [ ] Scott Stapp
+- [x] "Weird" Al Yankovic
+- [ ] Neil Young
+
+#### Who said "There's a divinity that shapes our ends, rough-hew them how we will?"
+
+- [x] Hamlet
+- [ ] Jesus
+- [ ] George Washington
+
+#### What are the two ends of the pH scale?
+
+- [ ] Basic and Bougie
+- [ ] Basic and C++
+- [x] Basic and Acidic
