@@ -43842,3 +43842,33 @@
 - [ ] Basic and Bougie
 - [ ] Basic and C++
 - [x] Basic and Acidic
+
+#### Which of these is an example of an autodidact?
+
+- [ ] A driving school student
+- [x] A self-taught pianist
+- [ ] A vending machine
+
+#### Which historical figure's last words were an apology?
+
+- [x] Marie Antoinette
+- [ ] Derek Jeter
+- [ ] Humphrey Bogart
+
+#### When there's a downpour, it's commonly said to be raining which two animals?
+
+- [ ] Birds and Snakes
+- [x] Cats and Dogs
+- [ ] Beavers and Chimps
+
+#### John Dillinger was gunned down by the FBI in front of what Chicago movie theater?
+
+- [x] Biograph
+- [ ] Oneida
+- [ ] Alhambra
+
+#### 84-year old Clara Peller starred in a series of videos for Wndy's where she asked what question?
+
+- [ ] Are we there yet?
+- [x] Where's the beef?
+- [ ] Did I do that?
