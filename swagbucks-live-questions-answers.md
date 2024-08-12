@@ -43872,3 +43872,27 @@
 - [ ] Are we there yet?
 - [x] Where's the beef?
 - [ ] Did I do that?
+
+#### On what TV show did Sinad O'Connor tear up a picture of the Pope?
+
+- [ ] Larry King Live
+- [ ] In Living Color
+- [x] Saturday Night Live
+
+#### Jiminy Cricket was a sidekick to which Disney character?
+
+- [ ] Cinderella
+- [ ] Alice
+- [x] Pinocchio
+
+#### When two things don't mix, they're said to be like oil and WHAT?
+
+- [ ] More Oil
+- [ ] Even more oil
+- [x] Water
+
+#### In baseball, you're out after how many swinging or looking strikes?
+
+- [x] Three
+- [ ] Four
+- [ ] Five
