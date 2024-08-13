@@ -43896,3 +43896,27 @@
 - [x] Three
 - [ ] Four
 - [ ] Five
+
+#### Which European country is shaped like a boot?
+
+- [ ] Italy
+- [ ] France
+- [x] Spain
+
+#### What is the predominant color in the Coca-Cola logo?
+
+- [x] Red
+- [ ] Orange
+- [ ] Yellow
+
+#### Yeast is used to make what food rise when baked?
+
+- [ ] Lasagna
+- [ ] Cookies
+- [x] Bread
+
+#### Which President was assassinated by Lee Harvey Oswald?
+
+- [x] John F. Kennedy
+- [ ] Abraham Lincoln
+- [ ] William McKinley
