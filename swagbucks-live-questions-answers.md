@@ -43920,3 +43920,33 @@
 - [x] John F. Kennedy
 - [ ] Abraham Lincoln
 - [ ] William McKinley
+
+#### Which of these is NOT a "one-for-one" clothing company?
+
+- [ ] Roma
+- [ ] Bombas
+- [x] Serengetee
+
+#### Which of these is a common cure for singultus?
+
+- [ ] Saline eye drops
+- [x] Holding your breath
+- [ ] Sleeping with onions in your socks
+
+#### In 1986, over 6 million Americans joined together to help the homeless in what carity event?
+
+- [ ] Hands Across The Street
+- [ ] Hand Me That Wrench
+- [x] Hands Across America
+
+#### Which pop star had an early hit with "Genie in a Bottle"?
+
+- [ ] Britney Spears
+- [x] Christina Aguilera
+- [ ] Mandy Moore
+
+#### What American Broadway play had the highest-grossing week of all time?
+
+- [ ] Harry Potter and the Cursed Child
+- [x] To Kill A Mockingbird
+- [ ] All the Way
