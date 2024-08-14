@@ -43950,3 +43950,87 @@
 - [ ] Harry Potter and the Cursed Child
 - [x] To Kill A Mockingbird
 - [ ] All the Way
+
+#### What fast food chain boasts "We Have the Meats"?
+
+- [ ] Sonic
+- [x] Arby's
+- [ ] Burger King
+
+#### Who won the first ever Grammy for Best Rap Performance?
+
+- [ ] LL Cool J
+- [x] Will Smith
+- [ ] Run DMC
+
+#### Pound Cake is traditionally made with a pound of what?
+
+- [ ] Chocolate Chip
+- [ ] Water
+- [x] Butter
+
+#### In the classic nursery rhyme, which of the following did NOT try to put Humpty Dumpty together again?
+
+- [ ] All the King's Horses
+- [ ] All the King's Men
+- [x] Bob Vila
+
+#### The NES came with a cartridge combining which two games?
+
+- [x] Super Mario Bros & Duck Hunt
+- [ ] Metroid and Ice Hockey
+- [ ] Pro Wrestling and Ice Climbers
+
+#### Which of the following characters was originally a Sega exclusive?
+
+- [x] Sonic The Hedgehog
+- [ ] Donkey Kong
+- [ ] Kid Icarus
+
+#### Which of the following classic video game consoles is the fake?
+
+- [ ] Intellivision
+- [ ] ColecoVision
+- [x] PeripheralVision
+
+#### For years, it was rumored that there was a landfill lorded with copies of what failed Atari game?
+
+- [ ] Space Paranoids
+- [x] E.T.
+- [ ] Alien
+
+#### What company created inexpensive handheld LCD versions of Castlevania, Mortal Kombat, and Crash Bandicoot?
+
+- [x] Tiger Electronics
+- [ ] Lion Electronics
+- [ ] Bear Electornics
+
+#### What company's commercials for their game consoles ended with someone screaming the company's name?
+
+- [x] Sega
+- [ ] Telstar
+- [ ] Fairchild
+
+#### What was the first 16-Bit console?
+
+- [ ] TurboGrafx-16
+- [ ] Sega Genesis
+- [x] Intellivision
+
+#### What unique design feature did the Atari 2600 have?
+
+- [x] Wood Grain Paneling
+- [ ] Rubber Switches
+- [ ] A Pink Bow
+
+#### What year did Nintendo debut the Gameboy?
+
+- [ ] 1982
+- [ ] 1985
+- [x] 1989
+
+#### In Super Mario Bros, what message would you get each time you defeated a fake Bowser?
+
+- [x] Thank You Mario! But our princess is in another castle!
+- [ ] Uh-oh! More To Go!
+- [ ] You Really Messed Up This Time!
