@@ -44034,3 +44034,39 @@
 - [x] Thank You Mario! But our princess is in another castle!
 - [ ] Uh-oh! More To Go!
 - [ ] You Really Messed Up This Time!
+
+#### Who was known as the "King of Rock & Roll"?
+
+- [ ] Jimi Hendrix
+- [x] Elvis Presley
+- [ ] Ritchie Valens
+
+#### Nintendo had a holiday hit in 2017 with what handheld console?
+
+- [x] Switch
+- [ ] Lynx
+- [ ] PSP
+
+#### Applying enough heat to sand turns it into what substance?
+
+- [ ] Wool
+- [ ] Potatoes
+- [x] Glass
+
+#### Which craft involves two needles and yarn?
+
+- [x] Knitting
+- [ ] Soldering
+- [ ] Whittling
+
+#### Based on the actor's famous side gig, what other word could Hodor repeat?
+
+- [ ] "Oven"
+- [x] "Turntable"
+- [ ] "Paint can"
+
+#### What is the name for a device that warms bread?
+
+- [ ] Paint Can
+- [x] Toaster
+- [ ] Hadron Collider
