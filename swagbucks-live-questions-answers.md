@@ -44070,3 +44070,93 @@
 - [ ] Paint Can
 - [x] Toaster
 - [ ] Hadron Collider
+
+#### Which of the following is NOT one of the original four Disney Afternoon shows?
+
+- [x] Darkwing Duck
+- [ ] Gummi Bears
+- [ ] Talespin
+
+#### The woman behind Annie's Homegrown foods founded what other successful food brand?
+
+- [ ] Earth's Best
+- [ ] Beyond Meat
+- [x] Smartfood
+
+#### The complex attributed to people who are short gets its name from which famously short ruler?
+
+- [ ] Caesar
+- [x] Napoleon
+- [ ] Patton
+
+#### Which film did Steven Spielberg submit as a student project when earning his B.A.?
+
+- [ ] Saving Private Ryan
+- [x] Schindler's Lisst
+- [ ] Amistad
+
+#### In the Marvel Cinematic Universe, which hero is the King of Wakanda?
+
+- [ ] Captain Marvel
+- [ ] Hawkeye
+- [x] Black Panther
+
+#### Who is the Greek Goddess of witchcraft and magic?
+
+- [x] Hecate
+- [ ] Eris
+- [ ] Hera
+
+#### The "Degrassi" shows take place in which country?
+
+- [ ] Iraq
+- [ ] Laos
+- [x] Canada
+
+#### Believed to be from Medieval times, what was an Iron Maiden supposedly used for?
+
+- [ ] Rock and Roll
+- [ ] Gardening
+- [x] Torture
+
+#### What is the top part of a fraction called?
+
+- [x] Numerator
+- [ ] Phillip Fathom
+- [ ] Gummy
+
+#### What is NOT normally found in blood?
+
+- [ ] Plasma
+- [x] Rheum
+- [ ] Platelets
+
+#### What is the capital of Arkansas?
+
+- [ ] Albany
+- [ ] Honolulu
+- [x] Little Rock
+
+#### In which Shakespearean tradedy does a character say "Et tu Brute"?
+
+- [x] Julius Caesar
+- [ ] Othello
+- [ ] King Lear
+
+#### The first U.S. school with a Physical Education program was located in which State?
+
+- [ ] New York
+- [ ] Pennsylvania
+- [x] Massachusetts
+
+#### Which of these novels is partially set during the Russian Revolution?
+
+- [ ] Curious George Goes to the Hospital
+- [x] Dr. Zhivago
+- [ ] Harry Potter and the Chamber of Secrets
+
+#### In what year did Columbus first cross the Atlantic Ocean?
+
+- [ ] 1215
+- [x] 1492
+- [ ] 1620
