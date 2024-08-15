@@ -44160,3 +44160,39 @@
 - [ ] 1215
 - [x] 1492
 - [ ] 1620
+
+#### What country is made up of over 7,000 islands?
+
+- [x] The Philippines
+- [ ] Brunel
+- [ ] Ecuador
+
+#### Which of these pieces of playground equipment is generally made for two people?
+
+- [x] See-Saw
+- [ ] Slide
+- [ ] Swing
+
+#### Which of the following people became famous as a stand up comedian?
+
+- [ ] Henry Fonda
+- [ ] Alfred Hitcock
+- [x] Richard Pryor
+
+#### In a standard deck of playing cards, which of the following numbers does NOT appear on a card?
+
+- [x] 37
+- [ ] 10
+- [ ] 4
+
+#### On what street do Bert & Ernie, Oscar the Grouch, and Big Bird live?
+
+- [ ] Mockingbird Lane
+- [x] Sesame Street
+- [ ] Sunset Blvd
+
+#### Who said, "Beauty of style and harmony and grace and good rhythm depend on simplicity"?
+
+- [ ] Wall Whitman
+- [x] Plato
+- [ ] Mozart
