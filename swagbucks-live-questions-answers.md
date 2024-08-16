@@ -44286,3 +44286,9 @@
 - [ ] Football
 - [x] Baseball
 - [ ] Pickleball
+
+#### What energy drink claims to give you wings?
+
+- [x] Red Bull
+- [ ] Monster
+- [ ] 5-Hour Energy
