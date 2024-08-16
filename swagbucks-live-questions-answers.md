@@ -44196,3 +44196,93 @@
 - [ ] Wall Whitman
 - [x] Plato
 - [ ] Mozart
+
+#### London's Big Ben is part of a giant what?
+
+- [x] Clock
+- [ ] Pain in the Neck
+- [ ] Basement Sale
+
+#### Which of the following people is an antagonist in Raya and the Last Dragon?
+
+- [ ] Te Ka
+- [ ] Virana
+- [x] Namaari
+
+#### According ot Andy Warhol, in the future everyone will be world-famous for what length of time?
+
+- [ ] One year
+- [ ] Ten days
+- [x] Fifteen minutes
+
+#### Who was the only American born member of the comedy group Monty Python?
+
+- [x] Terry Giliam
+- [ ] Michael Palin
+- [ ] Terry Jones
+
+#### Which piece of furniture would you most likely find in a bedroom?
+
+- [x] Nightstand
+- [ ] Oven
+- [ ] Workbench
+
+#### What is Idaho's nickname?
+
+- [x] The Gem State
+- [ ] The Peach State
+- [ ] The Aloha State
+
+#### The cravat was the forerunner to what modern fashion accessory?
+
+- [ ] Spats
+- [x] Necktie
+- [ ] Shorts
+
+#### What kind of sandwich is traditionally served with au jus?
+
+- [x] French Dip
+- [ ] Club Sandwich
+- [ ] Monte Cristo
+
+#### Which of the following Universities is the oldest?
+
+- [x] University of Bologna
+- [ ] Oxford University
+- [ ] University of Paris
+
+#### Which President used the campaign slogan "A Chicken in Every Pot and a Car in Every Garage"?
+
+- [ ] Franklin D. Roosevelt
+- [x] Herbert Hoover
+- [ ] Calvin Coolidge
+
+#### "Cowboy Carter" was the first foray into country music for which singer?
+
+- [ ] Dua Lipa
+- [ ] Billie Eilish
+- [x] Beyonce
+
+#### What is Oliver Stone's inspiration for Tony Montana's name in "Scarface"?
+
+- [ ] A bar
+- [ ] The State
+- [x] An Athlete
+
+#### What is the record for youngest player to debut in a senior-level soccer match?
+
+- [ ] 9
+- [x] 11
+- [ ] 13
+
+#### What action figure line is dedicated to professional athletes?
+
+- [x] Starting Lineup
+- [ ] Centurions
+- [ ] M.A.S.K.
+
+#### In which of the following sports do players "bunt"?
+
+- [ ] Football
+- [x] Baseball
+- [ ] Pickleball
