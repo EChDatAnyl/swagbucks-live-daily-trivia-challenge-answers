@@ -44292,3 +44292,39 @@
 - [x] Red Bull
 - [ ] Monster
 - [ ] 5-Hour Energy
+
+#### Accoridng to Tom & Country, roughly how many calls are made on Mother's Day?
+
+- [ ] 98 million
+- [x] 112 million
+- [ ] 250 million
+
+#### Which of the following movies does NOT have a score by John Williams?
+
+- [ ] Jaws
+- [ ] Star Wars
+- [x] The Matrix
+
+#### What famous actor became governor of California in 2003?
+
+- [ ] Sylvester Stallone
+- [ ] Jean-Clude Van Damme
+- [x] Arnold Schwarzenegger
+
+#### Which breakfast cereal uses a leprechaun as a mascot?
+
+- [x] Lucky Charms
+- [ ] Cinnamon Toast Crunch
+- [ ] Rice Krisples
+
+#### What song is traditionally played at the very end of the Academy Awards?
+
+- [x] "Hooray for Hollywood"
+- [ ] "Three Blind Mice"
+- [ ] "Enter Sandman"
+
+#### What is the name of the Star Wars-themed area of Disney World and Disneyland?
+
+- [ ] Tomorrowland
+- [ ] Critter Country
+- [x] Galaxy's Edge
