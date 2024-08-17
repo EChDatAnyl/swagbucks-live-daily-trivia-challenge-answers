@@ -44328,3 +44328,33 @@
 - [ ] Tomorrowland
 - [ ] Critter Country
 - [x] Galaxy's Edge
+
+#### Which of these is used to whiten clothing?
+
+- [x] Bleach
+- [ ] Quick Lime
+- [ ] Rock Salt
+
+#### What is the smallest U.S. State?
+
+- [ ] California
+- [x] Rhode Island
+- [ ] Texas
+
+#### Which of these places has NOT hosted a season of Survivor?
+
+- [ ] Samoa
+- [ ] Australia
+- [x] The Moon
+
+#### What mission landed the first men on the moon?
+
+- [ ] Apollo Creed
+- [x] Apollo 11
+- [ ] Apollonia
+
+#### Which of these foods is NOT typically handheld?
+
+- [ ] Durum
+- [ ] Rou jia mo
+- [x] Avgolemono
