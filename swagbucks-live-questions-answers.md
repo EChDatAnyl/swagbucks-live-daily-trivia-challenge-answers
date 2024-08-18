@@ -44358,3 +44358,27 @@
 - [ ] Durum
 - [ ] Rou jia mo
 - [x] Avgolemono
+
+#### Archeological discovery Otzi the Iceman holds a Guinness record for what?
+
+- [ ] Disease
+- [ ] Age
+- [x] Tattoos
+
+#### A bogus Facebook event encouraged people to show up en masse and storm what government facility?
+
+- [x] Area 51
+- [ ] The Library of Congress
+- [ ] The Pentagon
+
+#### What is the verb in the sentence "I won the grand prize"?
+
+- [ ] Grand Prize
+- [ ] I
+- [x] Won
+
+#### Which of these would be used to play music?
+
+- [ ] Lithograph
+- [ ] Autograph
+- [x] Phonograph
