@@ -44382,3 +44382,27 @@
 - [ ] Lithograph
 - [ ] Autograph
 - [x] Phonograph
+
+#### When you're treateed the way you've treated others, you're getting a taste of your own what?
+
+- [ ] Soup
+- [x] Medicine
+- [ ] Fingers
+
+#### Which Hitchcock movie led to the director being followed by the FBI?
+
+- [x] Notorious
+- [ ] North by Northwest
+- [ ] The Man Who Knew Too Much
+
+#### Wedding dances like "The Wobble" can be called descendants of which dance craze?
+
+- [ ] The Peabody
+- [ ] The Preddie
+- [x] The Hully Gully
+
+#### Who wrote the Opera "The Love for Three Oranges"?
+
+- [x] Sergel Prokofiev
+- [ ] Wolfgang Amadeus Mozart
+- [ ] Giacomo Puccini
