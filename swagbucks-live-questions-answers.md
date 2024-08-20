@@ -44496,3 +44496,15 @@
 - [ ] Sophia Loren
 - [ ] Audrey Hepburn
 - [x] Goldie Hawn
+
+#### Complete this song title: "When You Wish Upon A..."
+
+- [x] Star
+- [ ] Time in America
+- [ ] Puddle
+
+#### Anthony Michael Hall, Johnny Galecki, and Jason Lively have all played what role?
+
+- [ ] Littlefoot
+- [ ] Linus Van Pelt
+- [x] Rusty Griswold
