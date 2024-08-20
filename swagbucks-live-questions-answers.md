@@ -44406,3 +44406,93 @@
 - [x] Sergel Prokofiev
 - [ ] Wolfgang Amadeus Mozart
 - [ ] Giacomo Puccini
+
+#### What does the "P" in IHOP stand for?
+
+- [ ] Petunias
+- [ ] Potatoes
+- [x] Pancakes
+
+#### What is the name of Disney Jr's Lion King spinoff?
+
+- [ ] Scar's Playhouse
+- [ ] Rafiki's Science corner
+- [x] The Lion Guard
+
+#### David Lee Roth was the lead singer of which rock band?
+
+- [ ] The Scorpions
+- [ ] Megadeth
+- [x] Van Halen
+
+#### The Trevi Fountain can be found in what European city?
+
+- [x] Rome
+- [ ] Vienna
+- [ ] Glasgow
+
+#### Which cartoon character says "What's Up, Doc?"
+
+- [ ] "Grandpa" Al Lewis
+- [ ] Pete Rose
+- [x] Bugs Bunny
+
+#### Which of the following people is a world-famous cellist?
+
+- [ ] Yo-Yo Pa
+- [x] Yo-Yo Ma
+- [ ] Yo-Yo Sis
+
+#### Smartwater is a brand of water infused with what?
+
+- [x] Electrlytes
+- [ ] Alcohol
+- [ ] Chocolate
+
+#### Rome is known by what nickname?
+
+- [ ] The City of Brotherly Love
+- [ ] The Big Apple
+- [x] The Eternal City
+
+#### The Battle of Gettysburg was a landmark fight in what war?
+
+- [ ] Mexican-American War
+- [x] U.S. Civil War
+- [ ] Vietnam War
+
+#### What is the system of touch reading and writing for the visually impaired
+
+- [ ] Morse Code
+- [ ] Semaphore
+- [x] Braille
+
+#### Which of the following was a code name used by Queen Elizabeth II?
+
+- [ ] Falcon
+- [ ] Bitty
+- [x] Sharon
+
+#### What is the name of Superman's love interest?
+
+- [ ] Selina Kyle
+- [x] Lois Lane
+- [ ] Nathasha Romanoff
+
+#### David E. Kelley had successful shows about a public school and a law firm, both of which were set in what city?
+
+- [x] Boston
+- [ ] Cleveland
+- [ ] San Diego
+
+#### Stevie Nicks was part of what famous group?
+
+- [ ] Wu-Tang Clan
+- [x] Fleetwood Mac
+- [ ] Yes
+
+#### Wyatt Russell is the son of Kurt Russell and what actress?
+
+- [ ] Sophia Loren
+- [ ] Audrey Hepburn
+- [x] Goldie Hawn
