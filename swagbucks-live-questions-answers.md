@@ -44574,3 +44574,33 @@
 - [x] Toes
 - [ ] Dollars
 - [ ] Nose Hairs
+
+#### Which of these historic decades was described as "Roaring"?
+
+- [x] 1920s
+- [ ] 1970s
+- [ ] 1990s
+
+#### Which rock band financially contributed to the making of "Monty Python and The Holy Grail"?
+
+- [x] Pink Floyd
+- [ ] The Beatles
+- [ ] The Who
+
+#### What is Prince's last name?
+
+- [ ] Smith
+- [x] Nelson
+- [ ] Jackson
+
+#### What is the title of Margaret Mitchell's Pulitzer Price-winning novel set during the American Civil War?
+
+- [ ] East of Eden
+- [ ] The Grapes of Wrath
+- [x] Gone with the Wind
+
+#### Nicholas II was the last Tsar of what country?
+
+- [ ] Transylvania
+- [ ] Finland
+- [x] Russia
