@@ -26479,12 +26479,6 @@
 - [ ] Yellow
 - [x] Red
 
-#### Which of the following is a kind of tree?
-
-- [x] Oak
-- [ ] Oat
-- [ ] Oar
-
 #### What city is known for Deep Dish Pizza?
 
 - [x] Chicago
@@ -44508,3 +44502,75 @@
 - [ ] Littlefoot
 - [ ] Linus Van Pelt
 - [x] Rusty Griswold
+
+#### Patton Oswalt and Seth Rogen both auditioned to play which role on "The Office"?
+
+- [ ] Kevin
+- [ ] Creed
+- [x] Dwight
+
+#### What Quentin Tarantino movie from last summer nabbed Brad Pitt his first acting Oscar?
+
+- [x] Once Upon A Time In Hollywood
+- [ ] Jackie Brown
+- [ ] Inglourious Basterds
+
+#### What treat is typically made over a campfire?
+
+- [x] S'mores
+- [ ] Pop Tarts
+- [ ] Ice Cream
+
+#### While camping, you're supposed to put your food in a bag hanging from a tree to keep it away from what animal?
+
+- [x] Bear
+- [ ] Snake
+- [ ] Giraffe
+
+#### A kayak is a verison of what type of boat?
+
+- [ ] Schooner
+- [x] Canoe
+- [ ] Waverunner
+
+#### Which of the following U.S. National Parks shares its name with a kind of tree?
+
+- [ ] Death Valley
+- [ ] Cuyahoga
+- [x] Sequoia
+
+#### "Walden; or, Life in the Woods" is the account of living in the woods written by what author?
+
+- [ ] Walt Whitman
+- [x] Henry David Thoreau
+- [ ] Ralph Waldo Emerson
+
+#### What invertebrate is commonly used as bait during fishing?
+
+- [x] Worm
+- [ ] Cobra
+- [ ] Horseshoe Crab
+
+#### Which of the following is a form of rock climbing?
+
+- [ ] HALO
+- [ ] Fleet Racing
+- [x] Free Solo
+
+#### When Thoreau built his cabin on Walden Pond, roughly how much did the building materials cost?
+
+- [ ] $4.73
+- [x] $28.12
+- [ ] $41.12
+
+#### The Audubon Society is dedicated to the conservation of what creatures?
+
+- [ ] Snails
+- [x] Birds
+- [ ] Raccoons
+
+#### If you "Hang 10" while surfing, what are you hanging 10 of?
+
+- [x] Toes
+- [ ] Dollars
+- [ ] Nose Hairs
