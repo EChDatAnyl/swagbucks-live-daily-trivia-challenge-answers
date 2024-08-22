@@ -44604,3 +44604,81 @@
 - [ ] Transylvania
 - [ ] Finland
 - [x] Russia
+
+#### Which European country is known as L'hexagone?
+
+- [x] France
+- [ ] Austria
+- [ ] Spain
+
+#### Which of the following is a DON'T in social etiquette?
+
+- [ ] Covering your mouth when you cough
+- [ ] Say "Excuse me"
+- [x] Manspreading
+
+#### How many licks does the Owl in the Tootsie Pop take before crunching down on his Tootsie Pop?
+
+- [ ] Zero
+- [x] Three
+- [ ] One Hundred Twenty Nine
+
+#### Which department store was originally a food market?
+
+- [ ] Bloomingdale's
+- [ ] Macy's
+- [x] Kohl's
+
+#### What Paris landmark is built atop a pagan city?
+
+- [ ] The Eiffel Tower
+- [ ] The Louvre
+- [x] Notre Dame
+
+#### Which of the following animated film series got a part 4 in 2024?
+
+- [x] Kung Fu Panda
+- [ ] Shrek
+- [ ] Toy Story
+
+#### What fast food chain once had the Big New Yorker on their menu?
+
+- [ ] Domino's
+- [x] Pizza Hut
+- [ ] Papa John's
+
+#### What is the name of the comic strip featuring Charlie Brown, Snoopy, and Linus?
+
+- [ ] Blondie
+- [x] Peanuts
+- [ ] Overboard
+
+#### "Heeeeere's Johnny" was used as an introduction on what TV show?
+
+- [ ] The Price Is Right
+- [ ] ALF
+- [x] The Tonight Show
+
+#### Which of these dog movie sbased on books premiered first?
+
+- [ ] Benji the Hunted
+- [ ] Homeward Bound
+- [x] Where the Red Fern Grows
+
+#### What attraction based on a 1982 Disney sci-fi movie opened in 2023 in Orlando's Magic Kingdom?
+
+- [ ] The Black Hole Odyssey
+- [ ] The Devil and Max Devlin-Coaster
+- [x] Tron Lightcycle Run
+
+#### What rock legend released "That's Alright (Mama)" and "Blue Moon of Kentucky" in 1954?
+
+- [x] Elvis Presley
+- [ ] Elton John
+- [ ] Kool Moe Dee
+
+#### How long is the route for the shortest Fourth of July parade in the U.S.?
+
+- [ ] 2 city blocks
+- [x] 88 yards
+- [ ] 6 feet
