@@ -44772,3 +44772,27 @@
 - [ ] Species
 - [ ] Pitch Black
 - [x] Alien
+
+#### What is the Aluminum amalgam used for in Walt's methamphetamine recipe?
+
+- [x] As a chemical reagent
+- [ ] As a chemical reactant
+- [ ] As a coagulant
+
+#### Which of the following is one of the three non-kicker NFL players to play in more than 300 games?
+
+- [ ] Bruce Matthews
+- [ ] Drew Brees
+- [x] Jerry Rice
+
+#### Which beverage brand is NOT owned by the Coca Cola Company?
+
+- [ ] Fanta
+- [ ] Spirte
+- [x] Dr. Pepper
+
+#### French star Zidane got a red card for using what against a trash talking Italian defender in the 2006 World Cup finals?
+
+- [x] His Head
+- [ ] His Fists
+- [ ] His Feet
