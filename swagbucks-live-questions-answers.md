@@ -14176,7 +14176,7 @@
 #### Which of the following is NOT a common nickname for Abraham Lincoln?
 
 - [ ] Honest Abe
-- [x] Return to the Planet of the Abes
+- [x] Return to the Planet of the Apes
 - [ ] The Great Emancipator
 
 #### Chick Taylor’s are a line of shoes from what company?
@@ -44682,3 +44682,93 @@
 - [ ] 2 city blocks
 - [x] 88 yards
 - [ ] 6 feet
+
+#### Big Brother and the Holding Company was the launchpad for what singer's solo career?
+
+- [ ] Tom Jones
+- [x] Janis Joplin
+- [ ] Glen Campbell
+
+#### In which city does "The Great Muppet Caper" take place?
+
+- [x] London
+- [ ] Tokyo
+- [ ] Milwaukee
+
+#### Augusta National is the host of what annual sporting event?
+
+- [x] Masters Tournament
+- [ ] Stanley Cup
+- [ ] Kentucky Derby
+
+#### In "Twas the Night Before Christmas", what visions danced in the heads of children?
+
+- [ ] Cookies
+- [x] Sugar plums
+- [ ] Presents
+
+#### Which Winnie the Pooh movie was NOT released in the 21st century?
+
+- [x] The Many Adventures of Winnie the Pooh
+- [ ] Pooh's Heffalump Movie
+- [ ] Winnie the Pooh
+
+#### On "Star Trek", Mr. Spock is half hunman and half what?
+
+- [ ] Klingon
+- [x] Vulcan
+- [ ] Gorn
+
+#### In "Quantum Leap", what is the lead character leaping through?
+
+- [x] Time
+- [ ] Space
+- [ ] The Air
+
+#### In "Back to the Future", how fast does the DeLorean have to go to time travel?
+
+- [ ] 25 Miles Per Hour
+- [ ] 60 Miles Per Hour
+- [x] 88 Miles Per Hour
+
+#### In 1980's "Flash Gordon", which NFL team does Flash play for?
+
+- [x] Jets
+- [ ] Eagles
+- [ ] Rams
+
+#### The Director of "Arrival" also directed what other Sci-Fi epic?
+
+- [ ] Snowpiercer
+- [x] Dune
+- [ ] Rogue One: A Star Wars Story
+
+#### In the original "Planet of the Apes", what does the planet turn out to be?
+
+- [x] Earth
+- [ ] Mars
+- [ ] Saturn
+
+#### Which "Star Wars" character was speaking the Kenyan dialect of Kikuyu?
+
+- [x] Nien Nunb
+- [ ] Bossk
+- [ ] Greedo
+
+#### Who plays Korben Dallas in "The Fifth Element"?
+
+- [ ] Milla Jovovich
+- [ ] Chris Tucker
+- [x] Bruce Willis
+
+#### Which of the following sci-fi monsters is a Kaiju?
+
+- [x] Godzilla
+- [ ] Salacious Crumb
+- [ ] Tribble
+
+#### In which Sci-Fi series would you encounter the Xenomorph?
+
+- [ ] Species
+- [ ] Pitch Black
+- [x] Alien
