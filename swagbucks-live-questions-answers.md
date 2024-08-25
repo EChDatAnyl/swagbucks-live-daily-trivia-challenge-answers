@@ -24424,8 +24424,8 @@
 #### Bill Murray's "Scrooged" is an adaptation of what other Christmas tale?
 
 - [ ] How the Grinch Stole Christmas
-- [x] It's A Wonderful Life
-- [ ] A Christmas Carol
+- [ ] It's A Wonderful Life
+- [x] A Christmas Carol
 
 #### In "Santa Claus: The Movie", what Christmas object does the villain manufacture that makes people fly?
 
@@ -44796,3 +44796,39 @@
 - [x] His Head
 - [ ] His Fists
 - [ ] His Feet
+
+#### What is America's national anthem?
+
+- [ ] Hail to the Chief
+- [x] The Star-Spangled Banner
+- [ ] God Bless America
+
+#### Which TV show would someone who records labanotation NOT get into trouble for watching at work?
+
+- [x] Dancing With the Stars
+- [ ] The Bachelor
+- [ ] Iron Chef
+
+#### When you trust what someone tells you, what are you giving them?
+
+- [ ] A free ride
+- [x] The benefit of the doubt
+- [ ] A bird in the hand
+
+#### In painting, what are the three primary colors?
+
+- [ ] Pink, Green, and Orange
+- [x] Red, Yellow, and Blue
+- [ ] Red, White, and Blue
+
+#### What was the initial inspiration for the woman who founded Father's Day in the U.S.?
+
+- [x] Mother's Day
+- [ ] The U.S. Civil War
+- [ ] A mine explosion
+
+#### who commanded the British Expeditionary Force in World War One?
+
+- [ ] William How
+- [ ] Winston Churchill
+- [x] Douglas Haig
