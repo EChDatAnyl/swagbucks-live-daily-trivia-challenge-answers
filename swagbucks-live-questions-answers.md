@@ -44832,3 +44832,81 @@
 - [ ] William How
 - [ ] Winston Churchill
 - [x] Douglas Haig
+
+#### According to their slogan, how many scoops of raisins are in Kellogg's Raising Bran?
+
+- [ ] Zero
+- [x] Two
+- [ ] Five hundred
+
+#### West Side Story is a musical inspired by which Shakespeare play?
+
+- [x] Romeo & Juliet
+- [ ] Coriolanus
+- [ ] Hamlet
+
+#### According to the saying, what speaks louder than words?
+
+- [x] Actions
+- [ ] Acrobats
+- [ ] Axes
+
+#### What violent fighting game features hidden "Fatalities"?
+
+- [ ] Street Fighter
+- [x] Mortal Kombat
+- [ ] Pit Fighter
+
+#### Which of the following drinks contains the most citric acid?
+
+- [x] Orange Juice
+- [ ] Water
+- [ ] Coca Cola
+
+#### In Disney's animated Robin Hood, what kind of animal is Robin Hood?
+
+- [x] Fox
+- [ ] Bear
+- [ ] Tiger
+
+#### What MLB mascot is the ost-sued of all time?
+
+- [x] The Philie Phanatic
+- [ ] The San Diego Chicken
+- [ ] Mr. Met
+
+#### Which Little Miss Muffet sat on a tuffet, what was she eating?
+
+- [ ] Fruit Roll-ups
+- [x] Curds and Whey
+- [ ] Big Macs
+
+#### In the 2-minute countdown to the Disney Channel's launch, who was in "Mouse Control"?
+
+- [x] Donny Osmnd
+- [ ] Mickey Mouse
+- [ ] Julie Andrews
+
+#### Accoridng to Time, during the Christmas Truce of 1914 what song did the French, English, and German troops first sing together?
+
+- [ ] O Holy Night
+- [ ] Joy to the World
+- [x] O Come All Ye Faithful
+
+#### If Edgar Allan Poe used his first idea for the bird in his famous poem, what would the title have been?
+
+- [ ] The Vulture
+- [ ] The Owl
+- [x] The Parrot
+
+#### In "The Very Hungry Catepillar", which of the following foods is NOT eaten?
+
+- [ ] Apple
+- [x] Flamin' Hot Cheetos
+- [ ] Ice Cream Cone
+
+#### In which movie did Clint Eastwood and Meryl Streep appear together?
+
+- [x] Bridges of MAdison County
+- [ ] Julie & Julia
+- [ ] Dirty Harry
