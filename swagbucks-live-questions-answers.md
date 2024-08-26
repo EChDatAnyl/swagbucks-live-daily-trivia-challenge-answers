@@ -44907,6 +44907,30 @@
 
 #### In which movie did Clint Eastwood and Meryl Streep appear together?
 
-- [x] Bridges of MAdison County
+- [x] Bridges of Madison County
 - [ ] Julie & Julia
 - [ ] Dirty Harry
+
+#### Which planet famously has rings around it?
+
+- [ ] Mars
+- [x] Saturn
+- [ ] Earth
+
+#### Which U.S. President had once had a pair of grizzly bears living on the White House grounds?
+
+- [ ] Theodore Roosevelt
+- [ ] Andrew Jackson
+- [x] Thomas Jefferson
+
+#### Which of these 1990 movies made the most at the global box office?
+
+- [ ] Dances With Wolves
+- [x] Home Alone
+- [ ] Pretty Woman
+
+#### Which movie's ride was NOT available on Disneyland's first day?
+
+- [x] Dumbo
+- [ ] Snow White
+- [ ] Peter Pan
