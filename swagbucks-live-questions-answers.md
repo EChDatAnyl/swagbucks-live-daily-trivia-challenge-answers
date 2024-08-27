@@ -44934,3 +44934,93 @@
 - [x] Dumbo
 - [ ] Snow White
 - [ ] Peter Pan
+
+#### What park was originally designed to be a self-sustaining city of the future?
+
+- [ ] Tomorrowland
+- [ ] Typhoon Lagoon
+- [x] EPCOT
+
+#### What is Cardi B's legal last name?
+
+- [ ] Balmanzar
+- [ ] Calmanzar
+- [x] Almanzar
+
+#### According to Damian, why is Gretchen's hair so big?
+
+- [ ] She has a live-in stylist
+- [x] It's full of secrets
+- [ ] She's on steroids
+
+#### What do the Guinness records for Heaviest Cat, Largest Penny Pyramid, and Most Beer Drunk in an Hour have in common?
+
+- [ ] They were introduced this year
+- [ ] They're all held by one person
+- [x] They're all discontinued
+
+#### What historical leader is associated with the Ides of March?
+
+- [x] Julius Caesar
+- [ ] Sun Tzu
+- [ ] Ivan the Terrible
+
+#### "What's Up, Doc?" is the catchphrase of which cartoon character?
+
+- [ ] Mickey Mouse
+- [x] Bugs Bunny
+- [ ] Chilly Willy
+
+#### Who is Spongebob Squarepants' best friend?
+
+- [x] Patrick Star
+- [ ] Charlie the Tuna
+- [ ] Crab Man
+
+#### In "The Simpsons", what is the name of the town where the Simpsons live?
+
+- [ ] Shelbyville
+- [ ] North Haverbrook
+- [x] Springfield
+
+#### What are Yogi Bear and Boo-Boo constantly stealing?
+
+- [x] Picnic Baskets
+- [ ] Bearer Bonds
+- [ ] Social Security Numbers
+
+#### Tommy and Angelica Pickles are main characters in what cartoon?
+
+- [ ] Ren & Stimpy
+- [x] Rugrats
+- [ ] The Fairly OddParents
+
+#### What type of Pokemon is Pikachu?
+
+- [ ] Flying
+- [x] Electric
+- [ ] Bug
+
+#### Complete this Popeye rhyme: "I'm strong to the finish..."
+
+- [x] 'Cause I eats my Spinach
+- [ ] 'Cause I don't diminish
+- [ ] And only speak Yiddish
+
+#### Which of the following shows is made using Stop-Action animation?
+
+- [x] Robot Chicken
+- [ ] Family Guy
+- [ ] Powerpuff Girls
+
+#### Which cartoon character has a famous stutter?
+
+- [ ] Sylvester
+- [ ] Porky Pig
+- [x] Elmer Fudd
+
+#### Which "Star Wars" actor played the Joker in "Batman: The Animated Series"?
+
+- [ ] Carrie Fisher
+- [ ] Daisy Ridley
+- [x] Mark Hamill
