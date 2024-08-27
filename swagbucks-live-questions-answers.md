@@ -18645,8 +18645,8 @@
 
 #### On the 2012 season finale of Two Broke Girls, who do the girls pitch their cupcakes to?
 
-- [x] Duff Goldman
-- [ ] Martha Stewart
+- [ ] Duff Goldman
+- [x] Martha Stewart
 - [ ] Buddy Valastro
 
 #### "Who's there?" is part of the set up for what kind of joke?
@@ -45016,11 +45016,47 @@
 #### Which cartoon character has a famous stutter?
 
 - [ ] Sylvester
-- [ ] Porky Pig
-- [x] Elmer Fudd
+- [x] Porky Pig
+- [ ] Elmer Fudd
 
 #### Which "Star Wars" actor played the Joker in "Batman: The Animated Series"?
 
 - [ ] Carrie Fisher
 - [ ] Daisy Ridley
 - [x] Mark Hamill
+
+#### What kind of band typically plays at college football games?
+
+- [ ] Rubber Band
+- [ ] Swedish Death Metal Band
+- [x] Marching Band
+
+#### What brand of ball has perforations cut into it so you can make it curve?
+
+- [ ] Whistle Ball
+- [ ] Winkle Ball
+- [x] Wiffle Ball
+
+#### Which of the following dishes has flour as a typical ingredient?
+
+- [x] Cake
+- [ ] Fruit Punch
+- [ ] Chicken Teriyaki
+
+#### In the original Jurassic Park film, which dinosaur fingures out how to open a door?
+
+- [ ] Stegosaurus
+- [ ] T-Rex
+- [x] Velociraptor
+
+#### How do you say "Mother" in French?
+
+- [ ] Ema
+- [ ] Mamushka
+- [x] Mere
+
+#### What childhood toy was originally marketed as wallpaper cleaner?
+
+- [x] Play-Doh
+- [ ] LEGO
+- [ ] Koosh Balls
