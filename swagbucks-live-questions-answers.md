@@ -45060,3 +45060,99 @@
 - [x] Play-Doh
 - [ ] LEGO
 - [ ] Koosh Balls
+
+#### On "Survivor", where are castaways usually voted out?
+
+- [ ] Immunity Challenge
+- [ ] The Beach
+- [x] Tribal Council
+
+#### What color were the original carrots?
+
+- [ ] Orange
+- [x] Purple
+- [ ] Green
+
+#### Who wrote "The Shining"?
+
+- [ ] Beverly Cleary
+- [ ] Clive Barker
+- [x] Stephen King
+
+#### Which children's author journaled in a secret code that wasn't cracked until 15 years after their death?
+
+- [x] Beatrix Potter
+- [ ] Dr. Seuss
+- [ ] Roald Dahl
+
+#### The Pasteurization process of extending the shelf life of milk is named for what scientist?
+
+- [ ] Emile Zation
+- [ ] Cyrus Milkkeeper
+- [x] Louis Pasteur
+
+#### What kind of wings does Justin Bieber have tattooed on his neck?
+
+- [x] Angel Wings
+- [ ] Buffalo Wild Wings
+- [ ] Wing Dings
+
+#### What powers Fred Flintstone's car?
+
+- [x] His Feet
+- [ ] A Combustion Engine
+- [ ] A Saber Tooth Tiger
+
+#### On "Futurama", what was the robot Bender Bending Rodriguez made for?
+
+- [x] Bending Steel Girders
+- [ ] Dancing
+- [ ] Baking Cookies
+
+#### What cartoon sees Finn and Jake battling evil in The Land of Ooo?
+
+- [ ] Fist of the North Star
+- [ ] Teen Titans
+- [x] Adventure Time
+
+#### "Shirt Tales" featured a character who sounded like what classic movie star?
+
+- [ ] John Wayne
+- [x] Humphrey Bogart
+- [ ] Lucille Ball
+
+#### What is the name of the Scooby Doo gang's van?
+
+- [ ] The Educated Guessmobile
+- [x] The Mystery Machine
+- [ ] The Detective Driver
+
+#### Who is constantly trying to catch The Road Runner?
+
+- [ ] Foghorn Leghorn
+- [ ] Pepe Le Pew
+- [x] Wile E. Coyote
+
+#### Ookla the Mok is the ally of which cartoon hero?
+
+- [ ] Blue Falcon
+- [ ] Space Ghost
+- [x] Thundarr the Barbarian
+
+#### Who is the Lord of the Thundercats?
+
+- [ ] Panther-O
+- [x] Lion-O
+- [ ] Cheetara
+
+#### What kind of animal is Bluey?
+
+- [ ] Lizard
+- [x] Dog
+- [ ] Cat
+
+#### Which of the following PBS animated shows is a spinoff of a live-action show?
+
+- [x] Daniel Tiger's Neighborhood
+- [ ] Arthur
+- [ ] Sid The Science Kid
