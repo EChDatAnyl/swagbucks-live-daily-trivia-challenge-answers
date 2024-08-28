@@ -45156,3 +45156,45 @@
 - [x] Daniel Tiger's Neighborhood
 - [ ] Arthur
 - [ ] Sid The Science Kid
+
+#### Peaches are the official fruit of which U.S. State?
+
+- [x] Georgia
+- [ ] Hawaii
+- [ ] Florida
+
+#### Which Noel Coward Play is about a troublesome ghost?
+
+- [ ] The Vortex
+- [x] Bithe Spirit
+- [ ] Hay Fever
+
+#### Which of these is a prime number?
+
+- [ ] 0
+- [x] 2
+- [ ] 161
+
+#### How many Dwarfs does Snow White live with in the movie of the same name?
+
+- [x] Seven
+- [ ] Eight
+- [ ] Nine
+
+#### What would a cowboy use a lasso for?
+
+- [ ] Flossing
+- [x] Roping steer
+- [ ] Surfing
+
+#### Accoridng to tscientific data, where does the rain in Spain mainly fall?
+
+- [ ] The plains
+- [ ] The beach
+- [x] The hills and mountains
+
+#### Which of the following seuqels was nominated for a Best Picture Oscar without its predecessor being nominated?
+
+- [ ] The Godfather: Part II
+- [ ] Lord of the Rings: The Two Towers
+- [x] Toy Story 3
