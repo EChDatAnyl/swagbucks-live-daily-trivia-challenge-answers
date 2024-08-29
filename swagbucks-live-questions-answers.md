@@ -45282,3 +45282,27 @@
 - [ ] Wonder Woman
 - [ ] Superman
 - [x] Dick Tracy
+
+#### NA3C6H507 is a chemical compound frequently used to make what substance?
+
+- [x] Processed Cheese
+- [ ] Vulcanized Rubber
+- [ ] Lithium Ion Batteries
+
+#### Who had a hit with the anthem "Roar"?
+
+- [ ] Debbit Gibson
+- [x] Katy Perry
+- [ ] Dido
+
+#### Complete this Dr. Seuss title: "Horotn Hears...:
+
+- [ ] His Neighbor's Music Through The Walls
+- [x] A Who
+- [ ] A Pin Drop
+
+#### Which action star once had a Saturday morning cartoon titled "Bruno the Kid"?
+
+- [x] Bruce Willis
+- [ ] Sylvester Stallone
+- [ ] Jean-Claude Van Damme
