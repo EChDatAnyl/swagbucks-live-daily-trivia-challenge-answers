@@ -45198,3 +45198,87 @@
 - [ ] The Godfather: Part II
 - [ ] Lord of the Rings: The Two Towers
 - [x] Toy Story 3
+
+#### What channel is home to the Real Housewives shows?
+
+- [ ] Discovery Channel
+- [ ] ESPN
+- [x] Bravo
+
+#### A headshot of Molly Ringwal inspired John Huges to write which movie?
+
+- [ ] Pretty in Pink
+- [ ] Some Kind of Wonderful
+- [x] Sixteen Candles
+
+#### "Watch the Skies" was the working title for what movie?
+
+- [ ] Independence Day
+- [x] Close Encounter of the Third Kind
+- [ ] E.T.
+
+#### Which of the following words is a synonym for "achieve"?
+
+- [x] Accomplish
+- [ ] Aspire
+- [ ] Asphyxiate
+
+#### The Sorceress of Castle Grayskull gave Prince Adam the power to transform into which hero?
+
+- [ ] Captain Planet
+- [ ] Inspector Gadget
+- [x] He-Man
+
+#### What evil organization is the enemy of G.I. Joe?
+
+- [x] COBRA
+- [ ] DREAD
+- [ ] G.I. FOE
+
+#### What is the name of George Jetson's pet dog?
+
+- [ ] Dino
+- [x] Astro
+- [ ] Fido
+
+#### What cartoon character's first words were "Hot Dog!"?
+
+- [ ] Bugs Bunny
+- [ ] Donald Duck
+- [x] Mickey Mouse
+
+#### Where did The Snorks take place?
+
+- [x] Underwater
+- [ ] In the Clouds
+- [ ] In a Cave
+
+#### In Warner Bros cartoons, what is the clothing item Gossamer is always wearing?
+
+- [ ] A Hat
+- [ ] Bowtie
+- [x] Sneakers
+
+#### According to the theme song Yakko, Wakko, and Dot are collectively known by what name?
+
+- [ ] The Wuzzles
+- [x] The Animaniacs
+- [ ] The Justice League
+
+#### Who was Quick Draw McGraw's sidekick?
+
+- [ ] Donkey Hodie
+- [ ] Dynomutt
+- [x] Baba Looey
+
+#### Which way did Snagglepuss frequently talk about exiting?
+
+- [x] Stage Left
+- [ ] Through A Tunnel
+- [ ] Off The Plane
+
+#### Which of the following characters was NOT one of the Super Friends?
+
+- [ ] Wonder Woman
+- [ ] Superman
+- [x] Dick Tracy
