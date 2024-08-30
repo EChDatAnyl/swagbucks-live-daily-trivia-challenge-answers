@@ -45402,3 +45402,21 @@
 - [x] Friendly
 - [ ] Stinky
 - [ ] Tired
+
+#### What geometric shape with five sides is also the name of a government building?
+
+- [ ] Octagon
+- [ ] Pentagon
+- [ ] Triangle
+
+#### What liquid is harvested from cows?
+
+- [ ] Water
+- [ ] Beer
+- [x] Milk
+
+#### Which of the following sports is primarily played on ice?
+
+- [ ] Soccer
+- [x] Ice Hockey
+- [ ] Jai Alai
