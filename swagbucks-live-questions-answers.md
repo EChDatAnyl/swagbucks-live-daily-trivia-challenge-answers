@@ -45306,3 +45306,99 @@
 - [x] Bruce Willis
 - [ ] Sylvester Stallone
 - [ ] Jean-Claude Van Damme
+
+#### What is a song for a solo voice in opera called?
+
+- [ ] Arrear
+- [x] Aria
+- [ ] Area
+
+#### Which of the following foods was NOT widely sold as medicine?
+
+- [ ] Graham Crackers
+- [ ] Ketchup
+- [x] Nougat
+
+#### Complete this Ernest Hemingway title: "The Sun Also"
+
+- [ ] Has a mortgage
+- [x] Rises
+- [ ] Smells wired
+
+#### If you were a Knocker-up in the 1920s, what was your job?
+
+- [ ] Selling mobile phones
+- [x] Waking people up
+- [ ] Installing the internet
+
+#### Which of these drinks would you need a blender to make?
+
+- [ ] Soda
+- [x] Milkshake
+- [ ] Orange Juice
+
+#### Which of the following is the name of a New York City opera hall?
+
+- [x] The Met
+- [ ] The Huggenheim
+- [ ] MOMA
+
+#### Where do the Transformers originally come from?
+
+- [x] Cybertron
+- [ ] Mars
+- [ ] Earth
+
+#### What does Elmer Fudd always tell people to do?
+
+- [ ] Make a wot of noise
+- [x] Be vewy vewy quiet
+- [ ] Wisten up
+
+#### Who are Donald Duck's nephews?
+
+- [x] Huey, Dewey, and Louie
+- [ ] Chip and Dale
+- [ ] Alvin, Simon, and Theodore
+
+#### What was the profession of Kong Kong Phooey's alter ego?
+
+- [ ] Bus driver
+- [ ] Secretary
+- [x] Janitor
+
+#### Which of hte following cartoon characters was originally a dog?
+
+- [x] Betty Boop
+- [ ] Karate Kat
+- [ ] Jabberjaw
+
+#### What is the name of the main female Smurf?
+
+- [ ] Smurfina
+- [x] Smurfette
+- [ ] Smurfolla
+
+#### "The Venture Bros" started as a riff on what other famous animated series?
+
+- [ ] Clutch Cargo
+- [x] Jonny Quest
+- [ ] Birdman
+
+#### Which cartoon character is accompained by the Teen Angels?
+
+- [ ] Johnny Bravo
+- [ ] Hair Bear
+- [x] Captain Caveman
+
+#### The robot Voltron is made up of five smaller robots that resemble what animals?
+
+- [ ] Falcons
+- [x] Lions
+- [ ] Gorillas
+
+#### What kind of ghost is Casper?
+
+- [x] Friendly
+- [ ] Stinky
+- [ ] Tired
