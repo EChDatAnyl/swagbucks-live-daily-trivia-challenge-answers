@@ -45420,3 +45420,33 @@
 - [ ] Soccer
 - [x] Ice Hockey
 - [ ] Jai Alai
+
+#### According to their slogan, whihc drink gives you wings?
+
+- [ ] 7 Up
+- [x] Red Bull
+- [ ] Yoo-hoo
+
+#### In what year did The transformers first hit toy stores shelves?
+
+- [x] 1984
+- [ ] 1999
+- [ ] 2022
+
+#### What is the name of the particle mediates the electromagnetic force in physics?
+
+- [x] Photon
+- [ ] Gluon
+- [ ] Graviton
+
+#### On Friends, what is the name of Chandler's on-again, off-again girlfriend with the annoying laugh?
+
+- [ ] Sara
+- [x] Janice
+- [ ] Lisa
+
+#### Which of these beverages is alcoholic?
+
+- [ ] Snapple Iced Tea
+- [x] White Claw
+- [ ] Yoo-Hoo
