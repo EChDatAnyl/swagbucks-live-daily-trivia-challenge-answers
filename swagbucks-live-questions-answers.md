@@ -45492,3 +45492,27 @@
 - [x] Gorilla
 - [ ] Lizard
 - [ ] Cat
+
+#### What was the Hollywood sign's original purpose?
+
+- [ ] Generate media converage
+- [x] Promote a housing development
+- [ ] A movie prop
+
+#### In "Charlotte's Web", who is Charlotte?
+
+- [ ] A pig
+- [x] A spider
+- [ ] A baby
+
+#### What sea is almost completely enclosed by Southern Europe and Northern Africa?
+
+- [x] Mediterranean Sea
+- [ ] Adriatic Sea
+- [ ] Black Sea
+
+#### Who wrote and starred in Rocky?
+
+- [x] Sylvester Stallone
+- [ ] Arnold Schwaarzenegger
+- [ ] Steven Seagal
