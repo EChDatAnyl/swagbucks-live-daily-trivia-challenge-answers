@@ -45450,3 +45450,45 @@
 - [ ] Snapple Iced Tea
 - [x] White Claw
 - [ ] Yoo-Hoo
+
+#### Which of the following professional sports teams did NOT win a championship in 2008?
+
+- [ ] Boston Celtics
+- [x] Atlanta Hawks
+- [ ] Philadelphia Phillies
+
+#### The doctor who discovered a way to kill the bacteria in milk also discovered the vaccine for what?
+
+- [x] Rabies
+- [ ] Syphilis
+- [ ] Pollo
+
+#### Which Olympic athlete was known as "The Tornado"?
+
+- [ ] Paavo Nurmi
+- [ ] Jesse Owens
+- [x] Wilma Rudolph
+
+#### In basketball, which of these is worth the most points?
+
+- [ ] Free throw
+- [ ] Slam dunk
+- [x] Three-pointer
+
+#### Which of the following is NOT the title of a "Friends" episode?
+
+- [ ] The One with the Prom Video
+- [ ] The Last One
+- [x] The One Ring To Rule Them All
+
+#### What actor starred in a 1920s film called Our Hospitality?
+
+- [ ] Charlie Chaplin
+- [ ] Fatty Arbuckle
+- [x] Buster Keaton
+
+#### What kind of animal is Donkey Kong?
+
+- [x] Gorilla
+- [ ] Lizard
+- [ ] Cat
