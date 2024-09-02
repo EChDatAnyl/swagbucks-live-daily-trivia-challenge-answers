@@ -45516,3 +45516,39 @@
 - [x] Sylvester Stallone
 - [ ] Arnold Schwaarzenegger
 - [ ] Steven Seagal
+
+#### Saying "I traversed it" is the same as saying what?
+
+- [x] I crossed it
+- [ ] I betrayed it
+- [ ] I packed it
+
+#### Which of these songs is NOT about a mom?
+
+- [ ] Julia
+- [x] Every Man Should Know
+- [ ] Rosalinda's Eyes
+
+#### Which of these foods is highest in Vitamin C per serving?
+
+- [ ] Kholrabi
+- [x] Bell Pepper
+- [ ] Broccoli
+
+#### Which of the following oceans does NOT border the United States?
+
+- [ ] Pacific Ocean
+- [ ] Atlantic Ocean
+- [x] Indian Ocean
+
+#### What event set World War I in motion?
+
+- [x] Assassination of Archduke Ferdinand
+- [ ] Battle of Bunker Hill
+- [ ] Bombing of Pearl Harbor
+
+#### The rebirth of ancient Greek and Roman learning happened during which era?
+
+- [ ] The YouTube Era
+- [ ] New Era Clothing
+- [x] The Renaissance
