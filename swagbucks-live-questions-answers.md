@@ -45552,3 +45552,39 @@
 - [ ] The YouTube Era
 - [ ] New Era Clothing
 - [x] The Renaissance
+
+#### What rapper had an album called Beware of Dog?
+
+- [x] Lil' Bow Wow
+- [ ] DMX
+- [ ] Snoop Dogg
+
+#### What type of animal eats both plants and meat?
+
+- [ ] Carnivore
+- [ ] Herbivore
+- [x] Omnivore
+
+#### Which part of your brain can you blame for accidentally swallowing gum?
+
+- [x] Cerebellum
+- [ ] Cerebrum
+- [ ] Parietal lobe
+
+#### Eddie Gaedel famously had a single at-bat for which MLB team?
+
+- [ ] Athletics
+- [x] Browns
+- [ ] Cardinals
+
+#### In electricity, what does DC stand for?
+
+- [ ] Diving Chinchillas
+- [x] Direct Current
+- [ ] Dank Clothing
+
+#### Somehting that's too expensive is said to cost which two body parts?
+
+- [ ] An ear and a nose
+- [ ] A hand and a foot
+- [x] An arm and a leg
