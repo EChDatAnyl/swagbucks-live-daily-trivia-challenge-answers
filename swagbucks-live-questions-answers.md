@@ -45588,3 +45588,21 @@
 - [ ] An ear and a nose
 - [ ] A hand and a foot
 - [x] An arm and a leg
+
+#### What section of a newspaper contains job listings?
+
+- [x] Classified
+- [ ] Sports
+- [ ] Lifestyle
+
+#### In which city was the Declaration of Independence signed?
+
+- [x] Philadelphia
+- [ ] Bismaarck
+- [ ] Chicago
+
+#### What brand of candy comes in "fingers"?
+
+- [ ] York Peppermint Patty
+- [ ] M&Ms
+- [x] Kit Kat
