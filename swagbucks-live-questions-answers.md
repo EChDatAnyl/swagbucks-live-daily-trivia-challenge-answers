@@ -37003,12 +37003,6 @@
 - [ ] Frosted Flakes
 - [x] Cheerios
 
-#### Who is credited with the invension of the printing press?
-
-- [x] Johannes Gutenberg
-- [ ] Isaac Newton
-- [ ] Galileo Galilei
-
 #### Santa Maria delle Grazie in Milan is home to which famous work of art?
 
 - [ ] The Mona Lisa
@@ -42421,7 +42415,7 @@
 - [ ] Daffy Duck
 - [x] Porky Pig
 
-#### In "The Terminator", who is the T-8000 hunting down?
+#### In "The Terminator", who is the T-800 hunting down?
 
 - [ ] Zuzu Petals
 - [x] Sarah Connor
@@ -45606,3 +45600,87 @@
 - [ ] York Peppermint Patty
 - [ ] M&Ms
 - [x] Kit Kat
+
+#### The "Maid of the Mist" takes you near which natural spectacle?
+
+- [ ] The Great Barrier Reef
+- [x] Niagara Falls
+- [ ] Mount Rushmore
+
+#### Based on the meaning of the word, where should the James Bond film "Moonraker" have taken place?
+
+- [ ] The desert
+- [ ] Cairo, Egypt
+- [x] A sailboat
+
+#### Who is the terror that flaps in the night?
+
+- [x] Darkwing Duck
+- [ ] Scrooge McDuck
+- [ ] Iago
+
+#### Cal Hubbard is the only man enshrined in the Hall of Fame for which two sports?
+
+- [x] Football and Baseball
+- [ ] Football and Basketball
+- [ ] Football and Wrestling
+
+#### A Fox game show once asked contestants if they were smarter than children in which grade?
+
+- [ ] 1st
+- [x] 5th
+- [ ] 8th
+
+#### What card game uses a board with pegs to keep score?
+
+- [x] Cribbage
+- [ ] Old Maid
+- [ ] Poker
+
+#### Johannes Gutenberg is credited with which invention?
+
+- [ ] Telephone
+- [ ] Steam Engine
+- [x] Movable Type Printing Press
+
+#### What was the most streamed song of the 20th Century?
+
+- [x] Bohemian Rhapsody
+- [ ] Smells Like Teen Spirit
+- [ ] Don't Stop Believin'
+
+#### Which of the following races is NOT part of Horse Racing's Triple Crown?
+
+- [ ] The Kentucky Derby
+- [ ] The Belmont Stakes
+- [x] The New York Marathon
+
+#### "The Big Honey Hunt" was the first book to feature which characters?
+
+- [ ] Goldlilocks and the Three Bears
+- [x] The Berenstain Bears
+- [ ] Winnie the Pooh and Tigger
+
+#### Which of the following colors appears in the BMW logo?
+
+- [x] Blue
+- [ ] Red
+- [ ] Green
+
+#### What beer brand was sold in America with the tagline "Australian for Beer"?
+
+- [ ] Amstel Light
+- [x] Foster's
+- [ ] Sapporo
+
+#### What kind of novels is Patricia Highsmith known for?
+
+- [ ] Biographies
+- [x] Thrillers
+- [ ] Romance
+
+#### The mysterious Smoke Monster was part of what TV series?
+
+- [x] Lost
+- [ ] The Walking Dead
+- [ ] Star Trek
