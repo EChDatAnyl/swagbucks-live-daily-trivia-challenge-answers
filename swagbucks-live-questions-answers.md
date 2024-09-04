@@ -45684,3 +45684,33 @@
 - [x] Lost
 - [ ] The Walking Dead
 - [ ] Star Trek
+
+#### Based on their name, which rock band would Ned Ludd most likely listen to?
+
+- [x] Rage Against the Machine
+- [ ] AC/DC
+- [ ] Led Zeppelin
+
+#### On Seinfeld, for which sports organization did George Costanza work?
+
+- [ ] Philadelphia Phillies
+- [x] New York Yankees
+- [ ] Florida Marlins
+
+#### Which of these celebrities does NOT share a birthday with Swagbucks today?
+
+- [ ] JiffPom
+- [ ] Michael Bolton
+- [x] John Steinbeck
+
+#### Dylan McWilliams is a Colorado native who survived attacks from what two animals in the same year?
+
+- [ ] Cougar/Rattlesnake
+- [ ] Moose/Raccoon
+- [x] Bear/Shark
+
+#### In "Candie in the Wind", Elton John refers to Princess Diana as what flower?
+
+- [x] Rose
+- [ ] Stinkweed
+- [ ] Poppy
