@@ -11634,7 +11634,7 @@
 - [ ] Kris Bryant
 - [x] Tim Duncan
 
-#### Perrier is a band the primarily bottles what drink?
+#### Perrier is a brand the primarily bottles what drink?
 
 - [ ] Mojitos
 - [x] Mineral Water
@@ -45714,3 +45714,93 @@
 - [x] Rose
 - [ ] Stinkweed
 - [ ] Poppy
+
+#### Which US state was founded most recently?
+
+- [ ] Maine
+- [x] Nebraska
+- [ ] Kansas
+
+#### Stanley Tucci's first on-camera job was a commerical for what?
+
+- [ ] M&Ms
+- [x] Levi's
+- [ ] Diet Coke
+
+#### M*A*S*H was set during which war?
+
+- [ ] Civil war
+- [ ] Revolutionary War
+- [x] Korean War
+
+#### Which of the following TV shows stars Big Bird?
+
+- [ ] Mister Rogers Neighborhood
+- [x] Sesame Street
+- [ ] Arthur
+
+#### What molten metal is at the Earth's core?
+
+- [ ] Gold
+- [x] Iron
+- [ ] Copper
+
+#### How many times do you have to say Beetlejuice's name to summon or banish him?
+
+- [x] Three
+- [ ] Five
+- [ ] Seven
+
+#### Who played characters like Willy Wonka, Ichabod Crane and Edward Scissorhands in Tim Burton movies?
+
+- [ ] Anthony Michael Hall
+- [ ] Channing Tatum
+- [x] Johnny Depp
+
+#### Which of the following superhero movies was directed by Tim Burton?
+
+- [x] Batman
+- [ ] Superman
+- [ ] Aquaman
+
+#### In "Big Fish", in which war does William Bloom fight?
+
+- [ ] World War II
+- [x] Korean War
+- [ ] Vietnam War
+
+#### In "Pee Wee's Big Adventure", what is Pee Wee trying to track down?
+
+- [ ] A Murderer
+- [x] His Bike
+- [ ] Davy Jones's Locker
+
+#### In "Mars Attacks". the aliens are vulnerable to which artist's music?
+
+- [x] Slim Whitman
+- [ ] Buck Owens
+- [ ] Hank Williams
+
+#### In Tim Burton's "Batman", which future supervillain is responsible for the death of Bruce Wayne's parents?
+
+- [ ] Catwoman
+- [ ] Bane
+- [x] The Joker
+
+#### Which of the following feature-length movies was adapated from a Tim Burton short film?
+
+- [ ] Corpse Bride
+- [x] Frankenweenie
+- [ ] Sleepy Hollow
+
+#### Which of Tim Burton's movies is about another filmmaker?
+
+- [x] Ed Wood
+- [ ] Big Eyes
+- [ ] Planet of the Apes
+
+#### Tim Burotn directed the live action adaptation of which Disney Animated movie?
+
+- [ ] The Jungle Book
+- [ ] Mulan
+- [x] Dumbo
