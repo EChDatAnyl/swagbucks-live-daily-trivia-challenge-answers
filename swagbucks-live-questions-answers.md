@@ -45804,3 +45804,33 @@
 - [ ] The Jungle Book
 - [ ] Mulan
 - [x] Dumbo
+
+#### Christina Aguilera, Justin Timberlake, Britney Spears, and Ryan Gosling all starred in a 1990s reboot of what children's show?
+
+- [x] The Mickey Mouse Club
+- [ ] Captain Kangaroo
+- [ ] Howdy Doody
+
+#### According to the slogan, "Nobody doesn't like" what?
+
+- [x] Sara Lee
+- [ ] Spiders
+- [ ] Napping
+
+#### Which of these celebrity-owned restaurants is real?
+
+- [x] Wahlburgers
+- [ ] Clooney's Custard
+- [ ] Fellini's Falafels
+
+#### On a standard Monopoly board, what property is 12 spaces from GO?
+
+- [ ] B&O Railroad
+- [ ] St. Charles Place
+- [x] Electric Company
+
+#### According to Merriam-Webster, what term created thanks to communication via computers was first coined in 1982?
+
+- [x] Snail mail
+- [ ] DM
+- [ ] ROFL
