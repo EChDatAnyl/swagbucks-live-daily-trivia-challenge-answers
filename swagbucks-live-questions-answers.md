@@ -28579,7 +28579,7 @@
 - [ ] Wax
 - [ ] Carbon Dioxide
 
-#### When did the verb form of "unfriended" first appear?
+#### When did the verb form of "unfriend" first appear?
 
 - [x] 1659
 - [ ] 1995
@@ -45894,3 +45894,51 @@
 - [ ] Fumble Recovery
 - [ ] Interception
 - [x] Flea Flicker
+
+#### In 2016, a Belgian man set what Halloween record?
+
+- [x] Heaviest Pumpkin
+- [ ] Largest Haunted House
+- [ ] Most Apples Bobbed
+
+#### In "The Princess Bride", what phrase does Westley first say to Buttercup when he really means "I love you"?
+
+- [ ] "I'm on it"
+- [ ] "No problem"
+- [x] "As you wish"
+
+#### What does the M in MTV stand for?
+
+- [ ] Mike
+- [ ] Mangoes
+- [x] Music
+
+#### Complete this Darth Vader quote: "I find your leck of faith..."
+
+- [ ] Comforting
+- [ ] Naughty
+- [x] Disturbing
+
+#### Which of these instruments is traditionally played using your mouth?
+
+- [ ] Drums
+- [ ] Mandolin
+- [x] Kazoo
+
+#### Chris Martin is the lead singer of which band?
+
+- [ ] Fountains of Wayne
+- [x] Coldplay
+- [ ] Queen
+
+#### Which "Friend" was played by Matt LeBlanc?
+
+- [x] Joey
+- [ ] Ross
+- [ ] Rachel
+
+#### What mother-themed song was inducted into the Library of Congress Registry in 2010?
+
+- [ ] If I Could Hear My Mother Pray Again
+- [ ] Mama Tried
+- [x] Dear Mama
