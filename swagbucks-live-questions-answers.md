@@ -45834,3 +45834,63 @@
 - [x] Snail mail
 - [ ] DM
 - [ ] ROFL
+
+#### In the NFL, what determines initial possession of the ball?
+
+- [ ] Rock Papper Scissors
+- [x] Coin Toss
+- [ ] Thumb Wrestling
+
+#### Which Quarterback has won the most Super Bowl championships in NFL history?
+
+- [ ] Fran Tarkenton
+- [ ] Troy Aikman
+- [x] Tom Brady
+
+#### What are the two conferences in the NFL?
+
+- [x] NFC and AFC
+- [ ] NL and AL
+- [ ] Campbell and Wales
+
+#### What was the first NFL team to have their own official cheerleading squad?
+
+- [ ] Dallas Cowboys
+- [x] Baltimore Colts
+- [ ] Philadelphia Eagles
+
+#### Which of the following NFL teams plays their home games in New York?
+
+- [ ] Jets
+- [ ] Giants
+- [x] Bills
+
+#### Who is the Super Bowl trophy named after?
+
+- [x] Vince Lombardi
+- [ ] Roger Goodell
+- [ ] Dick Vermeil
+
+#### Who holds the NFL single-seson record for rushing yards?
+
+- [x] Eric Dickerson
+- [ ] Adrian Peterson
+- [ ] Barry Sanders
+
+#### Which NFL player coined the term "sack"?
+
+- [ ] Chuck Bednarik
+- [x] Deacon Jones
+- [ ] Bernie Parrish
+
+#### In the NFL, how many points is a field goal worth?
+
+- [x] 3
+- [ ] 7
+- [ ] 10
+
+#### In the NFL, which of the following is NOT a way the defense can gain possession of the football?
+
+- [ ] Fumble Recovery
+- [ ] Interception
+- [x] Flea Flicker
