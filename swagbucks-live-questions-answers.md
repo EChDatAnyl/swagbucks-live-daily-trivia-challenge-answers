@@ -45942,3 +45942,45 @@
 - [ ] If I Could Hear My Mother Pray Again
 - [ ] Mama Tried
 - [x] Dear Mama
+
+#### Which of the following movies is about the robbery of a Las Vegas casino?
+
+- [ ] Steel Magnolias
+- [ ] Rob Roy
+- [x] Ocean's 11
+
+#### What was the prefered pencil of artists like Chuck Jones, John Steinbeck and Stephen Sondheim?
+
+- [ ] Dixon Ticonderoga
+- [x] Blackwing 602
+- [ ] Mars Lumograph 100
+
+#### In Blackjack, how many cards are you initially dealt?
+
+- [x] Two
+- [ ] Four
+- [ ] Six
+
+#### Before moving to Indianapolis, where did the Colts play?
+
+- [ ] Prague
+- [x] Baitimore
+- [ ] Tokyo
+
+#### Slapshots, Wrist shots, and Backhands are all ways to score in what sport?
+
+- [ ] Volleyball
+- [x] Ice Hockey
+- [ ] Gymnastics
+
+#### Who recorded and released the song "Enter Sandman"?
+
+- [ ] Megadeth
+- [x] Metalica
+- [ ] Marcy Playground
+
+#### Which cast member kept their job as a waiter when they were first cast?
+
+- [x] Oscar Nunez
+- [ ] Angela Kinsey
+- [ ] Phyllis Smith
