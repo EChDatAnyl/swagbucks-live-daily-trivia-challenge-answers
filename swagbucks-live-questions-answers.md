@@ -46032,3 +46032,33 @@
 - [ ] Professor Plum
 - [ ] Mrs. White
 - [x] Bob the Gardener
+
+#### What is the actual first name of Tiger Woods?
+
+- [ ] Michael
+- [x] Eldrick
+- [ ] Simon
+
+#### In her song with the same name, how many times does Rihanna say "Work"?
+
+- [x] 78
+- [ ] 98
+- [ ] 115
+
+#### Which of these toy lines is scented?
+
+- [ ] Transformers
+- [ ] Lite Brite
+- [x] Strawberry Shortcake
+
+#### What topping usually goes on mashed potatoes?
+
+- [ ] Ice Cream
+- [ ] Spinach
+- [x] Gravy
+
+#### Which famous city was once called the "Atomic" city?
+
+- [x] Las Vegas
+- [ ] Detroit
+- [ ] Manhattan
