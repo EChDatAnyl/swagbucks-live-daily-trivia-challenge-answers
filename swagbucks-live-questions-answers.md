@@ -45984,3 +45984,51 @@
 - [x] Oscar Nunez
 - [ ] Angela Kinsey
 - [ ] Phyllis Smith
+
+#### What kind of world does Clarence show George Bailey?
+
+- [ ] One where it's Opposite Day
+- [ ] One where his brother is president
+- [x] One where he'd never been born
+
+#### In 1997, Mabel Fairbanks became the first Black person industed into what sport's Hall of Fame?
+
+- [ ] Tennis
+- [x] Figure Skating
+- [ ] Equestrian
+
+#### What nursery rhyme is sung to the same tune as the Alphabet song?
+
+- [x] Twinkle, Twinkle Little Star
+- [ ] Jack & Jill
+- [ ] Wheels on the bus
+
+#### Paul Rudd played Mike, the man who married which of the friends?
+
+- [x] Phoebe
+- [ ] Rachel
+- [ ] Monica
+
+#### Manchester United and Arsenal F.C. are teams that play what sport?
+
+- [ ] Racquetball
+- [ ] Bocce
+- [x] Soccer
+
+#### The most decorated Winter Olympian in history represents which country?
+
+- [ ] Sweden
+- [x] Norway
+- [ ] Switzerland
+
+#### Which of these is found inside a Starbucks?
+
+- [ ] Barm
+- [x] Zarf
+- [ ] The Zings
+
+#### Which of the following is NOT one of the suspects in a standard game of Clue?
+
+- [ ] Professor Plum
+- [ ] Mrs. White
+- [x] Bob the Gardener
