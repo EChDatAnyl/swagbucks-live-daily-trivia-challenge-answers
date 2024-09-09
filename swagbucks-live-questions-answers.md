@@ -46062,3 +46062,57 @@
 - [x] Las Vegas
 - [ ] Detroit
 - [ ] Manhattan
+
+#### Which African-American poet wrote "Harlem", also known as "Dream Deferred"?
+
+- [ ] Walt Whitman
+- [ ] Robert Frost
+- [x] Langston Hughes
+
+#### What three things do all animals need to survive?
+
+- [ ] Food, Folks, Fun
+- [ ] Earth, Wind, Fire
+- [x] Food, Air, Water
+
+#### Who holds the Guinness World Record for "Most portrayed literary character in film"?
+
+- [ ] Sherlock Holmes
+- [x] Count Dracula
+- [ ] Elizabeth Bennet
+
+#### Whose string of Summer box office hits earned him the nickname "Mr. July"?
+
+- [ ] Keanu Reeves
+- [ ] Robert Downey Jr.
+- [x] Will Smith
+
+#### What U.S. airport is the subject of conspiracy theories including an underground government HQ?
+
+- [ ] LaGuardia
+- [x] Denver International
+- [ ] LAX
+
+#### Chevron, Pencil, and Imperial are all styles of what?
+
+- [x] Mustaches
+- [ ] Socks
+- [ ] Skirts
+
+#### If you act like your dad, people might call you a "Chip off the old" what?
+
+- [ ] Munk
+- [x] Block
+- [ ] Fairway
+
+#### Who did NOT appear in the 2011 film "Tower Heist"?
+
+- [ ] Matthew Broderick
+- [ ] Michael Pena
+- [x] Chris Tucker
+
+#### Which of these LEGO sets has the most pieces?
+
+- [ ] 3540 Statue of Liberty
+- [ ] 10234 Sydney Opera House
+- [x] 10196 Grand Carousel
