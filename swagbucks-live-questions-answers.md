@@ -46116,3 +46116,87 @@
 - [ ] 3540 Statue of Liberty
 - [ ] 10234 Sydney Opera House
 - [x] 10196 Grand Carousel
+
+#### Which of these Netflix shows is centered around the White House?
+
+- [ ] Daredevil
+- [ ] Iron Fist
+- [x] House of Cards
+
+#### If I gave you a love apple, what would I be giving you?
+
+- [x] A tomato
+- [ ] A pomegranate
+- [ ] A guava
+
+#### What was the official language of England between 1066 and 1362 AD?
+
+- [ ] Welsh
+- [x] French
+- [ ] Gaelic
+
+#### Vampires are known for transforming into what animal?
+
+- [ ] Ox
+- [x] Bat
+- [ ] Fly
+
+#### Which of the following toys is a version of modeling clay?
+
+- [ ] K'nex
+- [ ] Wuzzles
+- [x] Play-Doh
+
+#### What year was the LEGO group founded?
+
+- [ ] 1124
+- [x] 1932
+- [ ] 2021
+
+#### Where was Barbie's fictional Dream House located?
+
+- [x] Malibu
+- [ ] Destin
+- [ ] Prince Edward Island
+
+#### What toy brand is called "A Real American Hero"?
+
+- [ ] MASK
+- [x] G.I. Joe
+- [ ] Centurions
+
+#### Which of the following brands manufactures toys for the early stages of children's lives?
+
+- [ ] Barbie
+- [ ] Battlebots
+- [x] Fisher-Price
+
+#### According to the toy's jingle, "What walks down stairs, alone or in pairs"?
+
+- [x] Slinky
+- [ ] Silly Putty
+- [ ] Polly Pocket
+
+#### In 1978, Kenny toys had a smash hit with the toy license for what film franchise?
+
+- [ ] Star Trek
+- [ ] Mission: Impossible
+- [x] Star Wars
+
+#### Dwork, Vlobb and Drool were the original lineup of which toy line?
+
+- [ ] Madballs
+- [x] Boglins
+- [ ] Creepy Crawlers
+
+#### Which of the following is a brand of toy wagons for kids?
+
+- [x] Radio Flyer
+- [ ] Radio Swimmer
+- [ ] Radio Hiker
+
+#### In the Transformers toy line, what truck/robot is the leader of the Autobots?
+
+- [ ] Megatron
+- [ ] Wheeljack
+- [x] Optimus Prime
