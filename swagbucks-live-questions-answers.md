@@ -46200,3 +46200,39 @@
 - [ ] Megatron
 - [ ] Wheeljack
 - [x] Optimus Prime
+
+#### Which of the following phrases is in the past tense?
+
+- [x] I won!
+- [ ] I'm winning!
+- [ ] I will win!
+
+#### Which of these culinary icons is NOT based on a real person?
+
+- [ ] Colonel Sanders
+- [ ] Chef Boyardee
+- [x] Betty Crocker
+
+#### At a formal dinner, what is supposed to be laid across your lap?
+
+- [x] Your napkin
+- [ ] Some lettuce
+- [ ] A whole onion
+
+#### What type of insect is the mascot for Honey Nut Cheerios?
+
+- [ ] Ant
+- [x] Bee
+- [ ] Cricket
+
+#### Ali Landry's 1998 Super Bowl Doritos commercial also featured what future star?
+
+- [x] Sean Hayes
+- [ ] Ryan Reynolds
+- [ ] Sean William Scott
+
+#### What other musical inspired the creation of the stage adaptation of "Les Miserables"?
+
+- [x] Oliver!
+- [ ] Cats
+- [ ] Chicago
