@@ -46236,3 +46236,87 @@
 - [x] Oliver!
 - [ ] Cats
 - [ ] Chicago
+
+#### Which of these would you use to block out llight in a window?
+
+- [ ] Blinks
+- [ ] Blings
+- [x] Blinds
+
+#### Why are movie previews called "trailers"?
+
+- [x] When originally went after the movie
+- [ ] Because you hitch them to a truck
+- [ ] Because you load them with cargo
+
+#### Which rapper is known for her signature "Okurrrr"?
+
+- [ ] Nicki Minaj
+- [x] Cardi B
+- [ ] Mc Lyte
+
+#### In which board game do you pay rent to other players?
+
+- [ ] Trivial Pursuit
+- [ ] Sorry
+- [x] Monopoly
+
+#### Jackson is the capital of which State?
+
+- [x] Mississippi
+- [ ] New York
+- [ ] New Jersey
+
+#### Which company's logo is shaped like a shield?
+
+- [ ] Microsoft
+- [ ] Nike
+- [x] UPS
+
+#### What chain was home to the $5 Footlog?
+
+- [ ] Jimmy John's
+- [x] Subway
+- [ ] Chipotle
+
+#### When David Letterman left "Late Night with David LEtterman" in 1993, who placed him?
+
+- [x] Conan O'Brien
+- [ ] Charlie Chaplin
+- [ ] Burgess Meredith
+
+#### Hurricanes are called typhoons in Asia. What are they called everywhere else?
+
+- [ ] Gales
+- [x] Cyclones
+- [ ] Nor'easters
+
+#### Crossword puzzle hints are usually divided into what categories?
+
+- [x] Down and Across
+- [ ] Left and Right
+- [ ] Up and Down
+
+#### The Immaculate Reception is a famous play from what sport?
+
+- [ ] Ice Hockey
+- [x] American Football
+- [ ] Soccer
+
+#### What candy brand put out a failed soda brand in the 1980s?
+
+- [ ] Hershey
+- [x] Life Savers
+- [ ] Tic Tacs
+
+#### Who has a song called "Espresso" where they say "I'm working late, 'cause I'm a singer"?
+
+- [ ] Rihanna
+- [ ] Barbra Streisand
+- [x] Sabrina Carpenter
+
+#### Who voices Gru in the "Despicable Me" movies?
+
+- [ ] Will Ferrell
+- [x] Steve Carell
+- [ ] Ryan Reynolds
