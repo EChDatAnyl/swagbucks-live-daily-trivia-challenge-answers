@@ -46320,3 +46320,33 @@
 - [ ] Will Ferrell
 - [x] Steve Carell
 - [ ] Ryan Reynolds
+
+#### What band's original name had to do with a day of the week?
+
+- [ ] Soundgarden
+- [x] Radiohead
+- [ ] Nirvana
+
+#### Which Google Chat status would Dr. Jack Griffin always have on?
+
+- [ ] Sleeping
+- [ ] Away
+- [x] Invisible
+
+#### In your car's engine, what do you call the pin that holds the piston to the connecting rod?
+
+- [ ] Knock pin
+- [ ] Safety pin
+- [x] Gudgeon pin
+
+#### Which of the following is NOT a Pepperidge Farm cookie?
+
+- [ ] Mint Milano
+- [ ] Chessmen
+- [x] Oreos
+
+#### The feeling of having already experienced and event in a dream is called what?
+
+- [ ] Deja Vu
+- [x] Deja Reve
+- [ ] Deja Voir
