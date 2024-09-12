@@ -46446,3 +46446,28 @@
 - [x] You Don't Know Jack
 - [ ] You DO Know Jack
 - [ ] Have You Met Jack?
+
+#### How many sides does a snowflake have?
+
+- [ ] 3
+- [x] 6
+- [ ] 20
+
+#### Sea-Monkeys were originally sold under what name?
+
+- [ ] Deep Sea Pals
+- [x] Instant Life
+- [ ] Water People
+
+#### What would most likely frighten someone with Astraphobia?
+
+- [ ] Shooting star
+- [x] Thunderstorm
+- [ ] A fortune teller
+
+#### At which celebrity's grave was it tradition to leave lipstick kisses on the headstone?
+
+- [ ] Edgar Allan Poe
+- [ ] Jim Morrison
+- [x] Oscar Wilde
+
