@@ -46350,3 +46350,99 @@
 - [ ] Deja Vu
 - [x] Deja Reve
 - [ ] Deja Voir
+
+#### What is the highest number found on a standard roulette wheel?
+
+- [x] 36
+- [ ] 50
+- [ ] 77
+
+#### What is TV channel ABC's name short for?
+
+- [x] American Broadcasting Company
+- [ ] All Bologna Cutlets
+- [ ] American Buying Cars
+
+#### Something that stops moving immediately is said to stop on a what?
+
+- [x] Dime
+- [ ] Banana peel
+- [ ] Frog
+
+#### What movie was the first to use the Wilhelm Scream?
+
+- [ ] The Charge at Feather River
+- [x] Distant Drums
+- [ ] High Noon
+
+#### Which of the following is a sandwich cookie?
+
+- [ ] Cheesemen
+- [ ] E.L. Fudge
+- [x] Oreo
+
+#### Who is the only Kansas Jayhawks basketball coach with a losing record?
+
+- [ ] Bill Self
+- [ ] Ted Owens
+- [x] James Naismith
+
+#### What kind of hat, created in the 19th century, was worn by Indiana Jones?
+
+- [x] Fedora
+- [ ] Bowler
+- [ ] Cloche
+
+#### What company sells foil-wrapped chocolate "Kisses"?
+
+- [ ] Cadlbury
+- [x] Hershey
+- [ ] Willy Wonka
+
+#### Which U.S. State is known as The First State?
+
+- [ ] Colorado
+- [ ] Alaska
+- [x] Delaware
+
+#### The medical term STAT comes from the Latin "statim", which means what?
+
+- [x] Immediately
+- [ ] Now
+- [ ] Quickly
+
+#### Jake Gyllenhaal plays Dalton in the 2024 remake of what Patrick Swayze movie?
+
+- [ ] Next of Kin
+- [ ] Dirty Dancing
+- [x] Road House
+
+#### Which of the following series had the most viewers for its finale?
+
+- [ ] Seinfeld
+- [x] The Fugitive
+- [ ] Friends
+
+#### What hero from folklore notoriously stole from the rich and gave to the poor?
+
+- [ ] Sir Lancelot
+- [ ] Don Quixote
+- [x] Robin Hood
+
+#### What band's name comes from the childhood nickname of one of its members?
+
+- [ ] Toad the Wet Sprocket
+- [ ] Raidiohead
+- [x] Weezer
+
+#### DJ Kool Herc is known as a Founder and Father of what genre of music?
+
+- [x] Hip Hop
+- [ ] Acapella
+- [ ] Grunge
+
+#### Which of the following is the name of a successful series of online party games?
+
+- [x] You Don't Know Jack
+- [ ] You DO Know Jack
+- [ ] Have You Met Jack?
