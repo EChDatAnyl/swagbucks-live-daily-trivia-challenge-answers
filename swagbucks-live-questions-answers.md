@@ -40291,7 +40291,7 @@
 - [ ] High Hopes
 - [x] Auld Lang Syne
 
-#### Whihc Julia Roberts character would Jack the Ripper most likely go after?
+#### Which Julia Roberts character would Jack the Ripper most likely go after?
 
 - [x] Vivian Ward
 - [ ] Isabel Kelly
@@ -46569,6 +46569,48 @@
 
 #### What computer company's name completes this ad slogan: "Dude, you're getting a..."
 
-- [ ] Dell
+- [x] Dell
 - [ ] Texas Instruments
 - [ ] Hewlett PAckard
+
+#### Which of the following Disney movies used live action people in it?
+
+- [ ] Moana
+- [ ] The Little Mermaid
+- [x] TRON
+
+#### In the kitchen, what would be the most common use for a whisk?
+
+- [ ] Sear a steak
+- [ ] Juice ab irage
+- [x] Beat an egg
+
+#### Thanks to their industrial roots, what nickname does Pittsburgh go by?
+
+- [ ] Rubber City
+- [ ] Motor City
+- [x] Steel City
+
+#### Helsinki is the capital of what country?
+
+- [ ] Sweden
+- [x] Finland
+- [ ] Norway
+
+#### Which of these Shakespeare plays is a tragedy? (REPEAT QUESTION WITH DIFFERENT ANSWERS)
+
+- [ ] A Midsummer Night's Dream
+- [ ] A Comedy of Errors
+- [x] King Lear
+
+#### The real-life scandal of Delphine Delamare inspired what literary work?
+
+- [ ] The Scarlet Letter
+- [ ] Fly Away Home
+- [x] Madame Bovary
+
+#### In "A Few Good Men", which actor utters the line "You can't handle the truth!"?
+
+- [x] Jack Nicholson
+- [ ] Tom Cruise
+- [ ] Kevin Pollak
