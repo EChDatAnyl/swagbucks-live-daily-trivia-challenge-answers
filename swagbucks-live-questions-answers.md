@@ -46471,3 +46471,104 @@
 - [ ] Jim Morrison
 - [x] Oscar Wilde
 
+#### What term is a title given to female opera singers?
+
+- [x] Divas
+- [ ] Starinas
+- [ ] Maestros
+
+#### Stephen King threw away the manuscript to what novel before his wife saved it?
+
+- [x] Carrie
+- [ ] Salem's Lot
+- [ ] The Shining
+
+#### Which of the following Spanish words is NOT a primary color?
+
+- [ ] Amarillo
+- [x] Anaranjado
+- [ ] Azul
+
+#### Which candy brand is named after a failure?
+
+- [x] Milk Duds
+- [ ] Chunky
+- [ ] Goobers
+
+#### In Super Mario Bros, what punctuation appears on Prize Blocks?
+
+- [ ] Exclamation Point
+- [ ] Comma
+- [x] Question Mark
+
+#### Where would you go to visit the Chrysler Building?
+
+- [ ] The Moon
+- [ ] Pacific Ocean
+- [x] New York
+
+#### In addition to the telephone, what device was invented by Alexander Graham Bell?
+
+- [x] Metal Detector
+- [ ] Fax Machine
+- [ ] Air Dryer
+
+#### What does IBM's name stand for?
+
+- [x] International Business Machines
+- [ ] I Bought Martinis
+- [ ] Ice Busting Magazine
+
+#### Which of the following is a computer designed by Apple?
+
+- [ ] Portable III
+- [x] Macintosh
+- [ ] Pavillion
+
+#### In which computer game could your character die of dysentery?
+
+- [x] Oregon Trail
+- [ ] Doom III
+- [ ] World of Warcraft
+
+#### Who designed the first commercial computer to use a mouse as its primary input device?
+
+- [ ] IBM
+- [ ] Apple
+- [x] Xerox
+
+#### What company was born in 1977 with the name Software Development Laboratories?
+
+- [x] Oracle
+- [ ] Norton
+- [ ] Cisco
+
+#### Which of the following programs is NOT part of Microsoft Office?
+
+- [ ] Excel
+- [ ] Word
+- [x] Tinder
+
+#### At the launch event for Windows 2000, a sweaty Steve Ballmer repated what word over and over?
+
+- [ ] Windows
+- [x] Developers
+- [ ] Innovate
+
+#### Tux The Penguin was once the mascot for what operating system?
+
+- [ ] Raspberry Pi
+- [ ] macOS
+- [x] Linux
+
+#### When people signed into AOL, what spoken line informed them they'd received massages?
+
+- [ ] Someone Reached Out
+- [x] You've Got Mail
+- [ ] There's Work to Be Done
+
+#### What computer company's name completes this ad slogan: "Dude, you're getting a..."
+
+- [ ] Dell
+- [ ] Texas Instruments
+- [ ] Hewlett PAckard
