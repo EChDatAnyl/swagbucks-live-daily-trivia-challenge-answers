@@ -46614,3 +46614,63 @@
 - [x] Jack Nicholson
 - [ ] Tom Cruise
 - [ ] Kevin Pollak
+
+#### A medium orange contains 100% of tyour daily recommended amount of what vitamin?
+
+- [ ] Vitamin D
+- [ ] Niacin
+- [x] Vitamin C
+
+#### "Trifecta" is a term what comes from betting on what kind of race?
+
+- [ ] Foot race
+- [x] Horse race
+- [ ] Drone race
+
+#### H2O is the molecular formula for what chemical element?
+
+- [ ] Hydrogen
+- [x] Water
+- [ ] Hellum
+
+#### Babe Ruth spent the majority of his career with what MLB team?
+
+- [ ] Boston Red Sox
+- [x] New York Yankees
+- [ ] Boston Braves
+
+#### "Return of the Jedi" is a title from which film series?
+
+- [x] Star Wars
+- [ ] Lord of the Rings
+- [ ] Star Trek
+
+#### George Washington was famous for crossing which river?
+
+- [x] The Delaware
+- [ ] The Colorado
+- [ ] The Mississippi
+
+#### In 1972's "The Godfather", who played Don Corleone?
+
+- [ ] Al Pacino
+- [ ] James Caan
+- [x] Marlon Brando
+
+#### In the U.S. Navy, which of these is the lowest ranking officer?
+
+- [ ] Captain
+- [ ] Real Admiral
+- [x] Commander
+
+#### In order to add two fractions, what must you know?
+
+- [ ] The cosine
+- [ ] The divisor
+- [x] The common denominator
+
+#### Which of the following animals is an herbivore?
+
+- [x] Elephant
+- [ ] Shark
+- [ ] Lion
