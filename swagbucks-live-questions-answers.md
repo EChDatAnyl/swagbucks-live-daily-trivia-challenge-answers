@@ -46674,3 +46674,33 @@
 - [x] Elephant
 - [ ] Shark
 - [ ] Lion
+
+#### Chris Pratt is married to the daughter of what action star?
+
+- [ ] Jean-Claude Van Damme
+- [x] Arnold Schwarzenegger
+- [ ] Dave Bautista
+
+#### "Shooting Star" is another term for what traveling space body?
+
+- [x] Meteor
+- [ ] Moon
+- [ ] Planet
+
+#### Which film contains 506 uses of a single swear word?
+
+- [x] The Wolf of Wall Street
+- [ ] Glengarry Glen Ross
+- [ ] Goodfellas
+
+#### In chemistry, what does pH stand for?
+
+- [ ] Pretty Horsies
+- [ ] Painted Hiccups
+- [x] Potential of Hydrogen
+
+#### What is the name of the coffee place where everyone on Friends hung out?
+
+- [x] Central Perk
+- [ ] Jitters
+- [ ] Starbucks
