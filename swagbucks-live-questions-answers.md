@@ -46704,3 +46704,51 @@
 - [x] Central Perk
 - [ ] Jitters
 - [ ] Starbucks
+
+#### Cubism was invented in part by what famous artist?
+
+- [ ] Rembrandt
+- [x] Pablo Picasso
+- [ ] Michaelangelo
+
+#### Who did the writer of "Dirty Dancing" ask to play Mrs. Schumacher?
+
+- [ ] Betty White
+- [x] Dr. Ruth
+- [ ] Katharine Hepburn
+
+#### Onika Maraj is the real name of what rapper?
+
+- [ ] Queen Latifah
+- [ ] Cardi B
+- [x] Nicki Minaj
+
+#### Will Ferrell and Eddie Murphy both rose to stardom on which TV sketch show?
+
+- [x] Saturday Night Live
+- [ ] Mad TV
+- [ ] In Living Color
+
+#### When did OMG enter the lexicon?
+
+- [ ] 1994
+- [ ] 1952
+- [x] 1917
+
+#### Where would you go to visit the location used for the establishing shots of Wakanda's Warrior Falls?
+
+- [ ] Africa
+- [x] South America
+- [ ] Japan
+
+#### Which of the following characters is a chipmunk?
+
+- [ ] Clarabelle Cow
+- [ ] Minnie Mouse
+- [x] Chip
+
+#### In "Revenge of the Nerds", what is the name of the fraternity that the nerds are members of?
+
+- [ ] Alpha Beta
+- [x] Lambda Lambda Lambda
+- [ ] Delta Delta Delta
