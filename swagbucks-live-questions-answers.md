@@ -46752,3 +46752,134 @@
 - [ ] Alpha Beta
 - [x] Lambda Lambda Lambda
 - [ ] Delta Delta Delta
+
+#### Ezra Jack Keats wrote which children's book about a weather event?
+
+- [ ] It's Raining, But Inside The House
+- [x] The Snowy Day
+- [ ] The Day When It Was Supossed to Rain, Then Didn't
+
+#### When LeBron James said "I'm taking my talents to South Beach", which team did he go play for?
+
+- [x] Miami Heat
+- [ ] Orlando Magic
+- [ ] Tampa Bay Buccaneers
+
+#### Kevin Costner stars in which of the following TV shows?
+
+- [ ] 1883
+- [ ] 1923
+- [x] Yellowstone
+
+#### In which country is kite-flying a competitive sport dating back over 600 years?
+
+- [ ] Austria
+- [ ] Mexico
+- [x] Thailand
+
+#### The Bruins, Flyers, and Avalanche are all teams in which sports league?
+
+- [x] NHL
+- [ ] Premier League
+- [ ] NBA
+
+#### Who said: "Santa has the right idea. Visit people once a year"?
+
+- [x] Victor Borge
+- [ ] Jackie Mason
+- [ ] Rodney Dangerfield
+
+#### Strawberry, cinnamon sugar, blueberry, and apple currant were the original four flavors of what breakfast food?
+
+- [x] Pop Tarts
+- [ ] Eggo
+- [ ] Raisin Bran
+
+#### In which time zone were the 1968 Summer Olympics held?
+
+- [ ] Pacific
+- [x] Central
+- [ ] Mountain
+
+#### What type of glasses has lenses that work for both distance and reading?
+
+- [ ] BluBlockers
+- [x] Bifocals
+- [ ] Blue Light Glasses
+
+#### Which of the following restaurant chains is a bufflet?
+
+- [x] Golden Corral
+- [ ] Firehouse Subs
+- [ ] Red Robin
+
+#### Which of the following museums can be found in Pairs, France?
+
+- [ ] The Broad
+- [ ] Rijksmuseum
+- [x] The Louvre
+
+#### Which of the following countries was an Axis power during World War II?
+
+- [ ] Canada
+- [x] Italy
+- [ ] United States
+
+#### Which of the following comic strip characters is a dog?
+
+- [ ] Heathcliff
+- [ ] Garfield
+- [x] Marmaduke
+
+#### Dame Mary Quant is responsible for what contribution to fashion?
+
+- [ ] The Bikini
+- [ ] Jean Shorts
+- [x] The Mini Skirt
+
+#### Which of the following is NOT one of the families from "Game of Thrones"?
+
+- [ ] Lannister
+- [ ] Stark
+- [x] Brady
+
+#### Which of the following words is a pronoun?
+
+- [ ] Table
+- [ ] Necklace
+- [x] She
+
+#### What two birds are part of a classic children's playground game?
+
+- [ ] Pigeon and Falcon
+- [ ] Heron and Buzzard
+- [x] Duck and Goose
+
+#### Sonny Bono was in a duo with that singer?
+
+- [ ] Tina Turner
+- [x] Cher
+- [ ] Karen Carpenter
+
+#### According to the CDC, what is the most dangerous animal in the world?
+
+- [ ] Bengal Tiger
+- [x] Mosquito
+- [ ] Tsetse Fly
+
+#### Orlando Bloom is in a relationship with which pop singer?
+
+- [ ] Beyonce
+- [x] Katy Perry
+- [ ] Sade
+
+#### What brand calls itself "The Breakfast of Champions"?
+
+- [ ] Rice Krispies
+- [x] Wheaties
+- [ ] Cocoa Krispies
+#### 
+
+- [ ] 
+- [ ] 
+- [ ] 
