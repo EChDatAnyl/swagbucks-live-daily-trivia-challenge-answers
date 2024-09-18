@@ -46878,8 +46878,45 @@
 - [ ] Rice Krispies
 - [x] Wheaties
 - [ ] Cocoa Krispies
-#### 
 
-- [ ] 
-- [ ] 
-- [ ] 
+#### Where would you most likely experience a hypnagogic jerk?
+
+- [ ] At a bar
+- [ ] In a theater
+- [x] In bed
+
+#### In "A Charlie Brown Christmas", what kind of competition does Snoopy win?
+
+- [ ] Dancing
+- [ ] Diving
+- [x] Decorating
+
+#### What tool is used to measure radioactivity?
+
+- [ ] Seismograph
+- [x] Geiger Counter
+- [ ] Laithe
+
+#### What is the name of Bob Cratchit's youngest son?
+
+- [ ] Little Larry
+- [ ] Small Sal
+- [x] Tiny Tim
+
+#### What was Clue's original name?
+
+- [ ] Mystery!
+- [x] Murder!
+- [ ] Intrigue!
+
+#### Pot Roast is traditionally made with which meat?
+
+- [ ] Fish
+- [x] Beef
+- [ ] Turkey
+
+#### What object is the Statue of Liberty holding in her right hand?
+
+- [ ] Broom
+- [x] Torch
+- [ ] Sword
