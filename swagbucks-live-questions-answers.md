@@ -46975,8 +46975,122 @@
 - [ ] Frankly, my dear, I don't give a damn
 - [x] You're gonna need a bigger boat
 
-#### 
+#### Which of the following is NOT a historic nickname for a pachyderm?
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Lucanian Ox
+- [x] Ironhide
+- [ ] Carry-Castle
+
+#### Which SNL Weekend Update anchor signed off with "And that's news to me"?
+
+- [ ] Dennis Miller
+- [ ] Norm MacDonald
+- [x] Kevin Nealon
+
+#### Of the 6 languages Audrey Hepburn could speak, which was NOT one of them?
+
+- [ ] Spanish
+- [ ] Dutch
+- [x] Russian
+
+#### According to legend, what book was written in three weeks on a 120 ft scroll?
+
+- [ ] To Kill A Mockingbird
+- [ ] Grapes of Wrath
+- [x] On The Road
+
+#### Grimace, The Hamburglar, and the Fry Guys are all part of which fast food chain?
+
+- [ ] Rally's
+- [ ] Checkers
+- [x] McDonald's
+
+#### Which of the following burger joints typically doesn't have a drive-thru?
+
+- [x] Five Guys
+- [ ] Jack in the Box
+- [ ] In-N-Out
+
+#### In 2024, which fast food chain was criticized for skimping on their burrito fillings?
+
+- [ ] Shake Shack
+- [ ] Little Caesars
+- [x] Chipotle
+
+#### In 2011, which fast food chain was sued for using the term "beef" to describe their food?
+
+- [x] Taco Bell
+- [ ] Arby's
+- [ ] Culver's
+
+#### Which of the following signature treat at Dairy Queen?
+
+- [ ] Frosty
+- [x] Dilly Bar
+- [ ] Concrete
+
+#### In which country could you get a black squid ink burger at Burger King?
+
+- [x] Japan
+- [ ] China
+- [ ] Morocco
+
+#### According to their slogan, "Nobody out pizzas" who?
+
+- [ ] Papa John's
+- [x] Pizza Hut
+- [ ] Domino's
+
+#### In response to KFC changing their recipies, Colonel Sanders opened a competing restaurant named for who?
+
+- [x] His Wife
+- [ ] His Daughter
+- [ ] Himself
+
+#### Which chicken chain was founded in New Orleans, Louisiana?
+
+- [ ] El Pollo Loco
+- [x] Popeye's
+- [ ] Koo-Koo-Koo
+
+#### What fast food brand claims to be "Finger Lickin' Good"?
+
+- [ ] Dunkin Donuts
+- [ ] Starbucks
+- [x] KFC
+
+#### What do two magnets of the same pole do when clsoe to one another?
+
+- [ ] Do-si-do
+- [ ] Sleep
+- [x] Repel
+
+#### What literary character can converse with animals?
+
+- [ ] Dr. Zhivago
+- [x] Dr. Dolittle
+- [ ] Dr. Kildare
+
+#### What food is uniformly shaped into a Hyperbolic Paraboloid?
+
+- [ ] Pretzels
+- [x] Pringles
+- [ ] Donuts
+
+#### What do you add to lemon juice and Cointreau to make a Sidecar?
+
+- [ ] Gin
+- [ ] Rum
+- [x] Brandy
+
+#### Which of the following muppets is operated from within a full body suit?
+
+- [ ] Gonzo
+- [x] Sweeturns
+- [ ] Robin
+
+#### Which of the following races is run on horseback?
+
+- [ ] Indianapolis 500
+- [ ] Running of the bulls
+- [x] Kentucky Derby
