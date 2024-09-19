@@ -46920,3 +46920,63 @@
 - [ ] Broom
 - [x] Torch
 - [ ] Sword
+
+#### Dr. Livingstone became the first European to cross the southern half of which continent?
+
+- [x] Africa
+- [ ] Europe
+- [ ] North America
+
+#### In how many countries is Mount Everest the highest point?
+
+- [x] 2
+- [ ] 3
+- [ ] 4
+
+#### Which of these playground games is played with a ball?
+
+- [ ] Tag
+- [x] Four Square
+- [ ] Kick The Can
+
+#### Which of the following events is NOT part of the Decathlon?
+
+- [ ] Javelin
+- [ ] Long Jump
+- [x] Archery
+
+#### In July of 2024, the German Navy finally began phasing out what outdated technology?
+
+- [ ] Short Band Radio
+- [x] Floppy Disks
+- [ ] VCRs
+
+#### Luciano Pavarotti, Placido Domingo, and Jose Carreras were collectively known by what name?
+
+- [x] The Three Tenors 
+- [ ] The Three Amigos
+- [ ] The Traveling Willburys
+
+#### Which of the following TV shows is based on a video game?
+
+- [ ] Mary & George
+- [ ] Presumed Innocent
+- [x] Fallout
+
+#### Which of the following superheroes is an alien?
+
+- [ ] Batman
+- [x] Groot
+- [ ] Iron Man
+
+#### Which of these famous movie lines was ad-libbed?
+
+- [ ] I'll be back
+- [ ] Frankly, my dear, I don't give a damn
+- [x] You're gonna need a bigger boat
+
+#### 
+
+- [ ] 
+- [ ] 
+- [ ] 
