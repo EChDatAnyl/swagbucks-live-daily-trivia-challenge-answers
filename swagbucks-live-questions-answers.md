@@ -47094,3 +47094,105 @@
 - [ ] Indianapolis 500
 - [ ] Running of the bulls
 - [x] Kentucky Derby
+
+#### What anonymous artist creates works of graffiti around the world?
+
+- [ ] Garfield
+- [ ] Madonna
+- [x] Banksy
+
+#### What Kevin Bacon movie is about dancing?
+
+- [ ] Sleepers
+- [ ] Wild Things
+- [x] Footloose
+
+#### Which of these sitcoms starred Alia Shawkat?
+
+- [ ] Diff'rent Strokes
+- [ ] The Nanny
+- [x] Arrested Development
+
+#### Istanbul sits on two different continents at once. Which continents are they?
+
+- [x] Europe and Asia
+- [ ] Europe and Australia
+- [ ] Asia and Australia
+
+#### Which of the following is NOT referenced in R.E.M.'s "It's the End of the World"?
+
+- [ ] Cheesecake
+- [ ] A candle
+- [x] A chair
+
+#### In "A Christmas Carol", which of the following ghosts does NOT visit Ebenezer Scrooge?
+
+- [ ] Christmas Past
+- [ ] Christmas Present
+- [x] Slimer
+
+#### Your spinal column is also known by what name?
+
+- [ ] Tailbone
+- [x] Backbone
+- [ ] Fishbone
+
+#### Which of the following is NOT an ingredient commonly found in S'mores?
+
+- [ ] Marshmallow
+- [x] Turkey
+- [ ] Graham Crackers
+
+#### Which Alfred Hitchcock movie contains the classic "Shower scene"?
+
+- [ ] The Man Who Knew Too Much
+- [ ] Dial M for Murder
+- [x] Psycho
+
+#### Which decade was the Disco Era?
+
+- [x] 1970s
+- [ ] 1930s
+- [ ] 1910s
+
+#### What year was the Smithsonian's founding signed into law?
+
+- [ ] 1799
+- [x] 1846
+- [ ] 1911
+
+#### In 1995, Dorito's partnered with what other snack brand to create a new flavor?
+
+- [x] Cheetos
+- [ ] Cheez Its
+- [ ] Pringles
+
+#### In which league does Caitlin Clark play?
+
+- [x] WNBA
+- [ ] PWHL
+- [ ] NWSL
+
+#### Which of the following novels was started by the author when they were a teenager?
+
+- [ ] Strange Case of Dr Jekyll and Mr Hyde
+- [ ] Dracula
+- [x] Frankenstein
+
+#### Which of the following celebrities has been permanently banned from Disney World?
+
+- [x] Grace Jones
+- [ ] Madonna
+- [ ] Barack Obama
+
+#### Brian, Carl, and Dennis Wilson were all members of what group?
+
+- [ ] The Cowsills
+- [x] The Beach Boys
+- [ ] Anthrax
+
+#### What board game ends when "Checkmate" occurs?
+
+- [ ] Sorry
+- [ ] Parcheesi
+- [x] Chess
