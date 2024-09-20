@@ -47196,3 +47196,21 @@
 - [ ] Sorry
 - [ ] Parcheesi
 - [x] Chess
+
+#### Who is Gaston's sidekick?
+
+- [x] LeFou
+- [ ] Chip
+- [ ] Philippe
+
+#### Which of these cartoon characters is a cat?
+
+- [x] Heathcliff
+- [ ] Fred Basset
+- [ ] Marmaduke
+
+#### Who became the 6th Secretary-General of the United Nations in 1992?
+
+- [ ] Kofi Annan
+- [x] Boutros Boutros-Ghali
+- [ ] Ban Ki-moon
