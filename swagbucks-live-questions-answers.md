@@ -47214,3 +47214,33 @@
 - [ ] Kofi Annan
 - [x] Boutros Boutros-Ghali
 - [ ] Ban Ki-moon
+
+#### Who rules over Mordor?
+
+- [ ] Isildur
+- [ ] Biblo Baggins
+- [x] Sauron
+
+#### Who are the two girls that vie for Archie's affections?
+
+- [ ] Lois and Lana
+- [x] Betty and Veronica
+- [ ] Catwoman and Poison Ivy
+
+#### What card game involves paying an Ante?
+
+- [ ] Hearts
+- [x] Poker
+- [ ] Go Fish
+
+#### When Little Miss Muffet sat on a tuffet, what was she sitting on?
+
+- [x] Grass
+- [ ] A mushroom
+- [ ] A stool
+
+#### Who did NOT provide a voice in Toy Story 2?
+
+- [ ] Kelsey Grammer
+- [x] Kate Winslet
+- [ ] Joan Cusack
