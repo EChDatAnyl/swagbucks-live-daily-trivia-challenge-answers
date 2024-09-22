@@ -47244,3 +47244,21 @@
 - [ ] Kelsey Grammer
 - [x] Kate Winslet
 - [ ] Joan Cusack
+
+#### How many fluid ounces are there in a pint?
+
+- [ ] 4
+- [ ] 7
+- [x] 16
+
+#### What band had its first hit with "Smells Like Teen Spirit"?
+
+- [ ] Pearl Jam
+- [x] Nirvana
+- [ ] Soundgarden
+
+#### What is the term for a book or story that divulges someone's secrets?
+
+- [x] Tell-All
+- [ ] Penn and Teller
+- [ ] Tell-Em
