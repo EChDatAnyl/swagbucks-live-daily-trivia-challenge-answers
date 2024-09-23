@@ -47262,3 +47262,33 @@
 - [x] Tell-All
 - [ ] Penn and Teller
 - [ ] Tell-Em
+
+#### What was the first movie released with a PG-13 rating?
+
+- [x] Red Dawn
+- [ ] Dead Calm
+- [ ] Breakfast Club
+
+#### Which president imposed the first ever U.S. Federal income tax?
+
+- [ ] Harry Truman
+- [x] Abraham Lincoln
+- [ ] Martin Van Buren
+
+#### What is the term for giving preferential treatment to your family?
+
+- [ ] Despotism
+- [x] Nepotism
+- [ ] Partisanship
+
+#### Which of the following items does TSA allow you to bring on a plane in your carry-on bag?
+
+- [ ] Cooking Spray
+- [x] Christmas Lights
+- [ ] Magic 8 Ball
+
+#### What actor almost made the U.S. Olympic Team for Archery in 2000?
+
+- [ ] Jeremy Renner
+- [ ] Kevin Costner
+- [x] Geena Davis
