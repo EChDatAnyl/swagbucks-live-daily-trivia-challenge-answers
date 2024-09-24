@@ -47364,3 +47364,33 @@
 - [x] Schoolhouse Rock
 - [ ] Jabberjaw
 - [ ] Inch High, Private Eye
+
+#### What singer was once advised by a vocal coach to stop taking lessons?
+
+- [ ] Elvis Presley
+- [ ] Whitney Houston
+- [x] Johnny Cash
+
+#### What is the term for the study of games and gaming, particularly video games?
+
+- [ ] Gameology
+- [ ] Compology
+- [x] Ludology
+
+#### What athletic brand is known for its Swoosh logo?
+
+- [ ] Reebook
+- [x] Nake
+- [ ] British Knights
+
+#### What kind of fruit does Spongebob Squarepants call home?
+
+- [x] Pineapple
+- [ ] Peach
+- [ ] Pear
+
+#### Which of these animals can hold their breath underwater for the longest?
+
+- [x] Sloth
+- [ ] Dolphin
+- [ ] Human
