@@ -47292,3 +47292,75 @@
 - [ ] Jeremy Renner
 - [ ] Kevin Costner
 - [x] Geena Davis
+
+#### Which of the following movies does NOT star Bill Murray?
+
+- [ ] Ghostbusters
+- [x] The Green Mile
+- [ ] Groundhog Day
+
+#### What breed of dog is most cosely associated with firefighting?
+
+- [x] Dalmatian
+- [ ] Corgi
+- [ ] St. Bernard
+
+#### What TV sketch comedy institution premiered on October 11th, 1975?
+
+- [ ] The State
+- [x] Saturday Night Live
+- [ ] Fridays
+
+#### On "Happy Days", which charaacter would turn on the jukebox by hitting it?
+
+- [ ] Chachi
+- [ ] Potsie
+- [x] The Fonz
+
+#### Lynda Carter played the TV version of which superhero?
+
+- [x] Wonder Woman
+- [ ] Supergirl
+- [ ] Spider-Woman
+
+#### Jack Tripper lives with roommates Janet Wood and Chrissy Snow in which 1970s sitcom?
+
+- [ ] Needles and Pins
+- [ ] Will Till Your Father Gets Home
+- [x] Three's Company
+
+#### In the 1970s TV show "Charle's Angels", how did Charlie communicate with the Angels?
+
+- [ ] Telegram
+- [x] Speakerphone
+- [ ] Morse Code
+
+#### Which of the following shows did NOT spinoff from "All in the Family"?
+
+- [x] One Day at a Time
+- [ ] The Jeffersons
+- [ ] Maude
+
+#### Which character acted as the host and produced on "The Muppet Show"?
+
+- [ ] Miss Piggy
+- [ ] Gonzo
+- [x] Kermit the Frog
+
+#### On "CHiPs", what vehicle do the officers use for patrolling?
+
+- [ ] Helicopter
+- [x] Motorcycle
+- [ ] Minivan
+
+#### In the 1970s sitcom, where is the radio station WKRP located?
+
+- [ ] Boston
+- [ ] Los Angeles
+- [x] Cincinnati
+
+#### What Saturday Morning Cartoon series featured lessons about grammar and civics?
+
+- [x] Schoolhouse Rock
+- [ ] Jabberjaw
+- [ ] Inch High, Private Eye
