@@ -47394,3 +47394,93 @@
 - [x] Sloth
 - [ ] Dolphin
 - [ ] Human
+
+#### What do the stars on the American flag represents?
+
+- [x] States in the Union
+- [ ] Constitutional Amendments
+- [ ] Presidents
+
+#### Which of the following arcade chains is NOT headquartered in Texas?
+
+- [x] GameWorks
+- [ ] Dave and Busters
+- [ ] Chuck E. Cheese
+
+#### In which sport do you play doubles?
+
+- [ ] Rugby
+- [x] Tennis
+- [ ] Boxing
+
+#### Which of the following is NOT one of the territories or states of Australia?
+
+- [x] Brooklyn
+- [ ] Tasmania
+- [ ] Queensland
+
+#### When selling "The Terminator", James Cameron used sketches of which actor made up as the T-800?
+
+- [ ] Bill Paxton
+- [x] Lance Henriksen
+- [ ] Steve McQueen
+
+#### Don Johnson starred in which 1980s TV drama?
+
+- [ ] Moonlighting
+- [x] Miami Vice
+- [ ] Wiseguy
+
+#### What TV series featured a crack commando unit driven underground, where they became soliders of fortune?
+
+- [x] The A-Team
+- [ ] The Dukes of Hazzard
+- [ ] Hardcastle & McCormick
+
+#### Which of the following objects in "Pee Wee's Playhouse" did NOT talk?
+
+- [ ] Chair
+- [ ] Clock
+- [x] Cotton Swab
+
+#### Who played bartender/owner Sam Malone on "Cheers"?
+
+- [x] Ted Danson
+- [ ] Woody Harrelson
+- [ ] George Wendt
+
+#### Which 1980s TV drama's finale revealed the whole series was a story told to a child?
+
+- [ ] Hill Street Blues
+- [ ] Hunter
+- [x] St. Elsewhere
+
+#### In the 1980s, what did MTV use as their slogan?
+
+- [ ] I only watch MTV...
+- [x] I want my MTV!
+- [ ] Where's the MTV?
+
+#### Before playing James Bond, Pierce Brosnan starred as which TV investigator?
+
+- [x] Remington Steele
+- [ ] Michael Knight
+- [ ] Magnum, P.I.
+
+#### Which sitcom's finale ended with a scene set in an earlier sitcom?
+
+- [ ] M*A*S*H
+- [x] Newhart
+- [ ] ALF
+
+#### Who debuted the Moonwalk at the 1983 TV special celebrating 25 years of Motown?
+
+- [ ] Berry Gordy
+- [ ] Smokey Robinson
+- [x] Michael Jackson
+
+#### What daytalk talk show and book club icon took her show national on September 8, 1986?
+
+- [x] Oprah Winfrey
+- [ ] Sally Jessy Raphael
+- [ ] Joan Rivers
