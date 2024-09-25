@@ -47484,3 +47484,21 @@
 - [x] Oprah Winfrey
 - [ ] Sally Jessy Raphael
 - [ ] Joan Rivers
+
+#### Which of these dishes does NOT typically contain living things?
+
+- [x] Shirako
+- [ ] Casu Marzu
+- [ ] Ying-Yang Fish
+
+#### Which of these is a type of candy?
+
+- [ ] Fava Beans
+- [x] Jelly Beans
+- [ ] Kidney Beans
+
+#### Enheduanna is remembered as the first known what?
+
+- [ ] Edible plant
+- [x] Named Author
+- [ ] Volcano
