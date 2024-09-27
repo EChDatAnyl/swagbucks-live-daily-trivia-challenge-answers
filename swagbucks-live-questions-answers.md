@@ -47712,3 +47712,9 @@
 - [ ] Burj, Khalifa
 - [ ] Hagia Sophia
 - [x] The Taj Mahal
+
+#### Which of the following is NOT one of the "Big Four" Fashion Capitals of the world?
+
+- [ ] Milan
+- [ ] Parris
+- [x] Sheboygan
