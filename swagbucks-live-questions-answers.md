@@ -47688,3 +47688,27 @@
 - [x] The West Wing
 - [ ] Chicago Hope
 - [ ] Boston Legal
+
+#### What flower's seeds are commonly sold as a snack?
+
+- [x] Sunflower
+- [ ] Rose
+- [ ] Tulip
+
+#### In the Friends episode "The One With The Dirty Girl", what did Chandler get Kathy for a birthday gift?
+
+- [ ] A necklace
+- [x] A book
+- [ ] A painting
+
+#### Bayside High was the setting for what 90s sitcom?
+
+- [x] Saved By The Bell
+- [ ] Suddenly Susan
+- [ ] Married... With Children
+
+#### Agra is the home of what famous structure?
+
+- [ ] Burj, Khalifa
+- [ ] Hagia Sophia
+- [x] The Taj Mahal
