@@ -47502,3 +47502,93 @@
 - [ ] Edible plant
 - [x] Named Author
 - [ ] Volcano
+
+#### In the first few seasons of "Friends", which two friends are roomates in the apartment across the hall?
+
+- [x] Joey and Chandler
+- [ ] Monica and Ross
+- [ ] Rachel and Phoebe
+
+#### Which 90s TV character was played by Chuck Norris?
+
+- [ ] Special Agent Dale Cooper
+- [ ] Tony Soprano
+- [x] Walker, Texas Ranger
+
+#### On "Rocko's Modern Life", what kind of animal is Rocko?
+
+- [ ] Emu
+- [x] Wallaby
+- [ ] Snake
+
+#### According to the theme song to "The Nanny", where was the Nanny originally working?
+
+- [x] Flushing, Queens
+- [ ] Bushwick, Brooklyn
+- [ ] Riverdale, The Bronx
+
+#### What was Joey Russo's catchphrase on "Blossom"?
+
+- [ ] Hey!
+- [x] Whoa!
+- [ ] Huh?
+
+#### In the TV show "Dream On", what does the lead character do for a living?
+
+- [ ] Advertising Executive
+- [ ] Songwriter
+- [x] Book Editor
+
+#### On "The X-Files", what government agency do Scully and Mulder work for?
+
+- [x] FBI
+- [ ] USPS
+- [ ] DOT
+
+#### Who replaced Phil Hartman on "NewsRadio"?
+
+- [ ] Dana Carvey
+- [x] Jon Lovitz
+- [ ] Kevin Nealon
+
+#### Tom Cruise was supposed to provide the original voice for what eco-friendly 90s superhero?
+
+- [x] Captain Planet
+- [ ] Tree-Man
+- [ ] Captain Clean
+
+#### What gritty 1990s HBO drama was set in prison?
+
+- [ ] The High Life
+- [ ] The Sopranos
+- [x] Oz
+
+#### Besides asking perplexing questions, what profession did Socrates have?
+
+- [ ] Scribe
+- [x] Stonecutter
+- [ ] Shoemaker
+
+#### In which of the following categories did Marie Curie NOT win a nobel prize?
+
+- [x] Medicine
+- [ ] Physics
+- [ ] Chemistry
+
+#### In what series are kids who avoid an accident hunted by Death?
+
+- [ ] Final Fantasy
+- [ ] Final Countdown
+- [x] Final Destination
+
+#### Where is baby Simba presented for the first time?
+
+- [x] Pride Rock
+- [ ] Crocodile Rock
+- [ ] Dwayne "The Rock" Johnson
+
+#### What State's motto is "First in Flight"?
+
+- [ ] Euphoria
+- [ ] Resting
+- [x] North Carolina
