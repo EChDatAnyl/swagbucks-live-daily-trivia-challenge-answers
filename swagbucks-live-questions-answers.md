@@ -47592,3 +47592,99 @@
 - [ ] Euphoria
 - [ ] Resting
 - [x] North Carolina
+
+#### In 1949, Mao Zedong became the leader of what country?
+
+- [x] China
+- [ ] Japan
+- [ ] Fiji
+
+#### What is a baby cheetah called?
+
+- [ ] Pipsqueak
+- [x] Cub
+- [ ] Shorty
+
+#### What does the number of folds in a chef's toque represent?
+
+- [ ] Chef's rank in the kitchen
+- [x] Ways to cook an egg
+- [ ] Country of origin
+
+#### Characters from what cartoon appear on boxes of Fruity and Cocoa Pebbles?
+
+- [ ] The Jetsons
+- [ ] Rick & Morty
+- [x] The Flinstones
+
+#### What famous author was nicknamed "The Goat" as a child?
+
+- [ ] Charles Dickens
+- [ ] T.S. Eliot
+- [x] Virginia Woolf
+
+#### March is said to "Go in like a lion, come out like a" what?
+
+- [ ] Different lion
+- [ ] Prizefighter
+- [x] Lamb
+
+#### In the TV show "House", what does House do for a living?
+
+- [x] Doctor
+- [ ] Lawyer
+- [ ] Accountant
+
+#### Which 2000s animated series was based on a feature film?
+
+- [ ] Kim Possible
+- [x] Jimmy Neutron, Boy Genius
+- [ ] Totally Spies
+
+#### The co-creator of "Seinfeld" went on to create which 2000s HBO comedy?
+
+- [ ] Arliss
+- [ ] The Mind of the Married Man
+- [x] Curb Your Enthusiasm
+
+#### What future star got his big break starring in "Even Stevens"?
+
+- [ ] Zac Efron
+- [x] Shia LaBeouf
+- [ ] Joe Jonas
+
+#### Who provided the Future Ted narration for "How I Met Your Mother"?
+
+- [x] Bob Saget
+- [ ] Daniel Stern
+- [ ] Dave Coulier
+
+#### In the Disney Channel series of the same name, Miley Stewart leads a double life as what singer?
+
+- [ ] Alex Mack
+- [x] Hannah Montana
+- [ ] Lizzie McGuire
+
+#### "Entourage" is lossely based on the real-life experiences of which celebrity, who serves as executive producer?
+
+- [x] Mark Wahlberg
+- [ ] Ryan Reynolds
+- [ ] Vin Diesel
+
+#### Which TV drama's creator received a MacArthur Genius grant for his work?
+
+- [ ] The Sopranos
+- [x] The Wire
+- [ ] Breaking Bad
+
+#### Tiny Fey based "30 Rock" on her experiences working for what other NBC show?
+
+- [ ] Parks and Recreation
+- [ ] Studio 60 on the Sunset Strip
+- [x] Saturday Night Live
+
+#### Which of the following TV shows was created by Aaron Sorkin?
+
+- [x] The West Wing
+- [ ] Chicago Hope
+- [ ] Boston Legal
