@@ -38293,7 +38293,7 @@
 - [x] Groundhog Day
 - [ ] National Freedom Day
 
-#### The Quest and Rift are VR headsets from whta company?
+#### The Quest and Rift are VR headsets from what company?
 
 - [ ] Sony
 - [x] Oculus
@@ -47716,5 +47716,41 @@
 #### Which of the following is NOT one of the "Big Four" Fashion Capitals of the world?
 
 - [ ] Milan
-- [ ] Parris
+- [ ] Paris
 - [x] Sheboygan
+
+#### Who hosted the talk show "Comedians in Cars Getting Coffee"?
+
+- [ ] Johnny Carson
+- [ ] Mario Andretto
+- [x] Jerry Seinfeld
+
+#### Kerry Washington played Olivia Pope on what TV drama?
+
+- [x] Scandal
+- [ ] How To Get Away With Murder
+- [ ] Grey's Anatomy
+
+#### Which of these events is not part of horse racing's Triple Crown?
+
+- [ ] The Belmont Stakes
+- [ ] The Preakness
+- [x] The Indy 500
+
+#### What was notable about Today Show co-host J. Fred Muggs?
+
+- [x] He was an animal
+- [ ] He was the first Arfican American anchor
+- [ ] He died on air
+
+#### Which of the following is a clip used to hold your hair in place?
+
+- [ ] Beret
+- [x] Barrette
+- [ ] Barry Gibb
+
+#### Angela Merkel is Chancellor of which country?
+
+- [ ] France
+- [ ] Austria
+- [x] Germany
