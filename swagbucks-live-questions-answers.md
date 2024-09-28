@@ -28771,12 +28771,6 @@
 - [x] Smurfberries
 - [ ] Loquats
 
-#### Marshall Mathers raps under what stage name?
-
-- [ ] KRS-One
-- [ ] Lil Wayne
-- [x] Eminem
-
 #### What sitcom has been described as a "Show about nothing"?
 
 - [ ] It's A Living
@@ -47754,3 +47748,33 @@
 - [ ] France
 - [ ] Austria
 - [x] Germany
+
+#### Kurt Cobain was the lead singer of what grunge band?
+
+- [ ] Soundgarden
+- [x] Nirvana
+- [ ] Pearl Jam
+
+#### What comic strip character, married to Blondie, has a sandwich named after him?
+
+- [ ] Ham and Cheese
+- [ ] Hot Dog
+- [x] Dagwood
+
+#### Swarthmore College, Vassar College, and Bates College are all considered part of what group?
+
+- [x] Little Ivies
+- [ ] The ACC
+- [ ] Beltway Schools
+
+#### "Joking Jack joked jovially" is an example of what?
+
+- [ ] Assonance
+- [x] Alliteration
+- [ ] Onomatopoeia
+
+#### If three friends evenly split a restaurant bill that's $123, how much would each person pay?
+
+- [ ] 33
+- [ ] 37
+- [x] 41
