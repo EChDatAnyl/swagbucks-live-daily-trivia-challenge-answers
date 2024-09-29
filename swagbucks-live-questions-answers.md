@@ -47778,3 +47778,75 @@
 - [ ] 33
 - [ ] 37
 - [x] 41
+
+#### In the U.S. Congress, how many Senators does each State get?
+
+- [ ] None
+- [x] Two
+- [ ] Seventeen
+
+#### Who directed "The Princess Bride"?
+
+- [x] Ron Reiner
+- [ ] Nora Ephron
+- [ ] Ron Howard
+
+#### Complete the other half of this 2020 meme: "How it started..."
+
+- [x] How it's going
+- [ ] How now brown cow
+- [ ] How-and the Duck
+
+#### Which of these is not a General Mills cereal?
+
+- [ ] Kix
+- [x] Apple Jacks
+- [ ] Lucky Charms
+
+#### The Prime Meridian and Equator divide the planet into what?
+
+- [ ] Towns
+- [ ] Countries
+- [x] Hemispheres
+
+#### Which network airs "The Bachelor"?
+
+- [ ] HGTV
+- [x] ABC
+- [ ] ESPN
+
+#### Which of these TV shows debuted most recently?
+
+- [ ] I Love Lucy
+- [ ] Hill Street Blues
+- [x] Black-ish
+
+#### Who hosted Mister Rogers' Neighborhood?
+
+- [ ] Morley Safer
+- [ ] Jane Pauley
+- [x] Mister Rogers
+
+#### Which of these cities is furthest south?
+
+- [ ] Reading, PA
+- [ ] Evanston, IL
+- [x] El Paso, TX
+
+#### Christopher Hatham Sholes is known for what invention?
+
+- [ ] Velcro
+- [x] The QWERTY keyboard
+- [ ] The electric kettle
+
+#### In 1996, what giggling doll was one of the hottest toys of the holiday season?
+
+- [x] Tickle Me Elmo
+- [ ] Laugh Along Alf
+- [ ] Joking Fozzie Bear
+
+#### The spice saffron comes from which plant?
+
+- [ ] Nightshade
+- [x] Crocus
+- [ ] Violet
