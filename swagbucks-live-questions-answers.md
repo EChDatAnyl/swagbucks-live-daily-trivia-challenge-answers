@@ -47850,3 +47850,39 @@
 - [ ] Nightshade
 - [x] Crocus
 - [ ] Violet
+
+#### Which author wrote novels featuring the detective Hercule Poirot?
+
+- [x] Agatha Christie
+- [ ] Sir Arthur Conan Doyle
+- [ ] Ian Fleming
+
+#### What restaurant chain was founded by two neighbors?
+
+- [ ] Huddle House
+- [x] Waffle House
+- [ ] Denny's
+
+#### What instrument does Lizzo play?
+
+- [ ] Harp
+- [x] Flute
+- [ ] Vibraphone
+
+#### Which Disney animated film is based off of Hamlet?
+
+- [ ] Aladdin
+- [ ] The Princess and the Frog
+- [x] The Lion King
+
+#### What is the rarest blood type?
+
+- [ ] A
+- [ ] B
+- [x] AB Negative
+
+#### Professor James Moriarty is the archrival of what literary sleuth?
+
+- [ ] Robert Langdon
+- [ ] Sam Spade
+- [x] Sherlock Holmes
