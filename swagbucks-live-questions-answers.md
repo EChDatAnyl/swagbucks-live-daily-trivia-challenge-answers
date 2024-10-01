@@ -47886,3 +47886,93 @@
 - [ ] Robert Langdon
 - [ ] Sam Spade
 - [x] Sherlock Holmes
+
+#### Which of these athletes won the most professional MVP awards?
+
+- [ ] Kareem Abdul-Jabbar
+- [ ] Barry Bonds
+- [x] Wayne Gretzky
+
+#### The source novel for Tod Browning's Freaks was originally purchased as a vehicle for what actor?
+
+- [x] Lon Chaney
+- [ ] Bela Lugosi
+- [ ] Boris Karloff
+
+#### Which NBA team has made the most selections from the first spot of the draft?
+
+- [ ] New York Knicks
+- [x] Cleveland Cavaliers
+- [ ] Milwaukee Bucks
+
+#### Americans rebelled against the U.S. Government after a 1791 tax on what?
+
+- [ ] Horses
+- [ ] Land
+- [x] Whiskey
+
+#### The heart, liver, and brains of a deer were ingredients in what old holiday pastry?
+
+- [x] Humbie Pie
+- [ ] Mashed Potatoes
+- [ ] Cranberry Sauce
+
+#### What's the name of Snoopy's bird friend?
+
+- [x] Woodstock
+- [ ] Saugerties
+- [ ] Binghamton
+
+#### What does Linus Van Pelt always carry with him?
+
+- [ ] A Baseball
+- [x] A Blanket
+- [ ] A Beehive
+
+#### Which Peanuts character offers psychiatric services for a nickel?
+
+- [ ] Frieda
+- [ ] Sally
+- [x] Lucy
+
+#### What instrument does Schroeder play in Peanuts?
+
+- [ ] Tuba
+- [x] Piano
+- [ ] Violin
+
+#### Since 1968, Snoopy has been a safety mascot for what government agency?
+
+- [x] NASA
+- [ ] General Accounting Office
+- [ ] Department of State
+
+#### What song does the gang sing at the end of "A Charlie Brown Christmas"?
+
+- [ ] Christmastime is Here
+- [ ] Silent Night
+- [x] Hark! The Herald Angels Sing
+
+#### When Snoopy becomes the World War I Flying Ace, who does he get into dogfights with?
+
+- [ ] Karl von Bulow
+- [x] The Red Baron
+- [ ] Douglas Haig
+
+#### In Peanuts, who does Marci refer to as "Sir"?
+
+- [ ] Viola
+- [ ] Pigpen
+- [x] Peppermint Patty
+
+#### What position does Charlie Brown play on the baseball team?
+
+- [x] Pitcher
+- [ ] Centerfield
+- [ ] Third Base
+
+#### What instrument is used to create the adult voices in Peanuts cartoons?
+
+- [ ] Guitar
+- [x] Trombone
+- [ ] Flute
