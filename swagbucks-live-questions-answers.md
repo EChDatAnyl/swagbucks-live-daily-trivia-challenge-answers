@@ -48078,3 +48078,45 @@
 - [x] Beef Stew
 - [ ] Caramel Macchiato
 - [ ] Scalloped Potatoes
+
+#### What piece of fruit is traditionally put on top of a sundale?
+
+- [ ] Apple
+- [ ] Grape
+- [x] Cherry
+
+#### Parka, trench, bomber and pea are all types of what?
+
+- [x] Coat
+- [ ] Soft Drink
+- [ ] Mask
+
+#### Which instrument leads the tuning in an orchestra?
+
+- [x] Oboe
+- [ ] Piano
+- [ ] Violin
+
+#### What was the first horror film to be nominated for a Best Picture Oscar?
+
+- [ ] Frankenstein
+- [ ] Rosemary's Baby
+- [x] The Exorcist
+
+#### Why does Ross decide to play the bagpipes for Monica and Chandler's wedding?
+
+- [ ] They don't have music booked
+- [x] Chandler's half-Scottish
+- [ ] It's Monica's favorite instrument
+
+#### Which cartoon character says "D'oh!"?
+
+- [ ] Hong Kong Phoey
+- [x] Homer Simpson
+- [ ] Papa Smurf
+
+#### Which of these famous scientists was a physicist?
+
+- [x] Niels Bohr
+- [ ] Dian Fossey
+- [ ] Louis Pasteur
