@@ -47976,3 +47976,105 @@
 - [ ] Guitar
 - [x] Trombone
 - [ ] Flute
+
+#### In which U.S. city would you be most likely to hear people mention the Greeley Smell?
+
+- [ ] Portland, OR
+- [ ] Boston, MA
+- [x] Denver, CO
+
+#### Which of the following is NOT one of Santa's flying reindeer?
+
+- [ ] Blitzen
+- [x] Connor
+- [ ] Cupid
+
+#### Which of the following characters was supposed to die in their second comic book appearance?
+
+- [x] The Joker
+- [ ] Iron Man
+- [ ] Red Skull
+
+#### Shoeless Joe Jackson is famous for playing which sport?
+
+- [ ] Football
+- [x] Baseball
+- [ ] Hockey
+
+#### Who created the characters of Miss Marple and Hercule Poirot?
+
+- [x] Agatha Christie
+- [ ] Sir Arthur Conan Doyle
+- [ ] Edgar Allen Poe
+
+#### The script that inspired E.T. also inspired what other movie?
+
+- [x] Poltergeist
+- [ ] Indiana Jones and the Temple of Doom
+- [ ] 1941
+
+#### In the comic strips, what is the name of Blondie's husband?
+
+- [ ] Arthur
+- [ ] Taml
+- [x] Dagwood
+
+#### What is the chief ingredient in caramel?
+
+- [x] Sugar
+- [ ] Wheat
+- [ ] Barley
+
+#### What Autumn flavor is a seasonal favorite at Starbucks?
+
+- [ ] Chestnut Spice Latte
+- [ ] Gourd Spice Latte
+- [x] Pumpkin Spice Latte
+
+#### Yams are very similar to what other starch?
+
+- [ ] Pasta
+- [x] Sweet Potato
+- [ ] Chickpeas
+
+#### Raisins are the dried form of what food?
+
+- [x] Grapes
+- [ ] Bananas
+- [ ] Pears
+
+#### In Greek mythology, what Autumn spice was believed to come from birds?
+
+- [ ] Nutmeg
+- [x] Cinnamon
+- [ ] Ginger
+
+#### When they's ripe, what can cranberries do?
+
+- [x] Bounce
+- [ ] Sing
+- [ ] Your Taxes
+
+#### Where does pure maple syrup come from?
+
+- [ ] Vines
+- [x] Tree Trunks
+- [ ] Flowers
+
+#### Johnny Cakes and Hushpuppies are different forms of what fall food staple?
+
+- [x] Cornbread
+- [ ] Bourbon Chicken
+- [ ] Broccoli Au Gratin
+
+#### What is Apple Pie A la Mode usually served with?
+
+- [ ] Soup
+- [ ] Towels
+- [x] Ice Cream
+
+#### Dinty Moore is associated with what fall food staple?
+
+- [x] Beef Stew
+- [ ] Caramel Macchiato
+- [ ] Scalloped Potatoes
