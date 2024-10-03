@@ -48120,3 +48120,51 @@
 - [x] Niels Bohr
 - [ ] Dian Fossey
 - [ ] Louis Pasteur
+
+#### "Cat on a Hot Tin Roof" and "The Glass Menagerie" are plays by what writer?
+
+- [ ] Florida Williams
+- [x] Tennessee Williams
+- [ ] South Dakota Williams
+
+#### On "Orange is the New Black", why is Piper in prison?
+
+- [ ] Murder
+- [ ] Fraud
+- [x] Money Laundering
+
+#### Which of these pieces of hardware is used to improve broadcast television reception?
+
+- [ ] Remote Control
+- [ ] TV Tray
+- [x] Antenna
+
+#### What sibling pop group reunited at the 2019 Billboard Music Awards?
+
+- [x] The Jonas Brothers
+- [ ] The Smothers Brothers
+- [ ] The Kelly Family
+
+#### The "Burgoo" is the traditional dish of what event?
+
+- [ ] Canada Day
+- [ ] Bastille Day
+- [x] Kentucky Derby
+
+#### Who played Marty McFly in Back to the Future?
+
+- [ ] Robert Downey Jr.
+- [ ] Charlie Sheen
+- [x] Michael J. Fox
+
+#### If your hair is xanthochromic, what color is it?
+
+- [x] Yellow
+- [ ] Red
+- [ ] Green
+
+#### Which of these titles is the highest ranking in British peerage?
+
+- [ ] Viscount
+- [ ] Earl
+- [x] Duke
