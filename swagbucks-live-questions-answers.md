@@ -48348,3 +48348,15 @@
 - [ ] Britney Spears
 - [x] Lindsay Lohan
 - [ ] Sarah Michelle Gellar
+
+#### Tom brady won all of his Super Bowl rings playing for which NFL team?
+
+- [ ] Cleveland Browns
+- [ ] Tampa Bay Buccanners
+- [x] New England Patriots
+
+#### What is the term for a movie theater that has several movies playing at once?
+
+- [ ] Complex
+- [ ] Suplex
+- [x] Multiplex
