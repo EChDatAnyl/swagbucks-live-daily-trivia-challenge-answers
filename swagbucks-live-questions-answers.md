@@ -48168,3 +48168,87 @@
 - [ ] Viscount
 - [ ] Earl
 - [x] Duke
+
+#### What is London's Big Ben?
+
+- [ ] A Sandwich
+- [ ] A Thoroughfare
+- [x] A Clock
+
+#### "Double Your Pleasure, Double Your Fun" was used in a series of commercials for what type of food product?
+
+- [ ] Chocolate Bars
+- [x] Chewing Gum
+- [ ] Cereal
+
+#### Which of these people was known primarily as a newscaster?
+
+- [x] Walter Cronkite
+- [ ] Alan Alda
+- [ ] Betty White
+
+#### If the producers had gotten their way, which song would have replaced "Don't Stop Believin" in the "Glee" pilot?
+
+- [x] Viva La Vida
+- [ ] Hey Jude
+- [ ] Bohemian Rhapsody
+
+#### Which celebrity couple has aired their dirty laundry at "The Red Table"?
+
+- [x] Will Smith and Jada Pinkett
+- [ ] Ryan Gosling and Eva Mendes
+- [ ] Goldie Hawn and Kurt Russell
+
+#### When he debuted in Donkey Kong, by what name was Mario called?
+
+- [ ] Plumber
+- [x] Jumpman
+- [ ] Luigi
+
+#### Rolling Stone Magazine's Best Album of all time is "What's Going On" by what R&B/Soul Artist?
+
+- [x] Marvin Gaye
+- [ ] Erykah Badu
+- [ ] Al Green
+
+#### Your Arrector pili causes what to happen to your body?
+
+- [ ] Eyebrow wiggling
+- [ ] Acid reflux
+- [x] Goosebumps
+
+#### Timothy Berners-Lee is best known for what invention?
+
+- [ ] Microprocessor
+- [ ] Power strip
+- [x] World Wide Web
+
+#### What toy line famously featured figures with a "Kung Fu Grip"?
+
+- [ ] Strawberry Shortcake
+- [x] G.I. Joe
+- [ ] Slinky
+
+#### Joan of Arc led the military of what country?
+
+- [ ] Italy
+- [x] France
+- [ ] Spain
+
+#### The sprint in "Marathon Man" and the run in "Rocky" were filmed using which recently invented technology?
+
+- [ ] Crane
+- [ ] Dolly
+- [x] Steadicam
+
+#### What two-time NBA MVP is known as "The Greek Freak"?
+
+- [ ] Nikola Jokic
+- [ ] Moses Malone
+- [x] Giannis Antetokounmpo
+
+#### What is the name of the rock opera made by The Who?
+
+- [ ] Tony
+- [ ] Jimmy
+- [x] Tommy
