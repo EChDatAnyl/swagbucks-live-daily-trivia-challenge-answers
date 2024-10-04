@@ -48252,3 +48252,45 @@
 - [ ] Tony
 - [ ] Jimmy
 - [x] Tommy
+
+#### Which band's drontman has a PhD in molecular biology?
+
+- [ ] Queen
+- [x] Offspring
+- [ ] They Might Be Giants
+
+#### Which of the following World Competitions is fake?
+
+- [ ] Baby Crying
+- [x] Crab Kissing
+- [ ] Worm Charming
+
+#### What is the name of Batman's secret headquarters?
+
+- [ ] The Bat Station
+- [x] The Batcave
+- [ ] The Bat-partment
+
+#### In what portion is ice cream traditionally served?
+
+- [ ] Slaps
+- [x] Scoops
+- [ ] Shovels
+
+#### What slogan is used by Eggo waffles?
+
+- [ ] They're Wafflelicious!
+- [ ] Hot and Ready!
+- [x] L'Eggo my Eggo!
+
+#### Which of these voice types sings in the higest register?
+
+- [ ] Bass
+- [ ] Alto
+- [x] Soprano
+
+#### 
+
+- [ ] 
+- [ ] 
+- [ ] 
