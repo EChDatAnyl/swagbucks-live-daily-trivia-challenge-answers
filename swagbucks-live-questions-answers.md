@@ -48289,8 +48289,62 @@
 - [ ] Alto
 - [x] Soprano
 
-#### 
+#### In "Mean Girls", what did Aaron Samuels ask Cady on October 3rd?
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] What Day Is It?
+- [ ] Have You Seen My Baseball?
+- [ ] Who's The Man?
+
+#### In "Mean Girls", Cady Heron's family moves to Illinois from what place?
+
+- [x] Africa
+- [ ] Australia
+- [ ] Japan
+
+#### What are the popular girls in "Mean Girls" called?
+
+- [ ] The Pink Ladies
+- [ ] The Queens
+- [x] The Plastics
+
+#### Which social group is NOT mentioned during the "Mean Girls" tour of the cafeteria?
+
+- [ ] ROTC Guys
+- [ ] Desperate Wannabes
+- [x] Computer Virgins
+
+#### For which actor was "Mean Girls" their first film role?
+
+- [x] Amanda Seyfried
+- [ ] Tim Meadows
+- [ ] Lizzy Caplan
+
+#### In "Mean Girls", what is the term for the collection of rumors, stories, and gossip collected by the Plastics?
+
+- [ ] Story Book
+- [x] Burn Book
+- [ ] Mean Book
+
+#### What song almost didn't appear in the original "Mean Girls" due to rights issues?
+
+- [x] Beautiful
+- [ ] Jingle Bell Rock
+- [ ] U Can't Touch This
+
+#### Which actor played a "Mean Girls" character named after SNL's first musical guest?
+
+- [ ] Amy Poehler
+- [ ] Rachel McAdams
+- [x] Lizzy Caplan
+
+#### Who wrote the screenplay for "Mean Girls" and played Ms. Norbury?
+
+- [x] Tina Fey
+- [ ] Amy Poehler
+- [ ] Lacey Chabert
+
+#### Who played Cady in the original "Mean Girls"?
+
+- [ ] Britney Spears
+- [x] Lindsay Lohan
+- [ ] Sarah Michelle Gellar
