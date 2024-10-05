@@ -48360,3 +48360,39 @@
 - [ ] Complex
 - [ ] Suplex
 - [x] Multiplex
+
+#### In which country were the 1900 Olympic Games held?
+
+- [ ] Germany
+- [x] France
+- [ ] The U.S.
+
+#### Which of these would you typically use to help you wake up?
+
+- [x] Alarm Clock
+- [ ] Sewing Machine
+- [ ] Meryl Streep
+
+#### What celebrity was a special guest of Anna Sui at New York Fashion Week in 1996?
+
+- [ ] Hulk Hogan
+- [ ] The Budweiser Frogs
+- [x] Ronald McDonald
+
+#### Who was the first man to appear on the cover of Playboy magazine?
+
+- [x] Peter Sellers
+- [ ] Hugh Hefner
+- [ ] John Travolta
+
+#### Which of these foods needs to be cooked before it can be safely eaten?
+
+- [ ] Apple
+- [x] Chicken
+- [ ] Chocolate bar
+
+#### Which of these countries uses the Euro as their currency?
+
+- [ ] Australia
+- [x] Germany
+- [ ] Mexico
