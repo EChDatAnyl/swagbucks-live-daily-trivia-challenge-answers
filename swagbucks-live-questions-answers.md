@@ -48396,3 +48396,57 @@
 - [ ] Australia
 - [x] Germany
 - [ ] Mexico
+
+#### Which of these do you use to wipe your face at the dinner table?
+
+- [x] Napkin
+- [ ] Next of Kin
+- [ ] Mr. Kincaid
+
+#### Where is the world's largest cave system?
+
+- [x] Kentucky
+- [ ] Antarctica
+- [ ] Iran
+
+#### Based on AKC registrations, what is the most popular dog breed?
+
+- [x] Labrador Retriever
+- [ ] Golden Retriever
+- [ ] German Shepherd
+
+#### What is the name of the planet destroyed by the Death Star in "A New Hope"?
+
+- [ ] Hoth
+- [x] Alderaan
+- [ ] Dagobah
+
+#### A planned sequel to the video game "Sweet Home" eventually became what game?
+
+- [ ] Doom
+- [x] Resident Evil
+- [ ] Silent Hill
+
+#### In which city is "Friends" set?
+
+- [ ] Los Angeles
+- [ ] Pairs
+- [x] New York
+
+#### Which of these stars is NOT in Ellen's Oscar Selfie?
+
+- [ ] Channing Tatum
+- [ ] Angelina Jolie
+- [x] Emma Watson
+
+#### Who wrote "To Kill A Mockingbird"?
+
+- [ ] Truman Capote
+- [x] Harper Lee
+- [ ] Ernest Hemingway
+
+#### How many total pegs can you fit in your car piece in The Game of Life?
+
+- [ ] Eight
+- [x] Six
+- [ ] Four
