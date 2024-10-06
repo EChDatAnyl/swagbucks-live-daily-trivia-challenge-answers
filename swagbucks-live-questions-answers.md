@@ -48450,3 +48450,33 @@
 - [ ] Eight
 - [x] Six
 - [ ] Four
+
+#### In "The One With the Cuffs", which volume of the encyclopedia does Joey buy?
+
+- [ ] K
+- [ ] S
+- [x] V
+
+#### What year was William Shakespeare born?
+
+- [x] 1564
+- [ ] 1804
+- [ ] 1774
+
+#### What city is the Capital of the only State with a one-syllable name?
+
+- [ ] Frankfort
+- [x] Augusta
+- [ ] Columbus
+
+#### By what name is Robyn Fenty known?
+
+- [ ] Madonna
+- [ ] Lizzo
+- [x] Rihanna
+
+#### Which of these notes is held the longest?
+
+- [ ] Quarter note
+- [ ] Half note
+- [x] Whole note
