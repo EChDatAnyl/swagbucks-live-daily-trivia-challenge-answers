@@ -48493,8 +48493,26 @@
 - [x] Israel
 - [ ] America
 
-#### 
+#### In which of these games are you chased around a maze?
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Virtua Tennis
+- [ ] Centipede
+- [x] Pac-Man
+
+#### Which of the following animals is classified as a primate?
+
+- [ ] Tortoise
+- [ ] Fruit Bat
+- [x] Baboon
+
+#### Which Beatles song featrues a section audible only to dogs?
+
+- [ ] Martha My Dear
+- [ ] Penny Lane
+- [x] A Day In The Life
+
+#### What food product is made from the leftovers of beer manufacturing?
+
+- [ ] Maltesers
+- [x] Vegemite
+- [ ] Bullion cube
