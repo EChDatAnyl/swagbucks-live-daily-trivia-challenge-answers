@@ -48480,3 +48480,21 @@
 - [ ] Quarter note
 - [ ] Half note
 - [x] Whole note
+
+#### What is the name of the classic card game that involves matching colors and numbers?
+
+- [ ] Poker
+- [ ] Old Maid
+- [x] Uno
+
+#### David Ben-Gurion was the first Prime Minister of what country?
+
+- [ ] Canada
+- [x] Israel
+- [ ] America
+
+#### 
+
+- [ ] 
+- [ ] 
+- [ ] 
