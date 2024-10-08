@@ -48600,3 +48600,27 @@
 - [ ] The Highwomen
 - [ ] Trio
 - [x] The Chicks
+
+#### Why did Charlie Chaplin have four nominations for "The Circus" revoked?
+
+- [ ] The film was too short
+- [x] Academy thought he would win them all
+- [ ] He lied on his submission form
+
+#### In 1931, what famous U.S. building was completed?
+
+- [x] Empire State Building
+- [ ] Whtie House
+- [ ] Washington Monument
+
+#### What is the collective term for the first 10 amendments to the constitution?
+
+- [ ] The Declaration of Independence
+- [ ] The Federalist Papers
+- [x] The Bill of Rights
+
+#### Which of the following is NOT a tradition of the Japanese holiday of Omisoka?
+
+- [ ] House Cleaning
+- [ ] Cooking 3 day's worth of food
+- [x] Planting a tree
