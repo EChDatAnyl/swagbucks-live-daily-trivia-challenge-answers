@@ -17803,12 +17803,6 @@
 - [ ] Milkshakes
 - [ ] Beer
 
-#### Which of these foods is considered dairy?
-
-- [ ] Raisins
-- [ ] Smaller raisins
-- [x] Whole milk
-
 #### A 2013 University of Tokyo study discovered what animals could distinguish between musical composers?
 
 - [x] Goldfish
@@ -45394,7 +45388,7 @@
 #### What geometric shape with five sides is also the name of a government building?
 
 - [ ] Octagon
-- [ ] Pentagon
+- [x] Pentagon
 - [ ] Triangle
 
 #### What liquid is harvested from cows?
@@ -48516,3 +48510,93 @@
 - [ ] Maltesers
 - [x] Vegemite
 - [ ] Bullion cube
+
+#### Which of these toys takes its name from a word meaning "To Build"?
+
+- [x] Lego
+- [ ] Jenga
+- [ ] Duplo
+
+#### Complete this William Faulkner title: "The Sound and the..."
+
+- [x] Fury
+- [ ] Dish Towels
+- [ ] Other Sound
+
+#### How many scoops of raisins does Kellogg's claim are in each box of Raisin Bran?
+
+- [x] Two
+- [ ] Four
+- [ ] Eight
+
+#### The first modern Olympics that awarded actual gold medals took place in what city?
+
+- [x] St. Louis
+- [ ] Athens
+- [ ] London
+
+#### Which of these geometric shapes has the most sides?
+
+- [ ] Triangle
+- [ ] Pentagon
+- [x] Dodecahedron
+
+#### Loretta Lynn is known by what nickname?
+
+- [ ] The Great One
+- [x] The Coal Miner's Daughter
+- [ ] Bocephus
+
+#### Who did Johnny Cash marry and record music with?
+
+- [x] June Carter
+- [ ] Jeannie C. Reilly
+- [ ] Carrie Underwood
+
+#### Tammy Wynette recorded a hit song telling you to "Stand By Your" what?
+
+- [ ] Ideals
+- [ ] Car
+- [x] Man
+
+#### Before going into country music, Darius Rucker was the lead singer of which rock band?
+
+- [x] Hootie and the Blowfish
+- [ ] Alice in Chains
+- [ ] Steely Dan
+
+#### Who is known for country hits like "Wichita Lineman" and "Rhinestone Cowboy"?
+
+- [ ] Kris Kristofferson
+- [ ] Charley Pride
+- [x] Glen Campbell
+
+#### In Dolly Parton's "My Tennessee Mountain Home", life is a peaceful as what?
+
+- [ ] A butterfly
+- [x] A baby's sigh
+- [ ] The Lord on high
+
+#### What is the name of Buck Owens' backing group?
+
+- [x] The Buckaroos
+- [ ] The Bucky Charms
+- [ ] The Owenettes
+
+#### Which of the following singers started out as a rising country star?
+
+- [ ] Selena Gomez
+- [ ] Britney Spears
+- [x] Taylor Swift
+
+#### Kix Brooks is part of a duo with what other Country star?
+
+- [ ] Morgan Wallen
+- [x] Ronnie Dunn
+- [ ] Jelly Roll
+
+#### Emily Strayer, Martie Maguire, and Natalie Maines are collectively known by what name?
+
+- [ ] The Highwomen
+- [ ] Trio
+- [x] The Chicks
