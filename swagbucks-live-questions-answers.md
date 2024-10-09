@@ -48624,3 +48624,99 @@
 - [ ] House Cleaning
 - [ ] Cooking 3 day's worth of food
 - [x] Planting a tree
+
+#### Which game has pieces named the Queen, Pawn, and Rook?
+
+- [ ] Checkers
+- [x] Chess
+- [ ] Mancala
+
+#### On which reality show do contestants vie for a rose?
+
+- [ ] Survivor
+- [ ] Big Brother
+- [x] The Bachelor
+
+#### Which dessert is NOT French in origin?
+
+- [ ] Yule Log
+- [x] Mooncake
+- [ ] Flan
+
+#### If you wanted to participate in Pamplona's Running of the Bulls, to which country would you travel?
+
+- [ ] Italy
+- [ ] Belgium
+- [x] Spain
+
+#### In the opera "L'oca del Cairo", what does Biondello hide in to rescue Celidora?
+
+- [x] A mechanical goose
+- [ ] A wooden horse
+- [ ] A barrel of mead
+
+#### According to Money Crashers, what is NOT one of the 5 steps for extreme couponing?
+
+- [x] Clipping
+- [ ] Organizing
+- [ ] Resources
+
+#### Origami is the Japanese art of what?
+
+- [ ] Jacket Sewing
+- [ ] Cookie Baking
+- [x] Paper Folding
+
+#### What is the capital of the United States?
+
+- [x] Washington D.C.
+- [ ] Philadelphia
+- [ ] Albany
+
+#### What kind of food is Pillsbury known for?
+
+- [ ] Chips
+- [x] Baking Products
+- [ ] Stews
+
+#### Which of the following companies is focused on educational toys for kids?
+
+- [x] LeapPad
+- [ ] Compaq
+- [ ] Lenovo
+
+#### Chris, JC, Joey, Justin, and Lance make up which boy band?
+
+- [ ] 98 Degrees
+- [ ] Backstreet Boys
+- [x] NSYNC
+
+#### When Marvel's "Black Panther" was originally being developed in the 1990's, who was angling to play T'Challa?
+
+- [ ] Denzel Washington
+- [ ] Eddie Murphy
+- [x] Wesley Snipes
+
+#### Which of the following sports is palyed while on horseback?
+
+- [x] Polo
+- [ ] Soccer
+- [ ] Kickball
+
+#### Which of the following was NOT in the first class of the Baseball Hall of Fame?
+
+- [ ] Honus Wagner
+- [ ] Walter Johnson
+- [x] Nap Lajoie
+
+#### Which of the following mammals lays eggs?
+
+- [x] Duck-Billed Platypus
+- [ ] Dog
+- [ ] Human
+
+#### Which of the following is a wedge you would find on the Wheel of Fortune?
+
+- [ ] Go Back Two Spaces
+- [x] Lose A Turn
+- [ ] Take Off One Show
