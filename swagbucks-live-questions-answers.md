@@ -26869,7 +26869,7 @@
 - [ ] Superman
 - [x] Jake Gittes
 
-#### What was the name of the ship that brough the Pilgrims to America?
+#### What was the name of the ships that brought the Pilgrims to America?
 
 - [x] The Mayflower
 - [ ] The Juneflower
@@ -48720,3 +48720,15 @@
 - [ ] Go Back Two Spaces
 - [x] Lose A Turn
 - [ ] Take Off One Show
+
+#### In the 1983 animated film "Moon Madness", what alien race does Baron Munchausen fight on the moon?
+
+- [ ] Selenities
+- [x] Green Means
+- [ ] Appolians
+
+#### Which of these mixed drinks is normally made with rum?
+
+- [ ] Boilermaker
+- [x] Pina Colada
+- [ ] Bloody Mary
