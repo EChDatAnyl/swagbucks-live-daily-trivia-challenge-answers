@@ -48768,3 +48768,75 @@
 - [ ] Yellow
 - [x] Blue
 - [ ] Red
+
+#### What shape is the scar on Harry Potter's forehead?
+
+- [ ] Star
+- [ ] Circle
+- [x] Lightning Bolt
+
+#### What creatures serve as the guards at Azkaban prison?
+
+- [ ] Basilisks
+- [x] Dementors
+- [ ] Spiders
+
+#### Which Hogwarts House does Harry Potter get sorted into?
+
+- [ ] Slytherin
+- [ ] Ravenclaw
+- [x] Gryffindor
+
+#### What form does Harry Potter's patronus take?
+
+- [x] Stag
+- [ ] Bear
+- [ ] Lion
+
+#### In the world of Harry Potter, how many total siblings does Ron Weasley have?
+
+- [ ] Two
+- [x] Six
+- [ ] Ten
+
+#### What did Hermione Granger's parents do for a living?
+
+- [ ] Accountants
+- [ ] Lawyers
+- [x] Dentists
+
+#### Platform 9 3/4 from Harry Potter is located in which London train station?
+
+- [x] King's Cross Station
+- [ ] Paddington Station
+- [ ] Clapham Junction
+
+#### What music superstar once proposed making a Harry Potter musical?
+
+- [x] Michael Jackson
+- [ ] P!nk
+- [ ] Taylor Swift
+
+#### Ollivanders in Diagon Alley is known for selling what items?
+
+- [ ] Candy
+- [x] Wands
+- [ ] Maps
+
+#### What phrase, along with a tap of the wand, activates the Marauder's Map?
+
+- [x] I solemnly swear that I am up to no good
+- [ ] Show me the goods
+- [ ] Abracadba-map
+
+#### In the comic strip, what is the name of Calvin's stuffed tiger pal?
+
+- [x] Hobbes
+- [ ] Marmaduke
+- [ ] Snoopy
+
+#### Which of the following is NOT a type of fishing lure?
+
+- [ ] PencilPopper
+- [ ] Spoon
+- [x] Caniculer
