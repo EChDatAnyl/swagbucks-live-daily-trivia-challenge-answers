@@ -48732,3 +48732,39 @@
 - [ ] Boilermaker
 - [x] Pina Colada
 - [ ] Bloody Mary
+
+#### The boy for whom Paddington Bear was created went on to host what popular British show?
+
+- [ ] QI
+- [x] Top Gear
+- [ ] The Great British Baking Show
+
+#### Which of these is an old timey phrase for "go away," "scram" or "get out of here"?
+
+- [ ] Flapdoodle
+- [x] 23 Skidoo
+- [ ] Trradiddle
+
+#### Which of these animals is bipedal?
+
+- [ ] Dog
+- [x] Kangaroo
+- [ ] Centipede
+
+#### Flash the Orca, Splash the Whale, Chocolate the Moose were all part of the inital run of what 1990s toy fad?
+
+- [ ] Tamagotchi
+- [x] Beanie Babies
+- [ ] Furby
+
+#### In "Infinity War", whose voice can be heard sending a distress call on behalf of the Asgardians?
+
+- [x] Kenneth Branagh
+- [ ] Chris Hemsworth
+- [ ] Idris Elba
+
+#### What color is the sunset on Mars?
+
+- [ ] Yellow
+- [x] Blue
+- [ ] Red
