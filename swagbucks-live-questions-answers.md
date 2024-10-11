@@ -48840,3 +48840,93 @@
 - [ ] PencilPopper
 - [ ] Spoon
 - [x] Caniculer
+
+#### Teddy Roosevelt wore a ring containing a lock of hair from which former President?
+
+- [ ] George Washington
+- [x] Abraham Lincoln
+- [ ] Thomas Jefferson
+
+#### When he was a child, Walt Disney appeared in a play of which future Disney Film?
+
+- [x] Peter Pan
+- [ ] Alice in Wonderland
+- [ ] Snow White
+
+#### In 1995, a successfully cloned animal was named after who?
+
+- [ ] A former First Lady
+- [x] A singer
+- [ ] A scientist
+
+#### What everyday item did apothecary and chemist John Walker invent?
+
+- [x] Friction matches
+- [ ] Whiskey Bottles
+- [ ] Hearing Aids
+
+#### In which NCAA Conference would you see Seymour d'Campus and Marco the Buffalo on the sidelines for a game?
+
+- [ ] MAC
+- [ ] Mountain West
+- [x] Conference USA
+
+#### Which of the following cartoons has NOT been adapted into a Broadway musical?
+
+- [ ] The Lion King
+- [ ] Beauty and the Beast
+- [x] Caillou
+
+#### When you order a French Dip sandwich, what's normally provided for the dipping?
+
+- [x] Au Jus
+- [ ] Ranch Dressing
+- [ ] Chili
+
+#### Which of the following is one of the cardinal directions?
+
+- [ ] SSW
+- [ ] NNE
+- [x] W
+
+#### Salvador Dail's "The Persistence of Memory" was inspired by what food?
+
+- [ ] Chocolate
+- [x] Camembert
+- [ ] Peppermint Candy
+
+#### What State is home to the Horseshoe Sandwich?
+
+- [ ] Arkansas
+- [ ] Pennsylvania
+- [x] Illinois
+
+#### Which of the following is a common card game?
+
+- [ ] Scrabble
+- [x] Old Maid
+- [ ] Dodgeball
+
+#### What do the politicians Tony DeLuca, Patsy Mink, and Jenny Oropeza have in common?
+
+- [x] They were elected after dying
+- [ ] They're all the same person
+- [ ] They were all impeached
+
+#### Which of these creatures gather in a group called a "brace"?
+
+- [x] Ducks
+- [ ] Crocodiles
+- [ ] Bees
+
+#### Which of the following is NOT one of the suits in a standard deck of playing cards?
+
+- [ ] Hearts
+- [ ] Diamonds
+- [x] Anchors
+
+#### Norton is a company known for what kind of software?
+
+- [x] Antivirus
+- [ ] Dating
+- [ ] Spreadsheet
