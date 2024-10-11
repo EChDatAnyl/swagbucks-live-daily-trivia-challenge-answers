@@ -48930,3 +48930,63 @@
 - [x] Antivirus
 - [ ] Dating
 - [ ] Spreadsheet
+
+#### In baseball, which of these would break up a pitcher's perfect game?
+
+- [ ] Strikeout
+- [ ] Ground out
+- [x] A home run
+
+#### Which of these CW shows is based on a comic book?
+
+- [x] Riverdale
+- [ ] Crazy Ex-Girlfriend
+- [ ] Jane the Virgin
+
+#### What series of animated films star a Wolly Mammoth and a Saber Tooth Tiger?
+
+- [x] Ice Age
+- [ ] Ferngully
+- [ ] Toy Story
+
+#### At 15-year old New Zealand built one of the world's largest what?
+
+- [ ] Rubber band balls
+- [x] Grand pianos
+- [ ] Paper airplanes
+
+#### What piece of playground equipment is an example of a lever and fulcrum?
+
+- [x] See-Saw
+- [ ] Slide
+- [ ] Sandbox
+
+#### King Tut was buried with what game?
+
+- [x] Senet
+- [ ] Chess
+- [ ] Jacks
+
+#### What is the larges U.S. State by area?
+
+- [ ] Texas
+- [x] Alaska
+- [ ] Maine
+
+#### Lily Snowden-Fine, Cecily Bloom, and Harley Bird have all played what role?
+
+- [ ] Matilda
+- [ ] Dora the Explorer
+- [x] Peppa Pig
+
+#### In 2017, thieves in Germany stole a truck containing $80,000 worth of what?
+
+- [ ] Beer
+- [x] Chocolate
+- [ ] Sausages
+
+#### The original version of which of the following games requires more than two people to play?
+
+- [ ] Checkers
+- [ ] Chess
+- [x] Catan
