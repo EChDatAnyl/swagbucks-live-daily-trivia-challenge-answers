@@ -48990,3 +48990,33 @@
 - [ ] Checkers
 - [ ] Chess
 - [x] Catan
+
+#### Venice Beach, Santa Monica, and Beverly Hills are all part of which California County?
+
+- [ ] Homboldt
+- [ ] Ventura
+- [x] Los Angeles
+
+#### Where was Celine Dion born?
+
+- [ ] Mexico
+- [ ] Russia
+- [x] Canada
+
+#### Which book by Dan Brown follows the adventures of Robert Langdon, a Harvard professor of symbology?
+
+- [x] The Da Vinci Code
+- [ ] 1984
+- [ ] The Catcher in the Rye
+
+#### If you're afraid of flying, what fear do you have?
+
+- [x] Aerophobia
+- [ ] Triskaidekaphobia
+- [ ] Arachnophobia
+
+#### 
+
+- [ ] 
+- [ ] 
+- [ ] 
