@@ -49015,8 +49015,32 @@
 - [ ] Triskaidekaphobia
 - [ ] Arachnophobia
 
-#### 
+#### Which Hall of Famer's only career home run came on his first at-bat?
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Walter Johnson
+- [x] Hoyt Wilhelm
+- [ ] Bob Gibson
+
+#### Which of the following would a doctor put on their hands before performing surgery?
+
+- [ ] Wool mittens
+- [x] Golves
+- [ ] Diamond rings
+
+#### According to the saying, what speaks louder than words?
+
+- [x] A picture
+- [ ] A banshee
+- [ ] Actions
+
+#### The Bee Gees contributed heavily to the soundtrack of what 1970s movie?
+
+- [ ] Grease
+- [x] Saturday Night Fever
+- [ ] Star Trek: The Motion Picture
+
+#### What kind of drink container is also a nickname for a face?
+
+- [ ] Pilsner
+- [ ] Juice glass
+- [x] Mug
