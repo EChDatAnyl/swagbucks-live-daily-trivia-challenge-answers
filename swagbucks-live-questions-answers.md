@@ -49044,3 +49044,33 @@
 - [ ] Pilsner
 - [ ] Juice glass
 - [x] Mug
+
+#### In internet programming, what does CSS stand for?
+
+- [ ] Computer System Script
+- [x] Cascading Style Sheet
+- [ ] Central Style Script
+
+#### What WWE faction is composed of members from the Samoan professional wrestling dynasty?
+
+- [ ] The New Day
+- [ ] Judgement Day
+- [x] The Bloodline
+
+#### Which of these pieces of furniture is meant to hold clothing?
+
+- [ ] Desk
+- [x] Bureau
+- [ ] Chair
+
+#### In "Alice in Wonderland", who issues the order "Off with their heads!"?
+
+- [x] The Queen of Hearts
+- [ ] The King of Clubs
+- [ ] The Jack of Diamonds
+
+#### Which of the following video games has sold the most copies?
+
+- [x] Minecraft
+- [ ] Ecco the Dolphin
+- [ ] Cyberpunk 2077
