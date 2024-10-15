@@ -49074,3 +49074,63 @@
 - [x] Minecraft
 - [ ] Ecco the Dolphin
 - [ ] Cyberpunk 2077
+
+#### A famous Botticelli painting features the birth of which Roman deity?
+
+- [ ] Aurora
+- [ ] Bubona
+- [x] Venus
+
+#### What color is Boston Clam Chowder?
+
+- [x] White
+- [ ] Green
+- [ ] Blue
+
+#### According to the saying, you can lead a horse to water but you can't make it do what?
+
+- [ ] Swim
+- [ ] Bathe
+- [x] Drink
+
+#### Which U.S. president was known as The Great Communicator?
+
+- [x] Ronald Reagan
+- [ ] Richard Nixon
+- [ ] Calvin Coolidge
+
+#### In the game "Go Fish", what are players fishing for?
+
+- [ ] Food
+- [x] Cards
+- [ ] Compliments
+
+#### In kitchen slang, what does "expo" refer to?
+
+- [ ] Plating
+- [ ] Boiling
+- [x] Expeditor
+
+#### Which of the following is a Chris Stapleton hit?
+
+- [ ] Milwaukee Beer
+- [x] Tennessee Whiskey
+- [ ] Dover Scotch
+
+#### Before Drew Carey, who was the host of "The Price Is Right"?
+
+- [ ] Alex Trebek
+- [x] Bob Barker
+- [ ] Pat Sajak
+
+#### Harvard University is located near what major city?
+
+- [ ] New York
+- [ ] Chicago
+- [x] Boston
+
+#### The NHL's Oilers are located in which city?
+
+- [x] Edmonton
+- [ ] Chicago
+- [ ] Houston
