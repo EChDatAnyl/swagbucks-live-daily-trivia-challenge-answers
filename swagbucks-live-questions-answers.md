@@ -49254,3 +49254,21 @@
 - [x] Arnold Drummond
 - [ ] Webster Long
 - [ ] Vicki the Robot
+
+#### What color is Thomas the Tank Engine?
+
+- [ ] Gree
+- [ ] Red
+- [x] Blue
+
+#### "Hola" is a greeting in which language?
+
+- [ ] Japanese
+- [ ] Dutch
+- [x] Spanish
+
+#### A brake-in at what hotel created the scandal that ended Richard Nixon's presidency?
+
+- [x] Watergate
+- [ ] Econo Lodge
+- [ ] Hyatt
