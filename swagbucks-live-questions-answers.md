@@ -19531,7 +19531,7 @@
 - [ ] Tank
 - [x] Dagwood
 
-#### Cartoonist Carl Barks created which wealthy Diseny Duck as a comic book character?
+#### Cartoonist Carl Barks created which wealthy Disney Duck as a comic book character?
 
 - [ ] Scrooge McDuck
 - [ ] Huey
@@ -49134,3 +49134,123 @@
 - [x] Edmonton
 - [ ] Chicago
 - [ ] Houston
+
+#### What is the name for the removable outside layer of a hardcover book?
+
+- [x] Dust Jacket
+- [ ] Garbage Cover
+- [ ] Leaflet
+
+#### In which of these board games are you trying to bankrupt your opponents?
+
+- [ ] Chess
+- [x] Monopoly
+- [ ] Risk
+
+#### Who is the all-time leading scoer in the history of the NHL?
+
+- [ ] Jaromir Jagr
+- [ ] Gordie Howe
+- [x] Wayne Gretzky
+
+#### Which year's YouTube Rewind video featured Gangnam Style?
+
+- [ ] 2010
+- [ ] 2011
+- [x] 2012
+
+#### John Hughes got the title "Pretty In Pink" from a song by what band?
+
+- [ ] Velvet Underground
+- [ ] Blondie
+- [x] Psychedelic Furs
+
+#### Where does Oscar the Grouch live?
+
+- [ ] Penthouse apartment
+- [x] In a trash can
+- [ ] Bunker
+
+#### Which of the following discontinued Doritos flavors is the FAKE?
+
+- [x] Sweet n' Spicy Maple Jalapeno
+- [ ] Chester's Cheese
+- [ ] Late Night All-Nighter Cheeseburger
+
+#### Which of the following is NOT the title of a Disney educated film?
+
+- [ ] Four Methods of Flush Riveting
+- [x] Alcohol and the Human Body
+- [ ] Advice on Lice
+
+#### If you're in good health, you're said to be fit as a what?
+
+- [x] Fiddle
+- [ ] Horse
+- [ ] Tree
+
+#### What is the name of Wreck-It Ralph's handyman co-worker?
+
+- [ ] Hard Hat Harry
+- [ ] Power Tool Pete
+- [x] Fit-It Felix
+
+#### "Frasier" was a spinoff of what other sitcom?
+
+- [ ] Alice
+- [x] Cheers
+- [ ] Neighborhood
+
+#### Which sitcom character was the lead of "All in the Family"?
+
+- [ ] George Jefferson
+- [ ] Joey Tribbiani
+- [x] Archie Bunker
+
+#### Jerry Stiller played a main character's father on "King of Queens" and what other sitcom?
+
+- [x] Seinfeld
+- [ ] Blossom
+- [ ] Girl Meets World
+
+#### What was the first show to win the Emmy for Best Comedy Show?
+
+- [x] The Red Skelton Show
+- [ ] The Honeymooners
+- [ ] Your Show of Shows
+
+#### What is the main setting for Brooklyn 99?
+
+- [ ] A Fire Station
+- [ ] A Radio Station
+- [x] A Police Station
+
+#### Julia Louis-Dreyfus won six consecutive Emmy awards for her role on which HBO comedy?
+
+- [ ] Baller
+- [x] Veep
+- [ ] Entourage
+
+#### Which of these pairs of "Modern Family" characters are siblings?
+
+- [x] Clarie and Mitchell
+- [ ] Jay and Phil
+- [ ] Alex and Cameron
+
+#### "I'll Be There For You" is the theme song to which sitcom?
+
+- [ ] It's A Living
+- [x] Friends
+- [ ] How I Met Your Mother
+
+#### In "The Office", what is Michael Scott's job at Dunder Mifflin?
+
+- [x] Regional MAnager
+- [ ] Assistant Regional Manager
+- [ ] Assistant To The Regional Manager
+
+#### Which sitcom character's catchphrase was "Whatchu talkin' about, Willis"?
+
+- [x] Arnold Drummond
+- [ ] Webster Long
+- [ ] Vicki the Robot
