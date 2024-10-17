@@ -49272,3 +49272,93 @@
 - [x] Watergate
 - [ ] Econo Lodge
 - [ ] Hyatt
+
+#### What inspired the title for the "Now That's What I Call Music" series of albums?
+
+- [x] A Pig
+- [ ] Duran Duran
+- [ ] Ronald Reagan
+
+#### Leonardo da Vinci was born and lived in what country?
+
+- [x] Italy
+- [ ] Belglum
+- [ ] Sweden
+
+#### Jonas Salk is known for developing the vaccine for what disease?
+
+- [x] Pollo
+- [ ] The commond cold
+- [ ] Rabies
+
+#### The team nicknamed the "Bronx Bombers" plays in which league?
+
+- [x] American League
+- [ ] Eastern League
+- [ ] National League
+
+#### Where is Carnegie Hall located?
+
+- [ ] Los Angeles
+- [x] New York
+- [ ] Detroit
+
+#### Which of the following is a synonym for "Fortuitous"?
+
+- [x] Lucky
+- [ ] Smelly
+- [ ] Tardy
+
+#### What does an epidemiologist study?
+
+- [ ] Dinosaurs
+- [x] Diseases
+- [ ] Dolphins
+
+#### Your mother's sister would be your:
+
+- [ ] Cousin
+- [ ] Grandmother
+- [x] Aunt
+
+#### Someone who's observant might be described using which synonym?
+
+- [x] Perspicacious
+- [ ] Bilious
+- [ ] Congential
+
+#### In the 1990s, what slang emerged as a way to say something was great?
+
+- [ ] Groovy
+- [x] Da Bomb
+- [ ] Neato
+
+#### A public convenience is something you use for what purpose?
+
+- [ ] To Travel
+- [ ] To Eat
+- [x] To Relieve Yourself
+
+#### An oscillating fan has the ability to do what?
+
+- [ ] Turn itself off
+- [x] Move back and forth
+- [ ] Make no noise
+
+#### What is the term for a word formed from a verb and used as an adjective?
+
+- [x] Participle
+- [ ] Determiner
+- [ ] Interjection
+
+#### When someone says "No cap". what are they saying?
+
+- [x] No Lie
+- [ ] No Doubt
+- [ ] No Surrender
+
+#### During a military drill, which command directs the soldiers to turn around?
+
+- [ ] AWOL
+- [x] About Face
+- [ ] Wilco
