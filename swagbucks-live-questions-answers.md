@@ -49362,3 +49362,45 @@
 - [ ] AWOL
 - [x] About Face
 - [ ] Wilco
+
+#### What other food item did McDonald's briefly make into McNuggets?
+
+- [ ] Ham
+- [x] Onion
+- [ ] Cheese
+
+#### What breakfast cereal is "Kid Tested, Mother Approved"?
+
+- [ ] Lucky Charms
+- [ ] Coca Puffs
+- [x] Kix
+
+#### In Sex and the City, what does Carrie Bradshaw do for a living?
+
+- [ ] Anchorwoman
+- [x] Writer
+- [ ] Designer
+
+#### Who was the first of Disney's "Fab 5" to appear in color in a theatrical release?
+
+- [ ] Mickey
+- [x] Donald
+- [ ] Goofy
+
+#### "Planification" and "To precise" are examples of what dialect?
+
+- [ ] Estuary English
+- [ ] Pig Latin
+- [x] EU English
+
+#### Which of these actors has the strongest Danish roots?
+
+- [ ] Kristen Dunst
+- [ ] Reese Witherspoon
+- [x] Scarlett Johansson
+
+#### Who originally hosted the science show Cosmos?
+
+- [ ] Mr. Wizard
+- [ ] Albert Einstein
+- [x] Carl Sagan
