@@ -49476,3 +49476,33 @@
 - [ ] In the bank
 - [x] A penny earned
 - [ ] A meal at dawn
+
+#### What color is a standard U.S. stop sign?
+
+- [ ] Rainbow
+- [ ] Puce
+- [x] Red
+
+#### In what year was Coca-Cola invented?
+
+- [ ] 1776
+- [x] 1886
+- [ ] 1931
+
+#### What Oscar-winning actress is the daughter of Jon Voight?
+
+- [ ] Cate Blanchett
+- [x] Angelina Jolie
+- [ ] Jennifer Lawrence
+
+#### Who was the losing pitcher in the longest MLB game every played?
+
+- [x] Chuck Porter
+- [ ] Rollie Fingers
+- [ ] Rick Waits
+
+#### What calorie-conscious Coke product debuted in 1982?
+
+- [x] Diet Coke
+- [ ] New Coke
+- [ ] Coca-Cola
