@@ -49404,3 +49404,75 @@
 - [ ] Mr. Wizard
 - [ ] Albert Einstein
 - [x] Carl Sagan
+
+#### Alan Shepard famously played what sport on the moon?
+
+- [ ] Football
+- [x] Golf
+- [ ] Baseball
+
+#### "Nocturnal Fears" was the subtitle of a proposed but unmade sequel to what movie?
+
+- [ ] A Nightmare on Elm Street
+- [x] E.T.
+- [ ] The Thing
+
+#### On "Seinfeld", which character is Jerry's neighbor?
+
+- [ ] Puddy
+- [x] Kramer
+- [ ] Elaine
+
+#### What section of an orchestra contains all the unpitched instruments?
+
+- [ ] String
+- [ ] Woodwinds
+- [x] Percussion
+
+#### In 2024, Australian Rachael "Raygun" Gunn went viral for her curious performance in which Olympic event?
+
+- [x] Breaking
+- [ ] Dressage
+- [ ] Marathon
+
+#### As of 2024, which of the following author's film adaptations have grossed the most at the box office?
+
+- [x] Michael Crichton
+- [ ] Ian Fleming
+- [ ] J.R.R. Tolkien
+
+#### What was the first animal to be cloned?
+
+- [ ] Snake
+- [x] Tadpole
+- [ ] Sheep
+
+#### What toy brand features the phrase "It's not the same without the flame" on its packaging?
+
+- [ ] Barbie
+- [ ] Furby
+- [x] Hot Wheels
+
+#### The game Jenga gets its name for a Swahili word meaning what?
+
+- [x] Build
+- [ ] Fall
+- [ ] Replace
+
+#### Which of the following MLB players had fewer than 600 home runs in their career?
+
+- [ ] Sammy Sosa
+- [ ] Jim Thome
+- [x] Frank Robinson
+
+#### Which of these breakfast cereals contains marshmallows?
+
+- [ ] Cheerios
+- [x] Lucky Charms
+- [ ] Raisin Bran
+
+#### In a saying widely attributed to Benjamin Franklin, "A penny saved is" what?
+
+- [ ] In the bank
+- [x] A penny earned
+- [ ] A meal at dawn
