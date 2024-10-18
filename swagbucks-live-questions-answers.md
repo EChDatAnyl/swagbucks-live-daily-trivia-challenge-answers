@@ -49506,3 +49506,39 @@
 - [x] Diet Coke
 - [ ] New Coke
 - [ ] Coca-Cola
+
+#### Which of these companies produces the most tires in the world?
+
+- [ ] Bridestone
+- [x] Lego
+- [ ] Best Buy
+
+#### Which band first performed together in Gladsaxe, Denmark?
+
+- [ ] The Beatles
+- [x] Led Zeppelin
+- [ ] The Who
+
+#### In which video game do you run from ghosts while eating pellets?
+
+- [x] Pac-Man
+- [ ] Dig Dug
+- [ ] Space Invaders
+
+#### Sigourney Weaver played Ellen Ripley in what Sci-Fi film series?
+
+- [ ] Star Trek
+- [ ] Guardians of the Galaxy
+- [x] Alien
+
+#### In 2015, a parrot was arrested in India for what crime?
+
+- [ ] Attack a police officer
+- [ ] Escaping the zoo
+- [x] Being verbally abusive
+
+#### What type of plant is traditionally decorated with lights and ornaments for Christmas?
+
+- [x] Tree
+- [ ] Fern
+- [ ] Vine
