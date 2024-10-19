@@ -28225,7 +28225,7 @@
 - [ ] Her hair
 - [ ] Her eyes
 
-#### In one fairy tale, a girl is revealed to be a princess after feelign what object beneath a pile of mattresses?
+#### In one fairy tale, a girl is revealed to be a princess after feeling what object beneath a pile of mattresses?
 
 - [ ] Marble
 - [ ] Twig
@@ -49542,3 +49542,21 @@
 - [x] Tree
 - [ ] Fern
 - [ ] Vine
+
+#### "Better Call Saul" is a spinoff of what show?
+
+- [ ] Mad Men
+- [x] Breaking Bad
+- [ ] That 70's Show
+
+#### In the McDonald's logo, what color is the giant "M"?
+
+- [ ] Red
+- [ ] White
+- [x] Yellow
+
+#### Before the Washington Monument, what was the world's tallest man made structure?
+
+- [x] The Cologne Cathedral
+- [ ] The Statue of Liberty
+- [ ] The Eiffel Tower
