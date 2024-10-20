@@ -49579,8 +49579,20 @@
 - [ ] Charlie Puth
 - [x] Lizzo
 
-#### 
+#### Brian is the talkign dog on what animated series?
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] The Simpsons
+- [ ] Venture Bros
+- [x] Family Guy
+
+#### Which of these John Carpenter movies earned the most at the box office?
+
+- [ ] Christine
+- [ ] Big Trouble in Little China
+- [x] Starman
+
+#### A gamma radiation experiment gone wrong causes Dr. Bruce Banner to transform into what superhero?
+
+- [x] The Incredible Hulk
+- [ ] Captain Marvel
+- [ ] Hawkeye
