@@ -21097,7 +21097,7 @@
 - [ ] Electronic
 - [x] Salsa
 
-#### Crest, Colgate, amd Aquafresh all sell what product?
+#### Crest, Colgate, and Aquafresh all sell what product?
 
 - [ ] Sandals
 - [x] Toothpaste
@@ -49560,3 +49560,27 @@
 - [x] The Cologne Cathedral
 - [ ] The Statue of Liberty
 - [ ] The Eiffel Tower
+
+#### What company has the license to make Bertie Bott's Every Flavor Beans?
+
+- [x] Jelly Belly
+- [ ] Brach's
+- [ ] Hershey
+
+#### Who starred in Aerosmith videos for songs like "Crazy" and "Cryin" in addition to the movie "Clueless"?
+
+- [ ] Liv Tyler
+- [x] Alica Silverstone
+- [ ] Sarah Michelle Gellar
+
+#### The song "About Damn Time" was a summer hit for what artist?
+
+- [ ] Camila Cabello
+- [ ] Charlie Puth
+- [x] Lizzo
+
+#### 
+
+- [ ] 
+- [ ] 
+- [ ] 
