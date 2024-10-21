@@ -40117,7 +40117,7 @@
 - [ ] Recipes
 - [ ] Coat Sales
 
-#### What TV show introduced the world to Kelly Clarkson>
+#### What TV show introduced the world to Kelly Clarkson?
 
 - [x] American Idol
 - [ ] The X-Factor
@@ -49626,3 +49626,45 @@
 - [x] Doppler Effect
 - [ ] Lou Dobbs Effect
 - [ ] Dollop Effect
+
+#### Where is Christmas celebrated by feeding and getting treats from a "Pooping Log"?
+
+- [ ] Lichtenstein
+- [ ] Malta
+- [x] Catalonia
+
+ #### Which of these pasta shapes most closely resemble rice?
+
+- [ ] Linguini
+- [x] Orzo
+- [ ] Spaghetti
+
+#### Kindchenschema is the scientific study of what?
+
+- [ ] Child rearing
+- [x] Cuteness
+- [ ] Youth
+
+#### Whose off-key performance of the Star Spangled Banner at the NBA All-Star game went viral in 2018?
+
+- [ ] Madonna
+- [ ] Charlie Puth
+- [x] Fergie
+
+#### In the famous Coca-Cola "Hilltop" ad, people from around the world sing what song?
+
+- [ ] "This Hill Is Tall And I'm Afraid Of Heights"
+- [x] "I'd Like To Buy The World A Coke"
+- [ ] "The Hills Are Alive With The Sound Of Music"
+
+#### In medicine, what does IV stand for?
+
+- [ ] Icy Violets
+- [ ] Inner Velvet
+- [x] Intravenous
+
+#### What is the most stolen food item in the world?
+
+- [x] Cheese
+- [ ] Saffron
+- [ ] Chocolate
