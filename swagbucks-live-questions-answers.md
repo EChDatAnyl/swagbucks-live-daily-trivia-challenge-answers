@@ -49596,3 +49596,33 @@
 - [x] The Incredible Hulk
 - [ ] Captain Marvel
 - [ ] Hawkeye
+
+#### Which of these associations started the earliest?
+
+- [x] Young Men's Christian Association
+- [ ] The Table Tennis Association
+- [ ] The Croquet Association
+
+#### Which First Lady was a ninth-generation descendant of Pocahontas?
+
+- [x] Edith Wilson
+- [ ] Bess Truman
+- [ ] Helen Taft
+
+#### The passage "Mad world! Mad kings! Mad composition!" employs what literary device?
+
+- [x] Anaphora
+- [ ] Polyptonton
+- [ ] Polysyndeton
+
+#### Which of the following is NOT a sandwich cookie?
+
+- [x] Hydrox
+- [ ] Nila Wafer
+- [ ] Oreo
+
+#### Which of these has to do with sound?
+
+- [x] Doppler Effect
+- [ ] Lou Dobbs Effect
+- [ ] Dollop Effect
