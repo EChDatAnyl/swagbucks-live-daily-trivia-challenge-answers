@@ -49728,3 +49728,39 @@
 - [x] Get Out
 - [ ] Nope
 - [ ] Us
+
+#### What historic disaster took place in 79 AD?
+
+- [ ] The wreck of the Titanic
+- [x] The destruction of Pompeii
+- [ ] The Bubonic Plague
+
+#### Breaking the basket or backboard in an NBA game became a foul thanks to who?
+
+- [ ] Darryl Dawkins
+- [ ] Michael Jordan
+- [x] Shaquille O'Neal
+
+#### In the song "Gaston", which of the following words is NOT used to describe Gaston?
+
+- [ ] Slick
+- [ ] Kingpin
+- [x] Adonis
+
+#### The Simpson family has owned a series of cats that all share what name?
+
+- [ ] Bart
+- [ ] Milhouse
+- [x] Snowball
+
+#### Which member of the Avengers gets their powers from the Super Soldier Serum?
+
+- [ ] Captaiun America
+- [ ] The Scarlet Witch
+- [x] Iron Man
+
+#### In which board game do you use a pencil and paper to get people to guess answers?
+
+- [ ] Trouble
+- [x] Pictionary
+- [ ] Jenga
