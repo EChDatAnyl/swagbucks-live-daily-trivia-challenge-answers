@@ -49668,3 +49668,63 @@
 - [x] Cheese
 - [ ] Saffron
 - [ ] Chocolate
+
+#### What is the name of Dr. Henry Jekyll's monstrous alter ego?
+
+- [ ] Pinhead
+- [x] Mr. Hyde
+- [ ] The Babadook
+
+#### What are standard Reese's Cups filled with?
+
+- [ ] Pineapple
+- [ ] Peppermint Bark
+- [x] Peanut Butter
+
+#### In which movie does Bill Murray get "slimed" by a ghost?
+
+- [x] Ghostbusters
+- [ ] Quick Change
+- [ ] Larger Than Life
+
+#### Sleepy Hollow has a legend about a Horseman who's missing which body part?
+
+- [ ] Arm
+- [ ] Leg
+- [x] Head
+
+#### Which of these candies is spicy?
+
+- [x] Hot Tamales
+- [ ] Skittles
+- [ ] Bottle Caps
+
+#### In Edgar Allan Poe's "The Raven", what is the single word repeated by the Raven?
+
+- [ ] YOLO
+- [ ] Sigma
+- [x] Nevermore
+
+#### Where was the first gummy candy produced?
+
+- [ ] The United States
+- [x] Germany
+- [ ] Switzerland
+
+#### Which ghosst is summoned by saying their name into a mirror three or more times?
+
+- [x] Bloody Mary
+- [ ] The Hook
+- [ ] The Ghost of Chirstmas Past
+
+#### What country is home to the legend of the Loch Ness Monster?
+
+- [ ] Ireland
+- [ ] Wales
+- [x] Scotland
+
+#### In which Jordan Peele movie does the hero get sent to the Sunken Place?
+
+- [x] Get Out
+- [ ] Nope
+- [ ] Us
