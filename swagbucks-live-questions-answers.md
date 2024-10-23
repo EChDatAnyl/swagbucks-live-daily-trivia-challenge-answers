@@ -49764,3 +49764,63 @@
 - [ ] Trouble
 - [x] Pictionary
 - [ ] Jenga
+
+#### Which urban myth started with an online Photoshopping contest?
+
+- [ ] Bloody Mary
+- [ ] The Legend of Sleepy Hollow
+- [x] Slender Man
+
+#### Which of the following is NOT a way to kill a vampire?
+
+- [ ] Sunlight
+- [ ] Wooden stake through the heart
+- [x] Kindness
+
+#### Krackel is very similar to what other candy bar?
+
+- [x] Nestle Crunch
+- [ ] Mr. Goodbar
+- [ ] Skor
+
+#### What do you say to summon Beetlejuice?
+
+- [ ] A poem
+- [ ] Song lyrcis
+- [x] His name
+
+#### Which of the following candies was invented by a dentist?
+
+- [x] Cotton Candy
+- [ ] Candy Corn
+- [ ] KitKat
+
+#### When does Freddy Krueger attack the teens of Elm Street?
+
+- [ ] When they're sick
+- [ ] When they're running
+- [x] When they're sleeping
+
+#### What kaiju is known as the King of the Monsters?
+
+- [ ] Mothra
+- [x] Godzilla
+- [ ] Ghidorah
+
+#### What country is home to the urban legend of the haunted Silverpilen?
+
+- [ ] Norway
+- [ ] Austria
+- [x] Sweden
+
+#### What is the name of the murderous doll in "Child's Play"?
+
+- [x] Chucky
+- [ ] Billy
+- [ ] Tommy
+
+#### What flavor are York Patties?
+
+- [ ] Caramel
+- [x] Peppermint
+- [ ] Peanut
