@@ -49824,3 +49824,33 @@
 - [ ] Caramel
 - [x] Peppermint
 - [ ] Peanut
+
+#### Which of these artists is known for surrealist paintings?
+
+- [x] Salvador Dali
+- [ ] Rembrandt
+- [ ] Leonardo da Vinci
+
+#### What Jules Verne book is about a race to circummnavigate the globe?
+
+- [ ] 20,000 Leagues Under the Sea
+- [ ] Around the moon
+- [x] Around the World in 80 Days
+
+#### Which of the following is NOT the name of an episode of Tales From the Crypt?
+
+- [ ] Cutting Cards
+- [ ] Split Second
+- [x] Slice and Dice
+
+#### What is the name of the nanny character Robin Williams uses as a disguise?
+
+- [x] Mrs. Doubtfire
+- [ ] Mrs. Surewater
+- [ ] Mrs. Butterworth
+
+#### 
+
+- [ ] 
+- [ ] 
+- [ ] 
