@@ -49908,3 +49908,33 @@
 - [ ] Granola
 - [ ] Chocolate
 - [x] Gummy
+
+#### Who was the first woman in U.S. history to receive an electoral college vote?
+
+- [x] Tonie Nathan
+- [ ] Geraldine Ferraro
+- [ ] Hilary Clinton
+
+#### Which book did Stephen King dedicate to Night of the Living Dead director George Romero?
+
+- [x] Cell
+- [ ] Doctor Sleep
+- [ ] Under the Dome
+
+#### In Anchorman, what catchphrase does Ron Burgundy use to end each broadcast?
+
+- [ ] "I'm in a glass case of emotion"
+- [ ] "I love lamp"
+- [x] "You stay classy, San Diego"
+
+#### What group of characters includes Gonzo, Scooter, and Fozzie Bear?
+
+- [ ] The Wuzzles
+- [x] The Muppets
+- [ ] The Getalong Gang
+
+#### How many tiles does a player play to score a bingo in Scrabble?
+
+- [ ] 5
+- [x] 7
+- [ ] 8
