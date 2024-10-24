@@ -49849,8 +49849,62 @@
 - [ ] Mrs. Surewater
 - [ ] Mrs. Butterworth
 
-#### 
+#### In the original "King Kong", which New York building does Kong climb?
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] The Empire State Building
+- [ ] Rockefeller Center
+- [ ] The Statue of Liberty
+
+#### What horror video game is about homicidal animatronics at a family pizzeria?
+
+- [ ] Silent Hill
+- [x] Five Nights At Freddy's
+- [ ] Resident Evil
+
+#### In most stories, what part of your do zombies want to eat?
+
+- [ ] Your calves
+- [ ] Your fingers
+- [x] Your brains
+
+#### In which "Nightmare on Elm Street" movie does Freddy kill using a video game?
+
+- [ ] Dream Warriors
+- [x] The Final Nightmare
+- [ ] Freddy's Revenge
+
+#### Which of the following is a Skittles slogan?
+
+- [ ] Melts in your mouth, not in your hand
+- [ ] Makes mouths happy
+- [x] Taste the rainbow
+
+#### The director of the horror film "Black Christmas" also directed which holiday movie?
+
+- [x] A Christmas Story
+- [ ] Miracle on 34th Street
+- [ ] Santa Claus: The Movie
+
+#### What is Frankenstein's mosnter made from?
+
+- [ ] Metal
+- [x] Corpses
+- [ ] LEGO
+
+#### Milky Way bars were originally designed to taste like what?
+
+- [ ] Chocolate Cake
+- [x] Malted Milkshake
+- [ ] Hershey's Kisses
+
+#### In a common horror trope, where is the call coming from?
+
+- [x] Inside the house
+- [ ] Cobb County, Georgia
+- [ ] The Sierra Club
+
+#### Haribo is mainly known for making what kind of candy?
+
+- [ ] Granola
+- [ ] Chocolate
+- [x] Gummy
