@@ -50034,3 +50034,81 @@
 - [x] Michael Keaton
 - [ ] Johnny Depp
 - [ ] Orlando Bloom
+
+#### How old was Anderson Cooper when he launched Anderson Cooper 360?
+
+- [x] 36
+- [ ] 39
+- [ ] 42
+
+#### Which of the following is NOT a button on the Instant Pot?
+
+- [ ] Yogurt
+- [x] Oatmeal
+- [ ] Multigrain
+
+#### What is a juvenile cat called?
+
+- [x] Kitten
+- [ ] Puppy
+- [ ] Baby
+
+#### What song is commonly used for a Jack-in-the-Box?
+
+- [ ] Ring Around The Rosy
+- [ ] Three Blind Mice
+- [x] Pop Goes the Weasel
+
+#### In "Rock, Paper, Scissors" what beats paper?
+
+- [ ] Rock
+- [ ] Paper
+- [x] Scissors
+
+#### Which children's toy allows you to make magnetic drawings by turning a pair of knobs?
+
+- [ ] Teddy Ruxpin
+- [x] Etch A Sketch
+- [ ] View-Master
+
+#### According to the nursery rhyme, who killed Cock Robin?
+
+- [x] The Sparrow
+- [ ] Red Robin
+- [ ] The Falcon
+
+#### Which board game has you solving a murder?
+
+- [ ] Sorry
+- [x] Clue
+- [ ] Monopoly
+
+#### Irn Bru is a non-alcoholic beverage from what country?
+
+- [ ] Sweden
+- [x] Scotland
+- [ ] Ireland
+
+#### In "Jack and the Beanstalk", what does the giant say?
+
+- [ ] Fiddle Dee Diddle Dee Dee
+- [ ] Foddle Doddle Doo
+- [x] Fee Fi Fo Fum
+
+#### If you suffer from Arachibutyrophobia, what are you afraid of?
+
+- [x] Peanut butter stuck to the roof of your mouth
+- [ ] Open flames
+- [ ] Spiders crawling into your mouth
+
+#### What method do the humans and aliens use to communicate in "Close Encounters of the Third Kind"?
+
+- [ ] Fermata
+- [x] Solfege
+- [ ] Sempre Piu
+
+#### Where was Candy Corn born?
+
+- [ ] Boston
+- [ ] New York
+- [x] Philadelphia
