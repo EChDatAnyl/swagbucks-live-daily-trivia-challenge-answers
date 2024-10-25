@@ -49938,3 +49938,99 @@
 - [ ] 5
 - [x] 7
 - [ ] 8
+
+#### What is the name of the U.S. National Anthem?
+
+- [ ] America the Beautiful
+- [ ] God Bless America
+- [x] The Star-Spangled Banner
+
+#### In 1911, what kind of cheese was created in Switzerland by Walter Gerber and Fritz Stettler?
+
+- [ ] Stilton Cheese
+- [x] American Cheese
+- [ ] Boursin
+
+#### Which of these colleges was among the first three Facebook expanded to?
+
+- [ ] Brown
+- [x] Stanford
+- [ ] UC Berleley
+
+#### Chinese foot binding was done so feet remained tiny enough to fit into what slippers?
+
+- [x] Lotus Shoes
+- [ ] Song Shoes
+- [ ] Hibiscus Shoes
+
+#### What is the term of the removable outer cover of a book?
+
+- [ ] Windbreaker
+- [ ] Snowsuit
+- [x] Dust Jacket
+
+#### Who is the only person to have served as both Chief Justice of the Supreme Court and President of the United States?
+
+- [x] William Howard Taft
+- [ ] Warren G Harding
+- [ ] James K. Polk
+
+#### What candy is always sold in pairs?
+
+- [x] Twix
+- [ ] Hershey Cookies 'n' Creme
+- [ ] 100 Grand
+
+#### Brendan Fraser starred in a movie franchise about which Universal monster?
+
+- [ ] Dracula
+- [x] The Mummy
+- [ ] Frankenstein
+
+#### What animated show has an annual "Treehouse of Horror" episode?
+
+- [ ] American Dad
+- [ ] Universal Basic Guys
+- [x] The Simpsons
+
+#### Fay Wray took the role in King Kong thinking she was going to work opposite which leading man?
+
+- [x] Gary Cooper
+- [ ] Cary Grant
+- [ ] Clark Gable
+
+#### Ed and Lorraine Warren were the inspiration for what horror film?
+
+- [ ] The Amityville Horror
+- [ ] Poltergeist
+- [x] The Conjuring
+
+#### Clive Barker's Candyman releases which insects from his mouth?
+
+- [ ] Aphids
+- [x] Bees
+- [ ] Cockroaches
+
+#### Pez candies get their name from the German word for what?
+
+- [ ] Minature
+- [ ] Neck
+- [x] Peppermint
+
+#### What was the Ceature from the Black Lagoon modeled after?
+
+- [x] Oscar Statuette
+- [ ] Sardine
+- [ ] Da Vinci Sculpture
+
+#### In the "Friday the 13th" movies, where is Jason Voorhees based?
+
+- [ ] Elm Street
+- [x] Camp Crystal Lake
+- [ ] Bogota, Colombia
+
+#### In "Beetlejuice" and its sequel, who played "The Ghost with the Most"?
+
+- [x] Michael Keaton
+- [ ] Johnny Depp
+- [ ] Orlando Bloom
