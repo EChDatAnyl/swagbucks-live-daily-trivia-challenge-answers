@@ -50196,3 +50196,21 @@
 - [ ] Valvoline
 - [ ] Bisquick
 - [x] Dunkin'
+
+#### Why was the first American roller coaster built?
+
+- [ ] To test out a new transportation system
+- [x] To distract sinners
+- [ ] For the World's Fair
+
+#### In what year was the Wright Brothers' famous first flight?
+
+- [ ] 1776
+- [x] 1903
+- [ ] 1972
+
+#### The discovery of the Rosetta Stone was the key to deciphering what ancient language?
+
+- [ ] Greek
+- [x] Egyptian
+- [ ] French
