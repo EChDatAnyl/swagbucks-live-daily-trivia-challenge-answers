@@ -50112,3 +50112,39 @@
 - [ ] Boston
 - [ ] New York
 - [x] Philadelphia
+
+#### Which of these Muppets lives in a trash can?
+
+- [ ] Big Bird
+- [x] Oscar the Grouch
+- [ ] Elmo
+
+#### The Thames River flows through what city?
+
+- [ ] Denver
+- [x] London
+- [ ] Moscow
+
+#### Where are you most likely to find an octothorpe?
+
+- [ ] Your closet
+- [x] Twitter
+- [ ] An orchestra
+
+#### Which of the following is one of Homer Simpson's catchphrases?
+
+- [ ] "Yabba dabba doo!"
+- [x] "D'oh!"
+- [ ] "Jinkies!"
+
+#### What game show features mini-games like Plinko, Bargain Game and Cliff Hangers?
+
+- [ ] Wheel of Fortune
+- [ ] Jeopardy
+- [x] The Price is Right
+
+#### 
+
+- [ ] 
+- [ ] 
+- [ ] 
