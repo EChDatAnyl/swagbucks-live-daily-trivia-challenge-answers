@@ -50161,8 +50161,38 @@
 - [ ] The Sun Run
 - [ ] The Neptune Wiggle
 
-#### 
+#### When they were first invented, how long did it take to make a Marshmallow Peep?
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] 30 seconds
+- [ ] 10 minutes
+- [x] 27 hours
+
+#### What marine creature has no bones?
+
+- [ ] Bass
+- [ ] Dolphin
+- [x] Shark
+
+#### Where would you most likely experience a hypnagogic jerk?
+
+- [ ] At a bar
+- [ ] In a theater
+- [x] In bed
+
+#### Which of the following is a synonym for "pandmonium"?
+
+- [x] Hullabaloo
+- [ ] Depression
+- [ ] Grapple
+
+#### What ancient city was supposedly home to famous Hanging Gardens?
+
+- [ ] Detroit
+- [ ] Brooklyn
+- [x] Babylon
+
+#### Complete this slogan: "America Runs on..."
+
+- [ ] Valvoline
+- [ ] Bisquick
+- [x] Dunkin'
