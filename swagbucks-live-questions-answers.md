@@ -50143,6 +50143,24 @@
 - [ ] Jeopardy
 - [x] The Price is Right
 
+#### What genre of music is "The Itsy Bitsy Spider"?
+
+- [ ] Speed metal
+- [ ] Electronica
+- [x] Children's music
+
+#### If you were to take a photograph of the inspiration for the name "Kodak", what would be in the picture?
+
+- [ ] Dog
+- [ ] Photographer
+- [x] The letter K
+
+#### What dance move did Michael Jackson make famous?
+
+- [x] The Moonwalk
+- [ ] The Sun Run
+- [ ] The Neptune Wiggle
+
 #### 
 
 - [ ] 
