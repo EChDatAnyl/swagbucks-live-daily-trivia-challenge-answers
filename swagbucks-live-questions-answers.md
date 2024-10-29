@@ -50214,3 +50214,63 @@
 - [ ] Greek
 - [x] Egyptian
 - [ ] French
+
+#### Which of the following celebrities is famous for being a supermodel?
+
+- [ ] Angelina Jolie
+- [x] Cindy Crawford
+- [ ] Liza Minnelli
+
+#### Which of these snacks traditionally made around a campfire?
+
+- [ ] Ice Cream Sandwich
+- [ ] Fiddle Faddle
+- [x] S'mores
+
+#### What imaginary line is located at zero degrees latitude?
+
+- [x] The Equator
+- [ ] The Maginot Line
+- [ ] The Dotted Lines
+
+#### Amenhotep ruled over what country?
+
+- [ ] Iraq
+- [ ] Russia
+- [x] Egypt
+
+#### Which of the following is a common programming language?
+
+- [x] Java
+- [ ] Jabba
+- [ ] Javelin
+
+#### Which book of the Old Testament contains the story of Adam and Eve?
+
+- [ ] Leviticus
+- [ ] Judges
+- [x] Genesis
+
+#### The phrase "back to square one" is rumored to have originated with a version of what board game?
+
+- [ ] Candy Land
+- [x] Chutes and Ladders
+- [ ] Clue
+
+#### Which of the following is NOT a traditional answer that a Magic 8-Ball give you?
+
+- [ ] Yes
+- [ ] Ask again later
+- [x] I Don't Have Time For This
+
+#### Which of the following hard drive sizes can hold the most data?
+
+- [ ] 500 MB
+- [ ] 500 GB
+- [x] 500 TB
+
+#### Tony Hawk is famous for his contributions to what sport?
+
+- [ ] Pickeball
+- [x] Skateboarding
+- [ ] Track & Field
