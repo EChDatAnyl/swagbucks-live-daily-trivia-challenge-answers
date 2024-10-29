@@ -50274,3 +50274,33 @@
 - [ ] Pickeball
 - [x] Skateboarding
 - [ ] Track & Field
+
+#### Freddie Mercury was the lead singer of what band?
+
+- [ ] Squeeze
+- [ ] Wham
+- [x] Queen
+
+#### Who utters the famous line "You can't handle the truth!" in "A Few Good Men"?
+
+- [ ] Kevin Pollak
+- [ ] Demi Moore
+- [x] Jack Nicholson
+
+#### The Spice Girls were originally intended to be part of which Disney film?
+
+- [ ] Peter Pan
+- [x] Hercules
+- [ ] Pinocchio
+
+#### Before he was a famous comedian, what did Ken Jeong do for a living?
+
+- [x] Doctor
+- [ ] Garbage Man
+- [ ] Senator
+
+#### Which of these songs is by Bon Jovi?
+
+- [ ] White Christmas
+- [x] Livin' On A Prayer
+- [ ] Twinkle Twinkle Little Star
