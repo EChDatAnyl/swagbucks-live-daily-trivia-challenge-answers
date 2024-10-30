@@ -50304,3 +50304,51 @@
 - [ ] White Christmas
 - [x] Livin' On A Prayer
 - [ ] Twinkle Twinkle Little Star
+
+#### How long does the average baseball last in an MLB game?
+
+- [ ] 2 pitches
+- [x] 5-7 pitches
+- [ ] 9-10 pitches
+
+#### How old was Tutankhamun when he assumed the throne?
+
+- [x] 9
+- [ ] 10
+- [ ] 11
+
+#### Which of these NFL team always plays a game on Thanksgiving Day?
+
+- [x] Detroit Lions
+- [ ] Tampa Bay Buccaneers
+- [ ] Los Angeles Chargers
+
+#### Who starred in the 2001 remake of Ocean's Eleven?
+
+- [ ] Ben Affleck
+- [x] George Clooney
+- [ ] Sylvester Stallone
+
+#### 1950s sitcom character Theodore Cleaver was better known by what nickname?
+
+- [ ] Scooter
+- [x] Beaver
+- [ ] Batman
+
+#### Kate McKinnon and Pete Davidson both recently departed what sketch comedy show?
+
+- [x] Saturday Night Live
+- [ ] Mad TV
+- [ ] The State
+
+#### Aeolic, Tuscan, and Corinthian are types of what?
+
+- [x] Architecture
+- [ ] Leather
+- [ ] Cuisine
+
+#### Which famous museum was built on the state of a fortress?
+
+- [x] The Louvre
+- [ ] State Hermitage Museum
+- [ ] Rijksmuseum
