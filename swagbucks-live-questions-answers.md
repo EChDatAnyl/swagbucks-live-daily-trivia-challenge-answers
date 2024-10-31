@@ -50352,3 +50352,63 @@
 - [x] The Louvre
 - [ ] State Hermitage Museum
 - [ ] Rijksmuseum
+
+#### Fluoride is used most often in what household staple?
+
+- [ ] Ironing Board
+- [x] Toothpaste
+- [ ] Toaster
+
+#### Who became the Fastest Man in the World at the 2024 Summer Olympics?
+
+- [ ] Fred Kerley
+- [ ] Kishane Thompson
+- [x] Noah Lyles
+
+#### What band gave their last concert from the rooftop of Apple Records in 1969?
+
+- [ ] The Who
+- [ ] The Four Tops
+- [x] The Beatles
+
+#### The man who won an Oscar for Happy Feet is also responsible for which film franchise?
+
+- [ ] Die Hard
+- [x] Mad Max
+- [ ] Lethal Weapon
+
+#### What toy line will "wobble, but they don't fall down?"
+
+- [ ] Jenga
+- [x] Weebles
+- [ ] My Little Pony
+
+#### On average, how many pups does a female Tiger shark give birth to at a time?
+
+- [ ] 82
+- [x] 30
+- [ ] 50
+
+#### Which of the following reality competition shows is the fake?
+
+- [ ] Dancing With The Stars
+- [ ] American Idol
+- [x] So You Think You Can Hold Your Breath
+
+#### Mr. Potato Head was the first toy advertised via what medium?
+
+- [ ] Billboard
+- [ ] Radio Ad
+- [x] TV Commercial
+
+#### "Skibidi", "Ohio", and "Sigma" are all terms coined by which generation?
+
+- [x] Generation Alhpa
+- [ ] Generation X
+- [ ] Baby Boomers
+
+#### Heineken, Budweiser, and Corona are all brands of what beverage?
+
+- [ ] Orange Juice
+- [ ] Soda
+- [x] Beer
