@@ -50424,3 +50424,33 @@
 - [ ] Superman
 - [ ] Wonder Woman
 - [x] Batman
+
+#### Compelte this lyric: "I ain't got nothing but love, babe..."
+
+- [x] Eight Days A Week
+- [ ] One Day At A Time
+- [ ] Three Days Part-Time
+
+#### What Baz Luhrmann musical starring Nicole Kidman and Ewan McGregor debuted in the summer movie season of 2001?
+
+- [x] Moulin Rogue
+- [ ] Australia
+- [ ] Strictly Ballroom
+
+#### Which of these NHL teams plays their home games in the Mountain Time Zone?
+
+- [x] Calgary Flames
+- [ ] Vancouver Canucks
+- [ ] Winnipeg Jets
+
+#### In addition to her nursing work, what did Florence Nightingale help popularize?
+
+- [ ] Buttermilk Biscuits
+- [ ] Doghouses
+- [x] Pie Charts
+
+#### What is the total distance in a marathon?
+
+- [ ] 10 miles
+- [x] 26.2 miles
+- [ ] 32 miles
