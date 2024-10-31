@@ -50412,3 +50412,15 @@
 - [ ] Orange Juice
 - [ ] Soda
 - [x] Beer
+
+#### What astronomical body is primarily responsible for our tides?
+
+- [ ] Mars
+- [ ] The Sun
+- [x] The Moon
+
+#### Which of these comic book characters has no superhuman powers?
+
+- [ ] Superman
+- [ ] Wonder Woman
+- [x] Batman
