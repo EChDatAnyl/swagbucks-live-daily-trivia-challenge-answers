@@ -50454,3 +50454,63 @@
 - [ ] 10 miles
 - [x] 26.2 miles
 - [ ] 32 miles
+
+#### What two options do costumed kids offer when they go door-to-door on Halloween?
+
+- [x] Trick or Treat
+- [ ] Love or Hate
+- [ ] Sun or Moon
+
+#### In "Carrie", what substance is dumped on her head at prom?
+
+- [ ] Confetti
+- [ ] Ice water
+- [x] Pig's blood
+
+#### What kind of animal does Count Dracula transform into?
+
+- [ ] Meerkat
+- [ ] Grasshopper
+- [x] Bat
+
+#### What did the Halloween colors of Black and Orange originally represent?
+
+- [ ] Pranks and Candy
+- [ ] Costumes & Fear
+- [x] Death & Harvest
+
+#### In October, the Haribo Headquarters hands out free candy to children who bring them what?
+
+- [x] Acorns
+- [ ] Leaves
+- [ ] Old clothes
+
+#### What is the name of the villainous sack of bugs from "The Nightmare Before Christmas"?
+
+- [x] Oogie Boogie
+- [ ] Creepy Crawly
+- [ ] Silly Willy
+
+#### Which of the following Halloween Specials is the fake?
+
+- [x] A Very Buffy Halloween
+- [ ] Pac-Man Halloween Special
+- [ ] Halloween on Ice
+
+#### Oscar-winning filmmaker Joel Coen got one of his first showbiz jobs as an assistant editor on what other horror movie?
+
+- [ ] The Howling
+- [ ] Scanners
+- [x] The Evil Dead
+
+#### What term is given to the miniature versions of full-size candy?
+
+- [ ] Joy-size
+- [x] Fun-size
+- [ ] Wee ones
+
+#### Which horror film centers around a cursed videotape that kills you after you watch it?
+
+- [x] The Ring
+- [ ] Alien
+- [ ] Friday the 13th
