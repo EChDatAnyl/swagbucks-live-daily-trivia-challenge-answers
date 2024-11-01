@@ -42681,7 +42681,7 @@
 
 #### In Erin Brockovich, how big is her check at the end of the movie?
 
-- [ ] $2 Million
+- [x] $2 Million
 - [ ] 20 cents
 - [ ] $10
 
@@ -48424,7 +48424,7 @@
 #### In which city is "Friends" set?
 
 - [ ] Los Angeles
-- [ ] Pairs
+- [ ] Paris
 - [x] New York
 
 #### Which of these stars is NOT in Ellen's Oscar Selfie?
@@ -50514,3 +50514,33 @@
 - [x] The Ring
 - [ ] Alien
 - [ ] Friday the 13th
+
+#### Which of the following countries is NOT in Europe?
+
+- [ ] Finland
+- [ ] Germany
+- [x] Japan
+
+#### In total, how many wives did Henry VIII have?
+
+- [ ] Two
+- [ ] Three
+- [x] Six
+
+#### Which of the following words is an adjective?
+
+- [ ] Toast
+- [ ] Ran
+- [x] Beautiful
+
+#### Which Mad Men character has the least eumelanin in her hair?
+
+- [x] Betty Draper
+- [ ] Peggy Olson
+- [ ] Joan Holloway
+
+#### What flavor is the standard candy cane?
+
+- [ ] Cilantro
+- [x] Peppermint
+- [ ] Beef
