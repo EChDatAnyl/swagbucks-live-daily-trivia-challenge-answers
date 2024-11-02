@@ -50544,3 +50544,21 @@
 - [ ] Cilantro
 - [x] Peppermint
 - [ ] Beef
+
+#### Which game has two sides that are X and O?
+
+- [ ] Checkers
+- [x] Tic Tac Toe
+- [ ] Chess
+
+#### Witwatersrand is home of around 50 percent of the world's what?
+
+- [ ] Mined diamonds
+- [x] Gold reserves
+- [ ] Tigers
+
+#### Which president installed the White House's first bathtub?
+
+- [x] Millard Filmore
+- [ ] William Howard Taft
+- [ ] Ronald Reagan
