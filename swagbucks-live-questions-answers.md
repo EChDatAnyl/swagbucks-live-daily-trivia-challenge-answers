@@ -50562,3 +50562,15 @@
 - [x] Millard Filmore
 - [ ] William Howard Taft
 - [ ] Ronald Reagan
+
+#### Which of these animals lays eggs?
+
+- [ ] Giraffle
+- [x] Salmon
+- [ ] Squirrel
+
+#### What local delicacy could you enjoy if you visited the city where Candy Corn was created?
+
+- [ ] New England Clam Chowder
+- [x] Cheesesteak
+- [ ] Gumbo
