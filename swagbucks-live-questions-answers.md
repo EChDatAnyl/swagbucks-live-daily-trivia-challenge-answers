@@ -50574,3 +50574,39 @@
 - [ ] New England Clam Chowder
 - [x] Cheesesteak
 - [ ] Gumbo
+
+#### Who did NOT record a James Bond theme song in the 1980s?
+
+- [ ] Sheena Easton
+- [ ] a-ha
+- [x] Tina Turner
+
+#### How are dogs commonly bellieved to kiss?
+
+- [x] With their tongues
+- [ ] With their eyes
+- [ ] With their tails
+
+#### Mount Everest is part of which mountain range?
+
+- [ ] Rocky Mountains
+- [x] Himalayas
+- [ ] Appalachian Mountains
+
+#### Cher Horowitz is the heroine of which teen comedy classic?
+
+- [ ] Drive Me Crazy
+- [x] Clueless
+- [ ] Whatever It Takes
+
+#### Michael Jordan is known for what sport?
+
+- [ ] Hockey
+- [ ] Curling
+- [x] Basketball
+
+#### The raven that inspired Edgar Allan Poe also appears in what book?
+
+- [ ] Bleak House
+- [x] Barnaby Rudge
+- [ ] Our Mutual Friend
