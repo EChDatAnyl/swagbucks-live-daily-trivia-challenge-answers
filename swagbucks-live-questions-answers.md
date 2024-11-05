@@ -29869,12 +29869,6 @@
 - [x] Play Doh
 - [ ] Slime
 
-#### A grotesque of what pop culture figure andorns the Washington National Cathedral?
-
-- [x] Darth Vader
-- [ ] Kermit the frog
-- [ ] Count Chocula
-
 #### If bottles of Dom Perignon sported an image of the real Dom Perignon, what would you see on the label?
 
 - [ ] A Doctor
@@ -50610,3 +50604,99 @@
 - [ ] Bleak House
 - [x] Barnaby Rudge
 - [ ] Our Mutual Friend
+
+#### The first "computer bug" was what type of bug?
+
+- [ ] Fly
+- [x] Moth
+- [ ] Roach
+
+#### In the video game of the same name, what does CS:GO stand for?
+
+- [ ] Cold Salami: Georgia Open
+- [x] Counter Strike: Global Offensive
+- [ ] Carl Sanderson: Grizzled Officer
+
+#### Which of these famous pieces of art is a sculpture?
+
+- [ ] The Last Supper
+- [x] The Thinker
+- [ ] Mona Lisa
+
+#### What is the name for a scientist who studies history through artifacts?
+
+- [ ] Medium
+- [x] Archaeologist
+- [ ] Dentist
+
+#### What happened at the 1969 Oscars for only the second time up to that point?
+
+- [ ] A woman was nominated for Best Screenplay
+- [ ] A black actor won an Oscar
+- [x] Two actors tied for an Oscar
+
+#### Which of these would most likely cause a paradox of choice?
+
+- [x] Cheesecake Factory Menu
+- [ ] True/False Test
+- [ ] This question
+
+#### What liquid is traditionally added to a bowl of cereal?
+
+- [ ] Water
+- [ ] Orange Juice
+- [x] Milk
+
+#### Which cereal claims to be "Magically Delicious"?
+
+- [ ] Golden Grahams
+- [x] Lucky Charms
+- [ ] Apple Cinnamon Cheerios
+
+#### Who are the mascots for Rice Krispies?
+
+- [x] Snap, Crackle, and Pop
+- [ ] Bingle, Dingle, and Bongle
+- [ ] Inky, Pinky, and Blinky
+
+#### What type of monster is Count Chocula supposed to be?
+
+- [ ] Zombie
+- [ ] Ghost
+- [x] Vampire
+
+#### How many scoops of raisins are supposed to be in each box of Kellogg's Raisin Bran?
+
+- [x] Two
+- [ ] Three
+- [ ] Four
+
+#### Post's "Battle Creek Cereal" is now known by what name?
+
+- [ ] Honey-Comb
+- [ ] Puffins
+- [x] Honey Bunches of Oats
+
+#### What brand of cereal is advertisted using Fred Flintstone?
+
+- [ ] Honey Bunches of Oats
+- [x] Fruity Pebbles
+- [ ] French Toasst Crunch
+
+#### Who are the enemies of Cap'n Crunch?
+
+- [x] The Soggies
+- [ ] The Morlocks
+- [ ] The Doldrums
+
+#### What kind of bird appears on boxes of Kellogg's Froot Loops?
+
+- [ ] Pigeon
+- [ ] Emu
+- [x] Toucan
+
+#### What word does Tony the Tiger use to describe Frosted Flakes?
+
+- [x] Great
+- [ ] Illuminating
+- [ ] Mid
