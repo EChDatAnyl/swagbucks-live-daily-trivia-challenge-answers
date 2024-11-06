@@ -50790,3 +50790,45 @@
 - [ ] Chicago
 - [ ] New York
 - [x] Boston
+
+#### When you refer to your digits, what body part are you talking about?
+
+- [ ] Eyes
+- [ ] Ears
+- [x] Fingers
+
+#### What future rock star also performed on the Ed Sullivan Show the night the Beatles debuted?
+
+- [x] Davy Jones
+- [ ] David Crosby
+- [ ] Donnie Osmond
+
+#### According to the nursery rhyme "Hickory Dickory Dock", what ran up the clock?
+
+- [x] The Mouse
+- [ ] The Spider
+- [ ] The Flash
+
+#### According to the song, "Who's the leader of the club that's made for you and me?"
+
+- [x] Mickey Mouse
+- [ ] Donald Duck
+- [ ] Oswald the Rabbit
+
+#### In the comic strip, what is the name of Blondie's husband?
+
+- [x] Dagwood
+- [ ] Alexander
+- [ ] Bill
+
+#### If Jenny McCarthy was a victim of McCarthyism, what would she be accused of?
+
+- [x] Being a Communist
+- [ ] Being a Monarchist
+- [ ] Being a Gymnast
+
+#### What country leads the world in ice cream consumption?
+
+- [ ] The United States
+- [x] New Zealand
+- [ ] Germany
