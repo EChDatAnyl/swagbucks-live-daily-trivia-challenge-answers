@@ -50700,3 +50700,93 @@
 - [x] Great
 - [ ] Illuminating
 - [ ] Mid
+
+#### What does the RC in RC Cola stand for?
+
+- [ ] Really Cold
+- [x] Royal Crown
+- [ ] Righteous Cherry
+
+#### What McDonald's menu concept debuted in the 1990s?
+
+- [ ] Chicken McNuggets
+- [ ] Filet-O-Fish
+- [x] Super Sizing
+
+#### Which leader was renowned for his "Blood and Iron" speech?
+
+- [x] Otto Von Bismarck
+- [ ] Henry V
+- [ ] Augustus Caesar
+
+#### Which of these TV shows was about the police?
+
+- [x] Hill Street Blues
+- [ ] M*A*S*H
+- [ ] St. Elsewhere
+
+#### What was the only painting Van Gogh officially sold during his lifetime?
+
+- [ ] Stary Night
+- [ ] Irises
+- [x] The Red Vineyard at Arles
+
+#### What mysterious expression does the Mona Lisa have on her face?
+
+- [ ] Frown
+- [ ] Grimace
+- [x] Smile
+
+#### What kind of cheese is traditionally used on pizza?
+
+- [ ] America
+- [x] Mozzarella
+- [ ] Brie
+
+#### Old Faithful can be found in which U.S. National Park?
+
+- [x] Yellowstone
+- [ ] Arches
+- [ ] Yosemite
+
+#### Which Beatle started the band Wings?
+
+- [ ] Ringo Starr
+- [ ] George Harrison
+- [x] Paul McCartney
+
+#### What is Tahini made from?
+
+- [x] Sesame Seeds
+- [ ] Chickpeas
+- [ ] Yogurt
+
+#### What Tina Fey movie was adapted into a musical, then into a 2024 movie musical?
+
+- [x] Mean Girls
+- [ ] Sisters
+- [ ] Baby Mama
+
+#### What are Nerf balls made of?
+
+- [x] Foam
+- [ ] Leather
+- [ ] Wood
+
+#### Where would you find the "Cradle of Mankind"?
+
+- [x] Tanzania
+- [ ] Egypt
+- [ ] Iran
+
+#### What term is used to describe the show business child of a celebrity?
+
+- [x] Nepo Baby
+- [ ] Favorite Child
+- [ ] Easy Rider
+
+#### What city is home to the Celtics, Bruins, and Red Sox?
+
+- [ ] Chicago
+- [ ] New York
+- [x] Boston
