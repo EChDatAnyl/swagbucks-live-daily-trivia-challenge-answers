@@ -50910,3 +50910,39 @@
 - [ ] Mockingbird
 - [x] Black Widow
 - [ ] White Wolf
+
+#### What does the C stand for in CIA?
+
+- [x] Central
+- [ ] Crazy
+- [ ] Criminal
+
+#### John 11:35 is notoriously one of the shortest Bible verses. What two words make up the verse?
+
+- [ ] Rejoice always
+- [x] Jesus wept
+- [ ] Pray, repent
+
+#### Writer Dorothy Parker's estate was left to what organization?
+
+- [ ] Library of Congress
+- [x] NAACP
+- [ ] Associated Press
+
+#### What are "Lemon Drop", "Fizzing Whizzbee", and "Sherbet Lemon"?
+
+- [ ] Bertie Botts Every Flavor Beans
+- [ ] Drinks at the Hog's Head
+- [x] Secret Passwords
+
+#### What town is known as The City of Brotherly Love?
+
+- [ ] Cheyenne
+- [x] Philadelphia
+- [ ] Fort Worth
+
+#### What does the Atomic Number measure?
+
+- [x] Protons
+- [ ] Neutrons
+- [ ] Electrons
