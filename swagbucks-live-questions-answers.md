@@ -50832,3 +50832,81 @@
 - [ ] The United States
 - [x] New Zealand
 - [ ] Germany
+
+#### What crooner was known as "Ol' Blue Eyes"?
+
+- [ ] Bing Crosby
+- [x] Frank Sinatra
+- [ ] Dean Martin
+
+#### Which of the following was NOT a use of Independence Hall?
+
+- [ ] Dog pound
+- [x] Post Office
+- [ ] Hospital
+
+#### Which of these sports involves a net?
+
+- [ ] Hurdles
+- [ ] Rowing
+- [x] Volleyball
+
+#### Which celebrity guest once fell in lvoe with a fire hydrant?
+
+- [ ] Carol Burnett
+- [ ] Jim Carrey
+- [x] R2D2
+
+#### Which Marvel hero, played by Ryan Reynolds, is known as the "Merc with a Mouth"?
+
+- [ ] Wolverine
+- [x] Deadpool
+- [ ] Booster Gold
+
+#### Where do the majority of Archie comics take place?
+
+- [x] Riverdale
+- [x] Gotham City
+- [ ] Metropolis
+
+#### Which AMC TV series was based on a comic book?
+
+- [ ] Mad Men
+- [ ] Better Call Saul
+- [x] The Walking Dead
+
+#### What kind of invisible vehicle is owned by Wonder Woman?
+
+- [x] Jet
+- [ ] Motorcycle
+- [ ] Tank
+
+#### When DC bought the rights to Superman from Siegel and Shuster, how much did they pay?
+
+- [ ] One dollar
+- [x] One hundred thirty dollars
+- [ ] Seventeen hundred dollars
+
+#### What emotion turns Bruce Banner into The Hulk?
+
+- [ ] Confusion
+- [ ] Happiness
+- [x] Anger
+
+#### During a Marvel/DC crossover event, which of the following DC characters was NOT able to wield Thor's hammer?
+
+- [x] Green Lantern
+- [ ] Superman
+- [ ] Wonder Woman
+
+#### How did Peter Parker get his super powers?
+
+- [x] Bitten by a Radioactive Spider
+- [ ] Gamma Radiation experiment
+- [ ] From the Earth's yellow sun
+
+#### Super spy Natasha Romanoff goes by what nickname?
+
+- [ ] Mockingbird
+- [x] Black Widow
+- [ ] White Wolf
