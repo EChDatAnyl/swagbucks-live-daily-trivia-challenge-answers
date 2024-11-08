@@ -50946,3 +50946,93 @@
 - [x] Protons
 - [ ] Neutrons
 - [ ] Electrons
+
+#### Which rock legend currently goes by the name Yusuf Islam?
+
+- [x] Cat Stevens
+- [ ] James Taylor
+- [ ] Eric Clapton
+
+#### Who played Han Solo in multiple "Star Wars" movies?
+
+- [ ] Mark Hamill
+- [x] Harrison Ford
+- [ ] James Earl Jones
+
+#### In Ancient Rome, what large structure was used to stage gladiator battles?
+
+- [x] The Colosseum
+- [ ] The Trevi Fountain
+- [ ] The Leaning Tower of Pisa
+
+#### The Oakland Raiders have relocated to what city?
+
+- [ ] Shreveport
+- [x] Las Vegas
+- [ ] Poughkeepsie
+
+#### In Boggle, what are you trying to find?
+
+- [ ] Pictures
+- [x] Words
+- [ ] People
+
+#### What does the "I" in the restaurant chain IHOP's name stand for?
+
+- [ ] Intentional
+- [ ] Itchy
+- [x] International
+
+#### Which of the following stars became famous as a Saturday Night Live cast member?
+
+- [ ] Jim Carrey
+- [x] Will Ferrell
+- [ ] Soupy Sales
+
+#### Which of the following genres of music is classified as EDM?
+
+- [ ] Funk
+- [ ] Acoustic
+- [x] Deep House
+
+#### Material from the failed pilot "LA Takedown" was eventually worked into what movie?
+
+- [ ] L.A. Confidential
+- [x] Heat
+- [ ] The Nice Guys
+
+#### Influencers A.J. and Big Justice became famous for their review of the food items from which business?
+
+- [ ] McDonald's
+- [ ] Jersey Mike's
+- [x] Costco
+
+#### Which of the following is a prestigious tennis tournament?
+
+- [x] Wimbledon
+- [ ] Preakness
+- [ ] Stanley Cup
+
+#### Jimmy Webb's "MacArthur Park" is based on the singer's real life experiences in what city?
+
+- [ ] New York
+- [x] Los Angeles
+- [ ] London
+
+#### At what sporting event was a giant foam finger first used?
+
+- [x] A High School Basketball Game
+- [ ] The Super Bowl
+- [ ] Wrestlemania III
+
+#### Which actress referred to her divorce from Chris Martin as a "Conscious Uncoupling"?
+
+- [ ] Amy Adams
+- [ ] Jennier Garner
+- [x] Gwyneth Paltrow
+
+#### Kickball most closely resembles what other game?
+
+- [x] Baseball
+- [ ] Foosball
+- [ ] Tetherball
