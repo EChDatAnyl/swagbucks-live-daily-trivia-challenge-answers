@@ -51036,3 +51036,63 @@
 - [x] Baseball
 - [ ] Foosball
 - [ ] Tetherball
+
+#### What is the name of the killer plant in "Little Shop of Horrors"?
+
+- [x] Audrey II
+- [ ] Beneford
+- [ ] Chomper
+
+#### What country holds the record for the World's Tallest Ice Cream Cone?
+
+- [ ] Australia
+- [ ] The United States
+- [x] Norway
+
+#### Early ads made by Pixar featured what brand as both Robin Hood and Tarzan?
+
+- [x] Listerine
+- [ ] Life Savers
+- [ ] Volkswagen
+
+#### What radioactive element is Superman's weakness?
+
+- [x] Kryptonite
+- [ ] Lead
+- [ ] Cobolt
+
+#### Winners of the Masters golf tournament recieve what item of clothing?
+
+- [x] Jacket
+- [ ] Scarf
+- [ ] Pants
+
+#### Which movie star once celebrated being in love by jumping on Oprah's couch?
+
+- [ ] Leonardo DiCaprio
+- [x] Tom Cruise
+- [ ] Matt Damon
+
+#### Which of the following is an MLB team?
+
+- [x] New York Yankees
+- [ ] Los Angeles Clippers
+- [ ] Boston Bruins
+
+#### Which of the following means "very many"?
+
+- [ ] Ally
+- [x] A lot
+- [ ] Allot
+
+#### What movie featured the first notable film role of John Travolta?
+
+- [ ] Grease
+- [ ] Saturday Night Fever
+- [x] Carrie
+
+#### What breed of dog helped Budweiser sell beer in the 80s?
+
+- [x] Bull Terrier
+- [ ] Mastiff
+- [ ] Chihuahua
