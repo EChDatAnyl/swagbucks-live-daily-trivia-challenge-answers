@@ -51096,3 +51096,33 @@
 - [x] Bull Terrier
 - [ ] Mastiff
 - [ ] Chihuahua
+
+#### Which of these Grammy winners was once booed while performing at The Apollo?
+
+- [x] Lauryn Hill
+- [ ] Beyonce
+- [ ] Alicia Keys
+
+#### What State has a National Park that's home to the Skunk Ape Research Headquarters?
+
+- [ ] Oregon
+- [ ] Michigan
+- [x] Florida
+
+#### Which king was married to Eleanor of Aquitaine?
+
+- [x] Henry II
+- [ ] Henry V
+- [ ] Henry VI
+
+#### "Goodbye" is a contraction of what phrase?
+
+- [ ] God is by you
+- [x] God be with you
+- [ ] Good things be with you
+
+#### Which of the following golfers had the longest PGA win streak?
+
+- [ ] Tiger Woods
+- [x] Byron Nelson
+- [ ] Ben Hogan
