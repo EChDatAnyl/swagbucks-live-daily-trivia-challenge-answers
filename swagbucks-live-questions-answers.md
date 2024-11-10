@@ -51126,3 +51126,45 @@
 - [ ] Tiger Woods
 - [x] Byron Nelson
 - [ ] Ben Hogan
+
+#### Where was the first recorded customer complaint lodged?
+
+- [ ] China
+- [x] Mesopotamia
+- [ ] Brazil
+
+#### In the Peanuts Halloween special, who stays up all night in the pumpkin patch waiting for The Great Pumpkin?
+
+- [ ] Charlie Brown
+- [x] Linus
+- [ ] Woodstock
+
+#### Who played Indiana Jones's father?
+
+- [ ] John Hur
+- [x] Sean Connery
+- [ ] Robert Redford
+
+#### Alexander Graham Bell is credited with what invention?
+
+- [ ] The X-Ray machine
+- [x] The Telephone
+- [ ] The DVD player
+
+#### WHich of these artists is a judge on "The Voice"?
+
+- [x] Blake Shelton
+- [ ] Madonna
+- [ ] Bono
+
+#### Curly, Steak and Shoestring are all types of what food?
+
+- [ ] Chicken Breast
+- [x] French Fry
+- [ ] Broccoli
+
+#### Which of these languages is most widely spoken worldwide?
+
+- [ ] Spanish
+- [ ] Hindi
+- [x] Chinese
