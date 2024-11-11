@@ -51186,3 +51186,33 @@
 - [x] An arc reactor
 - [ ] The Time Stone
 - [ ] Cold fusion
+
+#### Miley Cyrus is the daughtr of what famous Country artist?
+
+- [x] Billy Ray Cyrus
+- [ ] Garth Brooks
+- [ ] Blake Shelton
+
+#### The world's first novel was written in which country?
+
+- [ ] Germany
+- [x] Japan
+- [ ] China
+
+#### From whom does Cap'n Crunch protect your cereal?
+
+- [ ] Milkmen
+- [ ] Mush Monsters
+- [x] Soggies
+
+#### What Disney film features the song "Be Our Guest"?
+
+- [ ] The Princess and hte Frog
+- [ ] Aladdin
+- [x] Beauty and the Beast
+
+#### On a traditional 400m track, how many laps equal a mile?
+
+- [x] 4
+- [ ] 4,000
+- [ ] 4,000,000
