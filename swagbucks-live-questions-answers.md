@@ -51168,3 +51168,21 @@
 - [ ] Spanish
 - [ ] Hindi
 - [x] Chinese
+
+#### The Toll House Inn is believed to be the birthplace of which cookie?
+
+- [ ] Gingersnaps
+- [ ] Sugar cookie
+- [x] Chocolate chip cookie
+
+#### Miles Davis was once a roommate of what other Jazz Legend?
+
+- [x] Charlie Parker
+- [ ] Thelonious Monk
+- [ ] John Coltrane
+
+#### What powers Iron Man's suits?
+
+- [x] An arc reactor
+- [ ] The Time Stone
+- [ ] Cold fusion
