@@ -51216,3 +51216,75 @@
 - [x] 4
 - [ ] 4,000
 - [ ] 4,000,000
+
+#### Which rapper got their stage name from an online name generator?
+
+- [ ] Li'l Pump
+- [x] Chlidish Gambino
+- [ ] A$AP Rocky
+
+#### In "50 First Dates", which Beach Boys song does Lucy sing on the days she spends with Henry?
+
+- [ ] Little Deuce Coupe
+- [x] Wouldn't It Be Nice
+- [ ] Surfin' U.S.A.
+
+#### After a wedding, what do the couple usually send out to guests who traveled to be there or brought gifts?
+
+- [ ] Flyers
+- [x] Thank You Cards
+- [ ] Beanie Babies
+
+#### What food item is sold with soda for $1.50 at Costco food courts?
+
+- [ ] Double Chunk Chocolate Cookie
+- [ ] Chicken Bake
+- [x] Hot Dog
+
+#### Which U.S. State is known as The Sunshine State?
+
+- [ ] New Jersey
+- [x] Florida
+- [ ] New Hampshire
+
+#### In a nursery rhyme, a woman who had so many children she didn't known what to do. Where did she live?
+
+- [ ] Down the line
+- [ ] Above the bakery
+- [x] In a shoe
+
+#### Which of the following is an example of "ghosting" someone?
+
+- [ ] Inviting them over
+- [x] Not texting them back
+- [ ] Going on a trip with them
+
+#### In 1985, the Speed Streak race car toy debuted - what unique method powered it?
+
+- [ ] Flatulence
+- [x] A Hamster
+- [ ] Compost
+
+#### What music legend was known as "The Purple One"?
+
+- [ ] Michael Jackson
+- [ ] Tina Turner
+- [x] Prince
+
+#### In a 2024 Marvel film, Deadpool teamed up with what other mutant hero?
+
+- [ ] Cyclops
+- [x] Wolverine
+- [ ] Iceman
+
+#### Cody Rhodes vs Roman Reigns headlined night two of what 2024 event?
+
+- [x] Wrestlemania
+- [ ] The Super Bowl
+- [ ] The Kentucky Derby
+
+#### Which day of the week typically has the largest New York Times Crossword puzzle?
+
+- [ ] Monday
+- [ ] Wednesday
+- [x] Sunday
