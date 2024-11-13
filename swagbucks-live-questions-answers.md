@@ -51288,3 +51288,93 @@
 - [ ] Monday
 - [ ] Wednesday
 - [x] Sunday
+
+#### Where did the Miracle on Ice happen?
+
+- [ ] The Moon
+- [ ] Woodstock
+- [x] The Winter Olympics
+
+#### Which of these instruments is played by shaking it?
+
+- [ ] Harp
+- [ ] Violin
+- [x] Maracas
+
+#### Which rock legend has a jellyfish named after them?
+
+- [x] Frank Zappa
+- [ ] Elvis Presley
+- [ ] Tina Turner
+
+#### How many people survived the Titanic?
+
+- [x] 706
+- [ ] 1171
+- [ ] 1432
+
+#### Which of the following songs is NOT on Billboard's Holiday Top 10 of All Time?
+
+- [x] Blue Christmas
+- [ ] Rockin' Around the Christmas Tree
+- [ ] Last Christmas
+
+#### Which of these classic books centers around a trial?
+
+- [x] To Kill A Mockingbird
+- [ ] The Iliad
+- [ ] Lord of the Files
+
+#### In the famous Dr. Seuss book, what does Horotn Hear?
+
+- [ ] Construction Noise
+- [ ] Salsa Music
+- [x] A Who
+
+#### A Game of Thrones, A Dance with Dragons, and A Storm of Swords are all books in which fantasy series?
+
+- [ ] The Baby-Sitters Club
+- [ ] Cam Jansen
+- [x] A Song of Ice and Fire
+
+#### Which Judy Blume book was banned in Ohio for both bad language and because "evil is triumphant"?
+
+- [x] Blubber
+- [ ] Tales of a Fourth Grade Nothing
+- [ ] Are You There God? It's Me, Margaret
+
+#### What kind of animal is Curious George?
+
+- [ ] Camel
+- [x] Monkey
+- [ ] Elephant
+
+#### Agatha Christie wrote a murder mystery that took place on which train?
+
+- [x] The Orient Express
+- [ ] Acela
+- [ ] Shinkansen
+
+#### In "The Scarlet LEtter", who wears the Scarlet Letter?
+
+- [ ] Arthur Dimmesdale
+- [x] Heaster Prynne
+- [ ] Pearl
+
+#### Which of the following children's book characters is royalty?
+
+- [x] Babar
+- [ ] Paddington
+- [ ] Amelia Bedelia
+
+#### In the Harry Potter series, who is reffered to as "He Who Must Not Be Named"?
+
+- [ ] Sirius Black
+- [ ] Hagrid
+- [x] Voldemort
+
+#### In "The Picture of Dorian Gray", what does the portrait do for Dorian?
+
+- [x] Keep him young
+- [ ] Give him super strength
+- [ ] Destroy his enemies
