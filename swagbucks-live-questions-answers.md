@@ -51378,3 +51378,21 @@
 - [x] Keep him young
 - [ ] Give him super strength
 - [ ] Destroy his enemies
+
+#### What phrase did Arnold Schwarzenegger make famous in "Terminator 2: Judgment Day"?
+
+- [ ] Keep the change, ya filthy animal!
+- [x] Hasta la vista, baby
+- [ ] You're killing me, Smalls
+
+#### In which State does the Sundance Film Festival take place?
+
+- [x] Utah
+- [ ] California
+- [ ] Michigan
+
+#### What was the Creature from the Black Lagoon modeled after?
+
+- [x] Oscar Statuette
+- [ ] Sardine
+- [ ] Da Vinci Sculpture
