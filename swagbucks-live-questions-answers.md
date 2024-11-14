@@ -51396,3 +51396,63 @@
 - [x] Oscar Statuette
 - [ ] Sardine
 - [ ] Da Vinci Sculpture
+
+#### What food is sometimes served "On the Cob"?
+
+- [x] Corn
+- [ ] Ribs
+- [ ] Gum
+
+#### According to the saying, "80% of Success is" what?
+
+- [ ] A Balloon
+- [x] Showing Up
+- [ ] Bathing
+
+#### Which news magazine show features the sound of a ticking stopwatch instead of a theme song?
+
+- [ ] Entertainment Tonight
+- [ ] Inside Edition
+- [x] 60 Minutes
+
+#### Which U.S. President had the nickname "American Fabius"?
+
+- [ ] Grover Cleveland
+- [x] George Washington
+- [ ] Ulysses S. Grant
+
+#### Trenton is the capital of which State?
+
+- [ ] Hawaii
+- [ ] Alaska
+- [x] New Jersey
+
+#### What YouTube channel is credited with adding "Amazeballs" to the Oxford English Dictionary?
+
+- [x] Jessica and Hunter
+- [ ] Smosh
+- [ ] Dude Perfect
+
+#### Which of the following is not a feature on a "Bop It" toy?
+
+- [x] Buy It Dinner
+- [ ] Twist It
+- [ ] Bop It
+
+#### Which of hte following is NOT the title of one of Aesop's Fables?
+
+- [ ] The Fox & The Goat
+- [ ] The Fox & The Leopard
+- [x] The Fox & The Mouse
+
+#### The Highwaymen was a super group of artists from what genre of music?
+
+- [x] Country
+- [ ] EDM
+- [ ] Waltz
+
+#### "Seasons of Love" is the signature song from which musical?
+
+- [ ] Sweeney Todd
+- [ ] My Fair Lady
+- [x] Rent
