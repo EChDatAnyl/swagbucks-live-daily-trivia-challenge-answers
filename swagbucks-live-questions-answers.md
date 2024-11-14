@@ -51456,3 +51456,45 @@
 - [ ] Sweeney Todd
 - [ ] My Fair Lady
 - [x] Rent
+
+#### "You better watch out, You better not cury, You better not pout" for what reason?
+
+- [ ] It's snowing outside
+- [ ] I got you ice cream
+- [x] Santa Claus is coming to town
+
+#### What was the main reason pirates wore eye patches?
+
+- [ ] To cover missing eyes
+- [ ] To help aim
+- [x] To see in the dark
+
+#### Who plays Captain America in the MCU?
+
+- [x] Chris Evans
+- [ ] Robert Downey Jr.
+- [ ] Scarlett Johansson
+
+#### According to Allen Saunders and John Lennon, "Life is what happens while you're busy" doing what?
+
+- [x] Making other plans
+- [ ] Cooking dinner
+- [ ] On your iPhone 11
+
+#### What is the capital of California?
+
+- [ ] Needles
+- [x] Sacramento
+- [ ] Cambria
+
+#### Which of these lawn games uses bean bags?
+
+- [ ] Horseshoes
+- [ ] Bocce Ball
+- [x] Cornhole
+
+#### What is the abbreviation for trinitrotoluene?
+
+- [x] TNT
+- [ ] TRT
+- [ ] TRL
