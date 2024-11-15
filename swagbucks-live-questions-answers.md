@@ -32269,7 +32269,7 @@
 - [ ] DC
 - [x] TD Ameritrade
 
-#### When comsuming dairy gives you stomach issues, what condition do you suffer from?
+#### When consuming dairy gives you stomach issues, what condition do you suffer from?
 
 - [x] Lactose Intolerance
 - [ ] Alopecia
@@ -45895,7 +45895,7 @@
 - [ ] Mangoes
 - [x] Music
 
-#### Complete this Darth Vader quote: "I find your leck of faith..."
+#### Complete this Darth Vader quote: "I find your lack of faith..."
 
 - [ ] Comforting
 - [ ] Naughty
@@ -51498,3 +51498,81 @@
 - [x] TNT
 - [ ] TRT
 - [ ] TRL
+
+#### Where would you find a Ski-thru McDonald's on a mountain?
+
+- [ ] Colorado
+- [x] Sweden
+- [ ] Switzerland
+
+#### If a German told a Hungerian to meet in PRessburg, what city would the Hungarian meet the German in?
+
+- [x] Pozsony
+- [ ] Prague
+- [ ] Minsk
+
+#### What is the term for the person who is the keeper of a museum?
+
+- [ ] Curative
+- [x] Curator
+- [ ] Curaid
+
+#### How does Westley respond to Buttercup's requests in "The Princess Bride"?
+
+- [ ] Sure thing
+- [ ] You got it
+- [x] As you wish
+
+#### In "The Princess Bride", who is reading the book to Fred Savage?
+
+- [ ] His dad
+- [x] His grandfather
+- [ ] His mother
+
+#### Which wrestler played Fezzik in "The Princess Bride"?
+
+- [ ] Roddy Piper
+- [ ] Randy Savage
+- [x] Andre The Giant
+
+#### The author of "The Princess Bride" has two screenwriting Oscars; which of the following movies did NOT win him one?
+
+- [ ] All the President's Men
+- [x] Misery
+- [ ] Butch Cassidy and the Sundance Kid
+
+#### In "The Princess Bride", the killer of Inigo Montoya's father has what unique physical feature?
+
+- [ ] Only one eye
+- [ ] A mohawk
+- [x] Six fingers on one hand
+
+#### Wallace Shawn became nervous during "The Princess Bride" after learning the director had wanted which actor to play his part?
+
+- [x] Danny Devito
+- [ ] John Lithgow
+- [ ] Al Pacino
+
+#### While engaging the Dread Pirate Roberts in a battle of wits, Vizzini warns against a land war in what location?
+
+- [ ] The Moon
+- [x] Asia
+- [ ] Cleveland
+
+#### When "The Princess Bride" was originally set to be made in the 1970s, who was seriously considered to play Fezzik?
+
+- [ ] Sylvester Stallone
+- [ ] Lou Ferrigno
+- [x] Arnold Schwarzenegger
+
+#### What creatures do Westley and Buttercup ecnounter in the fire swamps of "The Princess Bride"?
+
+- [x] Rodents of Unusual Size
+- [ ] Wolves of Unusual Size
+- [ ] Lions of Unusual Size
+
+#### In "The Princess Bride", what does Miracle Max make to bring Westley back to life?
+
+- [ ] A potion
+- [x] A pill
+- [ ] A lotion
