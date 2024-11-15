@@ -51576,3 +51576,39 @@
 - [ ] A potion
 - [x] A pill
 - [ ] A lotion
+
+#### Which one of these is NOT a Canadian rival to Punxsutawney Phil?
+
+- [x] Mississauga Mike
+- [ ] Shubenacadie Sam
+- [ ] Wiarton Willie
+
+#### Which of the following artists is known for playing the accordion?
+
+- [ ] Ringo Starr
+- [ ] Eric Clapton
+- [x] "Weird" Al Yankovic
+
+#### What HBO series tells the story of the Roy family and their multimedia empire?
+
+- [ ] Euphoria
+- [x] Succession
+- [ ] Walker
+
+#### Where did Kwanzaa begin?
+
+- [ ] Mars
+- [x] California
+- [ ] Saturn
+
+#### Which actor's surname has a meaning related to barrel making?
+
+- [ ] Shia LaBeouf
+- [x] Bradley Cooper
+- [ ] Jeremy Renner
+
+#### You're supposed to kiss someone when you're both standing under what plant?
+
+- [ ] Fern
+- [ ] Posion Ivy
+- [x] Mistletoe
