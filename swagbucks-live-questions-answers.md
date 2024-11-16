@@ -51636,3 +51636,33 @@
 - [x] Captain Ahab
 - [ ] Captain Cook
 - [ ] Captain Kirk
+
+#### Julius Caesar was the dictator of what civilization?
+
+- [ ] Oaxaca
+- [x] Rome
+- [ ] Mongolia
+
+#### Which movie monster attacks you in your dreams?
+
+- [ ] The Mummy
+- [x] Freddy Krueger
+- [ ] Frankenstein
+
+#### Jack London's "White Fang" is from the point of view of what animal?
+
+- [ ] Snake
+- [ ] Lion
+- [x] Wolf-Dog
+
+#### Lawry's, Peter Luger, and Ruth's Chris are all most well known for what dish?
+
+- [ ] Calamari
+- [x] Steak
+- [ ] Ice Cream
+
+#### What car company manufactured the Rabbit?
+
+- [ ] Volvo
+- [x] Volkswagen
+- [ ] Hyundai
