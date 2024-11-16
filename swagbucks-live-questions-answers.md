@@ -51612,3 +51612,27 @@
 - [ ] Fern
 - [ ] Posion Ivy
 - [x] Mistletoe
+
+#### What was the inspiration for Healthy Choice Frozen Foods?
+
+- [ ] A child
+- [x] A heart attack
+- [ ] Market research
+
+#### According to English legend, who stole from the rich and gave to the poor?
+
+- [ ] Sherlock Holmes
+- [x] Robin Hood
+- [ ] Lancelot
+
+#### DHL, FedEx, and UPS all provide what service?
+
+- [x] Shipping
+- [ ] Cable TV
+- [ ] Lodging
+
+#### Who relentlessly pursued Moby Dick?
+
+- [x] Captain Ahab
+- [ ] Captain Cook
+- [ ] Captain Kirk
