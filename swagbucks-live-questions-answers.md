@@ -16507,7 +16507,7 @@
 - [ ] Subway
 - [x] Taco Bell
 
-#### The 1990s Grunge momvement turned what kind of shirt into a fashion trend?
+#### The 1990s Grunge movement turned what kind of shirt into a fashion trend?
 
 - [ ] Ringer Tee
 - [ ] Mock Turtleneck
@@ -16729,7 +16729,7 @@
 - [x] Trees
 - [ ] The sun
 
-#### Based on their name, which man's Vice PResident would eat your liver with some fava beans and a nice Chianti?
+#### Based on their name, which man's Vice President would eat your liver with some fava beans and a nice Chianti?
 
 - [x] Abraham Lincoln
 - [ ] Rutherford B Hayes
@@ -27595,7 +27595,7 @@
 - [ ] Drake
 - [ ] Ed Sheeran
 
-#### Which of the following couentries is NOT home to part of the Alps?
+#### Which of the following countries is NOT home to part of the Alps?
 
 - [ ] France
 - [ ] Switzerland
@@ -51666,3 +51666,51 @@
 - [ ] Volvo
 - [x] Volkswagen
 - [ ] Hyundai
+
+#### What sport is central to a book of F.X. Toole stories entitled Rope Burns?
+
+- [ ] Sailing
+- [x] Boxing
+- [ ] Rock Climbing
+
+#### In the game of Chess, which piece can ONLY move diagonally?
+
+- [x] Bishop
+- [ ] Knight
+- [ ] Queen
+
+#### In terms of land area, what is the smallest continent?
+
+- [x] Australia
+- [ ] Europe
+- [ ] Asia
+
+#### The Beatles were known by what nickname?
+
+- [x] The Fab Four
+- [ ] The Mod Squad
+- [ ] The B-Team
+
+#### Which SNL star played Bluto Blutarsky in Animal House?
+
+- [ ] Kristen Wiig
+- [x] John Belushi
+- [ ] Horatio Sanz
+
+#### Which language has the longest alphabet?
+
+- [x] Khmer
+- [ ] Korean
+- [ ] Tagalog
+
+#### What comedians are forever linked to the phrase: "Nyuk, nyuk, nyuk"?
+
+- [x] Three Stooges
+- [ ] Monty Python
+- [ ] Abbott & Costello
+
+#### Which of these inventions is intended to maintain the temperature of your liquids?
+
+- [x] Thermos
+- [ ] Scale
+- [ ] Speedometer
