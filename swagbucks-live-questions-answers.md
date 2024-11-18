@@ -51714,3 +51714,33 @@
 - [x] Thermos
 - [ ] Scale
 - [ ] Speedometer
+
+#### Which Netflix realty series is about people getting engaged to other people sight unseen?
+
+- [ ] Nailed It
+- [ ] Dating Around
+- [x] Love Is Blind
+
+#### What fast food chain can take credit for the popularity of bacon in burgers?
+
+- [ ] McDonald's
+- [x] A&W
+- [ ] Jack in the Box
+
+#### The researcher who calculated Pi to its two quadrillionth digit worked for which tech firm?
+
+- [ ] Google
+- [ ] Microsoft
+- [x] Yahoo!
+
+#### What is the name of Google's web browser?
+
+- [x] Chrome
+- [ ] Firefox
+- [ ] Internet Exploer
+
+#### The "caret" (>) is used in math to indicate what?
+
+- [x] Greater than/Less than
+- [ ] Multiplied by
+- [ ] Divided into
