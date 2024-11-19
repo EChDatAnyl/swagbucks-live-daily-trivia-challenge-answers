@@ -51840,3 +51840,9 @@
 - [ ] Randall
 - [ ] Roz
 - [x] Sully
+
+#### Which of the following shows did NOT have characters attend the made up school "California University"?
+
+- [ ] Saved By The Bell
+- [ ] Beverly Hills 90120
+- [x] The OC
