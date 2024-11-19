@@ -35314,7 +35314,7 @@
 #### 8-Ball and 9-Ball are both versions of what game?
 
 - [ ] Poker
-- [x] Billards
+- [x] Billiards
 - [ ] Darts
 
 #### Who had a hit in 2003 with "Up In Da Club"?
@@ -51744,3 +51744,99 @@
 - [x] Greater than/Less than
 - [ ] Multiplied by
 - [ ] Divided into
+
+#### What stretches 215 miles from Trewsbury Mead to the North Sea?
+
+- [ ] Strait of Gibraltar
+- [x] River Thames
+- [ ] Loch Ness
+
+#### Which of the following drinks contains alcohol?
+
+- [ ] Mello Yello
+- [ ] Pepsi
+- [x] Mike's Hard Lemonade
+
+#### What fast food chain claims to be "Louisiana fast"?
+
+- [ ] KFC
+- [ ] Raising Cane's
+- [x] Popeye's
+
+#### Which activist's nickname could also be used to describe Altoids?
+
+- [x] Harriet Tubman
+- [ ] W.E.B. Du Bois
+- [ ] Medgar Evers
+
+#### What U.S. city is known as The Big D?
+
+- [x] Dallas
+- [ ] Downingtown
+- [ ] Dover
+
+#### What brand of high-powered water guns debuted in the 90s?
+
+- [ ] Water cannons
+- [x] Super Soakers
+- [ ] Splash Rifles
+
+#### Remy the Rat from "Ratatouille" dreams of reaching which profession?
+
+- [ ] Stylist
+- [x] Chef
+- [ ] Pilot
+
+#### In "Cars", where does Lightning McQueen get stranded?
+
+- [x] Radiator Springs
+- [ ] Gas Tank Gulch
+- [ ] Cabin Filteropolis
+
+#### Complete Buzz Lightyear's catchphrase: "To infinity... and"
+
+- [ ] Back again
+- [ ] Around the corner
+- [x] Beyond
+
+#### In "Up", what causes Carl's house to travel to South America?
+
+- [ ] Trucks
+- [x] Balloons
+- [ ] Jet engines
+
+#### "Coco" centers around which holiday?
+
+- [x] Dia de los Muertos
+- [ ] Christmas
+- [ ] Easter
+
+#### "Silenzio, Bruno" is a catchphrase from which Pixar movie?
+
+- [ ] Onward
+- [ ] Turning Red
+- [x] Luca
+
+#### Which former "Cheers" cast member's voice hass appeared in almost every Pixar movie?
+
+- [ ] George Wendt
+- [x] John Ratzenberger
+- [ ] Ted Danson
+
+#### Which of the following emotions is NOT part of Riley's mind in "Inside Out"?
+
+- [ ] Joy
+- [ ] Sadness
+- [x] Calmness
+
+#### Who is the forgetful fish in "Finding Nemo"?
+
+- [ ] Marlin
+- [x] Dory
+- [ ] Gill
+
+#### Who is Mike Wazowski's partner in "Monstersm Inc."?
+
+- [ ] Randall
+- [ ] Roz
+- [x] Sully
