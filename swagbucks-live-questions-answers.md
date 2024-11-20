@@ -51936,3 +51936,21 @@
 - [ ] Coughs
 - [ ] Tears
 - [x] Laughter
+
+#### Which of the following did NOT happen on the original Independence Day?
+
+- [ ] Mock funeral for King George
+- [x] Liberty Bell rung
+- [ ] Tearing down a statue
+
+#### What is the currency in Animal Crossing?
+
+- [ ] Tumips
+- [x] Bells
+- [ ] Mushrooms
+
+#### Who wrote "The Giving Tree"?
+
+- [x] Shel Silverstein
+- [ ] Truman Capote
+- [ ] F. Scott Fitzgerald
