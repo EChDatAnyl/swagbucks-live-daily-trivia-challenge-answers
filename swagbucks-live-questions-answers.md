@@ -43039,7 +43039,7 @@
 - [ ] Pablo Picasso
 - [ ] Marcel Duchamp
 
-#### Which singer has a singature song asking "What's Love Got To Do With It?"
+#### Which singer has a signature song asking "What's Love Got To Do With It?"
 
 - [ ] Aretha Franklin
 - [ ] Gwen Stefani
@@ -51954,3 +51954,45 @@
 - [x] Shel Silverstein
 - [ ] Truman Capote
 - [ ] F. Scott Fitzgerald
+
+#### Which soap actress was nominated for 18 Emmys before winning her first?
+
+- [x] Susan Lucci
+- [ ] Tom Selleck
+- [ ] Debbie Morgan
+
+#### Edmund Barton was the first prime minister of what country?
+
+- [ ] Canada
+- [x] Australia
+- [ ] South Africa
+
+#### Which of these New York City newspapers is FAKE?
+
+- [ ] New York Times
+- [ ] New York Post
+- [x] New York Yeller
+
+#### "All Quiet on the Western Front" is a film set during which war?
+
+- [x] World War I
+- [ ] Operation: Desert Storm
+- [ ] Spanish-American War
+
+#### Which ruler was referred to as the Sun King?
+
+- [x] Louis XIV of France
+- [ ] Suleiman the Magnificent
+- [ ] Henry V
+
+#### What was the name of the car Luke and Bo drove in "The Dukes of Hazzard"?
+
+- [ ] The Major Burnsides
+- [x] The General Lee
+- [ ] The General Grant
+
+#### Glee star Lea Michele took over the role of Fanny Brice in what Broadway musical?
+
+- [ ] Back to the Future
+- [ ] 42nd Street
+- [x] Funny Girl
