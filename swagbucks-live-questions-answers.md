@@ -51846,3 +51846,93 @@
 - [ ] Saved By The Bell
 - [ ] Beverly Hills 90120
 - [x] The OC
+
+#### What bird is traditionally served at Thanksgiving dinner?
+
+- [ ] Ostrich
+- [ ] Emu
+- [x] Turkey
+
+#### Which NBA legend had their number retired by the Harlem Globetrotters?
+
+- [x] Wilt Chamberlain
+- [ ] Pete Maravich
+- [ ] Julius Erving
+
+#### Complete the next line of this children's rhyme: "Ring around the rosie"...
+
+- [ ] Boop me on my nosey
+- [ ] My footsies have my toesies
+- [x] A pocket full of Posies
+
+#### An Orca is what type of creature?
+
+- [ ] Octopus
+- [ ] Eel
+- [x] Whale
+
+#### For which of the following sports is Ronda Rousey best known?
+
+- [x] MMA
+- [ ] Rowing
+- [ ] Football
+
+#### Sunset Boulevard is a famous street in what major city?
+
+- [x] Los Angeles
+- [ ] San Diego
+- [ ] San Francisco
+
+#### In the "Toy Story" movies, what do the little, three-eyed green aliens worship?
+
+- [x] The Claw
+- [ ] The Stick
+- [ ] The Ball
+
+#### In "The Incredibles", which member of the Parr family has super strength?
+
+- [ ] Helen
+- [ ] Violet
+- [x] Bob
+
+#### Pixar's "Soul" centers around what genre of music?
+
+- [x] Jazz
+- [ ] Classical
+- [ ] Rock & Roll
+
+#### "A Bug's Life" was based on which of the following?
+
+- [ ] A nursery rhymee
+- [x] A fable
+- [ ] A Kurosawa film
+
+#### Where does "Brave" take place?
+
+- [ ] England
+- [ ] Ireland
+- [x] Scotland
+
+#### What is WALL-E's job on Earth?
+
+- [x] Collecting trash
+- [ ] Building houses
+- [ ] Making food
+
+#### In "Cars 3", one of the characters is call back to what other Pixar movie?
+
+- [ ] Luca
+- [ ] Onward
+- [x] Coco
+
+#### In "Toy Story 3", where are Andy's toys mistakenly sent?
+
+- [ ] A flea market
+- [x] A daycare
+- [ ] A circus
+
+#### At the end of "Monsters, Inc.", what replaces screams as the power source for Monostropolis?
+
+- [ ] Coughs
+- [ ] Tears
+- [x] Laughter
