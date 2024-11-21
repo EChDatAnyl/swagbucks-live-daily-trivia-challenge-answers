@@ -52056,3 +52056,45 @@
 - [ ] On Mars
 - [x] On a giant spaceship
 - [ ] Cleveland
+
+#### "E-I-E-I-O" is part of what children's song?
+
+- [ ] Baa Baa Black Sheep
+- [ ] London Bridge is Falling Down
+- [x] Old MacDonald Had A Farm
+
+#### Which of the following is a Mark Twain character?
+
+- [ ] Don Quixote
+- [x] Huckleberry Finn
+- [ ] Jay Gatsby
+
+#### What vessel is commonly used by Trick or Treaters to hold their candy?
+
+- [ ] A shoe
+- [x] A plastic pumpkin
+- [ ] An empty milk carton
+
+#### Sebastian the Crab is a character from which Disney animated movie?
+
+- [ ] Beauty and the Beast
+- [x] The Little Mermaid
+- [ ] Aladdin
+
+#### Which of the Muppets is a stand-up comedian?
+
+- [ ] Scooter
+- [ ] Robin
+- [x] Fozzie Bear
+
+#### What kind of animal is Bambi?
+
+- [x] Deer
+- [ ] Zebra
+- [ ] Octopus
+
+#### What do you call the academic study of signs and symbols?
+
+- [x] Semiotics
+- [ ] Truth
+- [ ] Hermeneutics
