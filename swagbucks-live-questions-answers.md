@@ -51996,3 +51996,63 @@
 - [ ] Back to the Future
 - [ ] 42nd Street
 - [x] Funny Girl
+
+#### What song does Miguel sing to his grandmother at the end of Coco?
+
+- [ ] Un Poco Loco
+- [x] Remember Me
+- [ ] Proud Corzaon
+
+#### Which Marvel star played Buzz Lightyear in Pixar's "Lightyear"?
+
+- [ ] Chris Pratt
+- [ ] Chris Hemsworth
+- [x] Chris Evans
+
+#### Syndrome and Evelyn Deavor are the antagonists in which Pixar franchise?
+
+- [ ] Monsters, Inc.
+- [x] The Incredibles
+- [ ] Inside Out
+
+#### A113 is referenced in multiple Pixar movies - what is it a nod to?
+
+- [ ] Their first software
+- [ ] Their first shorts
+- [x] Cal Arts
+
+#### In "Turning Red", what does Mei turn into when she experiences a strong emotion?
+
+- [ ] Red Robin
+- [x] Red Panda
+- [ ] Red Rooster
+
+#### As of November 2024, how many Academy Awards has Pixar won in total?
+
+- [x] 23
+- [ ] 17
+- [ ] 9
+
+#### Which Pixar movie borrows heavily form the world of Dungeons & Dragons?
+
+- [x] Onward
+- [ ] WALL-E
+- [ ] Cars 3
+
+#### According to director Lee Unkrich, Sid from "Toy Story" appears in "Toy Story 3" - what job does he have?
+
+- [ ] Pizza Planet Delivery Driver
+- [x] Garbage Man
+- [ ] Teacher
+
+#### What is Ligtning McQueen's catchphrase?
+
+- [ ] Ka-chugga, Ka-chugga...
+- [ ] Vroom!
+- [x] Ka-Chow!
+
+#### In WALL-E, where are all the humans found?
+
+- [ ] On Mars
+- [x] On a giant spaceship
+- [ ] Cleveland
