@@ -51439,7 +51439,7 @@
 - [ ] Twist It
 - [ ] Bop It
 
-#### Which of hte following is NOT the title of one of Aesop's Fables?
+#### Which of the following is NOT the title of one of Aesop's Fables? (REPEATED QUESTION WITH DIFFERENT ANSWERS)
 
 - [ ] The Fox & The Goat
 - [ ] The Fox & The Leopard
@@ -52098,3 +52098,147 @@
 - [x] Semiotics
 - [ ] Truth
 - [ ] Hermeneutics
+
+#### What band took their fight against Ticketmaster all the way to the U.S. Justice Department?
+
+- [x] Pearl Jam
+- [ ] Metallica
+- [ ] Rage Against the Machine
+
+#### In one Friends Thanksgiving episode, what is Chandler's punishment for kissing Joey's girlfriend?
+
+- [ ] He's not allowed to eat
+- [x] He has to say in a box
+- [ ] He has to be naked
+
+#### The Twenty-One Ballons, Holes, and Up A Road Slowly each won what prestigious award?
+
+- [ ] Pulitzer Prize
+- [ ] Nobel Prize
+- [x] Newbery Medal
+
+#### The Disney+ series Falcon and The Winter Soldier is set in what cinematic universe?
+
+- [ ] Star Wars
+- [x] Marvel
+- [ ] Pixar
+
+#### According to Aesop's fable, which character worked all summer while the Grasshopper played around?
+
+- [x] The Ant
+- [ ] The Elephant
+- [ ] James Earl Jones
+
+#### What is Valentine's Day named for?
+
+- [ ] A beloved pet
+- [ ] A sports franchise
+- [x] A saint
+
+#### What action figure line has the tagline "A Real American Hero"?
+
+- [ ] Care Bears
+- [ ] Hugga Bunch
+- [x] G.I. Joe
+
+#### In "Inside Out", where do Riley and her family move to?
+
+- [x] San Francisco
+- [ ] Outer Space
+- [ ] Delaware
+
+#### Who did comedian Don Rickles play in "Toy Story"?
+
+- [ ] Slinky Dog
+- [x] Mr. Potato Head
+- [ ] Woody
+
+#### Where does the "Monsters, Inc." prequel take place?
+
+- [x] College
+- [ ] A Fast Food Restaurant
+- [ ] A Factory
+
+#### Which tech mogul originally financed Pixar?
+
+- [x] Steve Jobs
+- [ ] Bill Gates
+- [ ] Larry Page
+
+#### Before agreeing to play Mike Wazowski, what Pixar role did Billy Crystal turn down?
+
+- [ ] Mr. Potato Head
+- [x] Buzz Lightyear
+- [ ] Flik
+
+#### In "Finding Nemo", where do they find Nemo?
+
+- [ ] New York
+- [ ] France
+- [x] Australia
+
+#### Before they were making feature films, Pixar made commercials that included turning which object into a boxer?
+
+- [ ] Life Savers roll
+- [x] Listerine bottle
+- [ ] Tropicana Orange Juice
+
+#### Before Albert Brooks landed the role in "Finding Nemo", all of Marlin's lines had been recorded by which award-winning actor?
+
+- [ ] Jim Carrey
+- [ ] Gary Oldman
+- [x] William H. Macy
+
+#### What object appears in the Pixar logo?
+
+- [ ] A Shoe
+- [x] A Lamp
+- [ ] A Brick
+
+#### In "Up", how are the dogs able to talk?
+
+- [x] Special collars
+- [ ] Magic
+- [ ] They can't talk
+
+#### Dark Rooms are used to develop what?
+
+- [x] Photographs
+- [ ] Business ideas
+- [ ] Chest hair
+
+#### "La Gioconda" is one of the names for what famous painting?
+
+- [x] Mona Lisa
+- [ ] American Gothic
+- [ ] The Water Lily Pond
+
+#### Which of the following is a song by Ed Sheeran?
+
+- [x] Shape of You
+- [ ] U Shaped
+- [ ] Shape up or ship out
+
+#### What cell phone provider used to ask "Can you hear me now?"
+
+- [x] Verizon
+- [ ] AT&T
+- [ ] T-Mobile
+
+#### What you put a raw egg in its shell in a bowl of water, what indicated that it's older?
+
+- [ ] It sinks
+- [x] It floats
+- [ ] It breaks
+
+#### In Blackjack, you "bust" when the value of your cards exceeds what number?
+
+- [ ] 11
+- [ ] 15
+- [x] 21
+
+#### What Mexican holiday almost immediately follows Halloween?
+
+- [ ] Cinco de Mayo
+- [x] Dia de los Muertos
+- [ ] Candelaria
