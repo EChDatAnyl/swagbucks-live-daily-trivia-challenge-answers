@@ -52242,3 +52242,27 @@
 - [ ] Cinco de Mayo
 - [x] Dia de los Muertos
 - [ ] Candelaria
+
+#### "Young Sheldon" is a prequel to what sitcom?
+
+- [ ] How I Met Your Mother
+- [x] The Big Bang Theory
+- [ ] Mom
+
+#### Which scrubber brand's in-store deal on Swagbucks gives you SB for a receipt upload?
+
+- [x] Scotch-Brite
+- [ ] Seventh Generation
+- [ ] Quaker
+
+#### Who revived the Star Trek film franchise in 2009?
+
+- [x] J.J. Abrams
+- [ ] Steven Spielberg
+- [ ] Harmony Korine
+
+#### Who would be most likely to use cryptophasia?
+
+- [ ] Spies
+- [x] Twins
+- [ ] Nocturnal animals
