@@ -52266,3 +52266,33 @@
 - [ ] Spies
 - [x] Twins
 - [ ] Nocturnal animals
+
+#### In "Jerry Maguire", what leads to Jerry getting fired by his agency?
+
+- [ ] A fireworks show
+- [x] A mission statement
+- [ ] A dance number
+
+#### Which of these Olympic events is part of Gymnastics?
+
+- [x] Balance Beam
+- [ ] Dressage
+- [ ] Speed Walking
+
+#### Which hat-wearing Muppet is known for doing stand up comedy?
+
+- [ ] Miss Piggy
+- [ ] Animal
+- [x] Fozzie Bear
+
+#### What is Monowi, Nebraska's claim to fame?
+
+- [ ] It's a literal ghost town
+- [ ] It's the birthplace of the paper clip
+- [x] Only one person lives there
+
+#### What U.S. State is home to the world's shortest river?
+
+- [ ] Maine
+- [x] Montana
+- [ ] Massachusetts
