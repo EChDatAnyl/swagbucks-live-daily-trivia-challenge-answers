@@ -52296,3 +52296,27 @@
 - [ ] Maine
 - [x] Montana
 - [ ] Massachusetts
+
+#### Which of the following elements is radioactive?
+
+- [ ] Oxygen
+- [x] Plutonium
+- [ ] Carbon
+
+#### In which decade did VH1 air the show "Hogan Knows Best?"
+
+- [ ] 1990s
+- [x] 2000s
+- [ ] 2010s
+
+#### Which Disney film is set in the town of Oakey Oaks?
+
+- [x] Chicken Little
+- [ ] The Wild
+- [ ] Air Buddies
+
+#### The continents broke off of a super continent with what name?
+
+- [ ] Pan Flute
+- [ ] Pan Pizza
+- [x] Pangaea
