@@ -27631,7 +27631,7 @@
 - [x] Paper
 - [ ] Scissors
 
-#### Which company developepd the Android operating system?
+#### Which company developed the Android operating system?
 
 - [ ] Apple
 - [ ] IBM
@@ -52320,3 +52320,105 @@
 - [ ] Pan Flute
 - [ ] Pan Pizza
 - [x] Pangaea
+
+#### What does WWE stand for?
+
+- [x] World Wrestling Entertainment
+- [ ] What're We Eating?
+- [ ] Walking Wiggling Elephants
+
+#### Which legendary WWE Superstar is known as The People's Champion?
+
+- [ ] Jake Roberts
+- [x] The Rock
+- [ ] Alundra Blayze
+
+#### What show does WWE call "The Showcase of the Immortals"?
+
+- [ ] Bad Blood
+- [ ] Extreme Rules
+- [x] Wrestlemania
+
+#### Which Samoan superstar is the Original Tribal Chief of The Bloodline?
+
+- [x] Roman Reigns
+- [ ] Jimmy Uso
+- [ ] Tama Tonga
+
+#### Which female WWE Superstar is known as "The Man"?
+
+- [x] Becky Lynch
+- [ ] Bayley
+- [ ] Iyo Sky
+
+#### Which of the following is NOT one of WWE's championship titles?
+
+- [ ] Intercontinental
+- [x] Gardening
+- [ ] Tag Team
+
+#### The American Nightmare Cody Rhodes is the youngest brother of which former WWE wrestler?
+
+- [ ] Curt Henning
+- [ ] Evan Bourne
+- [x] Goldust
+
+#### When Hulk Hogan entered the ring for matches, what item of clothing would he tear off?
+
+- [ ] Hat
+- [x] Shirt
+- [ ] Socks
+
+#### What does the winner of WWE's Royal Rumble get?
+
+- [x] A title match at Wrestlemania
+- [ ] A bag of stale Peeps
+- [ ] Eczema
+
+#### Which WWE Superstar was known as The Deadman?
+
+- [ ] The Boogeyman
+- [ ] Kane
+- [x] The Undertaker
+
+#### In investing, coffee, oil, and beef are examples of what type of goods?
+
+- [x] Commodity
+- [ ] Commodore
+- [ ] Commode
+
+#### The Latin Church launched what religious war?
+
+- [x] The Holy Crusades
+- [ ] The Battle of Shaker Heights
+- [ ] The War of the Roses
+
+#### "What's Up, Doc?" is the catchphrase of which cartoon character?
+
+- [ ] Mickey Mouse
+- [x] Bugs Bunny
+- [ ] Chilly Willy
+
+#### Botticelli created a painting that depicts what Roman goddess emerging form the sea?
+
+- [x] Venus
+- [ ] Juno
+- [ ] Minerva
+
+#### What is the term for singing without instrumental accompainment?
+
+- [ ] Arpeggio
+- [ ] Allegro
+- [x] A capella
+
+#### Which of the following celebrities was almost cast as Hannah Montana?
+
+- [x] Taylor Momsen
+- [ ] Linday Lohan
+- [ ] Selena Gomez
+
+#### In basketball, what must you do while moving with the ball?
+
+- [ ] Chew bubblegum
+- [ ] Wink
+- [x] Dribble
