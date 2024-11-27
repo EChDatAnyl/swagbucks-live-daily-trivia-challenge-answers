@@ -52422,3 +52422,63 @@
 - [ ] Chew bubblegum
 - [ ] Wink
 - [x] Dribble
+
+#### The process of soaking a turkey in a salt and water solution is known as what?
+
+- [x] Brining
+- [ ] Flambe
+- [ ] Sauteing
+
+#### What is often used as a topping for sweet potatoes?
+
+- [ ] Rock candy
+- [x] Marshmallows
+- [ ] Skittles
+
+#### What is the leavening agent used in most breads?
+
+- [x] Yeast
+- [ ] Flour
+- [ ] Water
+
+#### Who invented the green bean casserole?
+
+- [ ] Sara Lee
+- [x] Campbell's Soup
+- [ ] The Galloping Gourmet
+
+#### Which of the following is NOT a variety of potato?
+
+- [ ] Russet
+- [ ] Yukon Gold
+- [x] Appalachian Silver
+
+#### The juices and pan dripping from a cooked turkey are often used to make what sauce?
+
+- [ ] Marinara
+- [x] Gravy
+- [ ] Pesto
+
+#### What dish was definitely NOT on the table at the first Thanksgiving dinner?
+
+- [ ] Corn
+- [x] Potatoes
+- [ ] Pumpkin
+
+#### What high-heat oven setting is often used to brown the top of a dish?
+
+- [x] Broil
+- [ ] Baste
+- [ ] Flambe
+
+#### What berry is traditionally made into a sauce during Thanksgiving?
+
+- [ ] Blueberry
+- [x] Cranberry
+- [ ] Strawberry
+
+#### When making deviled eggs, how do the eggs need to be prepared?
+
+- [x] Hard-Boiled
+- [ ] Scrambled
+- [ ] Poached
