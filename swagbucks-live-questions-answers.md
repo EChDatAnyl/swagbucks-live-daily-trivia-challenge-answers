@@ -52482,3 +52482,51 @@
 - [x] Hard-Boiled
 - [ ] Scrambled
 - [ ] Poached
+
+#### How many years are there in a single U.S. President's term?
+
+- [ ] Two
+- [x] Four
+- [ ] Eight
+
+#### Hironobu Sakaguchi was planning to quit the video game industry before he created what title?
+
+- [ ] Mario Bros
+- [x] Final Fantasy
+- [ ] Street Fighter
+
+#### What phrase means "no worries"?
+
+- [ ] Gabba Gabba Hey Hey
+- [ ] Mufasa
+- [x] Hakuna Matata
+
+#### "Mocha Chocolata, ya-ya" is a lyric from what Patti Labelle song used in Moulin Rouge?
+
+- [ ] Because We Can
+- [ ] Diamond Dogs
+- [x] Lady Marmalade
+
+#### What kind of creature is Gonzo?
+
+- [ ] Pigeon
+- [x] Whatever
+- [ ] Cat
+
+#### The Nastapoka Arc in Canada is roughly the size of which State?
+
+- [x] Wisconsin
+- [ ] Iowa
+- [ ] Ohio
+
+#### Which of the following sports does NOT use a ball?
+
+- [ ] Bocce
+- [ ] Soccer
+- [x] Ice Hockey
+
+#### What is the smallest country is Central America by area?
+
+- [x] El Salvador
+- [ ] Bellize
+- [ ] Honduras
