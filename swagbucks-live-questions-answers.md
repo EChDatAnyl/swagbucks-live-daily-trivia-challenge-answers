@@ -49705,7 +49705,7 @@
 - [x] Germany
 - [ ] Switzerland
 
-#### Which ghosst is summoned by saying their name into a mirror three or more times?
+#### Which ghost is summoned by saying their name into a mirror three or more times?
 
 - [x] Bloody Mary
 - [ ] The Hook
@@ -52530,3 +52530,105 @@
 - [x] El Salvador
 - [ ] Bellize
 - [ ] Honduras
+
+#### Which of the following beauty tools requires electricity?
+
+- [x] Hair Dryer
+- [ ] Eyeliner Pencil
+- [ ] Lipstick Tube
+
+#### Ron Chernow's biography about which Founding Father inspired a Lin-Manuel Miranda musical?
+
+- [ ] George Washington
+- [ ] John Adams
+- [x] Alexander Hamilton
+
+#### Which of the following is a term meaning someone or something is excellent and well-liked?
+
+- [x] Bee's Knees
+- [ ] Full as a Tick
+- [ ] Hurrah's Nest
+
+#### In "Everything Everywhere All At Once", what kind of business do Evelyn and Waymond operate?
+
+- [ ] Restaurant
+- [ ] Book store
+- [x] Laundromat
+
+#### In 2024, Kathy Bates starred in a remake of what 1980s TV show?
+
+- [x] Matlock
+- [ ] The A-Team
+- [ ] Airwolf
+
+#### Which superhero inspired Nicolas Cage's stage name?
+
+- [ ] Plastic Man
+- [ ] Green Lantern
+- [x] Power Man
+
+#### In 2004, the Boston Red Sox came back from an 0-3 playoff deficit to which team?
+
+- [x] The New York Yankees
+- [ ] The Toronto Blue Jays
+- [ ] The Seattle Mariners
+
+#### What kind of creature holds the Guinness World Record for smallest mammal?
+
+- [ ] Mouse
+- [x] Bat
+- [ ] Raccoon
+
+#### Which of the following is NOT a section of a choir?
+
+- [ ] Alto
+- [ ] Bass
+- [x] Amphibian
+
+#### Which of the following races is a common barbecue/outdoor party game?
+
+- [x] Sack Race
+- [ ] Marathon
+- [ ] Horse Race
+
+#### Who had a hit with "The Greatest Love of All"?
+
+- [ ] Chaka Khan
+- [ ] Dionne Warwick
+- [x] Whitney Houston
+
+#### Which religion celebrates Passover?
+
+- [ ] Catholicism
+- [ ] Hunduism
+- [x] Judaism
+
+#### Which restaurant chain serves the Grand Slam and All-American Slam breakfasts?
+
+- [ ] Ground Round
+- [ ] IHOP
+- [x] Denny's
+
+#### Which Dutch painter is famous for cutting off a part of his ear?
+
+- [x] Vincent Van Gogh
+- [ ] Salvador Dali
+- [ ] Andy Warhol
+
+#### What does the Q in Q-Tips stand for?
+
+- [x] Quality
+- [ ] Quitted
+- [ ] Quiet
+
+#### Both the shortest and tallest players in NBA history played together on which team?
+
+- [ ] Philadelphia 76ers
+- [x] Washington Bullets
+- [ ] New York Knicks
+
+#### The man who founded Longhorn Steakhouse also co-founded a steakhouse chain with what media magnate?
+
+- [ ] Rupert Murdoch
+- [ ] Michael Bloomberg
+- [x] Ted Turner
