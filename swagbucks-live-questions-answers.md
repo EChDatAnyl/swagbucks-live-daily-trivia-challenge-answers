@@ -52632,3 +52632,21 @@
 - [ ] Rupert Murdoch
 - [ ] Michael Bloomberg
 - [x] Ted Turner
+
+#### In which State was Colonel Sanders born?
+
+- [ ] Kentucky
+- [x] Indiana
+- [ ] Illnois
+
+#### According to legend, who led a gang of merry outlaws in Notthingham, England's Sherwood Forest?
+
+- [x] Robin Hood
+- [ ] Paul Revere
+- [ ] Henry Fonda
+
+#### Complete the following computer slogan: "Dude, you're getting a..."
+
+- [x] Dell
+- [ ] Floppy disk
+- [ ] Laser mouse
