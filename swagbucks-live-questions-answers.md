@@ -51151,7 +51151,7 @@
 - [x] The Telephone
 - [ ] The DVD player
 
-#### WHich of these artists is a judge on "The Voice"?
+#### Which of these artists is a judge on "The Voice"?
 
 - [x] Blake Shelton
 - [ ] Madonna
@@ -52699,7 +52699,7 @@
 - [ ] U2
 - [ ] UB40
 
-#### In "Shrek", what does PRincess Fiona transform into when the sun sets?
+#### In "Shrek", what does Princess Fiona transform into when the sun sets?
 
 - [ ] Wolf
 - [ ] Bat
@@ -52710,3 +52710,45 @@
 - [ ] Arby's
 - [x] Kansas
 - [ ] Debt
+
+#### Chole Ardelia Wofford is the birth name of what writer?
+
+- [ ] Maya Angelou
+- [x] Toni Morrison
+- [ ] Alice Walker
+
+#### What is the code name given to the President's helicopter?
+
+- [x] Marine One
+- [ ] Air Force Two
+- [ ] Hail to the Copter
+
+#### Before he became famous, what did Elvis do for a living?
+
+- [ ] Plumber
+- [x] Truck Driver
+- [ ] Teacher
+
+#### Which of the following is common dinner etiquette?
+
+- [ ] Always wear plaid
+- [ ] Scream out everything you're doing
+- [x] Never lick your knife
+
+#### Why didn't Elvis record any new music between 1958 and 1960?
+
+- [ ] He was in hiding
+- [x] He was in the Army
+- [ ] He was in contract negotiations
+
+#### What food item is also known as a "Glizzy"?
+
+- [x] Hot Dog
+- [ ] Frappuccino
+- [ ] Omelet
+
+#### Which of the following is an auto buying site?
+
+- [ ] Yummly
+- [x] Carvana
+- [ ] Cafepress
