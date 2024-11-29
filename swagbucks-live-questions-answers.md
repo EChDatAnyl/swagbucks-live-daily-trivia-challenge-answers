@@ -52650,3 +52650,63 @@
 - [x] Dell
 - [ ] Floppy disk
 - [ ] Laser mouse
+
+#### Who directed "The Terminator", "Avatar", and "Titanic"?
+
+- [ ] Steven Spielberg
+- [ ] Kathryn Bigelow
+- [x] James Cameron
+
+#### Which of these Disney animated movies features a song whose title is the same as the title of the movie?
+
+- [x] Beauty and the Beast
+- [ ] Snow White and the Seven Dwarfs
+- [ ] Wreck-It Ralph
+
+#### Which character in "Gone With the Wind" says "Fiddle dee dee"?
+
+- [ ] Rhett Butler
+- [x] Scarlett O'Hara
+- [ ] Melanie Hamilton
+
+#### How does James Bond take his martini?
+
+- [ ] On the rocks
+- [ ] In a mug
+- [x] Shaken, not stirred
+
+#### What hit comedy, set in Las Vegas, stars Zach Galifianakis, Ed Helms, and Bradley Cooper?
+
+- [ ] Viva Las Vegas
+- [x] The Hangover
+- [ ] Let It Ride
+
+#### In 2001's "Ocean's Eleven", which three casinos did Danny Ocean want to rob?
+
+- [x] The Bellagio, the Mirage, and the MGM Grand
+- [ ] The Venetian, The Rio, and Mandalay Bay
+- [ ] The Bellagio, Treasure Island, and Circus Circus
+
+#### In "The Godfather", what kind of offer does Don Corleone make to the movie producer?
+
+- [ ] Take it or leave it
+- [x] An offer he can't refuse
+- [ ] A limtied time offer
+
+#### The movie musical "Mamma Mia!" is based on the songs of which group?
+
+- [x] ABBA
+- [ ] U2
+- [ ] UB40
+
+#### In "Shrek", what does PRincess Fiona transform into when the sun sets?
+
+- [ ] Wolf
+- [ ] Bat
+- [x] Ogre
+
+#### Fill in the blank of this "Wizard of Oz" quote: "Toto, I've a feeling we're not in ___ anymore."
+
+- [ ] Arby's
+- [x] Kansas
+- [ ] Debt
