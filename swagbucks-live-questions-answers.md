@@ -52752,3 +52752,45 @@
 - [ ] Yummly
 - [x] Carvana
 - [ ] Cafepress
+
+#### Where would you be if you saw me as a mirage in the Gobi Desert?
+
+- [x] Mongolia
+- [ ] Egypt
+- [ ] Morocco
+
+#### An olive is a typical garnish for what drink?
+
+- [x] Martini
+- [ ] Boilermaker
+- [ ] Sake Bomb
+
+#### Complete the show title: "Mister Rogers'..."
+
+- [ ] Dinner
+- [x] Neighborhood
+- [ ] Bedtime
+
+#### What ABC series spun off from Perfect Strangers?
+
+- [ ] Step-By-Step
+- [ ] Just the 10 of Us
+- [x] Family Matters
+
+#### How did the game Skee Ball get its name?
+
+- [ ] Creator's Last Name
+- [x] Ski Jumps
+- [ ] The sound the ball makes
+
+#### Jeanne Baret was the first woman to accomplish what feat?
+
+- [ ] Win an Olympic medal
+- [x] Cicumnavigate the globe
+- [ ] Own land
+
+#### What popular kids drink comes in a foil pouch?
+
+- [ ] Little Hug Fruit Drinks
+- [x] Capri Sun
+- [ ] Liquid IV
