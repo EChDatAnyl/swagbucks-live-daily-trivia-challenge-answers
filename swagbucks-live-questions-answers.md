@@ -52794,3 +52794,39 @@
 - [ ] Little Hug Fruit Drinks
 - [x] Capri Sun
 - [ ] Liquid IV
+
+#### Which of these Academy Award recipients gave the shortest acceptance speech?
+
+- [ ] Billy Wilder
+- [x] William Holden
+- [ ] Joe Persci
+
+#### Who is the mother of the child known as "The French Chef"?
+
+- [x] Julia Carolyn Weston
+- [ ] Bertha Crocker
+- [ ] Joanne Lee
+
+#### The album "The Beatles" is better known by what name?
+
+- [x] The White Album
+- [ ] The Green Album
+- [ ] The Paid Album
+
+#### In which board game are you not supposed to see your opponent's pieces?
+
+- [ ] Mancala
+- [x] Battleship
+- [ ] Don't Break the Ice
+
+#### What nursery rhyme couple went up the hill to fetch a pail of water?
+
+- [x] Jack and Jill
+- [ ] Peaches and Herb
+- [ ] Hall and Oates
+
+#### The Doozers are constantly having their buildings eaten by who?
+
+- [x] The Fraggles
+- [ ] Marjorie the Trash Heap
+- [ ] Sprocket the Dog
