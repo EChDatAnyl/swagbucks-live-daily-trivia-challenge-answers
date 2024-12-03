@@ -52830,3 +52830,93 @@
 - [x] The Fraggles
 - [ ] Marjorie the Trash Heap
 - [ ] Sprocket the Dog
+
+#### What horror movie is based on the story of a haunted doll named Robert?
+
+- [ ] Microwave Massacre
+- [ ] Halloween: H20
+- [x] Child's Play
+
+#### The man who originally recorded "Grandma Got Run Over By A Reindeer" had what job?
+
+- [ ] Disc Jockey
+- [x] Veterinarian
+- [ ] Truck Driver
+
+#### At which restaurant chain are you treated to a live jousting tournament?
+
+- [ ] Chuck E. Cheese
+- [x] Medieval Times
+- [ ] Bennigan's
+
+#### What is the name of the pig in Charlotte's Web?
+
+- [ ] Charlotte
+- [ ] Templeton
+- [x] Wibur
+
+#### Which animal does Disney World use to help fight off mosquitoes?
+
+- [ ] Dog
+- [x] Chicken
+- [ ] Pigeon
+
+#### How does Santa Claus usually enter homes on Christmas Eve?
+
+- [ ] Through the Window
+- [ ] From the Sewers
+- [x] Down the Chimney
+
+#### In the TV special "Rudolph The Red-Nosed Reindeer", what kind of
+
+- [ ] Construction Foreman
+- [x] Dentist
+- [ ] Race car driver
+
+#### Lionel makes what type of popular holiday toy?
+
+- [ ] Stuffed bears
+- [ ] Sports equipment
+- [x] Model trains
+
+#### What colors are a classic Candy Cane?
+
+- [ ] Blue and Green
+- [ ] Yelow and more Yellow
+- [x] Red and White
+
+#### In the song "Frosty the Snowman", what happened when the magic hat was first put on his head?
+
+- [ ] He screamed
+- [x] He began to dance around
+- [ ] He flew into space
+
+#### What wintry location serves as Santa Claus' official address?
+
+- [x] Finland
+- [ ] Kaual
+- [ ] Phoenix, Arizona
+
+#### In which country does a witch fly around leaving candy coal for children the week after Christmas?
+
+- [x] Italy
+- [ ] Hungary
+- [ ] Wales
+
+#### What Seinfeld-created celebration is "for the rest of us"?
+
+- [ ] Master of the House Day
+- [ ] Close Talker Day
+- [x] Festivus
+
+#### Which of these is not a typical topping for hot chocolate?
+
+- [ ] Marshmallows
+- [ ] Whipped Cream
+- [x] Corn
+
+#### During the holidays, houses are made using what kind of cookie as a base?
+
+- [ ] Chocolate Chip
+- [ ] Oatmeal
+- [x] Gingerbread
