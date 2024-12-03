@@ -52920,3 +52920,33 @@
 - [ ] Chocolate Chip
 - [ ] Oatmeal
 - [x] Gingerbread
+
+#### Whoopi Goldberg won a Tony for producing which musical?
+
+- [x] Thoroughly Modern Mille
+- [ ] In The Heights
+- [ ] Sister Act
+
+#### Who was President of the United States during the Cuban Missile Crisis?
+
+- [ ] Truman
+- [x] Kennedy
+- [ ] Nixon
+
+#### What did the original Howdy Doody's freckles represents?
+
+- [ ] His Age
+- [x] U.S. States
+- [ ] Freckles
+
+#### In "I Love Rock 'N Roll", how much does it cost to play a song?
+
+- [ ] 5c
+- [x] 10c
+- [ ] 25c
+
+#### Billie Jean King is known for what sport?
+
+- [ ] Golf
+- [x] Tennis
+- [ ] Bowling
