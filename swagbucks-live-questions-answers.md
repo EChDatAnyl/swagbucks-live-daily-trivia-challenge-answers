@@ -52950,3 +52950,63 @@
 - [ ] Golf
 - [x] Tennis
 - [ ] Bowling
+
+#### Krakatoa, Mount Vesuvius, and Mauna Loa are all names of what type of geographic feature?
+
+- [x] Volcano
+- [ ] Glacier
+- [ ] Bog
+
+#### In the phrase "I will win Daily Trivia Live", which word is the verb?
+
+- [ ] Trivia
+- [x] Win
+- [ ] I
+
+#### Johannes Vermeer created which iconic painting?
+
+- [x] Girl With A Pearl Earring
+- [ ] Mona Lisa
+- [ ] Whistler's Mother
+
+#### Which of the following people got famous thanks to YouTube?
+
+- [ ] Paris Hilton
+- [ ] Cary Grant
+- [x] MrBeast
+
+#### Which of the following monsters originated in North America?
+
+- [x] Wendigo
+- [ ] Bunyip
+- [ ] Capebolo
+
+#### What is unique about the world's largest waterfall?
+
+- [x] It's underwater
+- [ ] It's frozen
+- [ ] It falls into the Grand Canyon
+
+#### What former baseball player is currently part owner of the Minnesota Timberwolves?
+
+- [ ] Babe Ruth
+- [ ] Cy Young
+- [x] Alex Rodriguez
+
+#### In the playground game "Red Light, Green Light", what do you do when "Red Light" is called out?
+
+- [ ] Jump up and down
+- [ ] Start moving
+- [x] Stop moving
+
+#### Which of the following singers is blind?
+
+- [ ] Elton John
+- [x] Stevie Wonder
+- [ ] Sting
+
+#### The Max series "The Penguin" is a spinoff of which comic book movie?
+
+- [ ] Spider-Man: No Way Home
+- [x] The Batman
+- [ ] The Marvels
