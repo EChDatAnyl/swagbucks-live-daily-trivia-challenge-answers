@@ -53010,3 +53010,57 @@
 - [ ] Spider-Man: No Way Home
 - [x] The Batman
 - [ ] The Marvels
+
+#### "The Jungle" is a novel about the meat packing plants of what U.S. city?
+
+- [ ] New York
+- [ ] Boston
+- [x] Chicago
+
+#### The original Uncle Fesster also played "The Kid" alongside which legendary actor?
+
+- [x] Charlie Chaplin
+- [ ] Buster Kreaton
+- [ ] Harold Lloyd
+
+#### Horatio Nelson was a famous admiral in what country's Navy?
+
+- [ ] Spain
+- [ ] France
+- [x] Britain
+
+#### According to his song, Stevie Wonder just called to say what?
+
+- [ ] The sink is running
+- [ ] I'm going to be late
+- [x] I love you
+
+#### The song "Surfin' USA" is sung by which band?
+
+- [ ] Metallica
+- [x] The Beach Boys
+- [ ] The Black Eyed Peas
+
+#### "You can tune a guitar, but you can't tuna fish" is kind kind of pun?
+
+- [x] Homophonic
+- [ ] Homographic
+- [ ] Homonymic
+
+#### Button, Cremini, and Portobello are all varieties of what food?
+
+- [ ] Apple
+- [x] Mushroom
+- [ ] Chicken
+
+#### What writer famously tinted their face green while writing?
+
+- [x] TS Eliot
+- [ ] Bram Stoker
+- [ ] Jack Kerouac
+
+#### Who's starred movies like Dumb & Dumber, The Mask, and Ace Ventura: Pet Detective?
+
+- [x] Jim Carrey
+- [ ] John Travolta
+- [ ] James Woods
