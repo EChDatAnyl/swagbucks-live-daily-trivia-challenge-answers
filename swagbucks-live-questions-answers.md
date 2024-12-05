@@ -53064,3 +53064,87 @@
 - [x] Jim Carrey
 - [ ] John Travolta
 - [ ] James Woods
+
+#### The War of Jenkins Ear was fought between England and what country?
+
+- [x] Spain
+- [ ] Greece
+- [ ] India
+
+#### In which Broadway show did a helicopter appear on the stage?
+
+- [x] Miss Saigon
+- [ ] Avenue Q
+- [ ] Hamilton
+
+#### Which of these toys are built to be bounced on?
+
+- [ ] Yo-Yo
+- [ ] Viewmaster
+- [x] Pogo Stick
+
+#### What band announced an unusual in-person only event for ticket presales for their Fall 2018 tour?
+
+- [ ] Fleetwood Mac
+- [x] Nine Inch Nails
+- [ ] Dave Matthews Band
+
+#### On which reality show do couples decide whether they want to stay together or recouple with other contestants?
+
+- [x] Love Island
+- [ ] The Bachelor
+- [ ] Rock of Love with Bret Michaels
+
+#### Who won an Oscar starring in "Gladiator"?
+
+- [ ] Joaquin Phoenix
+- [ ] Oliver Reed
+- [x] Russell Crowe
+
+#### In "Escape (The Pina Colada Song)", what is the other thing the person must like?
+
+- [x] Getting caught in the rain
+- [ ] Post breakfast cereals
+- [ ] Lukewarm soup
+
+#### Which of the following celebrities has a former NASA engineer for a mother?
+
+- [ ] Owen Wilson
+- [ ] Norman Reedus
+- [x] Jack Black
+
+#### What company created Windows for computers?
+
+- [ ] Apple
+- [x] Microsoft
+- [ ] Broderbund
+
+#### What is it physically impossible to do while holding your nose?
+
+- [ ] Yawn
+- [ ] Wink
+- [x] Hum
+
+#### "Spare" is a 2022 autobiography written by which British royal?
+
+- [ ] Prince William
+- [x] Prince Harry
+- [ ] King Charles
+
+#### A trip to Williamsburg, Virginia inspired what toy line?
+
+- [ ] Weebles
+- [x] American Girl Dolls
+- [ ] Sylvanian Families
+
+#### Rome, Italy goes by what nickname?
+
+- [x] The Eternal City
+- [ ] The City of Lights
+- [ ] Foggy Old London Town
+
+#### What European city is home to the U.N.'s International Court of Justice and the International Criminal Court?
+
+- [ ] Pairs
+- [x] The Hague
+- [ ] Rome
