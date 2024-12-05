@@ -53148,3 +53148,33 @@
 - [ ] Pairs
 - [x] The Hague
 - [ ] Rome
+
+#### Who were the first husband and wife to win CMA's best male and female singer awards in the same year?
+
+- [ ] Blake Shelton & Miranda Lambert
+- [ ] Garth Brooks & Trisha Yearwood
+- [x] Tim McGraw & Faith Hill
+
+#### What famous rapper founded Bad Boy records?
+
+- [x] P. Diddy
+- [ ] Tone Loc
+- [ ] Q-Tip
+
+#### John Stockton played his entire NBA career for what team?
+
+- [ ] Miami Heat
+- [ ] Toronto Raptors
+- [x] Utah Jazz
+
+#### Which of the following U.S. cities is NOT a State capital?
+
+- [ ] Austin, Texas
+- [ ] Albany, New York
+- [x] Lancaster, Pennsylvania
+
+#### Brian, Dennis, and Carl Wilson were all founding members of what band?
+
+- [ ] The Beatles
+- [ ] The Rolling Stones
+- [x] The Beach Boys
