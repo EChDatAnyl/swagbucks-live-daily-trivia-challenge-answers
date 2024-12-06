@@ -53178,3 +53178,93 @@
 - [ ] The Beatles
 - [ ] The Rolling Stones
 - [x] The Beach Boys
+
+#### In which city did Cheers take place?
+
+- [ ] New York
+- [x] Boston
+- [ ] Los Angeles
+
+#### Holy Roman Emperor Charles VI creatred which principality in 1719?
+
+- [x] Lichtenstein
+- [ ] Monaco
+- [ ] Andorra
+
+#### In "The 12 Days of Christmas", what kind of tree is the partridge in?
+
+- [ ] Oak
+- [x] Pear
+- [ ] Family
+
+#### Ag is the symbol for what element?
+
+- [ ] Oxygen
+- [ ] Carbon
+- [x] Silver
+
+#### In Rubyard Kipling's "The Jungle Book", what is the name of the python?
+
+- [x] Kaa
+- [ ] Mowgli
+- [ ] Baloo
+
+#### Mr. Peanut is the mascot for what snack brand?
+
+- [ ] Lays
+- [ ] Hershey
+- [x] Planters
+
+#### What computer brand put out the famous "1984" commercial directed by Ridley Scott?
+
+- [ ] Dell
+- [x] Apple
+- [ ] Acer
+
+#### Complete this slogan: "It's not TV; it's..."
+
+- [ ] Two TVs
+- [x] HBO
+- [ ] A Bear
+
+#### According to Orkin, as of October of 2024 what is the "Rattiest" city in America?
+
+- [ ] New York City
+- [x] Chicago
+- [ ] Baltimore
+
+#### What popular ice cream treat was "retired" in 2012 when its maker decided to streamline their product line?
+
+- [ ] Chipwich
+- [ ] Wattamelon Roll
+- [x] Choco Taco
+
+#### Which of the following children's games is traditionally played in a pool?
+
+- [ ] Kick The Can
+- [x] Marco Polo
+- [ ] Hopscotch
+
+#### Which of the following words does the Oxford English Dictionary say is likely a portmanteau?
+
+- [x] Meld
+- [ ] Cacophony
+- [ ] Zipper
+
+#### The Philosopher's Stone of Harry Potter fame was an object believed to exist by what historical group?
+
+- [ ] Freemasons
+- [x] Alchemists
+- [ ] The ancient Romans
+
+#### Which of these apps is designed to help you learn new languages?
+
+- [x] Duolingo
+- [ ] Yelp
+- [ ] Foursquare
+
+#### Whose hits include "Purple Haze", "The Wind Cries Mary", and "Crosstown Traffic"?
+
+- [ ] Paul Simon
+- [ ] Eric Clapton
+- [x] Kimi Hendrix
