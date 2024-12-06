@@ -53268,3 +53268,33 @@
 - [ ] Paul Simon
 - [ ] Eric Clapton
 - [x] Kimi Hendrix
+
+#### In 2019, Felicity Huffman and Lori Loughlin were involved in a scandal revolving around what?
+
+- [ ] Art Forgery
+- [x] College Admissions
+- [ ] Tax Evasion
+
+#### How many horses won thoroughbred racing's Triple Crown in the 20th century?
+
+- [ ] 5
+- [ ] 8
+- [x] 11
+
+#### What song would you hear in the last animated film Walt Disney supervised?
+
+- [ ] Cruella de Vil
+- [ ] Everybody Wants to be a Cat
+- [x] Trust in Me
+
+#### Romance languages are all evolved from what root language?
+
+- [ ] Chinese
+- [ ] Tagalog
+- [x] Latin
+
+#### Chickpeas are typically used to make what dip?
+
+- [ ] Salsa
+- [ ] Guacamole
+- [x] Hummus
