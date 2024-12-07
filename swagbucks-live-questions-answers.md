@@ -29833,7 +29833,7 @@
 - [ ] Whipped Cream
 - [ ] Maple Syrup
 
-#### Bob ross was the longtime host of what cultural instruction show?
+#### Bob Ross was the longtime host of what cultural instruction show?
 
 - [ ] Cookin' Cajun Style
 - [x] The Joy of Painting
@@ -53298,3 +53298,27 @@
 - [ ] Salsa
 - [ ] Guacamole
 - [x] Hummus
+
+#### English landscaper William Kent invented what device in 1733?
+
+- [ ] Lawnmower
+- [x] Baby carriage
+- [ ] Egg timer
+
+#### What kind of whale is Moby Dick?
+
+- [x] Great White Whale
+- [ ] Blue Whale
+- [ ] Humpback Whale
+
+#### Where would you find the world's single largest rock?
+
+- [ ] Russia
+- [x] Australia
+- [ ] Alaska
+
+#### What is the nickname for New York State?
+
+- [ ] The Granite State
+- [ ] The Keystone State
+- [x] The Empire State
