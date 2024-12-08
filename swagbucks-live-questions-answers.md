@@ -26593,7 +26593,7 @@
 - [ ] Mexico City
 - [x] Vatican City
 
-#### Bentley & Son's rejection letter for Mobu-Dick was said to include what note about the book?
+#### Bentley & Son's rejection letter for Moby-Dick was said to include what note about the book?
 
 - [x] "Does it have to be a whale?"
 - [ ] "Who is Ahab?"
@@ -53322,3 +53322,21 @@
 - [ ] The Granite State
 - [ ] The Keystone State
 - [x] The Empire State
+
+#### Who was the first African American man to win the Oscar for Best Actor?
+
+- [x] Sidney Poitier
+- [ ] Denzel Washington
+- [ ] Forest Whitaker
+
+#### If he was a used car salesman, which U.S. president would most likely present you with a New Deal?
+
+- [x] Frankin Roosevelt
+- [ ] Teddy Roosevelt
+- [ ] Harry Truman
+
+#### On what cable channel does Paw Patrol air?
+
+- [x] Nick Jr.
+- [ ] History
+- [ ] ESPN 2
