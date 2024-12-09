@@ -53364,3 +53364,21 @@
 - [x] Betsy Ross
 - [ ] Benjamin Frankin
 - [ ] Samuel Adams
+
+#### What classic movie started in a morgue before audience testing changed it?
+
+- [x] Sunset Boulevard
+- [ ] Taxi Driver
+- [ ] Bonnie and Clyde
+
+#### At a play, what is the break between act 1 and act 2 called?
+
+- [ ] Intramural
+- [x] Intermission
+- [ ] Intermediate
+
+#### Who was the first U.S. Secretary of State?
+
+- [x] Thomas Jefferson
+- [ ] Hillary Clinton
+- [ ] Condoleezza Rice
