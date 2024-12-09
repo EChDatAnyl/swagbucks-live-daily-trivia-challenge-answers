@@ -44635,7 +44635,7 @@
 - [ ] ALF
 - [x] The Tonight Show
 
-#### Which of these dog movie sbased on books premiered first?
+#### Which of these dog movies based on books premiered first?
 
 - [ ] Benji the Hunted
 - [ ] Homeward Bound
@@ -53340,3 +53340,27 @@
 - [x] Nick Jr.
 - [ ] History
 - [ ] ESPN 2
+
+#### In carnival slang, what is a "Dukey"?
+
+- [x] A Snack
+- [ ] A Fight
+- [ ] A Piece of Trash
+
+#### Johnny Cash famously wrote a song about which prision?
+
+- [ ] Alcatraz
+- [ ] Leavenworth
+- [x] Folsom
+
+#### Which fast food chain is the Home of the Whopper?
+
+- [x] Burger King
+- [ ] Dairy Queen
+- [ ] Sonic
+
+#### Who is credited with sewing one of the early versions of the American flag?
+
+- [x] Betsy Ross
+- [ ] Benjamin Frankin
+- [ ] Samuel Adams
