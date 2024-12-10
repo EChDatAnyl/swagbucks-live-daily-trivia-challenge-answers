@@ -53442,3 +53442,51 @@
 - [ ] Military base
 - [x] Corporate office
 - [ ] Space station
+
+#### What form of poem has exactly 14 lines?
+
+- [ ] Limerick
+- [ ] Haiku
+- [x] Sonnet
+
+#### Which of the following people never hosted the Grammy awards?
+
+- [x] Dean Martin
+- [ ] Jerry Lewis
+- [ ] Frank Sinatra
+
+#### How many wishes does the Genie grant to Aladdin when emerging from the magic lamp?
+
+- [x] 3
+- [ ] 4
+- [ ] 5
+
+#### What brand of potato chips comes in a can?
+
+- [x] Pringles
+- [ ] Kettle Cooked
+- [ ] Ruffles
+
+#### What landmass grows by 5cm per year?
+
+- [ ] North America
+- [x] Iceland
+- [ ] Australia
+
+#### Which of these is a type of pollution?
+
+- [ ] Fog
+- [x] Smog
+- [ ] Wind
+
+#### Which of these drinking cups usually has a handle on its side?
+
+- [ ] Wine glass
+- [ ] Shot glass
+- [x] Mug
+
+#### Cereal is normally mixed in a bowl with what?
+
+- [ ] Sake
+- [ ] Zinfandel
+- [x] Milk
