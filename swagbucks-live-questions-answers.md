@@ -53382,3 +53382,63 @@
 - [x] Thomas Jefferson
 - [ ] Hillary Clinton
 - [ ] Condoleezza Rice
+
+#### Corsets are an example of what kind of clothing?
+
+- [ ] Active wear
+- [x] Shapewear
+- [ ] Formal wear
+
+#### Which of the following is NOT a common ingredient in Shepherd's Pie?
+
+- [ ] Meat
+- [ ] Peas
+- [x] Grape Jelly
+
+#### Which of the following countries is in the Southern Hemisphere?
+
+- [x] Australia
+- [ ] The United States
+- [ ] Canada
+
+#### Which of the following movies is a horror film?
+
+- [ ] Barbie
+- [x] Smile 2
+- [ ] The Wild Robot
+
+#### Which of the following movies does NOT have a socare by John Williams?
+
+- [ ] Star Wars
+- [ ] Superman: The Movie
+- [x] Gone With The Wind
+
+#### Which of the following comic strips was turned into a live action TV show in 1959?
+
+- [ ] Peanuts
+- [x] Dennis the Menace
+- [ ] The Wizard of Id
+
+#### Which of the following movies was NOT the top-grossing Summer blockbuster domestically the year it was released?
+
+- [ ] The Amityville Horror
+- [ ] Who Framed Roger Rabbit?
+- [x] Coming to America
+
+#### Lara Croft is the main character in which video game series?
+
+- [x] Tomb Raider
+- [ ] Super Mario Bros
+- [ ] Legend of Zelda
+
+#### In golf, what is the term for the number of strokes a first-class player should require for a particular hole?
+
+- [ ] Bunker
+- [x] Par
+- [ ] Eagle
+
+#### In the comic strip "Dilbert," where does the main character work?
+
+- [ ] Military base
+- [x] Corporate office
+- [ ] Space station
