@@ -28291,7 +28291,7 @@
 - [ ] Busch Gardens
 - [ ] Six Flags
 
-#### Which of these thigns is personaified as a father?
+#### Which of these things is personified as a father?
 
 - [ ] Earth
 - [x] Time
@@ -53550,3 +53550,39 @@
 - [ ] Greenland
 - [x] Hawaii
 - [ ] Alaska
+
+#### What restaurant chain urges you to "Live Mas"?
+
+- [ ] Dei Taco
+- [ ] Baja Fresh
+- [x] Taco Bell
+
+#### Chad Kroeger is the lead singer of what band?
+
+- [ ] Nickel Creek
+- [x] Nickelback
+- [ ] Nick Cave and the Bad Seeds
+
+#### In which game can you achieve the rank of Grandmaster?
+
+- [ ] Poker
+- [x] Chess
+- [ ] Checkers
+
+#### What is one of the main ingredients of brownies?
+
+- [x] Sugar
+- [ ] Pepper
+- [ ] Avocado
+
+#### In "Legally Blonde", what university's law school does Elle Woods attend?
+
+- [ ] Yale
+- [ ] Princeton
+- [x] Harvard
+
+#### In which movie does a lead character sing "Do You Want To Build A Snowman"?
+
+- [x] Frozen
+- [ ] Moana
+- [ ] Wreck-It Ralph
