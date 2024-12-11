@@ -24709,11 +24709,11 @@
 - [ ] Alaska
 - [ ] Norway
 
-#### Which ofthe following ski slope designations denotes the steepest and most difficult slope?
+#### Which of the following ski slope designations denotes the steepest and most difficult slope?
 
 - [ ] Bunny Slope
 - [ ] Yellow Diamond
-- [x] Dobule Black Diamond
+- [x] Double Black Diamond
 
 #### To aid in traction, what do snowmobiles have?
 
@@ -53490,3 +53490,63 @@
 - [ ] Sake
 - [ ] Zinfandel
 - [x] Milk
+
+#### Which of the following ski slope ratings designates the most difficult slope?
+
+- [ ] Pink
+- [ ] Purple Horseshoe
+- [x] Black Diamond
+
+#### What mythical ape-like creature is rumored to wander the Himalayan mountains?
+
+- [ ] Krampus
+- [x] Yeti
+- [ ] Mahaha
+
+#### Where is Santa rumored to live?
+
+- [x] The North Pole
+- [ ] Paramus, New Jersey
+- [ ] Disneyland
+
+#### Which of the following events is exclusive to the Winter Olympics?
+
+- [ ] Synchronized Swimming
+- [ ] High Jump
+- [x] Biathlon
+
+#### In the song "Winter Wonderland", when the singer mentions building a snowman, who are we supposed to pretend it is?
+
+- [ ] Santa Claus
+- [x] Parson Brown
+- [ ] Robert Towne
+
+#### Which of the following is NOT a pentalty in Ice Hockey?
+
+- [ ] Hooking
+- [ ] Roughing
+- [x] Working It
+
+#### 1993's "Storm of the Century" brought with it what Winter weather event?
+
+- [x] Blizzard
+- [ ] Chili Bumps
+- [ ] Freeze-In
+
+#### "Stopping by Woods on a Snowy Evening" is a famous winter poem by which poet?
+
+- [ ] Langston Hughes
+- [x] Robert Frost
+- [ ] Walt Whitman
+
+#### In which of the following countries is it Summer during America's Winter months?
+
+- [x] Australia
+- [ ] Canada
+- [ ] Denmark
+
+#### In which of the following places would you NOT typically find native polar bears?
+
+- [ ] Greenland
+- [x] Hawaii
+- [ ] Alaska
