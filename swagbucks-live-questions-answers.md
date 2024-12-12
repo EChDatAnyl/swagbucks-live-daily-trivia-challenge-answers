@@ -27217,9 +27217,9 @@
 - [x] Chocolate
 - [ ] Cherry Cola
 
-#### Which of the following landmarks would be found in Pairs?
+#### Which of the following landmarks would be found in Paris?
 
-- [ ] The Grand CAnyon
+- [ ] The Grand Canyon
 - [x] The Eiffel Tower
 - [ ] Big Ben
 
@@ -40813,7 +40813,7 @@
 - [x] The Sail
 - [ ] The Captain
 
-#### "Well, it's one for hte money, two for the show. Three to get ready now go, cat, go" is the first line of what song?
+#### "Well, it's one for the money, two for the show. Three to get ready now go, cat, go" is the first line of what song?
 
 - [ ] Bohemian Rhapsody
 - [ ] Baby Got Back
@@ -53586,3 +53586,63 @@
 - [x] Frozen
 - [ ] Moana
 - [ ] Wreck-It Ralph
+
+#### Which of the following companies is best known for making sunglasses and glasses frames?
+
+- [x] Ray-Ban
+- [ ] Huggies
+- [ ] Gerber
+
+#### Who sculpted the world-famous David?
+
+- [ ] Leonardo da Vinci
+- [x] Michelangelo
+- [ ] Donatello
+
+#### The Louisiana Purchase involved the United States acquiring land owned by what country?
+
+- [ ] Kenya
+- [ ] New Zealand
+- [x] France
+
+#### Which country gave us the condiment Pickapeppa Sauce?
+
+- [ ] Tahiti
+- [x] Jamaica
+- [ ] Greece
+
+#### Sandra Bullock won an Oscar for her role in which movie?
+
+- [x] The Blind Side
+- [ ] Speed 2: Cruise Control
+- [ ] All About Steve
+
+#### The Eiffel Tower was originally proposed for which city?
+
+- [ ] London
+- [ ] Paris
+- [x] Barcelona
+
+#### The chain TCBY claims to sell The Country's Best what?
+
+- [ ] Yoo-hoo
+- [x] Yogurt
+- [ ] Yarn
+
+#### Which of the following body parts is named for a Roman deity?
+
+- [x] Iris
+- [ ] Pupil
+- [ ] Sole
+
+#### "Well, it's one for the money, two for the show. Three to get ready now go, cat, go" is the opening line of what song?
+
+- [ ] My Heart Will Go On
+- [x] Blue Suede Shoes
+- [ ] Enter Sandman
+
+#### What two shapes face off in Tic Tac Toe?
+
+- [ ] A and B
+- [x] X and O
+- [ ] T and V
