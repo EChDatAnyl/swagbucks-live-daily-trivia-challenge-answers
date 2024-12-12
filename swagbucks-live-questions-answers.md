@@ -53646,3 +53646,39 @@
 - [ ] A and B
 - [x] X and O
 - [ ] T and V
+
+#### Who is the only U.S. president to have won a Pultizer Prize?
+
+- [ ] Franklin D. Roosevelt
+- [x] John F. Kennedy
+- [ ] Jimmy Carter
+
+#### Who was the first Japanese player in Major League Baseball?
+
+- [ ] Ichiro Suzuki
+- [x] Massanori Murakami
+- [ ] Hideo Nomo
+
+#### Which of these are made to be worn on your hands?
+
+- [ ] Boots
+- [x] Mittens
+- [ ] Twine
+
+#### Which of these shows does NOT take place in outer place?
+
+- [ ] The Orville
+- [ ] Star Trek: Enterprise
+- [x] Downton Abbey
+
+#### Which influential advertising executive was known as "The Socrates of San Francisco"?
+
+- [ ] Hal Riney
+- [x] Howard Gossage
+- [ ] David Ogilvy
+
+#### Where would you find the Mauna Loa and Mauna Kea volcanoes?
+
+- [ ] Tahiti
+- [x] Hawaii
+- [ ] New Zealand
