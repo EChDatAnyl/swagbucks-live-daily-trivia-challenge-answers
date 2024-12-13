@@ -43197,7 +43197,7 @@
 
 #### Which of the following Disney Parks attractions has NOT been adapted into a feature film?
 
-- [ ] ThE Jingle Cruise
+- [ ] The Jingle Cruise
 - [x] It's A Small World
 - [ ] Pirates of the Caribbean
 
@@ -53682,3 +53682,99 @@
 - [ ] Tahiti
 - [x] Hawaii
 - [ ] New Zealand
+
+#### What baseball team was known as the Big Red Machine in the 1970s?
+
+- [x] Cincinnati Reds
+- [ ] Toronto Blue Jays
+- [ ] Florida Marlins
+
+#### Which fast food chain claims their signature burger is "Flame-Broiled"?
+
+- [x] Burger King
+- [ ] Wendy's
+- [ ] Sonic
+
+#### What piece of safety equipment is often used in elementary school gym class?
+
+- [ ] Ejector Seat
+- [ ] Seatbelt
+- [x] Parachute
+
+#### Which of the following women is NOT in the Rock & Roll Hall of Fame?
+
+- [ ] Ma Rainey
+- [x] Karen Carpenter
+- [ ] Dinah Washington
+
+#### At one point, the tallest and shortest players in the NBA played together for which team?
+
+- [x] Washington Bullets
+- [ ] Charlotte Hornets
+- [ ] Philadelphia 76ers
+
+#### What country does Samba music come from?
+
+- [x] Brazil
+- [ ] Canada
+- [ ] Greenland
+
+#### In 2016, a Sri Lankan church mistakenly printed carol books with which rapper added in?
+
+- [ ] Snoop Dogg
+- [x] Tupac Shakur
+- [ ] Kayne West
+
+#### In which company's labs was Silly Putty born?
+
+- [x] General Electric
+- [ ] Boeing
+- [ ] Johnson & Johnson
+
+#### In which series did Julianna Margulies star as attorney Alicia Florrick?
+
+- [ ] ER
+- [ ] Union Square
+- [x] The Good Wife
+
+#### When spilled, what substance are you supposed to toss over your shoulder to ward off bad luck?
+
+- [ ] Garlic
+- [ ] Pebbles
+- [x] Salt
+
+#### What is the name of the primary starship from the original Star Trek TV series?
+
+- [x] Enterprise
+- [ ] Excelsior
+- [ ] Voyager
+
+#### In which city can you find the famous landmark Big Ben?
+
+- [ ] Paris
+- [x] London
+- [ ] Rome
+
+#### Who wrote the 1965 hit "Turn! Turn! Turn! (to Everything There Is a Season)"?
+
+- [ ] David Crosby
+- [x] Pete Seeger
+- [ ] John Lennon
+
+#### Which food is NOT mentioned in "Take Me Out to the Ball Game"?
+
+- [ ] Peanuts
+- [ ] Crackerjack
+- [x] Brussels Sprouts
+
+#### What is the ACTUAL first name of the crab from "The Little Mermaid"?
+
+- [x] Horatio
+- [ ] Thelonious
+- [ ] Ignacious
+
+#### The first piece of music played by Schroeder in a Peanuts strip is by which composer?
+
+- [ ] Beethoven
+- [x] Rachmaninoff
+- [ ] Mendelssohn
