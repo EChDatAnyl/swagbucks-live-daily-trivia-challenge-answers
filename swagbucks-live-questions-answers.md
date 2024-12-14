@@ -53778,3 +53778,15 @@
 - [ ] Beethoven
 - [x] Rachmaninoff
 - [ ] Mendelssohn
+
+#### What is the DeBeers company slogan?
+
+- [x] A Diamond Is Forever
+- [ ] I can't believe I ate the whole Diamond!
+- [ ] Did Somebody Say A Diamond?
+
+#### Which of the following is NOT one of the rules of Jason Statham's character in "The Transporter"?
+
+- [ ] Never change the deal
+- [x] Always wear a seatbelt
+- [ ] No names
