@@ -53790,3 +53790,33 @@
 - [ ] Never change the deal
 - [x] Always wear a seatbelt
 - [ ] No names
+
+#### On which social media site can you "friend" someone instead of just following them?
+
+- [ ] Instagram
+- [ ] Twitter
+- [x] Facebook
+
+#### What European chocolate brand comes in triangular boxes?
+
+- [ ] Galaxy
+- [x] Toblerone
+- [ ] Mika
+
+#### Which of these dishes does NOT typically contain living things?
+
+- [x] Shirako
+- [ ] Casu Marzu
+- [ ] Ying-Yang Fish
+
+#### After nine weeks, what song knocked Queen's "Bohemian Rhapsody" off the top spot of the UK charts?
+
+- [x] Mamma Mia
+- [ ] Pinball Wizard
+- [ ] Crocodile Rock
+
+#### What is the term for the pitcher who comes in to get saves for his team?
+
+- [ ] Starter
+- [ ] DH
+- [x] Closer
