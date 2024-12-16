@@ -53820,3 +53820,27 @@
 - [ ] Starter
 - [ ] DH
 - [x] Closer
+
+#### If water boils at 212 degrees Fahrenheit, at what temperature Celsius will it boil?
+
+- [ ] 70
+- [ ] 85
+- [x] 100
+
+#### If you mailed something to the zip code 10118, where would it go?
+
+- [ ] The North Pole
+- [x] The Empire State Building
+- [ ] The Statue of Liberty
+
+#### In what year did Charles Lindbergh make his first Transatlanticc flight?
+
+- [x] 1927
+- [ ] 1931
+- [ ] 1940
+
+#### "Breath of the Wild" and "A Link to the Past" are titles in which video game series?
+
+- [ ] Super Mario Bros
+- [ ] Space Invaders
+- [x] Legend of Zelda
