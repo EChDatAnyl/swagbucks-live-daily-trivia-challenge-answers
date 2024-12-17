@@ -53934,3 +53934,39 @@
 - [x] Hanukkah
 - [ ] Kwanzaa
 - [ ] Boxing Day
+
+#### Venezuela is named after a city in what country?
+
+- [x] Italy
+- [ ] Spain
+- [ ] South America
+
+#### Donald Duck is a member of what musical trio?
+
+- [ ] The Three Little Pigs
+- [ ] Hanson
+- [x] The Three Caballeros
+
+#### In the 8 levels of adjective placement, which comes last?
+
+- [ ] Opinion
+- [ ] Material
+- [x] Purpose
+
+#### Which of these Stephen King books has the highest word count?
+
+- [ ] Dreamcatcher
+- [x] The Stand
+- [ ] The Tommyknockers
+
+#### Which of these top-grossing movies dramatizes an actual historical event?
+
+- [ ] Avengers: Infinity War
+- [x] Titanic
+- [ ] Avatar
+
+#### The Masters and U.S. Open are tournaments in what sport?
+
+- [ ] Volleyball
+- [ ] Tennis
+- [x] Golf
