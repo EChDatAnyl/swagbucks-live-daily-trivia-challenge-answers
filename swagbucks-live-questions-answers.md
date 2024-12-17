@@ -38305,7 +38305,7 @@
 - [ ] Barbie
 - [ ] Transformers
 
-#### What is the only position in soccer that can touch the bball with their hands while it's in play?
+#### What is the only position in soccer that can touch the ball with their hands while it's in play?
 
 - [ ] Halfback
 - [ ] Sweeper
@@ -53844,3 +53844,93 @@
 - [ ] Super Mario Bros
 - [ ] Space Invaders
 - [x] Legend of Zelda
+
+#### Who holds the all-time record for home runs in the major leagues?
+
+- [ ] Babe Ruth
+- [x] Barry Bonds
+- [ ] Hank Aaron
+
+#### What did the R in U.S.S.R. stand for?
+
+- [ ] Revolution
+- [x] Republics
+- [ ] Renovations
+
+#### What company aired the longest commercial in U.S. history?
+
+- [ ] Heinz
+- [ ] Timex
+- [x] Arby's
+
+#### If you get in trouble for "Playing Hooky", what are you doing?
+
+- [x] Skipping school
+- [ ] Fishing
+- [ ] Flying a kite
+
+#### Sauerkraut is made by fermenting what vegetable?
+
+- [ ] Cucubers
+- [ ] Bell Peppers
+- [x] Cabbage
+
+#### In "A Christmas Story", what does Ralphie want for Christmas?
+
+- [x] A Red Ryder BB Gun
+- [ ] A Radio Flyer Wagon
+- [ ] A Football
+
+#### In "White Christmas", where is the inn where Bob, Phil, Betty and Judy are supposed to perform?
+
+- [ ] Arizona
+- [x] Vermont
+- [ ] Georgia
+
+#### In "How the Grinch Stole Christmas", what animal is the Grinch's companion?
+
+- [ ] Cat
+- [ ] Horse
+- [x] Dog
+
+#### In "Die Hard", John McClane faces off against terrorists in what building?
+
+- [x] Nakatomi Plaza
+- [ ] Griffith Observatory
+- [ ] Capitol Records Building
+
+#### Which of the following actors is NOT a lead in "The Holiday"?
+
+- [ ] Jack Black
+- [ ] Cameron Diaz
+- [x] Demi Moore
+
+#### In Robert Zemeckis's animated version of "A Christmas Carol", who plays Scrooge and the 3 Christmas spirits?
+
+- [x] Jim Carrey
+- [ ] Tom Hanks
+- [ ] Gary Oldman
+
+#### In "Home Alone", what does Kevin accidentally steal from the store?
+
+- [ ] Toy soliders
+- [x] Toothbrush
+- [ ] Laundry Detergent
+
+#### What greeting card company has a cable channel that makes original holiday movies?
+
+- [ ] American Greetings
+- [ ] Blue Mountain ARts
+- [x] Hallmark
+
+#### Billy Bob Thornton plays the grouchy Willie T. Stokes in what Christmas movie?
+
+- [ ] Silent Night, Deadly Night
+- [x] Bad Santa
+- [ ] The Night Before
+
+#### Adam Sandler's "Eight Crazy Nights" centers around which holiday?
+
+- [x] Hanukkah
+- [ ] Kwanzaa
+- [ ] Boxing Day
