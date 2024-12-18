@@ -39787,7 +39787,7 @@
 - [x] He had pet mice growing up
 - [ ] He once played Peter Pan in a school day
 
-#### What famous novel is abou a bunch of school boys stranded on an island?
+#### What famous novel is about a bunch of school boys stranded on an island?
 
 - [ ] Ulysses
 - [ ] Mrs. Dalloway
@@ -53970,3 +53970,87 @@
 - [ ] Volleyball
 - [ ] Tennis
 - [x] Golf
+
+#### What Star Wars planet is known as the hidden world of the Sith?
+
+- [ ] Llum
+- [ ] Byss
+- [x] Exegol
+
+#### Which of these objects protects your eyes from the sun?
+
+- [ ] Motorcycle engine
+- [ ] Saran Wrap
+- [x] Sunglasses
+
+#### What chocolate brand is still running a series of commercials in which its candies are living things interacting with people?
+
+- [ ] Raisinets
+- [ ] York Peppermint Patties
+- [x] M&Ms
+
+#### The girl who crawled out of TVs in "The Ring" was also a voice in what Disney animated film?
+
+- [ ] Recess: School's Out
+- [ ] Treature Planet
+- [x] Lio & Stitch
+
+#### In "The Nightmare Before Christmas", who plans the kidnapping of Santa?
+
+- [ ] Mayor
+- [x] Jack Skellington
+- [ ] Sally
+
+#### In "The Santa Clause", what happens to Santa at the beginning of the movie?
+
+- [x] He falls off the roof
+- [ ] He falls in a river
+- [ ] He falls into an open manhole
+
+#### Which of the following film franchises does NOT have a holiday movie?
+
+- [ ] The Best Man
+- [ ] Harold and Kumar
+- [x] The Fast and the Furious
+
+#### "Faith is believing in things when common sense tells you not to" is a quote from which holiday movie?
+
+- [ ] Elf
+- [x] Miracle on 34th Street
+- [ ] Jingle Jangle
+
+#### In the "Christmas Chronicle" movies, which real-life couple plays Santa and Mrs. Claus?
+
+- [x] Kurt Russell & Goldie Hawn
+- [ ] Eva Mendes and Ryan Gosling
+- [ ] Tom Hanks and Rita Wilson
+
+#### Who narrates "The Muppet Christmas Carol" as Charles Dickens?
+
+- [ ] Miss Piggy
+- [ ] Big Bird
+- [x] Gonzo
+
+#### Which of these Best Picture Oscar nominees is set primarily during Christmas?
+
+- [ ] American Fiction
+- [x] The Holdovers
+- [ ] Anatomy of a Fall
+
+#### According to Buddy the Elf, what's the best way to spread Chritmas cheer?
+
+- [x] Singing loud for all to hear
+- [ ] Brightly grinning ear to ear
+- [ ] Dring eggnog until the New Year
+
+#### In "It's A Wonderful Life", what does a bell ringing mean?
+
+- [ ] Chrismas has arrived
+- [x] An angel got its wings
+- [ ] It was all a dream
+
+#### In "Christmas with the Kranks", where are the Kranks planning to go for Christmas?
+
+- [ ] Alaska
+- [ ] Norway
+- [x] The Caribbean
