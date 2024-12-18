@@ -29695,7 +29695,7 @@
 - [ ] Mortal Kombat
 - [x] Chiller
 
-#### Before the Washingtoni Monument, what was the world's tallest man made structure?
+#### Before the Washington Monument, what was the world's tallest man made structure?
 
 - [x] The Cologne Cathedral
 - [ ] The Statue of Liberty
@@ -54054,3 +54054,39 @@
 - [ ] Alaska
 - [ ] Norway
 - [x] The Caribbean
+
+#### Before Edwin Naime invented the eraser, which of the following did people use in its place?
+
+- [ ] Carrots
+- [ ] Flower petals
+- [x] Bread
+
+#### Which animated movie featuring at least one dog was the first to be made in CinemaScope?
+
+- [ ] 101 Dalmatians
+- [x] Lady and the Tramp
+- [ ] Peter Pan
+
+#### In World War II, Germany, Italy and Japan made up what group?
+
+- [ ] Allied Forces
+- [x] Axis Forces
+- [ ] The Yalta Conference
+
+#### The disco song "A Fifth of Beethoven" is a version of what classical music piece?
+
+- [x] Beethoven's Symphony No. 5 in C minor
+- [ ] Love Me Do
+- [ ] Single Ladies
+
+#### Englishman Alan Blake is the inventor of which sport?
+
+- [x] Underwater Hockey
+- [ ] Bossaball
+- [ ] Pesapallo
+
+#### What company's logo does NOT contain an arrow?
+
+- [ ] FedEx
+- [ ] Amazon
+- [x] General Electric
