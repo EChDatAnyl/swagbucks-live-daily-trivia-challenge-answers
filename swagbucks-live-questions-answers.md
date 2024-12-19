@@ -40147,7 +40147,7 @@
 - [ ] Peregrine Falcon
 - [ ] Common Swift
 
-#### Cleopatra's ancestry taces back to which country?
+#### Cleopatra's ancestry traces back to which country?
 
 - [ ] China
 - [x] Greece
@@ -40159,11 +40159,11 @@
 - [ ] Hugging
 - [ ] High-five
 
-#### What inscet famously eats wood?
+#### What insect famously eats wood?
 
 - [ ] Files
 - [ ] Termites
-- [ ] Caterpillars
+- [x] Caterpillars
 
 #### In 2005, what captive female animal used parthenogenesis to produce babies without a male?
 
@@ -54090,3 +54090,63 @@
 - [ ] FedEx
 - [ ] Amazon
 - [x] General Electric
+
+#### In "Home Alone", where are the McAllisters traveling for the holidays?
+
+- [ ] Copenhagen
+- [ ] London
+- [x] Paris
+
+#### In "A Christmas Story", where does Ralphie's family wind up eating Christmas dinner?
+
+- [ ] Park
+- [x] Chinese Restaurant
+- [ ] At Home
+
+#### In which holiday movie do Sinbad and Arnold Schwarzenegger race to buy a Turbo-Man action figure?
+
+- [ ] Deck the Halls
+- [ ] A Christmas Movie Christmas
+- [x] Jingle All The Way
+
+#### Eddie Murphy's "Candy Cane Lane" is based on an actual street in what city?
+
+- [x] Peabody, MA
+- [ ] El Segundo, CA
+- [ ] Jenkintown, PA
+
+#### In "Scrooged", what does Bill Murray's character for a living?
+
+- [x] TV Executive
+- [ ] Bank Executive
+- [ ] Janitor
+
+#### Which of the following holiday movies was a box office bomb when it was first released in theaters?
+
+- [x] It's A Wonderful Life
+- [ ] A Christmas Story
+- [ ] Gremlins
+
+#### In "Noelle", where has Noelle's brother gone to escape from the North Pole?
+
+- [ ] Honolulu
+- [ ] New York
+- [x] Phoenix
+
+#### Dr. Seuss's widow mentioned certain actors who could play the Grinch. Which of the following was NOT one of them?
+
+- [x] Tom Hanks
+- [ ] Jack Nicholson
+- [ ] Dustin Hoffman
+
+#### "Jingle Jangle: A Christmas Journey" centers around what kind of business?
+
+- [x] Toymaker
+- [ ] Actuary
+- [ ] Newspaper
+
+#### In "Fred Claus", how is Fred related to Santa?
+
+- [ ] Father
+- [x] Brother
+- [ ] Son
