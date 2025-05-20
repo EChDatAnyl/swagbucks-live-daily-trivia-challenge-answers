@@ -64023,3 +64023,51 @@
 - [ ] Germany
 - [ ] Russia
 - [x] Poland
+
+#### In what kind of performance would you hear an aria?
+
+- [ ] Tap dancing
+- [ ] Rap
+- [x] Opera
+
+#### Which cable network could call themselves the Hyperbaric Channel?
+
+- [x] Oxygen
+- [ ] Fuze
+- [ ] Discovery
+
+#### Who was the British Prime Minister during World War II?
+
+- [ ] Margaret Thatcher
+- [x] Winston Churchill
+- [ ] Tony Blair
+
+#### In "Raiders of the Lost Ark", what does Indy instruct Marion to do when the Ark is opened?
+
+- [ ] Stare right at it
+- [x] Keep her eyes shut
+- [ ] Whistle
+
+#### In 2016, Beyonce, Drake, and dele all sold fewer CDs than which artist?
+
+- [ ] "Weird" Al Yankovic
+- [x] Mozart
+- [ ] Hillary Clinton
+
+#### Which mother was known as "The Most Dangerous Woman in America"?
+
+- [ ] Ma Barker
+- [x] Mother Jones
+- [ ] Mother Nature
+
+#### Tommy Lee is the drummer for what heavy metal band?
+
+- [ ] Poison
+- [ ] Nelson
+- [x] Motley Crue
+
+#### Bounty goes by what nickname?
+
+- [ ] Cleantasic
+- [x] The Quicker Picker Upper
+- [ ] Thin Sponges
