@@ -64071,3 +64071,87 @@
 - [ ] Cleantasic
 - [x] The Quicker Picker Upper
 - [ ] Thin Sponges
+
+#### In which board game do you "Pass GO"?
+
+- [ ] Sorry
+- [ ] Parcheesi
+- [x] Monopoly
+
+#### What game was invented by a Seattle waiter?
+
+- [x] Pictionary
+- [ ] Outburst
+- [ ] Balderdash
+
+#### Which brand of athletic wear features a silhouette of its namesake dunking a basketball?
+
+- [ ] Reebok
+- [x] Jordan
+- [ ] Puma
+
+#### Which celebrity is heir to a hotel fortune?
+
+- [ ] Nichole Richie
+- [ ] Kim Kardashian
+- [x] Paris Hilton
+
+#### What is the name of WALL-E's love interest?
+
+- [x] EVE
+- [ ] Ava
+- [ ] M3GAN
+
+#### 2015's Summer smash "Fury Road" was an entry in which film franchise?
+
+- [ ] Star Trek
+- [x] Mad Max
+- [ ] Superman
+
+#### On July 25, 2025, what Marvel supergroup takes their "First Steps" into the MCU?
+
+- [ ] The Inhumans
+- [ ] The New Mutants
+- [x] Fantastic Four
+
+#### "Hopelessly Devoted" and "You're The One That I Want" are both songs from what musical Summer blockbuster?
+
+- [ ] Mamma Mia!
+- [x] Grease
+- [ ] Chicago
+
+#### In "Harry Potter and the Half-Blood Prince", who is the Half Blood Prince?
+
+- [x] Severus Snape
+- [ ] Tom Riddle
+- [ ] Harry Potter
+
+#### In "Jaws" Chief Brody says "You're going to need a bigger" what?
+
+- [ ] Shark
+- [ ] Gun
+- [x] Boat
+
+#### What children's toy does E.T. use to build his phone?
+
+- [x] Speak & Spell
+- [ ] Game Boy
+- [ ] Rock 'em Sock 'em Robots
+
+#### In "Ghost", what object does Sam make float through the air to his girlfriend Molly?
+
+- [ ] A button
+- [x] A penny
+- [ ] A shirt
+
+#### In "Back to the Future", what year does Marty McFly accidentally travel back to?
+
+- [x] 1955
+- [ ] 2734
+- [ ] 1313
+
+#### In "The Lion King", who is responsible for Mufasa's death?
+
+- [ ] Pumbaa
+- [ ] Timon
+- [x] Scar
