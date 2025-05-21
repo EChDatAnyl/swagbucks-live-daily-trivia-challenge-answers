@@ -64155,3 +64155,27 @@
 - [ ] Pumbaa
 - [ ] Timon
 - [x] Scar
+
+#### What was the smaller version of the iPod called?
+
+- [x] iPod Nano
+- [ ] iPod Nanite
+- [ ] iPod Nanny
+
+#### In Aladdin, what kind of animal is Abu?
+
+- [ ] Snake
+- [ ] Parrot
+- [x] Monkey
+
+#### Stephen Sondheim is famous for what kind of work?
+
+- [ ] Sculpture
+- [ ] Painting
+- [x] Compositions for Broadway
+
+#### The CMT awards are given out for hat type of music?
+
+- [ ] Rap
+- [x] Country
+- [ ] New Wave
