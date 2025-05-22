@@ -64174,8 +64174,86 @@
 - [ ] Painting
 - [x] Compositions for Broadway
 
-#### The CMT awards are given out for hat type of music?
+#### The CMT awards are given out for what type of music?
 
 - [ ] Rap
 - [x] Country
 - [ ] New Wave
+
+#### The Big Mac is the signature sandwich of what fast food chain?
+
+- [ ] Burger King
+- [x] McDonald's
+- [ ] Wendy's
+
+#### At what age was the youngest professional gamer in history first signed to their first deal?
+
+- [x] Six
+- [ ] Eleven
+- [ ] Fifteen
+
+#### What two movies inspired the founding of The Razzle Awards?
+
+- [ ] Ishtar and The Garbage Pail Kids Movie
+- [ ] Cleopatra and Plan 9 from Outer Space
+- [x] Can't Stop the Music & Xanadu
+
+#### In the "Despicable Me" movies, who do the Minions mainly work for?
+
+- [x] Gru
+- [ ] Dr. Nefario
+- [ ] Sils Ramsbottom
+
+#### What maneuver does Daniel LaRusso use to win the All-Valley Karate Tournament in "The Karate Kid"?
+
+- [ ] The Raven Punch
+- [x] The Crane Kick
+- [ ] The Hawk Throw
+
+#### Who played Maverick in "Top Gun"?
+
+- [ ] Anthony Edwards
+- [ ] Val Kilmer
+- [x] Tom Cruise
+
+#### Which of the following original horror movies was a Summer release?
+
+- [x] Friday the 13th
+- [ ] A Nightmare on Elm Street
+- [ ] Halloween
+
+#### In "Total Recall" Arnold Schwarzenegger is Douglas Quaid, trying to get to which planet?
+
+- [ ] Saturn
+- [x] Mars
+- [ ] Neptune
+
+#### In "The Goonies", which Goonie adopts Sloth?
+
+- [ ] Data
+- [ ] Mikey
+- [x] Chunk
+
+#### In which of these Summer movies do the heroes defend Earth from aliens?
+
+- [ ] Blade
+- [x] Independence Day
+- [ ] The Sixth Sense
+
+#### "Failure is not an option" was one of the slogans of which Summer movie?
+
+- [x] Apollo 13
+- [ ] True Lies
+- [ ] Twister
+
+#### In "Shrek", where does Shrek live?
+
+- [ ] A Castle
+- [ ] Under a Bridge
+- [x] The Swamp
+
+#### Who played The Joker in "The Dark Knight"?
+
+- [ ] Cesar Romeo
+- [x] Heath Ledger
+- [ ] Jack Nicholson
