@@ -64329,3 +64329,33 @@
 - [ ] Spiders
 - [x] Mosquitos
 - [ ] Termites
+
+#### On "Sabrina the Teenage the Witch", how old was Salem the Cat?
+
+- [x] 500
+- [ ] 13
+- [ ] 99
+
+#### Which of these movie ratings is appropriate for small children?
+
+- [x] G
+- [ ] NC-17
+- [ ] R
+
+#### Who is referred to as "The Father of the United States"?
+
+- [ ] Curious George
+- [ ] Boy George
+- [x] George Washington
+
+#### Madeline Albright was the first woman appointed to what government position?
+
+- [x] Secretary of State
+- [ ] Vice President
+- [ ] Senator
+
+#### What is the name for the brief break between acts in a play?
+
+- [ ] Interloper
+- [x] Intermission
+- [ ] Intramural
