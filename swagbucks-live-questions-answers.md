@@ -64257,3 +64257,75 @@
 - [ ] Cesar Romeo
 - [x] Heath Ledger
 - [ ] Jack Nicholson
+
+#### What Barbadian star says you can stand under their unbrella-ella-ella?
+
+- [ ] Alison Hinds
+- [ ] Shontelle
+- [x] Rihanna
+
+#### How do you properly pronounce the style of glasses worn by both Presidents Roosevelt?
+
+- [x] Pans Nay
+- [ ] Pince Nez
+- [ ] Pance Nizy
+
+#### In which Summer Blockbuster does Maximus shout "Are you not entertained?!"
+
+- [x] Gladiator
+- [ ] Bad Boys
+- [ ] True Lies
+
+#### Kevin Costner starred in what 1995 Summer Bomb?
+
+- [ ] Draft Day
+- [ ] Silverado
+- [x] Waterworld
+
+#### In "Batman Forever", which rubber-faced comedian played The Riddler?
+
+- [x] Jim Carrey
+- [ ] Tommy Davidson
+- [ ] Damon Wayans
+
+#### In "Avengers: Endgame", who snaps back the people who Thanos had made disappear?
+
+- [ ] Iron Man
+- [x] The Hulk
+- [ ] Thor
+
+#### In "Forrest Gump", Forrest becomes rich partially be becoming an early investor in which company?
+
+- [ ] Nike
+- [ ] Starbucks
+- [x] Apple
+
+#### One of the biggest Summer hits of 2003 was a movie based on which Disney Parks attraction?
+
+- [ ] Matterhorn
+- [x] Pirates of the Caribbean
+- [ ] Space Mountain
+
+#### 2017's "Wonder Woman" takes place during which historical event?
+
+- [ ] D-Day
+- [ ] American Revolution
+- [x] World War I
+
+#### In "Barbie", which of the following modes of transportation is NOT used to get Barbie and Ken to the real world?
+
+- [ ] Bicycle
+- [ ] Rocket
+- [x] Jet Ski
+
+#### Which comedian played Dory in "Finding Nemo"?
+
+- [x] Ellen DeGeneres
+- [ ] Rosie O'Donnell
+- [ ] Nikki Glaser
+
+#### In "Jurassic Park", dinosaur DNA is extracted from which insects?
+
+- [ ] Spiders
+- [x] Mosquitos
+- [ ] Termites
