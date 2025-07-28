@@ -69753,3 +69753,9 @@
 - [x] Headphones
 - [ ] Salad Tongs
 - [ ] Throw rugs
+
+#### Which band released the seminal grunge album Nevermind?
+
+- [x] Nirvana
+- [ ] Peral Jam
+- [ ] Soundgarden
