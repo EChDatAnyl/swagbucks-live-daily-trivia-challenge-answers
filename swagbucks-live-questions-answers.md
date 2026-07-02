@@ -86854,3 +86854,21 @@
 - [ ] Spain
 - [x] Italy
 - [ ] Norway
+
+#### Who recorded "Stayin' Alive" for the Saturday Night Fever soundtrack?
+
+- [ ] The Ohio Players
+- [x] The Bee Gees
+- [ ] The Bay City Rollers
+
+#### What are you supposed to use to wipe your face at the dinner table?
+
+- [ ] The back of your hand
+- [x] A napkin
+- [ ] The tablecloth
+
+#### Griffith Observatory is located in which U.S. city?
+
+- [ ] Denver
+- [ ] Houston
+- [x] Los Angeles
