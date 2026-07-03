@@ -86872,3 +86872,57 @@
 - [ ] Denver
 - [ ] Houston
 - [x] Los Angeles
+
+#### How many branches does the U.S. government have?
+
+- [x] Three
+- [ ] Four
+- [ ] Nine
+
+#### What Hall of Famer was the first to break Babe Ruth's record for career home runs?
+
+- [x] Hank Aaron
+- [ ] Cy Young
+- [ ] Walter Mitty
+
+#### What American anthem was written by Irving Berlin?
+
+- [ ] America the Beautiful
+- [x] God Bless America
+- [ ] This Land is Your Land
+
+#### John Philip Sousa is known as the king of what kind of music?
+
+- [ ] Waltz
+- [ ] Samba
+- [x] March
+
+#### What year did America land the first people on the moon?
+
+- [x] 1969
+- [ ] 1979
+- [ ] 1989
+
+#### Shockingly, what is one thing you DON'T need to be a NASCAR driver?
+
+- [x] A driver's license
+- [ ] Protective eyewear
+- [ ] A pit crew
+
+#### Who was the first U.S. President to live in the White House?
+
+- [ ] George Washington
+- [x] John Adams
+- [ ] Thomas Jefferson
+
+#### Who wrote and recorded "Born in the U.S.A."?
+
+- [ ] John Mellencamp
+- [ ] David Lee Roth
+- [x] Bruce Springsteen
+
+#### From 1892 to 1954, what New York island was used for immigration processing and inspection?
+
+- [x] Ellis Island
+- [ ] Long Island
+- [ ] Staten Island
