@@ -86932,3 +86932,9 @@
 - [ ] Thor: The Dark World
 - [x] Avengers: Age of Ultron
 - [ ] Guardians of the Galaxy
+
+#### The N-Strike foam dart blasters are made by what toy line?
+
+- [x] NERF
+- [ ] Cabbage Patch Kids
+- [ ] Strawberry Shortcake
