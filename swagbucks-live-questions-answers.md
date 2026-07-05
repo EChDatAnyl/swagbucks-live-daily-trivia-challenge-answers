@@ -74980,7 +74980,7 @@
 - [ ] Strawberry Shortcake
 - [ ] Glo Worm
 
-#### What is the capital of Hengary?
+#### What is the capital of Hungary?
 
 - [x] Budapest
 - [ ] Berlin
@@ -86938,3 +86938,15 @@
 - [x] NERF
 - [ ] Cabbage Patch Kids
 - [ ] Strawberry Shortcake
+
+#### Albany is the capital of which State?
+
+- [x] New York
+- [ ] New Jersey
+- [ ] Connecticut
+
+#### Which of these musical instruments was "born" the earliest?
+
+- [ ] Saxophone
+- [x] Harmonica
+- [ ] Accordion
