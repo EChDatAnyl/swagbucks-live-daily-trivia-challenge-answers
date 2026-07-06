@@ -86950,3 +86950,21 @@
 - [ ] Saxophone
 - [x] Harmonica
 - [ ] Accordion
+
+#### Estivation is the opposite of what word?
+
+- [x] Hibernation
+- [ ] Blemishing
+- [ ] Devastation
+
+#### In the U.S. Civil War, what color were the uniforms of the Union Army?
+
+- [ ] Green
+- [x] Blue
+- [ ] Red
+
+#### Which of the following games is a first-person shooter?
+
+- [x] Halo
+- [ ] Frogger
+- [ ] Asteroids
