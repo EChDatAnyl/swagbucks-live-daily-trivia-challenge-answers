@@ -87028,3 +87028,15 @@
 - [ ] A Christmas Carol
 - [x] Oliver Twist
 - [ ] Great Expectations
+
+#### Which of these words refers to moving from one place to another?
+
+- [ ] Ample
+- [ ] Aspirate
+- [x] Amble
+
+#### What does Warby Parker sell?
+
+- [x] Eyeglasses
+- [ ] Cars
+- [ ] Shoes
