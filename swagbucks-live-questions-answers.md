@@ -86968,3 +86968,63 @@
 - [x] Halo
 - [ ] Frogger
 - [ ] Asteroids
+
+#### Which of the following is NOT a common variety of tea?
+
+- [ ] Earl Grey
+- [ ] Chamomile
+- [x] Roast Beef
+
+#### In Scrabble, how many tiles does a player need to play to "go out" or "bingo"?
+
+- [x] 7
+- [ ] 9
+- [ ] 11
+
+#### Nirvana drummer Dave Grohl went on to found what other band?
+
+- [ ] The Killers
+- [x] Foo Fighters
+- [ ] Radiohead
+
+#### Which of the following suffixes means "fear of"?
+
+- [x] Phobia
+- [ ] Philia
+- [ ] Flect
+
+#### What is the term for the dietary laws of Judaism?
+
+- [ ] Minyan
+- [ ] Yarmuike
+- [x] Kosher
+
+#### Which sport features a coin toss to help determine first possession of the ball?
+
+- [ ] Baseball
+- [x] American Football
+- [ ] Basketball
+
+#### What company made the first cellular phone call?
+
+- [ ] AT&T
+- [ ] Nokia
+- [x] Motorola
+
+#### Salt Lake City is the capital of which State?
+
+- [ ] Missouri
+- [ ] Indiana
+- [x] Utah
+
+#### The quote "I drink your milkshake. I DRINK IT UP!" comes from which movie?
+
+- [x] There Will Be Blood
+- [ ] The Karate Kid
+- [ ] The Avengers
+
+#### Which Charles Dickens story features The Artful Dodger?
+
+- [ ] A Christmas Carol
+- [x] Oliver Twist
+- [ ] Great Expectations
