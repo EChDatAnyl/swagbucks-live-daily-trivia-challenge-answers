@@ -87100,3 +87100,21 @@
 - [x] My Chemical Romance
 - [ ] The Beach Boys
 - [ ] Spice Girls
+
+#### In the novel "It", what animal is the mortal enemy of Pennywise?
+
+- [ ] Wolf
+- [x] Turtle
+- [ ] Eagle
+
+#### What is widely believed to be among the oldest cities in the world?
+
+- [ ] Denver
+- [x] Damascus
+- [ ] Dallas
+
+#### What race is known as "The most exciting 2 minutes in sports"?
+
+- [ ] The New York Marathon
+- [x] The Kentucky Derby
+- [ ] The Indianapolis 500
