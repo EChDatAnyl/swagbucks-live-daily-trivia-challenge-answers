@@ -87040,3 +87040,63 @@
 - [x] Eyeglasses
 - [ ] Cars
 - [ ] Shoes
+
+#### What is the name for the practice of decorative handwriting?
+
+- [ ] Mosaic
+- [ ] Origami
+- [x] Calligraphy
+
+#### What sauce would typically be a primary ingredient in traditional Buffalo sauce?
+
+- [ ] Soy Sauce
+- [x] Frank's RedHot
+- [ ] A.1. Sauce
+
+#### Which continent is home to the Himalayas?
+
+- [x] Asia
+- [ ] Africa
+- [ ] Australia
+
+#### Which of the following board games was invented by a retired schoolteacher?
+
+- [ ] Boggle
+- [x] Candy Land
+- [ ] Monopoly
+
+#### What Japanese baseball superstar excels as both a hitter AND a piticher?
+
+- [x] Shohei Ohtani
+- [ ] Ichiro
+- [ ] Yu Darvish
+
+#### Which of the following U.S. Presidents resigned while in office?
+
+- [ ] Lyndon B. Johnson
+- [ ] Abraham Lincoln
+- [x] Richard Nixon
+
+#### In the original book, what kind of creature does Stuart Little resemble?
+
+- [ ] Snake
+- [x] Mouse
+- [ ] Cat
+
+#### In -ten-codes", 1-04 means "acknowledgement". What does 10-3 mean?
+
+- [ ] Receiving poorly
+- [ ] Receiving well
+- [x] Stop transmitting
+
+#### Who has starred in the movies "Dune", "A Complete Unknown", and "Marty Supreme"?
+
+- [ ] Jim Carrey
+- [x] Timothee Chalamet
+- [ ] Walter Matthau
+
+#### Which of these bands would be considered emo?
+
+- [x] My Chemical Romance
+- [ ] The Beach Boys
+- [ ] Spice Girls
