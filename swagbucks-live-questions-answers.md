@@ -87118,3 +87118,69 @@
 - [ ] The New York Marathon
 - [x] The Kentucky Derby
 - [ ] The Indianapolis 500
+
+#### According to the AP Stylebook, which of these is correct?
+
+- [ ] O.K.
+- [ ] Okay
+- [x] OK
+
+#### In Pac-Man, what creatures are chasing you around the mazes?
+
+- [x] Ghosts
+- [ ] Ghouls
+- [ ] Goblins
+
+#### Where was Tetris invented? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] Cleveland
+- [x] Russia
+- [ ] Norway
+
+#### In "Sonic the Hedgehog", what do you collect as you run around levels?
+
+- [x] Rings
+- [ ] Diamonds
+- [ ] Stars
+
+#### An Atari video game adaptation of which movie had thousands of unopened copies dumped in a landfill?
+
+- [ ] Raiders of the Lost Ark
+- [ ] Superman
+- [x] E.T. The Extra Terrestrial
+
+#### What company puts out the Switch handheld device?
+
+- [x] Nintendo
+- [ ] Microsoft
+- [ ] Sony
+
+#### Complete this game console slogan: "Genesis does..."
+
+- [ ] It All
+- [x] What Nintendon't
+- [ ] More Than The Rest
+
+#### Ken and Ryu are selectable characters in which fighting game?
+
+- [ ] Mortal Kombat
+- [ ] Time Killers
+- [x] Street Fighter
+
+#### What video game character originally had a human girlfriend named Madonna?
+
+- [x] Sonic the Hedgehog
+- [ ] Spyro the Dragon
+- [ ] Diddy Kong
+
+#### Which of the following video games is a Role-Playing Game?
+
+- [ ] Mario Party
+- [ ] Pitfall
+- [x] Final Fantasy
+
+#### In the original "Donkey Kong", what item did Mario use to smash barrels?
+
+- [x] Hammer
+- [ ] Bucket
+- [ ] Umbrella
