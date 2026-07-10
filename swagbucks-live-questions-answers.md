@@ -87244,3 +87244,21 @@
 - [x] OPI
 - [ ] CeraVe
 - [ ] Prada
+
+#### What real-life creatures inspired the idea for the Gremlins?
+
+- [ ] Spiders
+- [ ] Iguanas
+- [x] Mice
+
+#### In which of these games are you supposed to go in a circle?
+
+- [ ] Dodgeball
+- [x] Ring around the Rosy
+- [ ] Hopscotch
+
+#### Sesame Street's Bernie Liederkrantz goes by what pseudonym?
+
+- [ ] Telly
+- [x] Guy Smiley
+- [ ] Stinky
