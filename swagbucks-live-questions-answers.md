@@ -87184,3 +87184,63 @@
 - [x] Hammer
 - [ ] Bucket
 - [ ] Umbrella
+
+#### In which decade did Go-Go Boots first become popular?
+
+- [ ] 1520s
+- [x] 1960s
+- [ ] 2010s
+
+#### Designer Karl Lagerfeld is best known as the creative director for which brand?
+
+- [x] Chanel
+- [ ] Baby Gap
+- [ ] OshKosh B'Gosh
+
+#### Christian Louboutin shoes have what distinctive color on their soles?
+
+- [ ] White
+- [ ] Black
+- [x] Red
+
+#### Where were high heels invented?
+
+- [x] Persia
+- [ ] Mongolia
+- [ ] Egypt
+
+#### Burt's Bees started out selling which product?
+
+- [ ] Lip Balm
+- [x] Candles
+- [ ] Face Cream
+
+#### What sneaker company put out the Air Jordan?
+
+- [x] Nike
+- [ ] Converse
+- [ ] Adidas
+
+#### Which of the following garments was originally designed for warfare?
+
+- [ ] Tank Top
+- [x] Trench Coat
+- [ ] Fedora
+
+#### What unlikely person invented the modern bra strap?
+
+- [ ] Abraham Lincoln
+- [ ] Florence Nightingale
+- [x] Mark Twain
+
+#### What genre of social media video involves cosmetics and outfit choices?
+
+- [ ] Fail
+- [ ] Mukbang
+- [x] Get Ready With Me
+
+#### Which of these brands is known for nail polish?
+
+- [x] OPI
+- [ ] CeraVe
+- [ ] Prada
