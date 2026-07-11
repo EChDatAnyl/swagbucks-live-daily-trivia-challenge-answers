@@ -87262,3 +87262,27 @@
 - [ ] Telly
 - [x] Guy Smiley
 - [ ] Stinky
+
+#### What part of your body is in pain in you're suffering from bursitis?
+
+- [x] Joints
+- [ ] Feet
+- [ ] Tongue
+
+#### The Cyberdyne T-800 is the villain of what 1984 film?
+
+- [ ] Star Trek III
+- [x] The Terminator
+- [ ] Indiana Jones and the Temple of Doom
+
+#### Bilbo Baggins from Lord of the Rings is what kind of creature?
+
+- [ ] Orc
+- [x] Hobbit
+- [ ] Human
+
+#### In which species does the male give birth?
+
+- [ ] Octopus
+- [x] Seahorse
+- [ ] Starfish
