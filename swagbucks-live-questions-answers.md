@@ -87286,3 +87286,21 @@
 - [ ] Octopus
 - [x] Seahorse
 - [ ] Starfish
+
+#### What animal's enormous incisors give it the heaviest teeth of any living animal?
+
+- [x] Elephant
+- [ ] Walrus
+- [ ] Whale
+
+#### Which of these items is NOT included in the GhostStop Beginner Ghost Hunting Kit?
+
+- [ ] Rook EMF Meter
+- [ ] Flashlight
+- [x] Spirit Box SB7
+
+#### Where is Wimbledon played?
+
+- [x] England
+- [ ] Egypt
+- [ ] Estonia
