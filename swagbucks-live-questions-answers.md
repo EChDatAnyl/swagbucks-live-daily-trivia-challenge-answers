@@ -87304,3 +87304,21 @@
 - [x] England
 - [ ] Egypt
 - [ ] Estonia
+
+#### What type of vegetable comes in Florets?
+
+- [ ] Corn
+- [ ] Carrots
+- [x] Broccoli
+
+#### As bananas ripen, what color do they turn?
+
+- [ ] Red
+- [ ] Purple
+- [x] Yellow
+
+#### Who wrote and recorded 1974's "Jolene"?
+
+- [ ] Reba McEntire
+- [ ] Loretta Lynn
+- [x] Dolly Parton
