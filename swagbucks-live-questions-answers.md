@@ -87382,3 +87382,9 @@
 - [ ] Voyager
 - [ ] Defiant
 - [x] Enterprise
+
+#### In which movie does someone from Halloweentown kidnap Santa Claus?
+
+- [x] The Nightmare Before Christmas
+- [ ] Planes, Trains and Automobiles
+- [ ] Four Christmases
