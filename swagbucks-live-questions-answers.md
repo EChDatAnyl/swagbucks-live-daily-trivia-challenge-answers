@@ -87322,3 +87322,63 @@
 - [ ] Reba McEntire
 - [ ] Loretta Lynn
 - [x] Dolly Parton
+
+#### What is a pocket protector meant to protect your pocket from?
+
+- [x] Pens
+- [ ] Buttons
+- [ ] Wallet
+
+#### What is the name of the wizard played by Ian McKellan in the "Lord of the Rings" films?
+
+- [ ] Radagast
+- [ ] Saruman
+- [x] Gandalf
+
+#### Which of the autobots from Transformers turns into a semi truck?
+
+- [ ] Megatron
+- [x] Optimus Prime
+- [ ] Soundwave
+
+#### In the original "Star Wars", who records a message of themself saying "Help me Obi Wan, you're my only hope"?
+
+- [x] Princess Leia
+- [ ] Han Solo
+- [ ] Jabba The Hutt
+
+#### According to Spider-Man's Uncle Ben, what comes with great power?
+
+- [ ] Great fun
+- [ ] Great enemies
+- [x] Great responsibility
+
+#### Where does "Buffy The Vampire Slayer" take place?
+
+- [ ] Los Alamitos
+- [x] Sunnydale
+- [ ] Turlock
+
+#### In a Quidditch match, what causes the game to immediately end?
+
+- [ ] Throwing the Quaffle
+- [ ] Fouling a Beater
+- [x] Catching the Golden Snitch
+
+#### Which of the following movies is considered Anime?
+
+- [ ] Toy Story
+- [x] Dragon Ball Z
+- [ ] Fantasia
+
+#### In Dungeons and Dragons, what attribute determines how hard you are to hit in a fight?
+
+- [x] Armor Class
+- [ ] Wisdom
+- [ ] Intelligence
+
+#### What is the main starship on the original "Star Trek"?
+
+- [ ] Voyager
+- [ ] Defiant
+- [x] Enterprise
