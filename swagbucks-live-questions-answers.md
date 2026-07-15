@@ -87437,7 +87437,7 @@
 - [ ] Lions
 - [ ] Elephants
 
-#### Which of the following sitcomes was set in New York City?
+#### Which of the following sitcoms was set in New York City?
 
 - [ ] Frasier
 - [x] Friends
@@ -87448,3 +87448,9 @@
 - [x] Eddie Vedder
 - [ ] Stone Gossard
 - [ ] Jeff Ament
+
+#### What geographic feature is of interest to spelunkers?
+
+- [x] Caves
+- [ ] Rivers
+- [ ] Butters
