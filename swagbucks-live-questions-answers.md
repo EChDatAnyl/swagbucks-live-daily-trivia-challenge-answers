@@ -87388,3 +87388,63 @@
 - [x] The Nightmare Before Christmas
 - [ ] Planes, Trains and Automobiles
 - [ ] Four Christmases
+
+#### Which of the following is NOT one of the Seven Wonders of the Ancient World?
+
+- [ ] Great Pyramid of Giza
+- [ ] Hanging Gardens of Babylon
+- [x] Grand Central Terminal
+
+#### Which of the following restaurant chains doubles as an arcade?
+
+- [ ] Domino's
+- [x] Chuck E. Cheese
+- [ ] Olive Garden
+
+#### Which of the following countries is part of South America?
+
+- [ ] New Zealand
+- [ ] Egypt
+- [x] Brazil
+
+#### Who was the first person to set foot on the Moon?
+
+- [ ] Buzz Aldrin
+- [x] Neil Armstrong
+- [ ] Michael Collins
+
+#### What was the last year Tug of War was an event at the Summer Olympics?
+
+- [x] 1920
+- [ ] 1956
+- [ ] 1972
+
+#### Complete this saying: "A fool and his money are soon..."
+
+- [ ] Married
+- [x] Parted
+- [ ] Asleep
+
+#### Wolverine is primarily a member of what superhero team?
+
+- [ ] West Coast Avengers
+- [ ] Thunderbolts
+- [x] X-Men
+
+#### The world's largest fence was built to keep out which animals?
+
+- [x] Dingoes
+- [ ] Lions
+- [ ] Elephants
+
+#### Which of the following sitcomes was set in New York City?
+
+- [ ] Frasier
+- [x] Friends
+- [ ] Entourage
+
+#### Who is the lead singer of Pearl Jam?
+
+- [x] Eddie Vedder
+- [ ] Stone Gossard
+- [ ] Jeff Ament
