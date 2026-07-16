@@ -28470,7 +28470,7 @@
 - [x] Jim Thome
 - [ ] Hank Aaron
 
-#### What rock star once released a single as Laary Lurex?
+#### What rock star once released a single as Larry Lurex?
 
 - [ ] Jim Morrison
 - [x] Feddie Mercury
@@ -87550,3 +87550,21 @@
 - [ ] Ben Affleck
 - [ ] Matt Damon
 - [x] Miley Cyrus
+
+#### Which of these companies is known for making Yo-Yos?
+
+- [x] Duncan
+- [ ] Sony
+- [ ] Sunbeam
+
+#### On the original "Star Trek" series, who is the captain of the Enterprise?
+
+- [x] James T. Kirk
+- [ ] Bones McCoy
+- [ ] Montgomery Scott
+
+#### What painting technique did Bob Ross use on "The Joy of Painting"?
+
+- [x] Wet on Wet
+- [ ] Drip Painting
+- [ ] Divisionism
