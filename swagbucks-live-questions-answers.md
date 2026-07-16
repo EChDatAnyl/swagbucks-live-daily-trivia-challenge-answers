@@ -87454,3 +87454,99 @@
 - [x] Caves
 - [ ] Rivers
 - [ ] Butters
+
+#### Crowd footage from an episode of what TV show cleared a man of murder in real life?
+
+- [ ] Cheers
+- [ ] Community
+- [x] Curb Your Enthusiasm
+
+#### What weapon does Indiana Jones always cerry?
+
+- [x] Bullwhip
+- [ ] Pickaxe
+- [ ] Cannon
+
+#### What is the name of Superman's home planet? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] Mars
+- [x] Krypton
+- [ ] Xandar
+
+#### What kind of card deck is used to tell someone's fortune?
+
+- [ ] Pinochle
+- [ ] Uno
+- [x] Tarot
+
+#### Johannes Gutenberg is famous for what world-changing invention?
+
+- [x] The Printing Press
+- [ ] The Wheel
+- [ ] The Steam Engine
+
+#### What is commonly believed to be the wagon that inspired the phrase "off the wagon"?
+
+- [x] Water Wagon
+- [ ] Wells Fargo Wagon
+- [ ] Whiskey Wagon
+
+#### Which of these video games is set in the old West?
+
+- [x] Red Dead Revolver
+- [ ] Halo
+- [ ] Madden 26
+
+#### On the internet, what domain is used by schools?
+
+- [ ] .gov
+- [ ] .com
+- [x] .edu
+
+#### What religious term is used to describe a long, desperate forward pass in American football?
+
+- [ ] Rosary
+- [x] Hail Mary
+- [ ] Penance
+
+#### The Altamont music festival was created to raise money for which band?
+
+- [ ] The Grateful Dead
+- [ ] Led Zeppelin
+- [x] The Rolling Stones
+
+#### Which of the following sitcomes was a spinoff of "Cheers"?
+
+- [x] Fraiser
+- [ ] King of Queens
+- [ ] The Jeffersons
+
+#### In which culture does someone celebrating their birthday treat other people to things?
+
+- [ ] French
+- [ ] Russian
+- [x] Filipino
+
+#### What kind of instrument is a Fender Stratocaster?
+
+- [x] Guitar
+- [ ] Keyboard
+- [ ] Cymbal
+
+#### Which "Street Fighter" character can perform the "Yoga Flame" maneuver?
+
+- [ ] E. Honda
+- [x] Dhalsim
+- [ ] Balrog
+
+#### Which of the following Italian dishes is stuffed?
+
+- [x] Ravioli
+- [ ] Orzo
+- [ ] Spaghetti
+
+#### Which of the following celebrities could be considered a "nepo baby""?
+
+- [ ] Ben Affleck
+- [ ] Matt Damon
+- [x] Miley Cyrus
