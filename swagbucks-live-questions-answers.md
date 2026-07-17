@@ -18846,7 +18846,7 @@
 - [ ] Sandman
 - [x] Batman
 
-#### Which band wrote and recoreded "Hotel California"?
+#### Which band wrote and recorded "Hotel California"?
 
 - [ ] The Byrds
 - [x] The Eagles
@@ -87622,3 +87622,27 @@
 - [x] EPCOT
 - [ ] California Adventure
 - [ ] Galaxy's Edge
+
+#### What is the customary phrase to wish actors good luck?
+
+- [x] Break a leg
+- [ ] Sprain a thumb
+- [ ] Bruise a foot
+
+#### What candy was originally advertised for its ability to last longer than other candies?
+
+- [x] Jawbreakers
+- [ ] Gummy Bears
+- [ ] M&Ms
+
+#### In 2016, British scientists fired what holiday dish into space?
+
+- [ ] Hot Dogs
+- [ ] Pizza
+- [x] Traditional Meat Pie
+
+#### Which band wrote and recorded "Hotel California"? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [x] The Eagles
+- [ ] Los Lobos
+- [ ] Stray Cats
