@@ -75712,12 +75712,6 @@
 - [ ] Nicki Minaj
 - [x] Rihanna
 
-#### In which year did Disneyland first open?
-
-- [x] 1955
-- [ ] 1971
-- [ ] 1992
-
 #### Amelia Blanford Edwards is known as "The Godmother of" what?
 
 - [ ] Mountaineering
@@ -87568,3 +87562,63 @@
 - [x] Wet on Wet
 - [ ] Drip Painting
 - [ ] Divisionism
+
+#### Which area of Disneyland is home to both Space Mountain and Star Tours?
+
+- [x] Tomorrowland
+- [ ] Fantasyland
+- [ ] New Orleans Square
+
+#### What is the theme song for the Pirates of the Caribbean attraction at Disney Parks?
+
+- [ ] Drunken Sailor
+- [x] Yo Ho (A Pirate's Life for Me)
+- [ ] It's A Great Big Beautiful Tomorrow
+
+#### What happens to the room you first enter in Disney's Haunted Mansion?
+
+- [x] It stretches
+- [ ] It disappears
+- [ ] It gives you food
+
+#### Who delivers your instructions when you're on Millenium Falcon: Smuggler's Run?
+
+- [ ] Cassian Andor
+- [x] Hondo Ohnaka
+- [ ] C-3PO
+
+#### What was the first international Disney Park to open?
+
+- [ ] Disneyland Paris
+- [x] Tokyo Disneyland
+- [ ] Hong Kong Disneyland
+
+#### In the Disney Parks attraction of the same name, what are all the dolls singing?
+
+- [x] It's A Small World
+- [ ] I Love You, You Love Me
+- [ ] The Mickey Mouse Club
+
+#### Where in the Disney parks would you find macaws named Jose, Michael, Pierre, and Fritz?
+
+- [ ] The Jungle Cruise
+- [ ] Big Thunder Mountain Railroad
+- [x] The Enchanted Tiki Room
+
+#### Which of the following attractions was available to guests the day Disneyland first opened?
+
+- [ ] Alice in Wonderland
+- [x] Mr. Toad's Wild Ride
+- [ ] The Haunted Mansion
+
+#### Michael Jackson had his own 3D Disney Parks attraction. What was it called?
+
+- [ ] Dimension of Magic
+- [ ] Superstar Limo
+- [x] Captain EO
+
+#### Disney's Experimental Prototype City of Tomorrow is better known by what name?
+
+- [x] EPCOT
+- [ ] California Adventure
+- [ ] Galaxy's Edge
