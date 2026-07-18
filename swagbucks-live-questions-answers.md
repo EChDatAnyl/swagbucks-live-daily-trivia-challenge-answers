@@ -52873,12 +52873,6 @@
 - [x] Bugs Bunny
 - [ ] Chilly Willy
 
-#### Botticelli created a painting that depicts what Roman goddess emerging form the sea?
-
-- [x] Venus
-- [ ] Juno
-- [ ] Minerva
-
 #### What is the term for singing without instrumental accompainment?
 
 - [ ] Arpeggio
@@ -87646,3 +87640,15 @@
 - [x] The Eagles
 - [ ] Los Lobos
 - [ ] Stray Cats
+
+#### Baby Back Ribs come from which animal?
+
+- [x] Pig
+- [ ] Cow
+- [ ] Chicken
+
+#### Dallas, Austin, and Fort Worth are all cities in which State?
+
+- [ ] New York
+- [x] Texas
+- [ ] Pennsylvania
