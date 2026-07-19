@@ -87652,3 +87652,15 @@
 - [ ] New York
 - [x] Texas
 - [ ] Pennsylvania
+
+#### In a game of charades, what is the clue giver not allowed to do?
+
+- [ ] Gesture
+- [ ] Blink
+- [x] Talk
+
+#### NCAA's March Madness tournament starts with how many teams?
+
+- [ ] 3
+- [x] 68
+- [ ] 999,999
