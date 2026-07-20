@@ -87664,3 +87664,15 @@
 - [ ] 3
 - [x] 68
 - [ ] 999,999
+
+#### Catalan is a language originating in what country?
+
+- [x] Spain
+- [ ] The United States
+- [ ] Iraq
+
+#### Which U.S. president tried to set Prince Charles up with his daughter?
+
+- [ ] Ronald Reagan
+- [ ] Jimmy Carter
+- [x] Richard Nixon
