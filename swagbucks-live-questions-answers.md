@@ -40056,12 +40056,6 @@
 - [x] Cow
 - [ ] Bird
 
-#### Which of the following movies is a sequel to "Minions"?
-
-- [ ] The Last Wish
-- [ ] Wakanda Forever
-- [x] Rise of Gru
-
 #### Snyder's of Hanover makes what kind of snacks?
 
 - [ ] Tortillas
