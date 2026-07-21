@@ -87676,3 +87676,81 @@
 - [ ] Ronald Reagan
 - [ ] Jimmy Carter
 - [x] Richard Nixon
+
+#### What toy company owns Fisher-Price?
+
+- [ ] Electronic Arts
+- [ ] Worlds of Wonder
+- [x] Mattel
+
+#### How long is the NBA shot clock?
+
+- [x] 24 Seconds
+- [ ] 60 Minutes
+- [ ] 1 Hour
+
+#### The woman who asked "Where's the Beef?" finally found it in a commercial for what company?
+
+- [ ] Burger King
+- [ ] Ball Park Franks
+- [x] Prego
+
+#### Complete this board game title: Chutes and...
+
+- [ ] More Chutes
+- [ ] Crackers
+- [x] Ladders
+
+#### A popular picnic/cookout game involves racing with what item balanced on a spoon?
+
+- [x] Raw egg
+- [ ] Large potato
+- [ ] A second spoon
+
+#### When you play charades, what are you NOT allowed to do?
+
+- [ ] Gesture
+- [x] Speak
+- [ ] Blink
+
+#### What is the name for the activity where people sing along with instrument tracks?
+
+- [ ] Sack Race
+- [ ] Breakdancing
+- [x] Karaoke
+
+#### Which of the following is a common game at sleepovers?
+
+- [x] Truth or Dare
+- [ ] Three Card Monte
+- [ ] Lawn Darts
+
+#### What amusement park attraction was invented in Coney Island?
+
+- [ ] Merry-Go-Round
+- [x] Roller Coaster
+- [ ] Ferris Wheel
+
+#### Traditional S'mores are made with chocolate, marshmallow, and what type of cracker?
+
+- [ ] Saltine Cracker
+- [ ] Soda Cracker
+- [x] Graham Cracker
+
+#### When you get invited to a party, what are you asked to do in advance?
+
+- [x] RSVP
+- [ ] Buy shoes
+- [ ] Eat pork
+
+#### Which of the following is a style of lawn chair?
+
+- [ ] Syracuse
+- [ ] Buffalo
+- [x] Adirondack
+
+#### In a game of Cornhole, what are the players tossing?
+
+- [x] Bean bags
+- [ ] Tennis balls
+- [ ] Ears of corn
