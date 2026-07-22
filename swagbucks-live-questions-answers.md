@@ -87826,3 +87826,9 @@
 - [ ] Star City
 - [ ] Central City
 - [x] Riverdale
+
+#### According to the R.M. Palmer company, why are giant chocolate bunnies hollow?
+
+- [ ] To save money
+- [ ] Religious reasons
+- [x] To save teeth
