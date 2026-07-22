@@ -87748,3 +87748,81 @@
 - [x] Bean bags
 - [ ] Tennis balls
 - [ ] Ears of corn
+
+#### Who is the God of Thunder in the MCU?
+
+- [ ] Black Widow
+- [x] Thor
+- [ ] Thanos
+
+#### What name is NOT represented by a letter in the band ABBA?
+
+- [ ] Agnetha
+- [x] Angelika
+- [ ] Anni-Frid
+
+#### In the study of rhetoric, logos, ethos, and pathos are examples of what?
+
+- [ ] Questions
+- [ ] Truths
+- [x] Appeals
+
+#### What is the name of Superman's home planet?
+
+- [ ] Candor
+- [ ] Gotham
+- [x] Krypton
+
+#### Which of the following heroes got their powers from a radioactive bite?
+
+- [ ] Captain Marvel
+- [x] Spider-Man
+- [ ] Spawn
+
+#### What nickname is used by Batmna's sidekick?
+
+- [x] Robin
+- [ ] Sparrow
+- [ ] Hawk
+
+#### What do Green Lanterns use to focus their power?
+
+- [ ] Necklace
+- [x] Ring
+- [ ] Bracelet
+
+#### In the Marvel Comic event "House of M", who utters the phrase "No more mutants."?
+
+- [ ] Loki
+- [ ] Magneto
+- [x] Scarlet Witch
+
+#### How is the original Supergirl related to Superman?
+
+- [ ] They're twins
+- [x] They're cousins
+- [ ] They're father and daughter
+
+#### Who built Tony Stark's original Iron Man suit?
+
+- [x] Tony Stark
+- [ ] Scott Summers
+- [ ] Reed Richard
+
+#### Who is the villain in the first Fantastic Four comic?
+
+- [ ] Doctor Doom
+- [x] Mole Man
+- [ ] Galactus
+
+#### Wonder Woman comes from what ancient group of warrior women?
+
+- [x] Amazonians
+- [ ] Titans
+- [ ] The 300
+
+#### Where do Archie Andrews and Jughead Jones live?
+
+- [ ] Star City
+- [ ] Central City
+- [x] Riverdale
