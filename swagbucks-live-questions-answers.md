@@ -87832,3 +87832,63 @@
 - [ ] To save money
 - [ ] Religious reasons
 - [x] To save teeth
+
+#### What musical is about people auditioning for a musical?
+
+- [ ] Avenue Q
+- [x] A Chorus Line
+- [ ] Into The Woods
+
+#### Where were LEGO invented?
+
+- [ ] Mississippi
+- [ ] Japan
+- [x] Denmark
+
+#### Which of the following is a common digital format for music?
+
+- [ ] PDF
+- [x] mp3
+- [ ] GIF
+
+#### Prior to starring on "NewsRadio", Dave Foley co-founded which sketch comedy troupe?
+
+- [ ] Upright Citizens Brigade
+- [ ] The State
+- [x] Kids In The Hall
+
+#### In "Peanuts", which kid is Snoopy's owner?
+
+- [x] Charlie Brown
+- [ ] Lucy Van Pelt
+- [ ] Schroeder
+
+#### Aestivation is similar to what other process?
+
+- [ ] Metamorphosis
+- [ ] Decomposition
+- [x] Hibernation
+
+#### What painting adorns the ceiling of the Sistine Chapel?
+
+- [x] The Creation of Adam
+- [ ] The Scream
+- [ ] Campbell's Soup Cans
+
+#### What was the first MLB team to field a starting nine with all Black and Latino players?
+
+- [ ] New York Yankees
+- [x] Pittsburgh Pirates
+- [ ] Los Angeles Dodgers
+
+#### Where would you find the Mariana Trench?
+
+- [ ] Detroit
+- [ ] The Canary Islands
+- [x] The Pacific Ocean
+
+#### What is the homeworld of the Transformers?
+
+- [x] Cybertron
+- [ ] Rygel VII
+- [ ] Mars
