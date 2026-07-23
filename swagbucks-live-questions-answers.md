@@ -87892,3 +87892,21 @@
 - [x] Cybertron
 - [ ] Rygel VII
 - [ ] Mars
+
+#### Botany is the scientific study of what?
+
+- [ ] Water
+- [x] Plants
+- [ ] Rocks
+
+#### On which cartoon would you find Mabel, Dipper, and Grunkle Stan?
+
+- [ ] OK, K.O.!
+- [ ] Steven Universe
+- [x] Gravity Falls
+
+#### A ranunculus is a type of:
+
+- [x] Flower
+- [ ] Muscle
+- [ ] Car
