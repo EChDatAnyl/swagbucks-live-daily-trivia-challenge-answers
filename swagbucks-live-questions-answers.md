@@ -87910,3 +87910,75 @@
 - [x] Flower
 - [ ] Muscle
 - [ ] Car
+
+#### Which of the following is a string instrument? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [x] Mandolin
+- [ ] Trombone
+- [ ] Vibraphone
+
+#### On what continent were the Boer Wars fought?
+
+- [ ] Europe
+- [x] Africa
+- [ ] Australia
+
+#### Gladiators battled in the Colosseum of which ancient empire?
+
+- [ ] Akkadian Empire
+- [ ] Egyptian Empire
+- [x] Roman Empire
+
+#### In "Hungry Hungry Hippos", what are the Hippos trying to eat?
+
+- [ ] Lettuce
+- [x] Marbles
+- [ ] Bananas
+
+#### What is the cooking term for soaking something in seasoned liquid?
+
+- [x] Marinating
+- [ ] Basting
+- [ ] Simmering
+
+#### Who got kicked out of President Andrew Jackson's funeral for swearing?
+
+- [ ] His mother
+- [ ] His son
+- [x] His parrot
+
+#### In "The Twelve DAys of Christmas", how many Lords a-Leaping did my true love give to me?
+
+- [ ] 9
+- [x] 10
+- [ ] 11
+
+#### In Salvador Dali's "The Persistence of Memory", what items appear to be melting?
+
+- [x] Clocks
+- [ ] Kites
+- [ ] Scarves
+
+#### The PlayStation 2's look was based off of a console originally designed by what other company?
+
+- [ ] Nintendo
+- [ ] Microsoft
+- [x] Atari
+
+#### Which 1980s one-hit wonder was behind "She Blinded Me With Science"?
+
+- [ ] Nu Shooz
+- [x] Thomas Dolby
+- [ ] Michael Sembello
+
+#### Which of these children's films stars Adam Sandler?
+
+- [ ] The Phantom Tollbooth
+- [ ] The Lego Movie
+- [x] Hotel Transylvania
+
+#### In Monopoly, what kind of roll will get you out of jail?
+
+- [x] Doubles
+- [ ] A seven
+- [ ] A three and a one
