@@ -87982,3 +87982,15 @@
 - [x] Doubles
 - [ ] A seven
 - [ ] A three and a one
+
+#### Michael Keaton is transformed into a snowman in what holiday movie?
+
+- [ ] Frozen
+- [x] Jack Frost
+- [ ] The Ice Storm
+
+#### Which of the following is a common type of door?
+
+- [ ] Reimagining
+- [x] Revolving
+- [ ] Recaptcha
