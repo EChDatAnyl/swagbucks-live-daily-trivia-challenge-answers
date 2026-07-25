@@ -87994,3 +87994,21 @@
 - [ ] Reimagining
 - [x] Revolving
 - [ ] Recaptcha
+
+#### Tropicana is most well-known for what drink?
+
+- [ ] Light Beer
+- [x] Orange Juice
+- [ ] Absinthe
+
+#### On D-Day, Allied Forces landed at which beach?
+
+- [ ] Pismo Beach
+- [x] Normandy
+- [ ] Waikiki
+
+#### Which of the following museums can be found in Paris, France?
+
+- [ ] The Board
+- [ ] Rijksmuseum
+- [x] The Louvre
