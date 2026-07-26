@@ -79306,7 +79306,7 @@
 - [ ] Bob and Maria
 - [x] Bert and Ernie
 
-#### Hannibal Lecter is the villaain in which classic thriller?
+#### Hannibal Lecter is the villain in which classic thriller?
 
 - [ ] M
 - [x] Silence of the Lambs
@@ -88012,3 +88012,21 @@
 - [ ] The Board
 - [ ] Rijksmuseum
 - [x] The Louvre
+
+#### In 1948, what world leader was assassinated?
+
+- [ ] John F. Kennedy
+- [x] Mahatma Gandhi
+- [ ] Julius Caesar
+
+#### "Pick me up" is the English translation of what Italian dessert?
+
+- [ ] Cannoli
+- [x] Tiramisu
+- [ ] Zeppole
+
+#### Which of these popular Halloween candies contains peanut butter?
+
+- [x] Reese's
+- [ ] Skittles
+- [ ] Starburst
