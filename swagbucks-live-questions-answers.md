@@ -88030,3 +88030,9 @@
 - [x] Reese's
 - [ ] Skittles
 - [ ] Starburst
+
+#### In Candyland, players are racing to reach what area?
+
+- [ ] Molasses Swamp
+- [x] King Kandy's Castle
+- [ ] Peanut Brittle House
