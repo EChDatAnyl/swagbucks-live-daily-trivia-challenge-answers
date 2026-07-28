@@ -88084,3 +88084,15 @@
 - [x] Summer
 - [ ] Fall
 - [ ] Winter
+
+#### What scientific theory assumes the Universe was started by an explosion?
+
+- [x] The Big Bang Theory
+- [ ] The Big Bird Theory
+- [ ] Theory of Evolution
+
+#### What term does Yukon Cornelius use for the Abominable Snow Monster?
+
+- [x] Bumble
+- [ ] Snowbie
+- [ ] Fuzzle
