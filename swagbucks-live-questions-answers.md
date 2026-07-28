@@ -25317,7 +25317,7 @@
 #### How does Santa Claus usually enter homes on Christmas Eve?
 
 - [ ] Through the Window
-- [ ] From the Swewers
+- [ ] From the Sewers
 - [x] Down the Chimney
 
 #### How many nights of Hanukkah are there?
@@ -53317,12 +53317,6 @@
 - [x] Chicken
 - [ ] Pigeon
 
-#### How does Santa Claus usually enter homes on Christmas Eve?
-
-- [ ] Through the Window
-- [ ] From the Sewers
-- [x] Down the Chimney
-
 #### In the TV special "Rudolph The Red-Nosed Reindeer", what kind of
 
 - [ ] Construction Foreman
@@ -80314,12 +80308,6 @@
 - [ ] A fire
 - [ ] A blizzard
 
-#### How does Santa Claus usually enter homes on Christmas Eve?
-
-- [ ] Through the Window
-- [ ] From the Sewers
-- [x] Down the Chimney
-
 #### Which of the following clothing items is a kind of hat?
 
 - [ ] Kilt
@@ -88036,3 +88024,63 @@
 - [ ] Molasses Swamp
 - [x] King Kandy's Castle
 - [ ] Peanut Brittle House
+
+#### In "The Muppet Movie", what anthem is Kermit the Frog singing when we first meet him?
+
+- [ ] Mahna Mahna
+- [ ] Winter Wonderland
+- [x] The Rainbow Connection
+
+#### In "Mary Poppins", which of the following is one of Bert's jobs?
+
+- [ ] Accountant
+- [x] Chimney Sweep
+- [ ] Doctor
+
+#### What is Mrs. Doubtfire's first name?
+
+- [x] Euphegenia
+- [ ] Doubt
+- [ ] Mrs.
+
+#### What was the title of the first Harry Potter movie?
+
+- [ ] GOAT
+- [ ] Swapped
+- [x] Harry Potter and the Sorcerer's Stone
+
+#### In "The Princess Bride", what identity does farm boy Westley assume?
+
+- [ ] Vezzini
+- [x] The Dread Pirate Roberts
+- [ ] The Six-Fingered Man
+
+#### What is the museum in "Night at the Museum"?
+
+- [x] The Museum of Natural History
+- [ ] The Louvre
+- [ ] The Tate
+
+#### In the first Percy Jackson movie, what is he accused of stealing?
+
+- [ ] Poseidon's Trident
+- [x] Zeus' Lightning Bolt
+- [ ] Hermes' Wings
+
+#### In "How To Train Your Dragon", what is the name of Hiccup's dragon?
+
+- [ ] Singetail
+- [ ] Fireworm
+- [x] Toothless
+
+#### Which professional wrestler starred in "The Tooth Fairy", "The Game Plan", and "Moana"?
+
+- [ ] Chris Jericho
+- [x] Dwayne "The Rock" Johnson
+- [ ] The Great Muta
+
+#### What time of year does "The Sandlot" take place?
+
+- [x] Summer
+- [ ] Fall
+- [ ] Winter
