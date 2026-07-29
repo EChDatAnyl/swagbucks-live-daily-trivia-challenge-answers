@@ -88168,3 +88168,9 @@
 - [ ] Chicago, IL
 - [ ] Miami, FL
 - [x] Brooklyn, NY
+
+#### At American Greetings, "Project II" was the codename for what brand?
+
+- [ ] Strawberry Shortcake
+- [x] Care Bears
+- [ ] Holly Hobbie
