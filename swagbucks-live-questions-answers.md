@@ -24927,7 +24927,7 @@
 #### Former MLB catcher Harry Chiti holds what distinction?
 
 - [ ] First player to hit a HR in both leagues
-- [x] First player teaded for myself
+- [x] First player traded for myself
 - [ ] Caught 4 perfect games
 
 #### In "Silver Linings Playbook", what NFL team does Pat Solitano root for?
@@ -88096,3 +88096,75 @@
 - [x] Bumble
 - [ ] Snowbie
 - [ ] Fuzzle
+
+#### The grounds of Magic Kingdom's Haunted Mansion contains a tribute to what other Disney attraction?
+
+- [ ] Country Bear Jamboree
+- [x] Mr. Toad's Wild Ride
+- [ ] Big Thunder Mountain Railroad
+
+#### Which mobile phone comes with iOS installed on it?
+
+- [ ] Palm Treo
+- [x] iPhone
+- [ ] Moto Droid
+
+#### In "The Goonies", whose treasure are they looking for?
+
+- [ ] One-Legged Rory
+- [ ] One-Toed McGillicuddy
+- [x] One-Eyed Willie
+
+#### What Steven Spielberg movie is about an alien who befriends a boy named Elliot?
+
+- [ ] Batteries Not Included
+- [x] E.T. The Extra Terrestrial
+- [ ] Mac and Me
+
+#### In the "Despicable Me" movies, what is the name for Gru's sidekicks?
+
+- [ ] The Henchmen
+- [ ] The Lackeys
+- [x] The Minions
+
+#### In "Willy Wonka and the Chocolate Factory", what does Charlie Bucket find in a chocolate bar to get a visit to the factory?
+
+- [x] A Golden Ticket
+- [ ] A Golden Coin
+- [ ] A Golden Ring
+
+#### Ving Rhames and James Earl Jones were both considered for which role in "Ice Age"?
+
+- [ ] Syd
+- [x] Manny
+- [ ] Diego
+
+#### In "Home Alone", Kevin McAllister has to defend his home from robbers during which holiday?
+
+- [ ] Easter
+- [ ] Thanksgiving
+- [x] Christmas
+
+#### In the 1995 movie "Jumani", what is Jumanji?
+
+- [ ] Book
+- [x] Board Game
+- [ ] Baseball Bat
+
+#### What was the first movie to feature Bugs Bunny and Mickey Mouse on screen together?
+
+- [ ] Space Jam
+- [ ] American Pop
+- [x] Who Framed Roger Rabbit?
+
+#### Who plays Po in "Kung Fu Panda"?
+
+- [ ] Will Ferrell
+- [x] Jack Black
+- [ ] Jim Carrey
+
+#### In "The Super Mario Bros Movie", where are Mario and Luigi from?
+
+- [ ] Chicago, IL
+- [ ] Miami, FL
+- [x] Brooklyn, NY
