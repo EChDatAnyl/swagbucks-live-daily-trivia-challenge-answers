@@ -88234,3 +88234,39 @@
 - [ ] Krypto
 - [ ] Rover
 - [x] Toto
+
+#### Anne Rice wrote which famous vampire book?
+
+- [ ] Dracula
+- [ ] Twilight
+- [x] Interview with the Vampire
+
+#### What Olympic athlete once broke five world records in 45 minutes?
+
+- [x] Jesse Owens
+- [ ] Jim Thorpe
+- [ ] Dan O'Brien
+
+#### Shiraz is a variety of what drink?
+
+- [ ] Brandy
+- [ ] Seltzer
+- [x] Wine
+
+#### What Dolly Parton song became a number 1 hit when covered by Whitney Houston?
+
+- [ ] In My Tennessee Mountain Home
+- [x] I Will Always Love You
+- [ ] 9 to 5
+
+#### Which of the following is NOT the title of a Dr. Seuss book?
+
+- [ ] I Can Lick 30 Tigers Today!
+- [ ] I Wish That I Had Duck Feet
+- [x] Grimble Grundy's Grumbulous Day
+
+#### In which decade did Cabbage Patch Kids first become a bestselling holiday gift?
+
+- [ ] 1950s
+- [x] 1980s
+- [ ] 2000s
