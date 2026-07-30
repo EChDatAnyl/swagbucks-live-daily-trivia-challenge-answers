@@ -88174,3 +88174,63 @@
 - [ ] Strawberry Shortcake
 - [x] Care Bears
 - [ ] Holly Hobbie
+
+#### What children's movie, based on a book, is about a girl with telekinetic powers?
+
+- [x] Matilda
+- [ ] It's A Wonderful Life
+- [ ] Tangled
+
+#### In "The Parent Trap", the twins were raised in which two places?
+
+- [ ] France and Spain
+- [ ] Mexico and Canada
+- [x] America and England
+
+#### In "Shrek", what time of day does Fiona transform into an ogre?
+
+- [x] At sunset
+- [ ] At sunrise
+- [ ] At noon
+
+#### What family movie about a family starred two actors who didn't yet have children as parents?
+
+- [x] Cheaper by the Dozen
+- [ ] The Family Plan
+- [ ] Parenthood
+
+#### Which Pixar film centers around the Day of the Dead?
+
+- [ ] Luca
+- [x] Coco
+- [ ] The Good Dinosaur
+
+#### In the early 1960s, Walt Disney bought the rights to a treatment titled "Boy-Girl-Car". What movie did it become?
+
+- [ ] The Computer Wore Tennis Shoes
+- [ ] Dad, Can I Borrow the Car?
+- [x] The Love Bug
+
+#### Comedian Ben Schwartz provides the voice of which film character, based on a video game?
+
+- [x] Sonic the Hedgehog
+- [ ] Q*bert
+- [ ] Pac-Man
+
+#### In "Cloudy With A Chance of Meatballs", Flint's lab building was designed to resemble what real=life inventor's laboratory?
+
+- [ ] Thomas Edison
+- [ ] Alexander Graham Bell
+- [x] Nikola Tesla
+
+#### Rihanna, Katy Perry, and Demi Lovato have each played which Smurfs character in a feature film?
+
+- [ ] Papa Smurf
+- [x] Smurfette
+- [ ] Brainy Smurf
+
+#### What is the name of Dorothy's dog in "The Wizard of Oz"?
+
+- [ ] Krypto
+- [ ] Rover
+- [x] Toto
