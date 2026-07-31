@@ -88270,3 +88270,81 @@
 - [ ] 1950s
 - [x] 1980s
 - [ ] 2000s
+
+#### Kourtney Kardashian is married to which member of Blink-182?
+
+- [ ] Mark Hoppus
+- [ ] Matt Skiba
+- [x] Travis Barker
+
+#### A popular RNC slogan once promised two cars in every garage and what else?
+
+- [ ] A meal in every microwave
+- [ ] A follow on every tweet
+- [x] A chicken in every pot
+
+#### According to Reader's Digest, what percentage of Americans take their morning coffee black?
+
+- [x] 20%
+- [ ] 33%
+- [ ] 50%
+
+#### In "Free Willy", what is Willy?
+
+- [x] An Orca
+- [ ] A Shark
+- [ ] A Seahorse
+
+#### "Golden Receiver" and "Seventh Inning Fetch" are both installments in which family movie franchise?
+
+- [ ] The Secret Life of Pets
+- [ ] Cats vs Dogs
+- [x] Air Bud
+
+#### In "Aladdin", what is Aladdin's final wish?
+
+- [ ] One million dollars
+- [x] To set the Genie free
+- [ ] A castle
+
+#### Who was WALL-E named for?
+
+- [ ] C-3PO
+- [ ] Wally Backman
+- [x] Walt Disney
+
+#### Who cameos in "The LEGO Movie" as Superman and Green Lantern?
+
+- [ ] Henry Cavill and Ryan Reynolds
+- [x] Channing Tatum and Jonah Hill
+- [ ] Jon Hamm and Stephen Colbert
+
+#### Where do Peter Pan and the Lost Boys live?
+
+- [ ] London
+- [ ] Saskatoon
+- [x] Never Never Land
+
+#### Who plays producer Lew Lord in "The Muppet Movie"?
+
+- [ ] Charlton Heston
+- [x] Orson Welles
+- [ ] Mel Brooks
+
+#### Before Ben Whishaw was cast as the voice of Paddington, which accomplished actor was hired for the part?
+
+- [ ] Hugh Laurie
+- [ ] Michael Palin
+- [x] Colin Firth
+
+#### What does Benjamin Franklin Gates steal in "National Treasure"?
+
+- [x] The Declaration of Independence
+- [ ] The Magna Carta
+- [ ] The Treaty of Versailles
+
+#### Which "Back to the Future" actor provided the voice for Stuart Little in the film series?
+
+- [ ] Grispin Glover
+- [x] Michael J. Fox
+- [ ] Thomas F. Wilson
