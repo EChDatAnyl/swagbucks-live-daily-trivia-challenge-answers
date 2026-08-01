@@ -88348,3 +88348,33 @@
 - [ ] Grispin Glover
 - [x] Michael J. Fox
 - [ ] Thomas F. Wilson
+
+#### Something increasing in size or importance at a faster and faster rate is referred to using what idiom?
+
+- [x] The Snowball Effect
+- [ ] Beating around the bush
+- [ ] Cutting Corners
+
+#### In the historical phrase "Tippecanoe and Tyler too", who was Tippecanoe?
+
+- [x] William Henry Harrison
+- [ ] Andrew Jackson
+- [ ] James K. Polk
+
+#### A Schnauzer is a kind of what?
+
+- [ ] Sandwich
+- [x] Dog
+- [ ] Vintage car
+
+#### In Scrabble, what do you do during your turn?
+
+- [x] Build words
+- [ ] Roll dice
+- [ ] Play cards
+
+#### Which baseball player had exactly the same number of hits on the road as he did at home?
+
+- [ ] Ted Williams
+- [x] Stan Musial
+- [ ] Pete Rose
