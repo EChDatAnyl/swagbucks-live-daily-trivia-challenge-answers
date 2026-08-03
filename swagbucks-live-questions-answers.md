@@ -88378,3 +88378,27 @@
 - [ ] Ted Williams
 - [x] Stan Musial
 - [ ] Pete Rose
+
+#### Who was the king of the Greek Gods?
+
+- [ ] Hades
+- [ ] Neptune
+- [x] Zeus
+
+#### What is the main ingredient in a Frittata?
+
+- [x] Eggs
+- [ ] Ice Cream
+- [ ] Marinara Sauce
+
+#### Which President's child had a pet snake named Emily Spinach?
+
+- [x] Teddy Roosevelt
+- [ ] Andrew Jackson
+- [ ] Abraham Lincoln
+
+#### When flipping a coin, what are you two main options?
+
+- [x] Head or Tail
+- [ ] Up or Down
+- [ ] Left or Right
