@@ -88402,3 +88402,21 @@
 - [x] Head or Tail
 - [ ] Up or Down
 - [ ] Left or Right
+
+#### Which cat in the musical Cats has song with his name called The Cat About Town?
+
+- [ ] Munkustrap
+- [ ] Grizabella
+- [x] Bustopher Jones
+
+#### According to superstition, the kingdom of England will fall if what happens?
+
+- [ ] Buckingham Palace is vacated
+- [ ] Stonehenge falls
+- [x] The ravens leave the Tower of London
+
+#### What Disney Afternoon character is "The danger that flaps in the night"?
+
+- [x] Darkwing Duck
+- [ ] Gadget
+- [ ] Chip
