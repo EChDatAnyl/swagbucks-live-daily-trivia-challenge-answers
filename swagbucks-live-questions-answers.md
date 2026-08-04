@@ -88480,3 +88480,21 @@
 - [x] Harvard
 - [ ] Yale
 - [ ] Princeton
+
+#### Which of the following attractions can be found in Spain?
+
+- [ ] The Eiffel Tower
+- [ ] The Statue of Liberty
+- [x] La Sagrada Familia
+
+#### What kind of product is Tupperware?
+
+- [ ] Wood Processor
+- [x] Foot Storage
+- [ ] Computer System
+
+#### Which of the following is a type of gland?
+
+- [ ] Pitbull
+- [x] Pituitary
+- [ ] Pitfall
