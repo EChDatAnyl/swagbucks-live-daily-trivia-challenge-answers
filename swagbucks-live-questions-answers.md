@@ -29832,7 +29832,7 @@
 - [ ] Grapes
 - [ ] Kumquats
 
-#### My marrying Prince Rainier, Grace Kelly became princess of what nation?
+#### By marrying Prince Rainier, Grace Kelly became princess of what nation?
 
 - [ ] Spain
 - [x] Monaco
@@ -88420,3 +88420,63 @@
 - [x] Darkwing Duck
 - [ ] Gadget
 - [ ] Chip
+
+#### Which of the following is NOT of the Ten Commandments?
+
+- [ ] Thou shall not kill
+- [ ] Thou shall not steal
+- [x] Thou shall not say "Hot enough for you?"
+
+#### What city is the holiest city in Islam and the destination for pilgrimages?
+
+- [x] Mecca
+- [ ] Varanasi
+- [ ] Lourdes
+
+#### In which of the following card games is the objective to be the first to get rid of all your cards?
+
+- [ ] Texas Hold' Em
+- [ ] Blackjack
+- [x] Uno
+
+#### What lollipop has a piece of candy at its center?
+
+- [ ] Dum Dums
+- [x] Tootsie Pops
+- [ ] Chupa Chups
+
+#### Which of these explorers is known for their travels throughout Asia?
+
+- [x] Marco Polo
+- [ ] Christopher Columbus
+- [ ] Lewis & Clark
+
+#### Someone who is fast is often compared to what?
+
+- [ ] A snail
+- [ ] A tortoise
+- [x] Lightning
+
+#### Ottawa Senators fans once honored their goalie by tossing what items onto the ice?
+
+- [ ] Locks
+- [x] Hamburgers
+- [ ] Squids
+
+#### Actress Grace Kelly became a princess in which European country?
+
+- [x] Monaco
+- [ ] England
+- [ ] France
+
+#### The founder of Foo Fighters was previously a member of which band?
+
+- [ ] System of a Down
+- [ ] Linkin Park
+- [x] Nirvana
+
+#### In "Legally Blonde", where does Elle Woods attend law school?
+
+- [x] Harvard
+- [ ] Yale
+- [ ] Princeton
