@@ -88498,3 +88498,69 @@
 - [ ] Pitbull
 - [x] Pituitary
 - [ ] Pitfall
+
+#### The Britsh Broadcasting Corporation nis better known by what three letters?
+
+- [x] BBC
+- [ ] OMG
+- [ ] LOL
+
+#### Which children's show is set on a fictional New York City block?
+
+- [x] Sesame Street
+- [ ] Caillou
+- [ ] 3-2-1 Contact
+
+#### It's a beautiful night, we're looking for something dumb to do;
+
+- [ ] I Wanna Be Sedated
+- [ ] Go All The Way
+- [x] Marry You
+
+#### Jessie is a friend; Yeah, I know he's been a good friend of mine...
+
+- [x] Jessie's Girl
+- [ ] Frank and Jesse James
+- [ ] Stacy's Mom
+
+#### I don't want a lot for Christmas, there is just one thing I need...
+
+- [ ] The Christmas Song
+- [ ] Jingle Bells
+- [x] All I Want For Christmas Is You
+
+#### Turned away from it all like a blind man; Sat on the fence but it don't work...
+
+- [ ] Pressure
+- [x] Under Pressure
+- [ ] Pressure Drop
+
+#### I got chills, they're multiplying, and I'm losing control...
+
+- [ ] Beauty School Dropout
+- [ ] Greased Lightning
+- [x] You're The One That I Want
+
+#### We are the people that can find whatever you may need; If you got the money, honey, we got your disease...
+
+- [ ] Patience
+- [x] Welcome to the Jingle
+- [ ] Paradise City
+
+#### Whatever you do, don't put the blame on you...
+
+- [x] Blame It On The Rain
+- [ ] Blame It On The Boogie
+- [ ] Blame
+
+#### There's a fire starting in my heart; Reaching a fever pitch and it's bringing me out the dark...
+
+- [x] Rolling in the Deep
+- [ ] Happy Birthday
+- [ ] Get Happy
+
+#### Because you know I'm all about that bass, 'bout that bass, no treble
+
+- [ ] Made You Look
+- [x] All About That Bass
+- [ ] NO
