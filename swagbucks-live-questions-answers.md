@@ -88624,3 +88624,9 @@
 - [ ] Time
 - [ ] Slime
 - [x] Scheme
+
+#### What was used in ancient Egypt to test for pregnancy?
+
+- [x] Seeds
+- [ ] Clay
+- [ ] Bamboo
