@@ -88564,3 +88564,63 @@
 - [ ] Made You Look
 - [x] All About That Bass
 - [ ] NO
+
+#### What plant is the primary food source for giant pandas?
+
+- [x] Bamboo
+- [ ] Ferns
+- [ ] Roses
+
+#### How many hydrogen atoms does it take to make water?
+
+- [ ] Four
+- [ ] Zero
+- [x] Two
+
+#### What color is made by combining yellow and blue?
+
+- [x] Green
+- [ ] Purple
+- [ ] Brown
+
+#### What land animal can open its mouth the widest?
+
+- [ ] Alligator
+- [x] Hippo
+- [ ] Baboon
+
+#### Which of the following vehicles only has one wheel?
+
+- [ ] Tricycle
+- [ ] Bicycle
+- [x] Unicycle
+
+#### What color is blood when it's inside your body?
+
+- [x] Red
+- [ ] White
+- [ ] Blue
+
+#### What President is associated with the quote "I cannot tell a lie"?
+
+- [ ] Thomas Jefferson
+- [x] George Washington
+- [ ] James Madison
+
+#### What is the hardest substance in the human body?
+
+- [ ] Thigh Bone
+- [ ] Skull
+- [x] Tooth Enamel
+
+#### Which of the following creatures has a stage where they're a tadpole?
+
+- [x] Frog
+- [ ] Wolf
+- [ ] Giraffe
+
+#### Which of these words doesn't rhyme with the other two?
+
+- [ ] Time
+- [ ] Slime
+- [x] Scheme
