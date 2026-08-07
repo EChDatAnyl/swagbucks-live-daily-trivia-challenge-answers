@@ -57991,7 +57991,6 @@
 - [ ] The Guess Who
 - [x] Led Zeppelin
 
-
 #### What do the Senate House Library, New York Library, and State Library Victoria have in common?
 
 - [ ] They have the exact same number of books
@@ -88630,3 +88629,63 @@
 - [x] Seeds
 - [ ] Clay
 - [ ] Bamboo
+
+#### At what school function do students traditionally toss their caps in the air?
+
+- [x] Graduation
+- [ ] Prom
+- [ ] Final Exams
+
+#### Which of the following Italian dishes is made with rice?
+
+- [ ] Rigatoni
+- [x] Risotto
+- [ ] Manicotti
+
+#### Where would you go to visit Machu Picchu?
+
+- [ ] Canada
+- [ ] New Zealand
+- [x] Peru
+
+#### National Donut Day originally started as a way to honor volunteers for which organization?
+
+- [x] Salvation Army
+- [ ] Red Cross
+- [ ] UNICEF
+
+#### Which President was buried with a copy of the Constitution placed under his head?
+
+- [ ] Abraham Lincoln
+- [x] Andrew Johnson
+- [ ] Thomas Jefferson
+
+#### Whose late night talk show went off the air in May of 2026?
+
+- [x] Stephen Colbert
+- [ ] Jimmy Kimmel
+- [ ] Seth Meyers
+
+#### In the 1980s, Hi-C introduced green Ecto Cooler as a Ghostbusters tie-in. What flavor was that drink?
+
+- [ ] Apple
+- [x] Orange
+- [ ] Fruit Punch
+
+#### In 1942, The Hollywood Reporter incorrectly said that which star would be playing the lead in "Casablanca"?
+
+- [x] Ronald Reagan
+- [ ] Gary Cooper
+- [ ] Cary Grant
+
+#### Robert Plant was the lead singer of which band?
+
+- [ ] The Beatles
+- [x] Led Zeppelin
+- [ ] The Who
+
+#### What digital pet made its debut in 1996?
+
+- [ ] Teddy Ruxpin
+- [ ] Speak & Spell
+- [x] Tamagotchi
