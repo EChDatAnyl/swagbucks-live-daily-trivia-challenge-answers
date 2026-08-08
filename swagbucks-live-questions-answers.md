@@ -88689,3 +88689,15 @@
 - [ ] Teddy Ruxpin
 - [ ] Speak & Spell
 - [x] Tamagotchi
+
+#### The CIA's "Aedinosaur" operation involved dropping copies of what book behind the Iron Curtain?
+
+- [ ] The Fountainhead
+- [x] Animal Farm
+- [ ] 1984
+
+#### Which of these restaurant chains is the home of the Grand Slam Breakfast?
+
+- [ ] Friendly's
+- [x] Denny's
+- [ ] Perkins
