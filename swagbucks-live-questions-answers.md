@@ -88701,3 +88701,33 @@
 - [ ] Friendly's
 - [x] Denny's
 - [ ] Perkins
+
+#### In "The Breakfast Club", which stereotype is NOT mentioned in their final essay?
+
+- [ ] Brain
+- [ ] Criminal
+- [x] Beauty Queen
+
+#### What does the sunscreen acronym SPF stand for?
+
+- [ ] Smiling Porpoise Faces
+- [x] Sun Protection Factor
+- [ ] Swiftly Protecting Faces
+
+#### An attempt to make someone feel sympathy or fondness is characterized as tugging on someone's what?
+
+- [ ] Hair
+- [ ] Head
+- [x] Heartsrings
+
+#### Which of these famous authors worked as a lexicographer?
+
+- [x] J.R.R. Tolkien
+- [ ] Arthur C. Clarke
+- [ ] Isaac Asimov
+
+#### From 1979-1980, which Star Wars character would give Freddie Mercury piggy back rides to encore performances?
+
+- [ ] Chewbacca
+- [ ] Princess Leia
+- [x] Darth Vader
