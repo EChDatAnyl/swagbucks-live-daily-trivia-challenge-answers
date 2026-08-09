@@ -88731,3 +88731,9 @@
 - [ ] Chewbacca
 - [ ] Princess Leia
 - [x] Darth Vader
+
+#### In what year did Magic Johnson and Larry Bird face each other for the NCAA national championship?
+
+- [x] 1979
+- [ ] 1978
+- [ ] 1980
