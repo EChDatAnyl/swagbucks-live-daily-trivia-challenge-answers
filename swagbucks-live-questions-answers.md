@@ -88737,3 +88737,33 @@
 - [x] 1979
 - [ ] 1978
 - [ ] 1980
+
+#### After being disqualified at the 1904 Olympics for cheating, what marathon did Fred Lorz legitimately win the next year?
+
+- [x] Boston Marathon
+- [ ] New York Marathon
+- [ ] Marathon des Sables
+
+#### What pop culture beagle was adopted from the Daisy Hill Puppy Farm?
+
+- [x] Snoopy
+- [ ] Brian
+- [ ] Underdog
+
+#### "Wassailing" is another term for what tradition?
+
+- [ ] Decorating
+- [x] Caroling
+- [ ] Sledding
+
+#### What group from the City Brotherly Love had a hit with Motownphilly?
+
+- [ ] Color Me Badd
+- [ ] 98 Degrees
+- [x] Boyz II Men
+
+#### Which of these actions movies was inspired by a magazine article?
+
+- [ ] The French Connection
+- [ ] Three Days of the Condor
+- [x] The Fast and the Furious
