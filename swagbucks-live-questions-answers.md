@@ -88809,3 +88809,27 @@
 - [ ] Gobots
 - [x] Smurfs
 - [ ] M.A.S.K.
+
+#### "Brailing" is a technique used to gain an advantage in what board game?
+
+- [ ] Chess
+- [x] Scrabble
+- [ ] Battleship
+
+#### In which hit Netflix show do we learn the identity of Lady Whistledown?
+
+- [ ] Queen's Gambit
+- [ ] The Movies That Made Us
+- [x] Bridgerton
+
+#### Which organ pumps blood through your body?
+
+- [ ] Spleen
+- [ ] Heart
+- [x] Lungs
+
+#### What was the name of the lead guitarist for Guns n' Roses?
+
+- [x] Slash
+- [ ] Pierce
+- [ ] Bludgeon
