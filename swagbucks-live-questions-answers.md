@@ -88767,3 +88767,45 @@
 - [ ] The French Connection
 - [ ] Three Days of the Condor
 - [x] The Fast and the Furious
+
+#### John Williams wrote the score of which classic George Lucas sci-fi movie?
+
+- [x] Star Wars
+- [ ] Star Trek VI
+- [ ] Alien
+
+#### Which daughter on "The Brady Bunch" was the middle child?
+
+- [ ] Cindy
+- [x] Jan
+- [ ] Marcia
+
+#### According to the saying, what does one bad apple do?
+
+- [x] Spoil the barrel
+- [ ] Make a crowd
+- [ ] Become two in the bush
+
+#### The sun is mostly made up of what gas?
+
+- [x] Hydrogen
+- [ ] Argon
+- [ ] Oxygen
+
+#### Who trains Luke Skywalker in the ways of the Jedi?
+
+- [ ] Lando Calrissian
+- [x] Yoda
+- [ ] Hammerhead
+
+#### Sharks have how many bones?
+
+- [ ] 206
+- [ ] 300
+- [x] 0
+
+#### Gargamel was the bad guy in what toy line and cartoon series?
+
+- [ ] Gobots
+- [x] Smurfs
+- [ ] M.A.S.K.
