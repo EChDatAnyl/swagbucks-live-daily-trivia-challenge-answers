@@ -88833,3 +88833,15 @@
 - [x] Slash
 - [ ] Pierce
 - [ ] Bludgeon
+
+#### Which of the following acronyms describes an environmentally conscious vehicle?
+
+- [x] CNG
+- [ ] GPI
+- [ ] HOV
+
+#### Where does the President make their residence while in office?
+
+- [ ] The Black Lodge
+- [ ] The Red Room
+- [x] The White House
