@@ -39282,7 +39282,7 @@
 - [x] The Credit Card
 - [ ] The VIP Section
 
-#### Danny BeVito currently stars on what sitcom?
+#### Danny DeVito currently stars on what sitcom?
 
 - [ ] The Wonder Years
 - [ ] Abbott Elementary
@@ -88845,3 +88845,15 @@
 - [ ] The Black Lodge
 - [ ] The Red Room
 - [x] The White House
+
+#### Jackie Robinson broke the color barrier in which professional sport?
+
+- [ ] Hockey
+- [x] Baseball
+- [ ] Lacrosse
+
+#### What video game has an animal character named after Trent Reznor?
+
+- [ ] Animal Crossing: New Horizons
+- [ ] Super Smash Bros. Ultimate
+- [x] Super Mario World
