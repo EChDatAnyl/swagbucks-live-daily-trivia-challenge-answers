@@ -72381,7 +72381,7 @@
 - [ ] Forging the results
 - [x] Studying
 
-#### What is the name of NBC's streaming service?
+#### What is the name of NBC's streaming service? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
 
 - [ ] Paramount+
 - [x] Peacock
@@ -88857,3 +88857,45 @@
 - [ ] Animal Crossing: New Horizons
 - [ ] Super Smash Bros. Ultimate
 - [x] Super Mario World
+
+#### In a play, an intermission is a break between what?
+
+- [x] Acts
+- [ ] Actors
+- [ ] Bathrooms
+
+#### Which one of Donald Duck's nephews usually wears blue?
+
+- [ ] Huey
+- [x] Dewey
+- [ ] Louie
+
+#### According to the saying, what is power?
+
+- [x] Knowledge
+- [ ] These biceps
+- [ ] A thick neck
+
+#### Which of these former child stars currently has their own talk show on TV?
+
+- [ ] Miranda Cosgrove
+- [x] Drew Barrymore
+- [ ] Peter Billingsley
+
+#### Disgraced Pharma exec Martian Shkreli paid $2 million for a one-of-a-kind album from what group?
+
+- [ ] A Tribe Called Quest
+- [ ] De La Soul
+- [x] Wu-Tang Clan
+
+#### Which of these companies primarily makes toys for preschool and infant children?
+
+- [ ] Bandai-Namco
+- [ ] Nintendo
+- [x] Fisher-Price
+
+#### What company's UK branch once suffered from a hox that they were developing a product called the iLoo for concertgoers?
+
+- [ ] Apple
+- [x] Microsoft
+- [ ] Hewlett Packard
