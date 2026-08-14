@@ -88905,3 +88905,21 @@
 - [ ] Gerbil
 - [x] Pig
 - [ ] Snake
+
+#### Banksy is primarily known for what genre of art?
+
+- [x] Street Art
+- [ ] Fresco
+- [ ] Sculpture
+
+#### Which of the following is NOT a Sacha Baron Cohen character?
+
+- [ ] Borat
+- [ ] Bruno
+- [x] Batman
+
+#### What 1980s toy line was known for dolls with heads that lit up?
+
+- [ ] My Buddy
+- [x] Glo Worm
+- [ ] Strawberry Shortcake
