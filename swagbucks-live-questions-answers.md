@@ -88923,3 +88923,9 @@
 - [ ] My Buddy
 - [x] Glo Worm
 - [ ] Strawberry Shortcake
+
+#### Which grunge band had their first hit with "Smells Like Teen Spirit?"
+
+- [ ] The Beatles
+- [x] Nirvana
+- [ ] The Jackson 5
