@@ -63087,12 +63087,6 @@
 - [x] Soccer
 - [ ] Baseball
 
-#### Which cereal company produces Corn Flakes, Frosted Flakes, and Special K?
-
-- [ ] Post
-- [ ] General Mills
-- [x] Kellogg's
-
 #### Which of these sites exists to define and explain slang?
 
 - [ ] Thesaurus.com
@@ -88929,3 +88923,21 @@
 - [ ] The Beatles
 - [x] Nirvana
 - [ ] The Jackson 5
+
+#### What early video game system came with plastic overlays that you put over your TV screen?
+
+- [ ] Intellivision
+- [ ] Atari 2600
+- [x] Odyssey
+
+#### Which one of these quotes is NOT from Shakespeare?
+
+- [ ] Hell is empty and all the devils are there.
+- [x] Let us eat and drink; for tomorrow we shall die
+- [ ] Uneasy lies the head that wears a crown.
+
+#### What is the name of the Ewok who first helps Leia in Return of the Jedi?
+
+- [x] Wicket
+- [ ] Logray
+- [ ] Teebo
