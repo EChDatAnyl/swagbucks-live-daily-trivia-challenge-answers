@@ -88941,3 +88941,9 @@
 - [x] Wicket
 - [ ] Logray
 - [ ] Teebo
+
+#### Australia's world famous opera house is located in what city?
+
+- [x] Sydney
+- [ ] Melbourne
+- [ ] Perth
