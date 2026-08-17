@@ -88947,3 +88947,15 @@
 - [x] Sydney
 - [ ] Melbourne
 - [ ] Perth
+
+#### In the U.S. military, what type of pin do you put on a medal to indicate that you've earned it more than once?
+
+- [x] Oak Leaf Cluster
+- [ ] Ribbon
+- [ ] 5 Pointed Star
+
+#### What inspired L. Frank Baum to come up with the name Oz?
+
+- [x] A filing cabinet
+- [ ] A childhood pet
+- [ ] Australia
