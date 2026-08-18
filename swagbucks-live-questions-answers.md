@@ -88959,3 +88959,63 @@
 - [x] A filing cabinet
 - [ ] A childhood pet
 - [ ] Australia
+
+#### Which of these mascots represents a tire company?
+
+- [x] The Michelin Man
+- [ ] Woodsy Owl
+- [ ] Joe Camel
+
+#### In a popular song, who does Michael Jackson claim is not is lover?
+
+- [ ] Dirty Diana
+- [x] Billie Jean
+- [ ] Liberian Girl
+
+#### What is a light-year a measurement of?
+
+- [ ] Area
+- [ ] Volume
+- [x] Distance
+
+#### What continent is home to the Great Barrier Reef?
+
+- [x] Australia
+- [ ] Asia
+- [ ] Africa
+
+#### What TV show used The Who's "Who Are You?" as its theme song?
+
+- [ ] Sesame Street
+- [x] CSI
+- [ ] Friends
+
+#### The D-Day Invasion was part of which war?
+
+- [ ] Vietnam War
+- [ ] War of the Roses
+- [x] World War II
+
+#### Which Nintendo character is named after one of their landlords?
+
+- [ ] Zelda
+- [x] Mario
+- [ ] Sammus
+
+#### When you order your desert "a la mode", what is added to it?
+
+- [ ] Chocolate syrup
+- [ ] Whipped Cream
+- [x] Ice Cream
+
+#### Who wrote "The Iliad" and "The Odyssey"?
+
+- [ ] Terrance
+- [x] Homer
+- [ ] Shakespeare
+
+#### How many cards are there in each suit of a standard deck of playing cards?
+
+- [x] 13
+- [ ] 15
+- [ ] 20
