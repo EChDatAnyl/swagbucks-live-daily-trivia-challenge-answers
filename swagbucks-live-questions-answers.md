@@ -89019,3 +89019,27 @@
 - [x] 13
 - [ ] 15
 - [ ] 20
+
+#### What 1975 blockbuster had people scared to go into the ocean?
+
+- [x] Jaws
+- [ ] Night Movies
+- [ ] Dog Day Afternoon
+
+#### When was the U.S. Bicentennial?
+
+- [ ] 2016
+- [x] 1976
+- [ ] 1848
+
+#### Who is known as "The Queen of Soul"?
+
+- [ ] Diana Ross
+- [ ] Gladys Knight
+- [x] Aretha Franklin
+
+#### Shake Shack got the inspiration for their name from what movie?
+
+- [ ] Earthquake
+- [x] Grease
+- [ ] Deliverance
