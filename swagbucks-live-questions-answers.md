@@ -85923,12 +85923,6 @@
 - [ ] Pancakes
 - [x] Marbles
 
-#### What operating system is commonly used on PCs?
-
-- [ ] iOS
-- [x] Windows
-- [ ] Ubuntu
-
 #### Which continent is home to the Amazon Rainforest?
 
 - [x] South America
@@ -89103,3 +89097,21 @@
 - [ ] The Sheep Detectives
 - [x] Babe
 - [ ] Animal Farm
+
+#### Which root beer brand was known as "that frosty mug sensation"?
+
+- [x] A&W
+- [ ] Mug
+- [ ] Hires
+
+#### In "Rapper's Delight", who talks about a poorly cooked dinner?
+
+- [x] Wonder Mike
+- [ ] Big Bank Hank
+- [ ] Master Gee
+
+#### Which of these teams did NOT start in the ABA?
+
+- [ ] Indiana Pacers
+- [x] Dallas Mavericks
+- [ ] San Antonio Spurs
