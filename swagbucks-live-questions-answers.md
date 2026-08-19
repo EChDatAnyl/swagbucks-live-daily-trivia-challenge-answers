@@ -89043,3 +89043,63 @@
 - [ ] Earthquake
 - [x] Grease
 - [ ] Deliverance
+
+#### The truth is: I am Iron Man.
+
+- [ ] Man of Steel
+- [ ] Pushing Tin
+- [x] Iron Man
+
+#### I AM serious, and don't call me Shirley.
+
+- [x] Airplane!
+- [ ] Steel Magnolias
+- [ ] The Notebook
+
+#### I'm walking here! I'm walking here!
+
+- [ ] Despicable Me
+- [x] Midnight Cowboy
+- [ ] Taken
+
+#### It was Beauty Killed the Beast.
+
+- [x] King Kong
+- [ ] The Little Mermaid
+- [ ] The Princess Bride
+
+#### She's my sister AND my daughter!
+
+- [ ] The Grapes of Wrath
+- [x] Chinatown
+- [ ] Mystery Men
+
+#### Royale with Cheese. What'd they call a Big Mac?
+
+- [x] Pulp Fiction
+- [ ] Reservoir Dogs
+- [ ] Destiny Turns On The Radio
+
+#### Carol Anne? Listen to me! Do not go into the light!
+
+- [ ] The Fast and the Furious
+- [x] Poltergeist
+- [ ] Animal House
+
+#### She how it works is the train moves, not the station.
+
+- [ ] Butch Cassidy and the Sundance Kid
+- [ ] The Great Train Robbery
+- [x] A League of Their Own
+
+#### Just when I thought I was out, they pull me back in.
+
+- [x] The Godfather Part III
+- [ ] Goodfellas
+- [ ] Scarface
+
+#### That'll do, pig. That'll do.
+
+- [ ] The Sheep Detectives
+- [x] Babe
+- [ ] Animal Farm
