@@ -89110,6 +89110,24 @@
 - [x] Dallas Mavericks
 - [ ] San Antonio Spurs
 
+#### Which of these is NOT an alien in Space Jam?
+
+- [ ] Pound
+- [x] Zapp
+- [ ] Bupkus
+
+#### The identity of Lady Whistledown is a subplot in which TV show?
+
+- [ ] Downton Abbey
+- [ ] Doctor Who
+- [x] Bridgerton
+
+#### On which game show are you solving word puzzles?
+
+- [ ] Jeopardy
+- [x] Wheel of Fortune
+- [ ] Deal or No Deal
+
 #### What household brand uses a bald man as their mascot?
 
 - [x] Mr. Clean
@@ -89169,3 +89187,21 @@
 - [ ] The Beatles
 - [ ] Metallica
 - [x] The Wonders
+
+#### Nicole Kidman and Ewan McGregor starred in what movie musical?
+
+- [ ] Chicago
+- [x] Moulin Rogue
+- [ ] La La Land
+
+#### Which of these countries contains a chain of islands?
+
+- [ ] Belgium
+- [x] China
+- [ ] San Marino
+
+#### What video game features moves called "Fatalities"?
+
+- [x] Mortal Kombat
+- [ ] Streets of Rage
+- [ ] Double Dragon
