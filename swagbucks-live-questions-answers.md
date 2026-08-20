@@ -57367,12 +57367,6 @@
 - [ ] Golden Grahams
 - [x] Wheaties
 
-#### September 4th, 476 A.D. is the date of what historic event?
-
-- [ ] First TV broadcast
-- [ ] U.S. Civil War Begins
-- [x] End of the Western Roman Empire
-
 #### Who built the Mongol Empire?
 
 - [x] Genghis Khan
@@ -89115,3 +89109,63 @@
 - [ ] Indiana Pacers
 - [x] Dallas Mavericks
 - [ ] San Antonio Spurs
+
+#### What household brand uses a bald man as their mascot?
+
+- [x] Mr. Clean
+- [ ] Stouffer's
+- [ ] Windex
+
+#### Which fast food chain sells the Crunchwrap Supreme?
+
+- [ ] Arby's
+- [x] Taco Bell
+- [ ] Dairy Queen
+
+#### Which sea is home to Jamaica and the Bahamas?
+
+- [x] Caribbean
+- [ ] Red
+- [ ] Caspian
+
+#### According to Hungarian and Russian superstitions, what happens to you if you sit at the corner of a table?
+
+- [ ] You'll go broke
+- [ ] You will be visited by a ghost
+- [x] You'll never get married
+
+#### What year is generally considered the end of the Roman Empire?
+
+- [ ] 1971 AD
+- [x] 476 AD
+- [ ] 1,000,000 BC
+
+#### What causes Paris Syndrome?
+
+- [x] A city not living up to expectations
+- [ ] Foreign language
+- [ ] Rich Foods
+
+#### Which of the following words is plural?
+
+- [ ] Book
+- [ ] Hand
+- [x] Questions
+
+#### What was the first fast food chain to offer free refills on soft drinks?
+
+- [x] Taco Bell
+- [ ] McDonald's
+- [ ] KFC
+
+#### What is the main setting for the book "Charlotte's Web"?
+
+- [ ] A Factory
+- [x] A Farm
+- [ ] A Space Station
+
+#### What is the name of the band in "That Thing You Do!"?
+
+- [ ] The Beatles
+- [ ] Metallica
+- [x] The Wonders
