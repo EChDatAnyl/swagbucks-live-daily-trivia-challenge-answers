@@ -89265,3 +89265,21 @@
 - [x] R.E.M.
 - [ ] Spin Doctors
 - [ ] Pearl Jam
+
+#### What breed of dog is the "Doge" meme?
+
+- [ ] Poodle
+- [x] Shiba Inu
+- [ ] Rat Terrier
+
+#### Where did the main character grow up in Where the Red Fern Grows?
+
+- [x] Oklahoma
+- [ ] Kentucky
+- [ ] Tennessee
+
+#### Which current car company's name does NOT come from the name of its founder?
+
+- [ ] Toyota
+- [x] Nissan
+- [ ] Chrysler
