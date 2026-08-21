@@ -89205,3 +89205,63 @@
 - [x] Mortal Kombat
 - [ ] Streets of Rage
 - [ ] Double Dragon
+
+#### Prosciutto is a variety of what meat?
+
+- [x] Ham
+- [ ] Chicken
+- [ ] Hanger Steak
+
+#### IBM's Deep Blue computer was designed to play which game?
+
+- [ ] Tic Tac Toe
+- [x] Chess
+- [ ] Monopoly
+
+#### Which two sports did Bo Jackson play professionally?
+
+- [ ] Basketball and Hockey
+- [ ] Rugby and Golf
+- [x] Baseball and Football
+
+#### Which horror director got his start making short films for Mister Rogers' Neighborhood?
+
+- [x] George A. Romero
+- [ ] Wes Craven
+- [ ] John Carpenter
+
+#### Alice Perry and Cecile Butticaz were among the first European women to earn a degree in what field?
+
+- [ ] Medicine
+- [x] Engineering
+- [ ] Chemistry
+
+#### What greeting card company uses the slogan "When you care enough to send the very best"?
+
+- [x] Hallmark
+- [ ] Papyrus
+- [ ] Vistaprint
+
+#### What toy was originally sold as a kit to "Change fruits and vegetables into funny, lovable friends!"?
+
+- [ ] Easy Bake Oven
+- [x] Mr. Potato Head
+- [ ] Peek-a-Pod
+
+#### What do NASCAR pit crews fill the car's tires with?
+
+- [x] Nitrogen
+- [ ] Helium
+- [ ] Carbon Dioxide
+
+#### The Dothraki language is spoken on which TV series?
+
+- [ ] Breaking Bad
+- [x] Game of Thrones
+- [ ] Sesame Street
+
+#### Which band was responsible for the hits "Stand", "Losing My Religion", and "It's the End of the World as We Know It"?
+
+- [x] R.E.M.
+- [ ] Spin Doctors
+- [ ] Pearl Jam
