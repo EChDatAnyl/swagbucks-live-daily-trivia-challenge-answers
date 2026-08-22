@@ -89283,3 +89283,27 @@
 - [ ] Toyota
 - [x] Nissan
 - [ ] Chrysler
+
+#### What are birds generally covered in?
+
+- [ ] Fur
+- [ ] Scales
+- [x] Feathers
+
+#### What country would you visit if you wanted to stand the farthest from the center of the Earth?
+
+- [ ] Canada
+- [ ] Nepal
+- [x] Ecuador
+
+#### What food product calls itself "The snack that smiles back"?
+
+- [ ] Giggles
+- [ ] Animal Crackers
+- [x] Goldfish
+
+#### "What goes up, must come down" refers to what force?
+
+- [x] Gravity
+- [ ] Inertia
+- [ ] Friction
