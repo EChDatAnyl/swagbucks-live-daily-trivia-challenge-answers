@@ -76890,8 +76890,8 @@
 #### In the Lord of the Rings books, where do the Hobbits live?
 
 - [ ] Rohan
-- [ ] The Shire
-- [x] Mordor
+- [x] The Shire
+- [ ] Mordor
 
 #### The first undisputed World Chess Champion was born in which city?
 
@@ -89307,3 +89307,9 @@
 - [x] Gravity
 - [ ] Inertia
 - [ ] Friction
+
+#### What does a contortionist stretch and bend?
+
+- [ ] Steel girders
+- [ ] Balloons
+- [x] Their body
