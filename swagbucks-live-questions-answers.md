@@ -89313,3 +89313,27 @@
 - [ ] Steel girders
 - [ ] Balloons
 - [x] Their body
+
+#### What company aired the longest commercial in U.S. history?
+
+- [ ] Heinz
+- [ ] Timex
+- [x] Arby's
+
+#### Scoville Units are used to measure what?
+
+- [ ] Sweetness
+- [ ] Wetness
+- [x] Spiciness
+
+#### In general, how frequently are the Summer Olympics held?
+
+- [ ] Every other year
+- [x] Every four years
+- [ ] Every three years
+
+#### Code Red is a variety of what soft drink?
+
+- [ ] Coca-Cola
+- [ ] Mello Yello
+- [x] Mountain Dew
