@@ -29136,12 +29136,6 @@
 - [ ] Competitive Eating
 - [ ] Techno music
 
-#### Elephaba is the main character of which Broadway musical?
-
-- [ ] Guys and Dolls
-- [x] Wicked
-- [ ] Oklahoma
-
 #### Which of these drinks is traditionally non-alcoholic?
 
 - [ ] Harvey Wallbanger
@@ -89337,3 +89331,63 @@
 - [ ] Coca-Cola
 - [ ] Mello Yello
 - [x] Mountain Dew
+
+#### Which of the following is NOT one of the steps in the Scientific Method?
+
+- [x] Lather
+- [ ] Question
+- [ ] Experiment
+
+#### Seoul is the capital city of which country?
+
+- [ ] Japan
+- [ ] China
+- [x] South Korea
+
+#### Which of the following is a way to say "hello" in Spanish?
+
+- [ ] Adios
+- [x] Hola
+- [ ] Hasta Luego
+
+#### Which of these Broadway musicals centers around a floating craps game?
+
+- [x] Guys and Dolls
+- [ ] Les Miserables
+- [ ] Hamilton
+
+#### Jared Leto played Skeletor in what 2026 adaptation of a 1980s cartoon? 
+
+- [ ] The Transformers
+- [ ] G.I. Joe
+- [x] Masters of the Universe
+
+#### What toy started out as a pie tin?
+
+- [ ] Yo-Yo
+- [x] Frisbee
+- [ ] Pogo Stick
+
+#### The Sun contains what percentage of the solar system's mass?
+
+- [ ] 24.60%
+- [ ] 50.10%
+- [x] 99.80%
+
+#### What is the Pillsbury Doughboy's actual name?
+
+- [ ] Mr. Clean
+- [x] Poppin' Fresh
+- [ ] Sara Lee
+
+#### The 2006 environmental documentary "An Inconvenient Truth" was produced by which ex-Vice President?
+
+- [x] Al Gore
+- [ ] Dan Quayle
+- [ ] Aaron Burr
+
+#### Which of the following artists or bands did NOT come from Australia?
+
+- [ ] Kylie Minogue
+- [ ] Men At Work
+- [x] Bruce Springsteen
