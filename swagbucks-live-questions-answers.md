@@ -47083,7 +47083,7 @@
 - [ ] Tom Cruise
 - [ ] Kevin Pollak
 
-#### A medium orange contains 100% of tyour daily recommended amount of what vitamin?
+#### A medium orange contains 100% of your daily recommended amount of what vitamin?
 
 - [ ] Vitamin D
 - [ ] Niacin
@@ -89391,3 +89391,75 @@
 - [ ] Kylie Minogue
 - [ ] Men At Work
 - [x] Bruce Springsteen
+
+#### Which celebrity holds the Guinness record for Highest Reverse Bungee Jump?
+
+- [x] David Hasselhoff
+- [ ] Tony Hawk
+- [ ] Charlize Theron
+
+#### Which of these soups usually contains noodles?
+
+- [ ] Split pea
+- [x] Chicken
+- [ ] Chili
+
+#### What city is home to the Musee d'Orsay?
+
+- [ ] London
+- [ ] New York
+- [x] Paris
+
+#### What is the culinary term for cooking the fat out of meat?
+
+- [ ] Boiling
+- [x] Rendering
+- [ ] Marinating
+
+#### Which American State is nicknamed "The Aloha State"?
+
+- [x] Hawaii
+- [ ] Rhodes Island
+- [ ] Alaska
+
+#### What year was the US Civil Rights Act signed into law?
+
+- [ ] 1866
+- [ ] 1927
+- [x] 1964
+
+#### Charles Martinet, the voice of Mario, also voiced a Dragon in which video game?
+
+- [ ] Final Fantasy X
+- [ ] Baldur's Gate 3
+- [x] Skyrim
+
+#### What hockey legend is credited with saying "You miss 100% of the shots you don't take"?
+
+- [x] Wayne Gretzky
+- [ ] Grant Fuhr
+- [ ] Martin Brodeur
+
+#### Which of these TV shows is about zombies?
+
+- [ ] Mad Men
+- [x] The Walking Dead
+- [ ] Palm Royale
+
+#### Where did ballet originate?
+
+- [ ] France
+- [ ] Spain
+- [x] Italy
+
+#### What does LL Cool J's name stand for?
+
+- [x] Ladies Love Cool James
+- [ ] Lasagna Loaf Cool Jerry
+- [ ] Like Lentils, Cool Jeff?
+
+#### The Fab Five perform life makeovers on which reality show?
+
+- [ ] Home Town
+- [x] Queer Eye
+- [ ] Bar Rescue
