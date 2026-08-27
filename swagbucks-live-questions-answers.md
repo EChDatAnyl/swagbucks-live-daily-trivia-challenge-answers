@@ -89523,3 +89523,21 @@
 - [x] Midnight oil
 - [ ] Matchstick
 - [ ] Barn
+
+#### When bees travel from flower to flower, what scientific event is happening?
+
+- [ ] Posterizing
+- [x] Pollination
+- [ ] Pollstreing
+
+#### The island of Fiji is located in which ocean?
+
+- [ ] Indian
+- [ ] Atlantic
+- [x] Pacific
+
+#### What was the name of the paper company on "The Office"?
+
+- [x] Dunder Mifflin
+- [ ] Barry Horowitz
+- [ ] Cheers
