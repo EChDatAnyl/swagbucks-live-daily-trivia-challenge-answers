@@ -89463,3 +89463,63 @@
 - [ ] Home Town
 - [x] Queer Eye
 - [ ] Bar Rescue
+
+#### What brand of cookies is sold in an iconic round blue tin?
+
+- [x] Royal Dansk
+- [ ] Chips Ahoy
+- [ ] Famous Amos
+
+#### Super Bowl Champion Bears tackle William Perry went by what nickname?
+
+- [ ] Freezer
+- [x] Refrigerator
+- [ ] Crisper
+
+#### Jerry Garcia was the lead singer of which band?
+
+- [ ] Humble Pie
+- [ ] Styx
+- [x] Grateful Dead
+
+#### What breakfast cereal once gave free samples to New York City women who would wink at their grocer?
+
+- [ ] Rice Krispies
+- [x] Corn Flakes
+- [ ] Special K
+
+#### Which card game uses a peg board to keep score?
+
+- [ ] Go Fish
+- [ ] Uno
+- [x] Cribbage
+
+#### Which of the following Spanish verbs is in the past tense?
+
+- [ ] Apreden
+- [x] Aprendieron
+- [ ] Aprender
+
+#### In the "Pirates of the Caribbean" movies, what is the name of Captain Jack Sparrow's ship?
+
+- [x] The Black Pearl
+- [ ] The S.S. Minnow
+- [ ] The Santa Maria
+
+#### The majority of ATM transactions done in the U.S. are powered by what programming language?
+
+- [ ] BASIC
+- [x] COBOL
+- [ ] C++
+
+#### What company claims to be "everywhere you want to be"?
+
+- [x] VISA
+- [ ] Hilton
+- [ ] McDonald's
+
+#### According to the saying, when you work late you're burning the what?
+
+- [x] Midnight oil
+- [ ] Matchstick
+- [ ] Barn
