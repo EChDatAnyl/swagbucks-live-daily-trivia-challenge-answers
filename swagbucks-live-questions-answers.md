@@ -89601,3 +89601,15 @@
 - [ ] Spain
 - [x] Canada
 - [ ] Estonia
+
+#### "Tangled" is a retelling of what classic fairy tale?
+
+- [ ] Goldilocks
+- [ ] Little Red Riding Hood
+- [x] Rapunzel
+
+#### Where do you wear Yaktrax?
+
+- [ ] Head
+- [ ] Hands
+- [x] Feet
