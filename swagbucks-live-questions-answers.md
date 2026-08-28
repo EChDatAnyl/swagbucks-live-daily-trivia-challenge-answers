@@ -89541,3 +89541,63 @@
 - [x] Dunder Mifflin
 - [ ] Barry Horowitz
 - [ ] Cheers
+
+#### What are the names of the to rival gangs in "West Side Story"?
+
+- [ ] Squids and Planes
+- [ ] Whales and Helicopters
+- [x] Sharks and Jets
+
+#### What is the first element on the Periodic Table?
+
+- [x] Hydrogen
+- [ ] Helium
+- [ ] Carbon
+
+#### Victor Wembanyama is the star player for which NBA team?
+
+- [ ] New York Knicks
+- [x] San Antonio Spurs
+- [ ] Memphis Grizzlies
+
+#### What inspired the name for Orange Crush Soda?
+
+- [x] How it was made
+- [ ] Competition
+- [ ] The creator
+
+#### Who is the only person enshrined in both the football and baseball Hall of Fame?
+
+- [ ] Bo Jackson
+- [ ] Deion Sanders
+- [x] Cal Hubbard
+
+#### What is Canada's smallest province?
+
+- [ ] British Columbia
+- [x] Prince Edward Island
+- [ ] Ontario
+
+#### During Ronald Reagan's presidency, Air Force One was outfitted with special holders for which snack?
+
+- [ ] Ritz Crackers
+- [ ] M&Ms
+- [x] Jelly Beans
+
+#### The 2016 Italian film "Perfetti Sconosciuti" holds what record?
+
+- [ ] Smallest budget
+- [ ] Largest cast
+- [x] Most remakes
+
+#### In which game can you move your piece to the Library, Kitchen, or Conservatory?
+
+- [x] Clue
+- [ ] Chutes and Ladders
+- [ ] Canasta
+
+#### Tim Horton's is a coffeehouse chain from what country?
+
+- [ ] Spain
+- [x] Canada
+- [ ] Estonia
