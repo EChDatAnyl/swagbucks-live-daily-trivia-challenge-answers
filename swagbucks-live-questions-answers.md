@@ -89613,3 +89613,21 @@
 - [ ] Head
 - [ ] Hands
 - [x] Feet
+
+#### Which of these deserts is found in Africa?
+
+- [x] Serengeti
+- [ ] Thar
+- [ ] Great Basin
+
+#### What Stephen Sondheim musical intertwines the plots of several fairy tales?
+
+- [ ] A Little Night Music
+- [ ] Sunday in the Park with George
+- [x] Into The Woods
+
+#### Which of the following metals is NOT generally used for soldering?
+
+- [ ] Tin
+- [ ] Lead
+- [x] Vibranium
