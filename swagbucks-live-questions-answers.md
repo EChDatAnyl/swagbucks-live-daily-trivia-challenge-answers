@@ -89631,3 +89631,33 @@
 - [ ] Tin
 - [ ] Lead
 - [x] Vibranium
+
+#### Which of these Scrabble letter tiles has the highest point value?
+
+- [ ] O
+- [ ] G
+- [x] Z
+
+#### Who first recorded and turned "Little Drummer Boy" into a hit?
+
+- [x] The Trapp Family Singers
+- [ ] Frank Sinatra
+- [ ] Perry Como
+
+#### By units, which of these artists has the most all-time album sales?
+
+- [x] Garth Brooks
+- [ ] Elvis Presley
+- [ ] Michael Jackson
+
+#### Which of these pies has meat as a primary ingredient?
+
+- [x] Shepherd's Pie
+- [ ] Cherry Pie
+- [ ] Rhubarb Pie
+
+#### Who provides the voices of Rocket Raccoon in the MCU?
+
+- [ ] Vin Diesel
+- [x] Bradley Cooper
+- [ ] Benicio del Toro
