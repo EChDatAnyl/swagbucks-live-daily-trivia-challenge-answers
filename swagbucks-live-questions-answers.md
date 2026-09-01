@@ -89661,3 +89661,69 @@
 - [ ] Vin Diesel
 - [x] Bradley Cooper
 - [ ] Benicio del Toro
+
+#### Where would you most likely find someone suffering from Dysania?
+
+- [x] In bed
+- [ ] On the toilet
+- [ ] At Taco Bell
+
+#### What is the term for two words that sound the same but have different meanings?
+
+- [x] Homonym
+- [ ] Synonym
+- [ ] Allegory
+
+#### What creatures are Indiana Jones afraid of?
+
+- [ ] Spiders
+- [x] Snakes
+- [ ] Dogs
+
+#### Which Disney Princess's villain would say "Mirror, mirror on the wall"?
+
+- [ ] Cinderella
+- [ ] Sleeping Beauty
+- [x] Snow White
+
+#### In Star Wars Episode III, who defeats Anakin Skywalker on Mustafar?
+
+- [x] Obi-Wan Kenobi
+- [ ] General Grievous
+- [ ] Ball Organa
+
+#### Which MCU film features the three live action Spider-Men on screen together?
+
+- [ ] Avengers: Age of Ultron
+- [x] Spider-Man: No Way Home
+- [ ] Spider-Man: Brand New Day
+
+#### Britney Spears, Justin Timberlake, Ryan Gosling, and Keri Russell were all part of what live action Disney TV show?
+
+- [x] The Mickey Mouse Club
+- [ ] Suite Life on Deck
+- [ ] Dog with a Blog
+
+#### In Bambi, twitterpated is the term for being deeply in love with someone. Who introduces it to everyone?
+
+- [ ] Thumper
+- [ ] Flower
+- [x] Friend Owl
+
+#### The Muppet Gonzo is infatuated with what type of animal?
+
+- [ ] Fish
+- [x] Chicken
+- [ ] Giraffe
+
+#### In Winnie the Pooh, whose top is made out of rubber and bottom is made out of springs?
+
+- [x] Tiger
+- [ ] Eeyore
+- [ ] Piglet
+
+#### On the Disney Channel show of the same name, what is Miley Stewart's musical alter ego?
+
+- [ ] Raven Baxter
+- [x] Hannah Montana
+- [ ] Alex Russo
