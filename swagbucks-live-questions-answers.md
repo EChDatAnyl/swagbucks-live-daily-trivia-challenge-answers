@@ -89727,3 +89727,9 @@
 - [ ] Raven Baxter
 - [x] Hannah Montana
 - [ ] Alex Russo
+
+#### What kind of riding vehicles are made by Razor?
+
+- [ ] Cars
+- [x] Scooters
+- [ ] Hang gliders
