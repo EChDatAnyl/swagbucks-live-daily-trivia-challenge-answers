@@ -89793,3 +89793,27 @@
 - [ ] The Greatest Generation
 - [ ] Millennials
 - [x] Baby Boomers
+
+#### Which Amazonian DC superhero hails from the island nation of Themyscira?
+
+- [ ] Black Canary
+- [ ] Aquaman
+- [x] Wonder Woman
+
+#### Where is the island of Sulawesi?
+
+- [x] Indonesia
+- [ ] Greece
+- [ ] Venezuela
+
+#### Which of these dishes was invented in New York State?
+
+- [ ] Sourdough Bread
+- [x] Buffalo
+- [ ] Chili
+
+#### Kelly Clarkson, Fantasia Barrino and Carrie Underwood all won which reality singing contest?
+
+- [ ] The Sing-Off
+- [x] American Idol
+- [ ] The Voice
