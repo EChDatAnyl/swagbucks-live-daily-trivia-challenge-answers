@@ -89733,3 +89733,63 @@
 - [ ] Cars
 - [x] Scooters
 - [ ] Hang gliders
+
+#### What religious day immediately follows Mardi Gras, AKA Fat Tuesday?
+
+- [ ] Skinny Wednesday
+- [ ] Wednesday Addams
+- [x] Ash Wednesday
+
+#### Lara Croft is the star of which video game franchise?
+
+- [x] Tomb Raider
+- [ ] Grand Theft Auto
+- [ ] Pac-Man
+
+#### Which children's drink has a mascot known for busting through walls?
+
+- [ ] Capri Sun
+- [x] Kool-Aid
+- [ ] PediaSure
+
+#### Which of these comic book characters was created by Stan Lee?
+
+- [x] Spider-Man
+- [ ] Batman
+- [ ] Archie Andrews
+
+#### Cereology refers to the study and investigation of what?
+
+- [ ] Sequencing
+- [ ] Breakfast
+- [x] Crop Circles
+
+#### Which NBA legend was known as the Black Mamba?
+
+- [ ] Michael Jordan
+- [ ] LeBron James
+- [x] Kobe Bryant
+
+#### Which of the following TV series revolves around a restaurant?
+
+- [ ] House
+- [x] The Bear
+- [ ] Narcos
+
+#### In which country is dried ants a common movie theater snack?
+
+- [x] Colombia
+- [ ] Tahiti
+- [ ] Australia
+
+#### Complete this Beatles song title: "Lucy In The Sky With..."
+
+- [ ] A Side Of Fries
+- [x] Diamonds
+- [ ] Gusto
+
+#### What generation began immediately after World War II?
+
+- [ ] The Greatest Generation
+- [ ] Millennials
+- [x] Baby Boomers
