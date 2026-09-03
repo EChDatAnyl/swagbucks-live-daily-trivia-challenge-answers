@@ -89877,3 +89877,9 @@
 - [ ] Tim Teufel
 - [ ] Keith Hernandez
 - [x] Cy Young
+
+#### According to his theme song, who's "Lovable, gullible, armless, harmless, ten foot tall and wet."?
+
+- [x] Cecil
+- [ ] Sir Hiss
+- [ ] Jabberjaw
