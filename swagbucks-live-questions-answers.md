@@ -89817,3 +89817,63 @@
 - [ ] The Sing-Off
 - [x] American Idol
 - [ ] The Voice
+
+#### On August 15, 1947 India gained its independence from which country?
+
+- [x] Britain
+- [ ] France
+- [ ] Spain
+
+#### In the film "12 Angry Men", what are the 12 angry men?
+
+- [ ] An army squadron
+- [ ] A corporate board of directors
+- [x] A jury
+
+#### Complete this quote: "Early to bed, early to rise, makes a man healthy, wealthy, and" what?
+
+- [ ] Strong
+- [x] Wise
+- [ ] Funny
+
+#### What video game was added to New York's Museum of Modern Art in 2012?
+
+- [x] SimCity 2000
+- [ ] Age of Empires
+- [ ] Donkey Kong
+
+#### Claude Monet famously created a series of painting of what flower?
+
+- [ ] Dandelions
+- [x] Water Lilies
+- [ ] Monkey Face Orchids
+
+#### What year was the first computer program published?
+
+- [x] 1843
+- [ ] 1743
+- [ ] 1943
+
+#### What candy brand was once sold as "Two great tastes that taste great together"?
+
+- [ ] KitKat
+- [x] Reese's Peanut Butter Cups
+- [ ] Nerds
+
+#### Jake Peralta is the lead character of which police show?
+
+- [ ] The Wire
+- [ ] NYPD Blue
+- [x] Brooklyn Nine-Nine
+
+#### What are the first names of the Jonas Brothers?
+
+- [x] Kevin, Joe, and Nick
+- [ ] Manny, Moe, and Jack
+- [ ] Snap, Crackle, and Pop
+
+#### Baseball's award for pitching excellence is named after which legendary player?
+
+- [ ] Tim Teufel
+- [ ] Keith Hernandez
+- [x] Cy Young
