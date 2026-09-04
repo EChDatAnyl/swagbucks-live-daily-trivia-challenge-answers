@@ -89961,3 +89961,21 @@
 - [ ] Punk
 - [ ] Trap
 - [x] Soul
+
+#### Which U.S. Presidential candidate of the 1960s won the most electoral votes?
+
+- [ ] John F Kennedy
+- [ ] Lydon B Johnson
+- [x] Richard Nixon
+
+#### If you're making deviled eggs, how do you prepare the eggs?
+
+- [ ] Scramble them
+- [x] Boil them
+- [ ] Fry them
+
+#### How many valves does the typical human heart have?
+
+- [ ] 2
+- [ ] 3
+- [x] 4
