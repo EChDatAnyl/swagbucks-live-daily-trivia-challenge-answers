@@ -89883,3 +89883,81 @@
 - [x] Cecil
 - [ ] Sir Hiss
 - [ ] Jabberjaw
+
+#### Affecting someone's behavior with subtle and unintentional cueing is referred to by what term?
+
+- [ ] Influenza
+- [ ] Insomnia
+- [x] Clever Hans Effect
+
+#### Which State experienced the largest earthquake in U.S. history?
+
+- [ ] California
+- [ ] Oregon
+- [x] Alaska
+
+#### While racking up U.S. championships, who settled for Olympic silver in 1998 & bronze in 2002?
+
+- [ ] Nancy Kerrigan
+- [x] Michelle Kwan
+- [ ] Sarah Hughes
+
+#### Mermaids are legendary creatures that are half-human and half what?
+
+- [ ] Goat
+- [x] Fish
+- [ ] Worm
+
+#### What beer used "The Most Interesting Man in the World" in their advertising campaigns?
+
+- [ ] Budweiser
+- [ ] Milwaukee's Best
+- [x] Dos Equis
+
+#### What was the term for the supercontinent that existed before tectonics tore it apart?
+
+- [ ] Boravia
+- [ ] Genovia
+- [x] Pangea
+
+#### In 1969, the BBC banned airplay of what song until the Apollo 11 astronauts returned to Earth?
+
+- [ ] Fly Me To The Moon
+- [x] Space Oddity
+- [ ] Thus Spoke Zarathustra
+
+#### According to the BBC, what dance was once scandalized due to "the shameless physical closeness of the dancing couples"?
+
+- [x] Waltz
+- [ ] Breakdancing
+- [ ] Tarantella
+
+#### In traditional Blackjack, which of the following totals would be a "bust"?
+
+- [ ] 11
+- [ ] 21
+- [x] 26
+
+#### Who was the halftime performer at the first-ever Super Bowl?
+
+- [ ] Tom Jones
+- [ ] Carol Channing
+- [x] College Marching Bands
+
+#### When it was a student project at Stanford, what was Google originally called?
+
+- [ ] Alphabet
+- [x] BackRub
+- [ ] Corte
+
+#### In 1992's "Aladdin", what royal alias does the genie give Aladdin?
+
+- [x] Prince Ali Ababwa
+- [ ] Prince Nelson Rogers
+- [ ] Prince Fielder
+
+#### James Brown is known as the Godfather of what kind of music?
+
+- [ ] Punk
+- [ ] Trap
+- [x] Soul
