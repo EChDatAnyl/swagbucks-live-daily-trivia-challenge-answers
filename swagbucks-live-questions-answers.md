@@ -89979,3 +89979,21 @@
 - [ ] 2
 - [ ] 3
 - [x] 4
+
+#### In Scrabble, what is the maximum number of tiles you can play on a single turn?
+
+- [ ] 3
+- [ ] 5
+- [x] 7
+
+#### What country sent Sputnik 1 into orbit around the Earth?
+
+- [x] USSR
+- [ ] United States
+- [ ] China
+
+#### Bernie Taupin is the longtime lyricist for what singer?
+
+- [ ] Paul McCartney
+- [x] Elton John
+- [ ] Billy Joel
