@@ -89997,3 +89997,21 @@
 - [ ] Paul McCartney
 - [x] Elton John
 - [ ] Billy Joel
+
+#### Which of these people has hosted multiple Academy Award ceremonies?
+
+- [ ] Carol Burnett
+- [x] Jane Fonda
+- [ ] Robin Williams
+
+#### Which of these is the largest number?
+
+- [ ] Nonilion
+- [ ] Unseptuagintilion
+- [x] Novemnonagintillion
+
+#### What phrase, originating in silent movies, refers to getting to the point of something?
+
+- [ ] Gone to pot
+- [ ] Gimme the broccoli
+- [x] Cut to the chase
