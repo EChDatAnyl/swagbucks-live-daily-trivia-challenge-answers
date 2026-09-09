@@ -42294,12 +42294,6 @@
 - [ ] Woodstock
 - [x] The Winter Olympics
 
-#### When something fits you exactly, you would say it fits like a what?
-
-- [x] Golve
-- [ ] Hat
-- [ ] Sock
-
 #### Which of the following words is a term for a malicious deception?
 
 - [ ] Conspiracy
@@ -42768,7 +42762,7 @@
 - [ ] Toronto
 - [x] New York
 
-#### 10 Dowing Street is the home for the Head of State in what country?
+#### 10 Downing Street is the home for the Head of State in what country?
 
 - [ ] France
 - [x] United Kingdom
@@ -90015,3 +90009,75 @@
 - [ ] Gone to pot
 - [ ] Gimme the broccoli
 - [x] Cut to the chase
+
+#### Where in a newspaper would you read juicy celebrity news?
+
+- [ ] Want Ads
+- [ ] Crossword
+- [x] Gossip Column
+
+#### Which talk show host is responsible for "Carpool Karaoke"?
+
+- [ ] David Letterman
+- [ ] Samantha Bee
+- [x] James Corden
+
+#### What phrase do Vulcans use in their greetings?
+
+- [x] Live Long and Prosper
+- [ ] Take Care of You
+- [ ] See You in Space
+
+#### Which of the following Star Trek series is animated?
+
+- [ ] Voyager
+- [ ] Next Generation
+- [x] Lower Decks
+
+#### On the original "Star Trek", what is the nickname of the Chief Engineer?
+
+- [ ] Frenchy
+- [x] Scotty
+- [ ] Italiano
+
+#### Which of the following is NOT part of Star Trek's Prime Directive?
+
+- [ ] No identification of self or mission
+- [ ] No reference to space, other worlds, or advanced civilizations
+- [x] No running around the pool
+
+#### Which Enterprise crew member was killed by an alien named Armus?
+
+- [ ] Nurse Chapel
+- [x] Tasha Yar
+- [ ] Chakotay
+
+#### What enables Star Trek's ship to travel faster than the speed of light?
+
+- [x] Warp Drive
+- [ ] Transporter
+- [ ] Hailing Frequency
+
+#### In Star Trek, which alien enemies have ridged foreheads?
+
+- [ ] Edosians
+- [ ] Andorians
+- [x] Klingons
+
+#### Which network originally aired "Star Trek"?
+
+- [x] NBC
+- [ ] CBS
+- [ ] ABC
+
+#### Which Star Trek series is about a space station?
+
+- [ ] Enterprise
+- [ ] Brave New World
+- [x] Deep Space Nine
+
+#### Which "Star Trek: The Next Generation" crew member is an android?
+
+- [ ] Worf
+- [x] Data
+- [ ] La Forge
