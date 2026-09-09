@@ -90081,3 +90081,15 @@
 - [ ] Worf
 - [x] Data
 - [ ] La Forge
+
+#### In which movie do Rose and Jack try to survive a sinking cruise ship?
+
+- [ ] The Poseidon Adventure
+- [x] Titanic
+- [ ] Speed 2: Cruise Control
+
+#### Which Charles Dickens novel is about an orphan who joins a band of thieves?
+
+- [ ] Great Expectations
+- [x] Oliver Twist
+- [ ] A Tale of Two Cities
