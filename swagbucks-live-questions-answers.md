@@ -108,7 +108,7 @@
 - [x] Cranberries
 - [ ] Elderberries
 
-#### Which "What's My Line" panellist coined the phrase "Is it bigger than a breadbox?"
+#### Which "What's My Line" panelist coined the phrase "Is it bigger than a breadbox?"
 
 - [ ] Soupy Sales
 - [x] Steve Allen
@@ -62139,12 +62139,6 @@
 - [x] A ghost
 - [ ] A witch
 
-#### Which "What's My Line" panelist coined the phrase "It is bigger than breadbox?"
-
-- [ ] Soupy Sales
-- [x] Steve Allen
-- [ ] Bennett Cerf
-
 #### According to the saying, what's good for the goose is good for who?
 
 - [ ] Beverly d'Angelo
@@ -90093,3 +90087,63 @@
 - [ ] Great Expectations
 - [x] Oliver Twist
 - [ ] A Tale of Two Cities
+
+#### What does NBC stand for?
+
+- [x] National Broadcasting Company
+- [ ] Not Bad Cookies
+- [ ] Nearly Broken Communication
+
+#### What was the name of NBC's iconic Thursday night programming bloc?
+
+- [ ] TGIT
+- [x] Must-See TV
+- [ ] Night of 1,000 Stars
+
+#### Which of the following actors was NOT in the original cast of Saturday Night Live?
+
+- [ ] Chevy Chase
+- [ ] Gilda Radner
+- [x] Chris Farley
+
+#### Who was the first host of "The Tonight Show"?
+
+- [ ] Jack Paar
+- [x] Steve Allen
+- [ ] Johnny Carson
+
+#### What NYC address is home to NBC's corporate offices and some famous studios?
+
+- [x] 30 Rockefeller Plaza
+- [ ] 1 West 72nd Street
+- [ ] 11 Wall Street
+
+#### Which NBC show was the first show shot and broadcast in color?
+
+- [ ] Wagon Train
+- [ ] Rowan & Martin's Laugh-In
+- [x] Bonanza
+
+#### From 2005-2013, what remake of a British sitcom was a hit for NBC?
+
+- [ ] Steptoe and Son
+- [x] The Office
+- [ ] Are You Being Served
+
+#### After being approached for the role, who recommended Redd Foxx for "Sanford and Son"?
+
+- [ ] Richard Pryor
+- [ ] Sammy Davis Jr.
+- [x] Cleavon Little
+
+#### In which city was the sitcom Cheers set?
+
+- [x] Boston
+- [ ] Chicago
+- [ ] New York
+
+#### Which of the following 1980s NBC hits was NOT a cop show?
+
+- [ ] Hill Street Blues
+- [x] Silver Spoons
+- [ ] Miami Vice
