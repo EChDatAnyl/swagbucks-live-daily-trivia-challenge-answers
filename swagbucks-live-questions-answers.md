@@ -60153,12 +60153,6 @@
 - [ ] Double Hitter
 - [x] Switch Hitter
 
-#### Where did the world's oldest surviving musical composition originate?
-
-- [x] Greece
-- [ ] Egypt
-- [ ] China
-
 #### At an amusement park, a carousel is known by what other name?
 
 - [ ] Roller Coaster
@@ -90147,3 +90141,9 @@
 - [ ] Hill Street Blues
 - [x] Silver Spoons
 - [ ] Miami Vice
+
+#### How many Eyes does Mike have in "Monsters Inc"?
+
+- [x] 1
+- [ ] 2
+- [ ] 3
