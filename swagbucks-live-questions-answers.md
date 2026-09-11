@@ -90147,3 +90147,81 @@
 - [x] 1
 - [ ] 2
 - [ ] 3
+
+#### On a standard traffic light, what light comes between Green and Red?
+
+- [ ] Puce
+- [ ] Beige
+- [x] Yellow
+
+#### Which U.S. President was assassinated at Ford's Theater?
+
+- [ ] James A Garfield
+- [ ] William McKinley
+- [x] Abraham Lincoln
+
+#### What were the names of Michael Jackson's Ilamas?
+
+- [ ] Rico and Rita
+- [ ] Lucy and Ricky
+- [x] Louie and Lola
+
+#### Rabbis are spiritual leaders in which religion?
+
+- [ ] Catholicism
+- [ ] Hinduism
+- [x] Judaism
+
+#### Chili's had a famous jingle centered around what signature dish?
+
+- [x] Baby Back Ribs
+- [ ] Beef Lo Mein
+- [ ] Porridge
+
+#### In the books and in popular media, what is the name of Tarzan's spouse?
+
+- [ ] Cheetah
+- [x] Jane
+- [ ] Thomasina
+
+#### In the 1960s, the historic London Bridge was moved. Where did it wind up?
+
+- [ ] Scotland
+- [ ] Japan
+- [x] Arizona
+
+#### Contrary to popular belief, what creatures went extinct AFTER the construction of the Pyramids at Giza?
+
+- [ ] Sabretooth Tiger
+- [x] Woolly Mammoth
+- [ ] Pteranodon
+
+#### Who played Dewey Finn in the movie "School of Rock"?
+
+- [x] Jack Black
+- [ ] Jack White
+- [ ] Jack Orange
+
+#### Which country has the most official languages?
+
+- [ ] India
+- [ ] South Africa
+- [x] Bolivia
+
+#### Which musician has pianos named after Aretha Franklin, Nina Simone, and Diana Krall?
+
+- [x] Elton John
+- [ ] Alicia Keys
+- [ ] Billy Joel
+
+#### Which system in the body is responsible for moving oxygen?
+
+- [ ] Circulatory
+- [x] Pulmonary
+- [ ] Skeletal
+
+#### What child's toy was originally a weapon?
+
+- [ ] Frisbee
+- [ ] Dodgeball
+- [x] Yo-Yo
