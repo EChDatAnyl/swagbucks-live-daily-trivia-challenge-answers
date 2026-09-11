@@ -90225,3 +90225,9 @@
 - [ ] Frisbee
 - [ ] Dodgeball
 - [x] Yo-Yo
+
+#### Which of these utensils helps you drink liquids?
+
+- [ ] Skewer
+- [x] Straw
+- [ ] Napkin
