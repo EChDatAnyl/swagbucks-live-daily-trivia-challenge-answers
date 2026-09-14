@@ -67332,7 +67332,7 @@
 #### In April of which year did the Beatles hold the top five spots on the Billboard Hot 100 simultaneously?
 
 - [ ] 1963
-- [x] 1965
+- [x] 1964
 - [ ] 1965
 
 #### Which titular Beatles character is a meter maid?
@@ -90231,3 +90231,39 @@
 - [ ] Skewer
 - [x] Straw
 - [ ] Napkin
+
+#### Napoleon was once attacked by a bunch of animals. What kind of animals were they?
+
+- [x] Rabbits
+- [ ] Dogs
+- [ ] Piranha
+
+#### What kind of book is a collection of word definitions?
+
+- [ ] Almanac
+- [ ] Encyclopedia
+- [x] Dictionary
+
+#### When did the first corn maze open for public entertainment?
+
+- [x] 1993
+- [ ] 1672
+- [ ] 1844
+
+#### Where did New York get the nickname "The Big Apple"?
+
+- [x] At some stables
+- [ ] At Yankee Stadium
+- [ ] At a Jazz club
+
+#### What is the Pillsbury Doughboy's official name?
+
+- [x] Poppin' Fresh
+- [ ] Jim
+- [ ] Nancy
+
+#### In which "Star Wars" film do the rebels destroy a partially constructed Death Star?
+
+- [ ] Rogue One
+- [ ] Solo: A Star Wars Story
+- [x] Return of the Jedi
