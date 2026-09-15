@@ -720,7 +720,7 @@
 - [x] Hostess
 - [ ] Little Debbie
 
-#### What kind of Doctor deals specifically with hormones issues?
+#### What kind of Doctor deals specifically with hormone issues?
 
 - [x] Endocrinologist
 - [ ] Dermatologist
@@ -53959,7 +53959,7 @@
 - [x] Parson Brown
 - [ ] Robert Towne
 
-#### Which of the following is NOT a pentalty in Ice Hockey?
+#### Which of the following is NOT a penalty in Ice Hockey?
 
 - [ ] Hooking
 - [ ] Roughing
@@ -90267,3 +90267,75 @@
 - [ ] Rogue One
 - [ ] Solo: A Star Wars Story
 - [x] Return of the Jedi
+
+#### The movie quote "There's no crying in baseball!" was uttered by which actor?
+
+- [ ] Henry Winkler
+- [x] Tom Hanks
+- [ ] George Clooney
+
+#### What kind of container are regular Pringles sold in?
+
+- [ ] Sack
+- [ ] Basket
+- [x] Can
+
+#### In a proscenium theater, which of the following directions is towards the audience?
+
+- [x] Downstage
+- [ ] Backstage
+- [ ] Second Stage
+
+#### What pizza chain is known more for its arcade and games than for its food?
+
+- [ ] Pizza Hut
+- [ ] Domino's
+- [x] Chuck E. Cheese
+
+#### What U.S. city is known as "The City That Never Sleeps"?
+
+- [ ] Chicago
+- [x] New York
+- [ ] Miami
+
+#### Which of the following wars was fought the earliest?
+
+- [ ] Vietnam War
+- [ ] Iraq War
+- [x] Korean War
+
+#### What term is used to describe unwanted/unsolicited junk email?
+
+- [x] Spam
+- [ ] Tofurkey
+- [ ] Turducken
+
+#### Who wrote the Chronicles of Narnia books?
+
+- [ ] J.R.R. Tolkien
+- [x] C.S. Lewis
+- [ ] Rick Riordan
+
+#### Which of the following streaming series is about the drama surround the British monarchy?
+
+- [x] The Crown
+- [ ] Shogun
+- [ ] Spartacus
+
+#### Where would you find the longest fence in the world?
+
+- [ ] China
+- [ ] Russia
+- [x] Australia
+
+#### In "Planet of the Apes", what planet is run by apes?
+
+- [ ] Venus
+- [ ] Mars
+- [x] Earth
+
+#### Which rock band uses a mouth sticking its tongue out as their logo?
+
+- [ ] Led Zeppelin
+- [x] Rolling Stones
+- [ ] Hanson
