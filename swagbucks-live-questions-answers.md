@@ -90339,3 +90339,69 @@
 - [ ] Led Zeppelin
 - [x] Rolling Stones
 - [ ] Hanson
+
+#### What was cut out of Da Vinci's "The Last Supper" by builders?
+
+- [ ] Roman soldiers
+- [x] Jesus' feet
+- [ ] Angels
+
+#### On "Mister Rogers' Neighborhood", where did the trolley go?
+
+- [ ] Three Rivers Stadium
+- [x] The Neighborhood of Make-Believe
+- [ ] A Hat Store
+
+#### Which of these Sesame Street characters is the tallest?
+
+- [x] Big Bird
+- [ ] Elmo
+- [ ] Bert
+
+#### For almost six years, Steve Burns hosted which children's show?
+
+- [ ] Square One
+- [ ] 3-2-1 Contact
+- [x] Blue's Clues
+
+#### What is the name of Dora the Exploder's monkey companion?
+
+- [x] Boots
+- [ ] Swiper
+- [ ] Diego
+
+#### What did the kids on "Reading Rainbow" say at the end of their book reviews?
+
+- [ ] Find out for yourself
+- [x] You don't have to take my word for it
+- [ ] That's what I call good reading
+
+#### Which of the following is NOT the name of one of the Teletubbies?
+
+- [ ] Dipsy
+- [ ] Laa-Laa
+- [x] Mercedes
+
+#### Complete the title of this children's show "Bear in the Big Blue..."
+
+- [ ] Car
+- [x] House
+- [ ] Sky
+
+#### The actor who provided the voice of Sonic the Hedgehog in the 90s animated series also played which sitcom character?
+
+- [ ] Chandler Bing
+- [ ] Baiki Bartokomous
+- [x] Steve Urkel
+
+#### Which kids' show featured messy "Physical Challenges" and an obstacle course at the end?
+
+- [x] Double Dare
+- [ ] Nick Arcade
+- [ ] BrainSurge
+
+#### What PBS kids' show was based on a computer game?
+
+- [ ] Legends of the Hidden Temple
+- [x] Where In The World is Carmen Sandiego?
+- [ ] The Electric Company
