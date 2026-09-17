@@ -90471,3 +90471,27 @@
 - [x] 1938
 - [ ] 2001
 - [ ] 2002
+
+#### "Sharpie" is synonymous with hat writing utensil?
+
+- [ ] Chalk
+- [x] Marker
+- [ ] Pencil
+
+#### In which country does "Ted Lasso" take place?
+
+- [ ] Spain
+- [ ] France
+- [x] England
+
+#### The majority of Canadians live south of what U.S. city?
+
+- [x] Seattle
+- [ ] San Francisco
+- [ ] New York
+
+#### Which of these bands was part of the Grunge movement?
+
+- [ ] The Who
+- [ ] Timbuk 3
+- [x] Soundgarden
