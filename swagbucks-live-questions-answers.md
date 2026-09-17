@@ -66219,7 +66219,7 @@
 - [ ] 7
 - [ ] 15
 
-#### Who wrote "The Great Gatsby"?
+#### Who wrote "The Great Gatsby"? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
 
 - [ ] William Shakespeare
 - [ ] Ernest Hemingway
@@ -90405,3 +90405,69 @@
 - [ ] Legends of the Hidden Temple
 - [x] Where In The World is Carmen Sandiego?
 - [ ] The Electric Company
+
+#### Ninjago is a line in what toy brand?
+
+- [x] LEGO
+- [ ] Barbie
+- [ ] Transformers
+
+#### In the 1970s and early 90s, the VHS completed for the home video market with what other format?
+
+- [x] Betamax
+- [ ] CDs
+- [ ] View-Master
+
+#### What civilization-changing invention was introduced around 3500 B.C.?
+
+- [ ] Slip 'N Slide
+- [ ] Palm Pilot
+- [x] The Wheel
+
+#### Paper money, Porcelain, and Gunpowder are all inventions that came out of which country?
+
+- [ ] Italy
+- [x] China
+- [ ] Canada
+
+#### In 1869, where was the U.S. transcontinental railroad completed?
+
+- [ ] Colorado
+- [ ] Arizona
+- [x] Utah
+
+#### Eli Whitney is known for what agrarian innovation?
+
+- [x] Cotton Gin
+- [ ] Wagon Wheel
+- [ ] Lawnmower
+
+#### What tool was originally invented to be used during childbirth?
+
+- [ ] Crowbar
+- [ ] Adze
+- [x] Chainsaw
+
+#### What method of detecting ship in the water was employed by Leonardo da Vinci putting a tube into water and up to his ear?
+
+- [ ] Camera
+- [x] Sonar
+- [ ] Drone
+
+#### Who or what is the Gregorian Calendar named for?
+
+- [x] A Pope
+- [ ] A King
+- [ ] A Mathematician
+
+#### Italo Marchiony was a New York street vendor who was granted what edible ice cream-related patent?
+
+- [ ] Bowl
+- [x] Cone
+- [ ] Spork
+
+#### What year did Xerox produce its first xerographic image?
+
+- [x] 1938
+- [ ] 2001
+- [ ] 2002
