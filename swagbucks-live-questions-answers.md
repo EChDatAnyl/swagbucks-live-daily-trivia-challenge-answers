@@ -90561,3 +90561,15 @@
 - [x] Grand Theft Auto VI
 - [ ] Super Breakout III
 - [ ] Super Mario Cousins XII
+
+#### The show "Deadwood" is based off a town in which U.S. State?
+
+- [ ] North Dakota
+- [x] South Dakota
+- [ ] Wyoming
+
+#### What singer had a famous song asking "What's Love Got To Do With It?"
+
+- [ ] Janis Joplin
+- [x] Tina Turner
+- [ ] Carole King
