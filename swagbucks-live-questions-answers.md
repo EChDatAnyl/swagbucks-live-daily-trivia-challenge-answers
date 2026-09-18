@@ -90495,3 +90495,69 @@
 - [ ] The Who
 - [ ] Timbuk 3
 - [x] Soundgarden
+
+#### What did the Rosetta Stone help historians do?
+
+- [x] Translate Hieroglyphics
+- [ ] Prove King Tut lived
+- [ ] Find Atlantis
+
+#### What is the term for a do-over in golf?
+
+- [ ] Birdie
+- [ ] Albatross
+- [x] Mulligan
+
+#### "Every kiss begins with Kay" is a famous slogan for what kind of retail chain?
+
+- [ ] Cosmetics
+- [x] Jewelers
+- [ ] Sporting Goods
+
+#### Truffles are closely related to what other edible item?
+
+- [x] Mushrooms
+- [ ] Broccoli
+- [ ] Carrots
+
+#### Which of the following countries is considered transcontinental?
+
+- [ ] Zaire
+- [ ] Estonia
+- [x] Indonesia
+
+#### Which Roman Emperor is believed to have tried to make his horse a Senator?
+
+- [ ] Nero
+- [x] Caligula
+- [ ] Julius Caesar
+
+#### "The Bare Necessities" and "I Wanna Be Like You" are songs from which Disney movie?
+
+- [ ] The Aristocats
+- [ ] Dumbo
+- [x] The Jungle Book
+
+#### What does the name of the game "Jenga" mean in Swahili?
+
+- [x] To Build
+- [ ] To Topple
+- [ ] To Switch
+
+#### 1904 American Olympic gymnast George Eyser won multiple medals despite what challenge?
+
+- [ ] Hook for a hand
+- [x] Wooden leg
+- [ ] Glass eye
+
+#### Which of the following artists is NOT one of the "Three B's" of classic music?
+
+- [ ] Beethoven
+- [ ] Brahams
+- [x] Beck
+
+#### In November of 2026, what highly anticipated video game sequel will finally be released?
+
+- [x] Grand Theft Auto VI
+- [ ] Super Breakout III
+- [ ] Super Mario Cousins XII
