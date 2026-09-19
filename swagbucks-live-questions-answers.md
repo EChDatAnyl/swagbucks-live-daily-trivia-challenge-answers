@@ -90573,3 +90573,9 @@
 - [ ] Janis Joplin
 - [x] Tina Turner
 - [ ] Carole King
+
+#### What kind of chips are Fritos?
+
+- [ ] Carob Chips
+- [ ] Potato Chips
+- [x] Corn Chips
