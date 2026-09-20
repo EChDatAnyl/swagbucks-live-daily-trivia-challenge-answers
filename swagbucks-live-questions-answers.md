@@ -90579,3 +90579,21 @@
 - [ ] Carob Chips
 - [ ] Potato Chips
 - [x] Corn Chips
+
+#### Billy Bob Thornton plays the grouchy Willie T. Stokes in what Christmas movie?
+
+- [ ] Silent Night, Deadly Night
+- [x] Bad Santa
+- [ ] The Night Before
+
+#### What does the police term SWAT stand for?
+
+- [x] Special Weapons and Tactics
+- [ ] Special Weapons and Armed Training
+- [ ] Strategic Weapons Against Terror
+
+#### In accounting, P&L refers to Profit & what?
+
+- [ ] Latkes
+- [ ] Lima Beans
+- [x] Loss
