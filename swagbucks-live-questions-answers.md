@@ -90597,3 +90597,15 @@
 - [ ] Latkes
 - [ ] Lima Beans
 - [x] Loss
+
+#### Which of the following vegetables often cause tears while being cut?
+
+- [ ] Carrots
+- [x] Onions
+- [ ] Parsley
+
+#### Which of the following is considered to be a common Father's Day gift?
+
+- [ ] Baby goat
+- [ ] Hovercraft
+- [x] Tie
