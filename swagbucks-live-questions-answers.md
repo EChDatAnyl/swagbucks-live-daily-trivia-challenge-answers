@@ -90609,3 +90609,21 @@
 - [ ] Baby goat
 - [ ] Hovercraft
 - [x] Tie
+
+#### If it's 5pm in Los Angeles, what time is it in Chicago?
+
+- [ ] 3:00 PM
+- [x] 7:00 PM
+- [ ] 8:00 PM
+
+#### What Danish toy is known for its furry, up-combed hair?
+
+- [ ] Glo Worm
+- [ ] Barbie
+- [x] Troll
+
+#### Which planet in our solar system is home to the Great Red Spot?
+
+- [x] Jupiter
+- [ ] Saturn
+- [ ] Venus
