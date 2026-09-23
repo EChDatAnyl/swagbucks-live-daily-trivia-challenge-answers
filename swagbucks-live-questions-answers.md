@@ -55693,12 +55693,6 @@
 - [ ] KFC
 - [x] Arby's
 
-#### What is the capital of Austria?
-
-- [x] Vienna
-- [ ] Berlin
-- [ ] Paris
-
 #### What movie featured Jim Carrey's feature film debut?
 
 - [x] All in Good Taste
@@ -90627,3 +90621,69 @@
 - [x] Jupiter
 - [ ] Saturn
 - [ ] Venus
+
+#### On his NBC talk show, Conan O'Brien had a lever that would play clips from what show when pulled?
+
+- [ ] An Italian Soap Opera
+- [x] Walker, Texas Ranger
+- [ ] Barney Miller
+
+#### "Like a good neighbor", which insurance carrier is there, according to their ads?
+
+- [ ] Allstate
+- [ ] Farmers
+- [x] State Farm
+
+#### What ingredient causes bread to rise?
+
+- [ ] Flour
+- [x] Yeast
+- [ ] Butter
+
+#### Which Polynesian island is famous for its large, mysterious statues?
+
+- [ ] Tonga
+- [ ] Fiji
+- [x] Easter Island
+
+#### In "Psycho", where is Marion Crane when Norman Bates attacks her?
+
+- [x] Shower
+- [ ] Parking Lot
+- [ ] Kitchen
+
+#### Which famous artist started in art during a bout of appendicitis?
+
+- [ ] Edgar Degas
+- [x] Henri Matisse
+- [ ] Frida Kahlo
+
+#### Lindsey Buckingham was the lead guitarist for which band?
+
+- [ ] Blondie
+- [ ] The Cars
+- [x] Fleetwood Mac
+
+#### The meme of a cartoon dog calmly drinking coffee in the middle of a fire is usually accompanied by what quote?
+
+- [x] This is Fine
+- [ ] I Like Turtles
+- [ ] Leeroy Jenkins
+
+#### "Trimalchio in West Egg" and "The High-Bouncing Lover" were alternative titles for what classic novel?
+
+- [ ] Sense & Sensibility
+- [x] The Great Gatsby
+- [ ] Wuthering Heights
+
+#### Canton, Ohio is the home to which sport's Hall of Fame?
+
+- [ ] Baseball
+- [ ] Hockey
+- [x] Football
+
+#### The series "Critical Role" centers around performers playing what game?
+
+- [x] Dungeons & Dragons
+- [ ] Tiddlywinks
+- [ ] Uno
