@@ -48981,8 +48981,8 @@
 
 #### Which of these toys takes its name from a word meaning "To Build"?
 
-- [x] Lego
-- [ ] Jenga
+- [ ] Lego
+- [x] Jenga
 - [ ] Duplo
 
 #### Complete this William Faulkner title: "The Sound and the..."
@@ -90687,3 +90687,9 @@
 - [x] Dungeons & Dragons
 - [ ] Tiddlywinks
 - [ ] Uno
+
+#### 80 feet of wire is used to make what stair-stepping, springy toy?
+
+- [ ] Hobby Horse
+- [x] Slinky
+- [ ] Playing cards
