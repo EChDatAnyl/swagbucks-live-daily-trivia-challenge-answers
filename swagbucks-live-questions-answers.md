@@ -81117,7 +81117,7 @@
 - [ ] Gorillas in the Mist
 - [ ] Bonfire of the Vanities
 
-#### Who stars in "Superbad". "Easy A", and "The Help"?
+#### Who stars in "Superbad", "Easy A", and "The Help"?
 
 - [ ] Allison Janney
 - [x] Emma Stone
@@ -90753,3 +90753,33 @@
 - [x] Marmaduke
 - [ ] Balto
 - [ ] Checkers
+
+#### Which of these plays centers around a batch of real estate leads?
+
+- [x] Glengarry Glen Ross
+- [ ] The Crucible
+- [ ] The Iceman Cometh
+
+#### In what month does the NCAA hold its championship basketball tournament?
+
+- [ ] January
+- [x] March
+- [ ] June
+
+#### What is the only animal with cube-shaped poop?
+
+- [ ] Naked Mole Rat
+- [ ] Capybara
+- [x] Wombat
+
+#### As a child, Harper Lee lived next door to what other future writer?
+
+- [ ] J.D. Salinger
+- [ ] Tom Clancy
+- [x] Truman Capote
+
+#### Who won the first ever Carol Burnett Award at Sunday's Golden Globes?
+
+- [ ] Nick Foles
+- [ ] Bugs Bunny
+- [x] Carol Burnett
