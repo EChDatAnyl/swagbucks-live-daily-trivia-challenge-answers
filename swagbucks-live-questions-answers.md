@@ -90693,3 +90693,63 @@
 - [ ] Hobby Horse
 - [x] Slinky
 - [ ] Playing cards
+
+#### In "How Much Is That Doggie In the Window", what kind of tail does the dog have?
+
+- [ ] Bristly
+- [ ] Bifurcated
+- [x] Waggly
+
+#### What breed of dog is mostly closely associated with firefighting?
+
+- [x] Dalmatian
+- [ ] Corgi
+- [ ] St. Bernard
+
+#### Which breed of dog is typically used y law enforcement as a tracking dog?
+
+- [x] Bloodhound
+- [ ] Shih Tzu
+- [ ] Havanese
+
+#### How are dogs commonly believed to kiss?
+
+- [x] With their tongues
+- [ ] With their eyes
+- [ ] With their tails
+
+#### What breed is the Guinness record holder for heaviest dog?
+
+- [ ] Newfoundland
+- [ ] Irish Wolfhound
+- [x] Old English Mastiff
+
+#### Which of these phrases is canine in origin?
+
+- [x] Barking up the wrong tree
+- [ ] The cat's pajamas
+- [ ] Drinking like a fish
+
+#### Which of these movie dogs is a German Shepherd?
+
+- [x] Rin Tin Tin
+- [ ] Benji
+- [ ] Lassie
+
+#### The world record holder for smallest living dog is what breed?
+
+- [ ] Brussels Griffon
+- [x] Chihuahua
+- [ ] Pug
+
+#### Which of these cartoon dogs was famous for traveling through time with his boy Sherman?
+
+- [ ] Underdog
+- [x] Mr. Peabody
+- [ ] Droopy
+
+#### Which of these pop culture dogs is known mainly from comic strips?
+
+- [x] Marmaduke
+- [ ] Balto
+- [ ] Checkers
