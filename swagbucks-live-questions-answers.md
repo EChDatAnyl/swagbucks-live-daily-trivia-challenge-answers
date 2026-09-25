@@ -90783,3 +90783,63 @@
 - [ ] Nick Foles
 - [ ] Bugs Bunny
 - [x] Carol Burnett
+
+#### In Bobby Fischer & Boris Spassky's 1972 "Match of the Century", what game were they playing?
+
+- [ ] Checkers
+- [x] Chess
+- [ ] Cribbage
+
+#### Neil Peart was the drummer for what band?
+
+- [ ] Styx
+- [ ] Toto
+- [x] Rush
+
+#### What fast food chain is known for their small, square sliders?
+
+- [x] White Castle
+- [ ] Burger King
+- [ ] Whataburger
+
+#### The fear of swine flu led to the creation of which mobile game?
+
+- [ ] Plants vs Zombies
+- [x] Angry Birds
+- [ ] Pigs in Clover
+
+#### Which city is home to the barnstorming baseball team that created "Banana Ball"?
+
+- [x] Savannah, GA
+- [ ] Indianapolis, IN
+- [ ] Raleigh, NC
+
+#### What is the name of Millie Bobby Brown's character on "Stranger Things"?
+
+- [ ] Six
+- [x] Eleven
+- [ ] Eighteen
+
+#### The Antikythera mechanism was discovered by sponge divers in 1900. What kind of device is it?
+
+- [ ] Harvester
+- [ ] Stove
+- [x] Computer
+
+#### The band Blackjack had which future star as their lead singer?
+
+- [x] Michael Bolton
+- [ ] Keith Urban
+- [ ] Fatboy Slim
+
+#### What painting method uses tiny, distinct dots of color to form an image?
+
+- [ ] Cubism
+- [x] Pointillism
+- [ ] Blending
+
+#### Ettore Boiardi founded which food brand?
+
+- [ ] Betty Crocker
+- [ ] Chiquita Bananas
+- [x] Chef Boyardee
