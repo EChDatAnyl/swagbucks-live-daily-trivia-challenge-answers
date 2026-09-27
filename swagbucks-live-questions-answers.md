@@ -90843,3 +90843,21 @@
 - [ ] Betty Crocker
 - [ ] Chiquita Bananas
 - [x] Chef Boyardee
+
+#### What American sitcom focused on the relationship of Sam Malone and Diane Chambers?
+
+- [ ] One Day At A Time
+- [x] Cheers
+- [ ] Mad About You
+
+#### Where on your body do you grow a mustache?
+
+- [ ] In a garden
+- [x] On your face
+- [ ] In outer space
+
+#### What does the WD in WD-40 stand for?
+
+- [ ] Wire Dispenser
+- [x] Water Displacement
+- [ ] Williams-Davis
