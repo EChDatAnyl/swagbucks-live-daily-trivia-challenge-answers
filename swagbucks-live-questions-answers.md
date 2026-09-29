@@ -90963,3 +90963,27 @@
 - [ ] Herbal
 - [x] Sexual
 - [ ] Meditational
+
+#### In the world of Harry Potter, what animal delivers mail to wizards and witches?
+
+- [x] Owl
+- [ ] Dog
+- [ ] Horse
+
+#### Someone who's similar to a parent is said to be a chip off the old what?
+
+- [ ] Log
+- [x] Block
+- [ ] Cookie
+
+#### Which of these items was NOT specifically taxed at some point in British history?
+
+- [ ] Hats
+- [x] Oxygen
+- [ ] Fireplaces
+
+#### What French word does Miss Piggy use when referring to herself in the first person?
+
+- [x] Moi
+- [ ] Croissant
+- [ ] Bonjour
