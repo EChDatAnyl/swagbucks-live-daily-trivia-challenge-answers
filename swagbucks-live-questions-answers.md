@@ -90861,3 +90861,105 @@
 - [ ] Wire Dispenser
 - [x] Water Displacement
 - [ ] Williams-Davis
+
+#### In the original Jurassic Park film, which dinosaur figures out how to open a door?
+
+- [ ] Stegosaurus
+- [ ] T-Rex
+- [x] Velociraptor
+
+#### Which of these European countries is landlocked?
+
+- [ ] Italy
+- [ ] Greece
+- [x] Switzerland
+
+#### Why are tourists in Brazil forbidden to visit Ilha da Queimada Grande?
+
+- [x] Venomous snakes
+- [ ] Sinkholes
+- [ ] Preservation
+
+#### The man who voices Optimus Prime also voiced which iconic Disney character?
+
+- [x] Eeyore
+- [ ] Tigger
+- [ ] Pluto
+
+#### Which of the following movies is a sequel to "Minions"?
+
+- [ ] The Last Wish
+- [ ] Wakanda Forever
+- [x] Rise of Gru
+
+#### Which version of Coca Cola has no sugar?
+
+- [ ] Cherry Coke
+- [x] Coke Zero
+- [ ] New Coke
+
+#### Tim Allen starred on what TV show?
+
+- [ ] Modern Family
+- [x] Home Improvement
+- [ ] Batman
+
+#### What does the G in "EGOT Winner" stand for?
+
+- [ ] Golden Harp
+- [x] Grammy
+- [ ] Groucho
+
+#### Which of the following devices is a VR headset?
+
+- [x] Oculus Rift
+- [ ] Wii Fit
+- [ ] Sega Game Gear
+
+#### What is the square root of 25?
+
+- [ ] 6
+- [ ] 4
+- [x] 5
+
+#### Hawaii's Dole Plantation is famous for producing which fruit?
+
+- [ ] Oranges
+- [x] Pineapples
+- [ ] Cranberries
+
+#### Paris is the capital of which European nation?
+
+- [ ] Spin
+- [ ] Italy
+- [x] France
+
+#### MLB pitcher Roger Clemens went by what nickname?
+
+- [x] The Rocket
+- [ ] The Babe
+- [ ] The Sky Hey Kid
+
+#### Which of the following is NOT the name of one of Barbie's sisters?
+
+- [ ] Skipper
+- [ ] Chelsea
+- [x] Marie
+
+#### Which of these terms refers to something being common?
+
+- [ ] Cost an arm and a leg
+- [x] A dime a dozen
+- [ ] Beat around the bush
+
+#### In the original "Godzilla", which city does he destroy?
+
+- [x] Tokyo
+- [ ] New York
+- [ ] San Francisco
+
+#### According to his 1982 song, what kind of healing did Marvin Gaye need?
+
+- [ ] Herbal
+- [x] Sexual
+- [ ] Meditational
