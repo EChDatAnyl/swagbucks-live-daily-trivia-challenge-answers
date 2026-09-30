@@ -90987,3 +90987,63 @@
 - [x] Moi
 - [ ] Croissant
 - [ ] Bonjour
+
+#### Which coffee brand claims to be "Good to the last drop"?
+
+- [x] Maxwell House
+- [ ] Cafe Bustelo
+- [ ] Dunkin'
+
+#### Which of the following coffee drinks is espresso-based?
+
+- [ ] Decaf
+- [x] Cappuccino
+- [ ] Liberica
+
+#### Which of these is NOT a common method for making coffee?
+
+- [ ] Drip
+- [ ] French Press
+- [x] Air Fry
+
+#### Where was Starbucks Coffee founded?
+
+- [x] Seattle
+- [ ] Cleveland
+- [ ] Tampa
+
+#### Coffee is sometimes called "java". What is that nickname from?
+
+- [ ] An explorer
+- [ ] A bean
+- [x] An island
+
+#### A flat white always contains which ingredient?
+
+- [x] Milk
+- [ ] Corn
+- [ ] Diamonds
+
+#### In which NBC sitcom did the characters regularly convene in a coffee shop?
+
+- [ ] The Office
+- [ ] Superstore
+- [x] Friends
+
+#### Which country consumes the most coffee per capita in the world?
+
+- [ ] The United States
+- [x] Finland
+- [ ] Brazil
+
+#### In "Twin Peaks", which FBI agent enjoyed a "Damn good cup of coffee" with his cherry pie?
+
+- [x] Dale Cooper
+- [ ] Fox Mulder
+- [ ] Clarice Starling
+
+#### Which Asgardian Marvel hero smashed his mug after drinking coffee in his movie, yelling "MORE" to the server?
+
+- [ ] Spider-Man
+- [x] Thor
+- [ ] Captain America
