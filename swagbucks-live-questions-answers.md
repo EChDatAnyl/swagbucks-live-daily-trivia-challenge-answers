@@ -68763,7 +68763,7 @@
 - [x] Bussin
 - [ ] Basic
 
-#### Which of the following items is NOT part of traditionally Chex Mix?
+#### Which of the following items is NOT part of traditional Chex Mix?
 
 - [ ] Chex
 - [ ] Ryle Chips
@@ -91047,3 +91047,69 @@
 - [ ] Spider-Man
 - [x] Thor
 - [ ] Captain America
+
+#### Who starred in the 2021 version of "Space Jam"?
+
+- [x] LeBron James
+- [ ] Damian Lillard
+- [ ] Joel Embiid
+
+#### Which of the following cartoon characters is a cat?
+
+- [x] Tom
+- [ ] Jerry
+- [ ] Speedy Gonzales
+
+#### Which cartoon character has extendable arms and a helicopter in his hat?
+
+- [ ] Matt Trakker
+- [ ] Max Ray
+- [x] Inspector Gadget
+
+#### Hanna-Barbera Snagglepuss always exits in which direction?
+
+- [x] Stage Left
+- [ ] Upstairs
+- [ ] Out The Back
+
+#### Carnivorous Vulgaris was used as the proper Latin name for which famous cartoon character?
+
+- [ ] The Pink Panther
+- [x] Wile E. Coyote
+- [ ] Odie
+
+#### What is the name of Popeye's enemy?
+
+- [ ] Poopdeck Pappy
+- [ ] Swee'Pea
+- [x] Bluto
+
+#### The actor who played Nigel Thornberry in "The Wild Thornberrys" also played which character on the big screen?
+
+- [x] Dr. Frank-N-Furter
+- [ ] Crocodile Dundee
+- [ ] Snidely Whiplash
+
+#### Where does "Family Guy" take place?
+
+- [ ] Springfield
+- [x] Quahog
+- [ ] New York
+
+#### Where on the Warner Bros lot are the Animaniacs kept?
+
+- [ ] Props Department
+- [ ] Archive
+- [x] Water Tower
+
+#### What does Bugs Bunny constantly chomp on?
+
+- [x] Carrots
+- [ ] Celery Stalks
+- [ ] Onions
+
+#### What is the name of Mickey Mouse's girlfriend?
+
+- [ ] Michaela
+- [x] Minnie
+- [ ] Maisy
