@@ -55069,12 +55069,6 @@
 - [ ] A balloon
 - [ ] Steam
 
-#### What band released the albums "The Wall" and "Dark Side of the Moon"?
-
-- [ ] Yes
-- [x] Pink Floy
-- [ ] Steely Dan
-
 #### "Spoken From he Heart" was a book by which former First Lady?
 
 - [ ] Martha Washington
@@ -91113,3 +91107,15 @@
 - [ ] Michaela
 - [x] Minnie
 - [ ] Maisy
+
+#### Who recorded and released the album "Dark Side of the Moon"?
+
+- [x] Pink Floyd
+- [ ] The Doobie Brothers
+- [ ] Steely Dan
+
+#### "Bye Bye Bye" and "It's Gonna Be Me" were hits for what boy band?
+
+- [ ] New Kids on The Block
+- [x] NSYNC
+- [ ] Backstreet Boys
