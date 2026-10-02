@@ -91191,3 +91191,21 @@
 - [x] Dungeons & Dragons
 - [ ] Ticket to Ride
 - [ ] Operation
+
+#### What unit of measurement is the alternative name for a snow leopard?
+
+- [ ] Inch
+- [ ] Liter
+- [x] Ounce
+
+#### Which of these bands is a heavy metal band?
+
+- [ ] U2
+- [ ] BTS
+- [x] Iron Maiden
+
+#### What did MTV originally stand for?
+
+- [x] Music Television
+- [ ] Mouse Television
+- [ ] Muted Television
