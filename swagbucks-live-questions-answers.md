@@ -91119,3 +91119,75 @@
 - [ ] New Kids on The Block
 - [x] NSYNC
 - [ ] Backstreet Boys
+
+#### What novel was originally credited as being written "By A Lady"?
+
+- [ ] Wuthering Heights
+- [ ] Frankenstein
+- [x] Sense & Sensibility
+
+#### What type of syrup is typically used as a topping on pancakes?
+
+- [ ] Soda Syrup
+- [x] Maple Syrup
+- [ ] Cough Syrup
+
+#### Andy Warhol is known for his work in which art movement?
+
+- [x] Pop Art
+- [ ] Baroque Art
+- [ ] Impressionism
+
+#### Alaskan King and Dungeness are varieties of what seafood?
+
+- [ ] Calamari
+- [x] Crab
+- [ ] Shrimp
+
+#### What country is home to the Dingo Fence?
+
+- [x] Australia
+- [ ] Belgium
+- [ ] French Polynesia
+
+#### Shaquille O'Neal attempted 22 three-pointers in his entire career. How many did he make?
+
+- [ ] Zero
+- [x] One
+- [ ] Five
+
+#### Which of the following songs has morse code hidden in it?
+
+- [x] "YYZ" by Rush
+- [ ] "Empty Spaces" by Pink Floyd
+- [ ] "I Remember Larry" by "Weird" Al Yankovic
+
+#### The Disney+ series "Andor" and "The Mandalorian" are both set in which universe?
+
+- [ ] Pixar
+- [ ] Marvel
+- [x] Star Wars
+
+#### Who is the main character in "Catcher in the Rye"?
+
+- [ ] Stradlater
+- [x] Holden Caulfield
+- [ ] Sally Hayes
+
+#### Who was the first American President born a U.S. citizen?
+
+- [x] Martin Van Buren
+- [ ] John Quincy Adams
+- [ ] William Henry Harrison
+
+#### Complete this Led Zeppelin song title: "Stairway to..."
+
+- [ ] The Balcony
+- [ ] Nowhere
+- [x] Heaven
+
+#### Which of the following games is a TTRPG?
+
+- [x] Dungeons & Dragons
+- [ ] Ticket to Ride
+- [ ] Operation
