@@ -91209,3 +91209,15 @@
 - [x] Music Television
 - [ ] Mouse Television
 - [ ] Muted Television
+
+#### What successful board game was once rejected by Milton Bradley for being a "lot of plastic junk"?
+
+- [ ] Hungry, Hungry Hippos
+- [x] Mouse Trap
+- [ ] Operation
+
+#### What serial killer terrorized 19th century London?
+
+- [ ] Hannibal Lecter
+- [x] Jack the Ripper
+- [ ] The Scranton Strangler
