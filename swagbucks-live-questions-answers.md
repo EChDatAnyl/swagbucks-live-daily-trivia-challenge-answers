@@ -81773,8 +81773,8 @@
 
 #### What is the name of Quick Draw McGraw's alter ego?
 
-- [ ] El Kabong
-- [x] El Bonkero
+- [x] El Kabong
+- [ ] El Bonkero
 - [ ] Baba Looey
 
 #### What is the name of the town where the Flintstones live?
@@ -91239,3 +91239,9 @@
 - [x] First base
 - [ ] Centerfield
 - [ ] Left Field
+
+#### Which of these would you most likely order at a Chinese restaurant?
+
+- [x] Wonton Soup
+- [ ] Caesar Salad
+- [ ] French Fries
