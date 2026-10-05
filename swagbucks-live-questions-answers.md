@@ -18138,7 +18138,7 @@
 - [ ] Candy
 - [ ] Solar energy
 
-#### In "Back to the Future Part II", which co-workers gets future Marty fired from his job?
+#### In "Back to the Future Part II", which co-worker gets future Marty fired from his job?
 
 - [ ] Griff
 - [ ] Whitey
@@ -91221,3 +91221,21 @@
 - [ ] Hannibal Lecter
 - [x] Jack the Ripper
 - [ ] The Scranton Strangler
+
+#### What is the term for the temperature at which a liquid turns into a vapor?
+
+- [ ] Absolute Zero
+- [ ] Room Temperature
+- [x] Boiling Point
+
+#### A series of Allstate commercials uses actor Dean Winter as the embodiment of what?
+
+- [x] Mayhem
+- [ ] Joy
+- [ ] Hunger
+
+#### Which of these positions is considered an infielder?
+
+- [x] First base
+- [ ] Centerfield
+- [ ] Left Field
