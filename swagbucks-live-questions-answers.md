@@ -91245,3 +91245,69 @@
 - [x] Wonton Soup
 - [ ] Caesar Salad
 - [ ] French Fries
+
+#### In which country did the potato originate?
+
+- [ ] Russia
+- [ ] Ireland
+- [x] Peru
+
+#### Who created Saturday Night Live?
+
+- [x] Lorne Michaels
+- [ ] Dick Martin
+- [ ] Harold Ramis
+
+#### Which of the following people was NOT a member of Monty Python's Flying Circus?
+
+- [ ] John Cleese
+- [ ] Eric Idle
+- [x] Carol Burnett
+
+#### What Comedy Central show featured the "East-West Bowl" sketch with names like A-A-Ron and Hingle McCringleberry?
+
+- [ ] Key & Peele
+- [ ] Limboland
+- [ ] The Vacant Lot
+
+#### At the end of her shows, what would Carol Burnett do as a silent hello to the grandmother who raised her?
+
+- [ ] Yawn
+- [x] Tug her ear
+- [ ] Do the Tarzan yell
+
+#### Martin Short first brought Ed Grimley to TV on which iconic sketch show?
+
+- [ ] Let Loose Live
+- [ ] Comedy Inc.
+- [x] SCTV
+
+#### What was the name of Nickelodeon's all-kid sketch show?
+
+- [x] All That
+- [ ] Fancy Boy
+- [ ] Something Stupid
+
+#### On MTV's "The State", what was Doug's catchphrase?
+
+- [ ] Well, isn't that special
+- [x] I'm outta here
+- [ ] That was awesome
+
+#### The Wayans Family created and starred in which TV sketch show, which helped launch Jim Carrey's career?
+
+- [x] In Living Color
+- [ ] The Girls' Room
+- [ ] Not Necessarily the News
+
+#### Who played the cowbell player in SNL's iconic "More Cowbell" sketch?
+
+- [ ] Dan Aykroyd
+- [ ] Eddie Murphy
+- [x] Will Ferrell
+
+#### What TV sketch show based on a magazine ran for 14 seasons?
+
+- [x] Mad TV
+- [ ] The Fast Show
+- [ ] Celebrity Soup
