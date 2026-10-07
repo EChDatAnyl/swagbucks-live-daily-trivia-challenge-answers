@@ -91317,3 +91317,63 @@
 - [ ] New York
 - [ ] Los Angeles
 - [x] Seattle
+
+#### Which band wrote and recorded the songs "Roxanne", "Every Breath You Take" and "Message in a Bottle"?
+
+- [ ] The Clash
+- [ ] The Jam
+- [x] The Police
+
+#### In 1773, what U.S. city held a "Tea Party" in its harbor as an act of defiance against the British?
+
+- [x] Boston
+- [ ] Philadelphia
+- [ ] New York
+
+#### The music of ABBA features heavily in which Broadway musical?
+
+- [ ] Chicago
+- [x] Mamma Mia!
+- [ ] The Book of Mormon
+
+#### Which of the following is NOT an ingredient in a traditional Bloody Mary?
+
+- [x] Whole Milk
+- [ ] Tomato Juice
+- [ ] Vodka
+
+#### Which retro toys "wobble but they don't fall down"?
+
+- [ ] Duplo
+- [ ] Fisher Price Little People
+- [x] Weebles
+
+#### What classic monster movie ends at the Empire State Building?
+
+- [ ] Godzilla
+- [ ] The Mummy
+- [x] King Kong
+
+#### What traveling baseball club has created their own, entertainment-based version of the game?
+
+- [ ] Montreal Expos
+- [x] Savannah Bananas
+- [ ] New York Mets
+
+#### What was the first food planted in space?
+
+- [x] Spring Onions
+- [ ] Red Lettuce
+- [ ] Potatoes
+
+#### Which of the following board games has a "Get Out Of Jail Free" card?
+
+- [ ] Risk
+- [x] Monopoly
+- [ ] Sorry!
+
+#### Who won Super Bowl LIX on February 9th, 2025?
+
+- [ ] Kansas City Chiefs
+- [ ] Washington Commanders
+- [x] Philadelphia Eagles
