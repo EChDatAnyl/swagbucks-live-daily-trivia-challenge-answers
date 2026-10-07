@@ -91377,3 +91377,9 @@
 - [ ] Kansas City Chiefs
 - [ ] Washington Commanders
 - [x] Philadelphia Eagles
+
+#### What was the name of the first monkey sent into space?
+
+- [x] Albert
+- [ ] Homer
+- [ ] Jennifer
