@@ -91383,3 +91383,63 @@
 - [x] Albert
 - [ ] Homer
 - [ ] Jennifer
+
+#### The "barre" is mainly used in the training of what kind of dance?
+
+- [x] Ballet
+- [ ] Tap
+- [ ] Jazz
+
+#### Twinkies, Ding Dongs, Ho Hos, and Sno Balls are all products from which brand?
+
+- [ ] Little Debbie
+- [x] Hostess
+- [ ] Tastykake
+
+#### Amsterdam is the capital of which country?
+
+- [ ] France
+- [ ] Morocco
+- [x] The Netherlands
+
+#### What is the name of Stretch Armstrong's main villain?
+
+- [x] Vac-Man
+- [ ] Stretch Lord
+- [ ] Lizardo
+
+#### The NBA logo is believed to be a silhouette of which legendary player?
+
+- [ ] Ronald Reagan
+- [x] Jerry West
+- [ ] Batman
+
+#### Who played the title character in Quentin Tarantino's "Django Unchained"?
+
+- [ ] Denzel Washington
+- [ ] Michael B. Jordan
+- [x] Jamie Foxx
+
+#### On "How I Met Your Mother", which character is the future father?
+
+- [x] Ted
+- [ ] Barney
+- [ ] Marshall
+
+#### When La La Land was incorrectly announced as Best Picture winner at the Oscars, who was presenting?
+
+- [ ] John Travolta and Goldie Hawn
+- [ ] Brad Pitt and George Clooney
+- [x] Faye Dunaaway and Warren Beatty
+
+#### Carrie Underwood rose to fame on which reality show?
+
+- [ ] Who Wants to Marry a Multi-Millionaire?
+- [x] American Idol
+- [ ] Survivor
+
+#### Which of the following is NOT a weapon in the standard edition of Clue?
+
+- [ ] Revolver
+- [ ] Rope
+- [x] Ring Doorbell
