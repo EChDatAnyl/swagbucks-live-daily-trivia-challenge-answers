@@ -64431,12 +64431,6 @@
 - [ ] Driver's License
 - [x] Wings
 
-#### What computer company's name completes this ad slogan: "Dude, you're getting a..."
-
-- [x] Dell
-- [ ] Texas Instruments
-- [ ] Hewlett Packard
-
 #### Which of the following was NOT invented in the 60's?
 
 - [ ] The mouse
@@ -68397,7 +68391,7 @@
 - [ ] Earrings
 - [ ] Fruit scent
 
-#### Complete this famous insurance slogan: "Like A Good Neightbor..."
+#### Complete this famous insurance slogan: "Like A Good Neighbor..."
 
 - [ ] We'll leave the light on for you
 - [x] State Farm is there
@@ -91443,3 +91437,21 @@
 - [ ] Revolver
 - [ ] Rope
 - [x] Ring Doorbell
+
+#### Which country music star was briefly married to Renee Zellweger?
+
+- [ ] Johnny Cash
+- [x] Kenny Chesney
+- [ ] Willie Nelson
+
+#### The Doozers are constantly having their buildings eaten by who?
+
+- [x] The Fraggles
+- [ ] Marjorie the Trash Heap
+- [ ] Sprocket the Dog
+
+#### What was the name of FDRs strategy for lifting America out of the Great Depression?
+
+- [ ] The Old Deal
+- [ ] The Middle-Aged Deal
+- [x] The New Deal
