@@ -72015,7 +72015,7 @@
 - [ ] Mountain Dew
 - [x] Sprite
 
-#### "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us, and the wrold will be as one."
+#### "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us, and the world will be as one."
 
 - [ ] Beautiful boy
 - [x] Imagine
@@ -91455,3 +91455,93 @@
 - [ ] The Old Deal
 - [ ] The Middle-Aged Deal
 - [x] The New Deal
+
+#### O say can you see, by the dawn's early light...
+
+- [ ] You're A Grand Old Flag
+- [ ] Glory Days
+- [x] The Star-Spangled Banner
+
+#### You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us...
+
+- [ ] Silly Love Songs
+- [x] Imagine
+- [ ] All Things Must Pass
+
+#### Tommy used to work on the docks, union's been on strike, he's down on his luck, it's tough, so tough...
+
+- [x] Living on a Prayer
+- [ ] Jolene
+- [ ] Baby's Got Back
+
+#### I see friends shaking hands, "How do you do?" They're really saying, "I love you"...
+
+- [ ] Wonderful Tonight
+- [ ] Some Kind of Wonderful
+- [x] What a Wonderful World
+
+#### If you want my future, forget my past; if you wanna get with me, better make it fast...
+
+- [ ] Tubthumping
+- [ ] I Don't Want To Be
+- [x] Wannabe
+
+#### Her lips are devil-red and her skin's the color mocha; She will wear you out...
+
+- [x] Livin' La Vida Loca
+- [ ] Ma Vie En Rose
+- [ ] Viva La Vida
+
+#### Here is the dome, back with the bass; The jam is live in effect and I don't waste time, off the mic with a dope rhyme...
+
+- [ ] Fight the Power
+- [x] Gonna Make You Sweat (Everybody Dance Now)
+- [ ] Superbass
+
+#### She was supposed to buy your shorty Tyco with your money; She went to the doctor, got lipo with your money...
+
+- [ ] Get Rich or Die Trying
+- [ ] Get Money
+- [x] Gold Digger
+
+#### Hello darkness my old friend, I've come to talk with you again...
+
+- [x] The Sound of Silence
+- [ ] Scarborough Fair
+- [ ] Feelin' Groovy
+
+#### If you need me, call me, no matter where you are, no matter how far, don't worry, baby...
+
+- [ ] Sexual Healing
+- [ ] What's Going On
+- [x] Ain't No Mountain High Enough
+
+#### What year does Y2K refer to?
+
+- [ ] 1 B.C.
+- [x] 2000
+- [ ] 1776
+
+#### Which of these auto companies did NOT have a Beach Boys song named after one of their cars?
+
+- [ ] Honda
+- [ ] Chevrolet
+- [x] Chrysler
+
+#### In which State was the current United States flag designed?
+
+- [ ] New York
+- [ ] Pennsylvania
+- [x] Ohio
+
+#### John Williams provided the score for which Sci-Fi classic?
+
+- [ ] 2001: A Space Odyssey
+- [x] Star Wars
+- [ ] Star Trek
+
+#### Which of these planets is closest to the Earth?
+
+- [x] Venus
+- [ ] Jupiter
+- [ ] Saturn
