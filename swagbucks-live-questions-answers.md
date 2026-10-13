@@ -91551,3 +91551,15 @@
 - [ ] Ectoplasmic
 - [ ] Excellent
 - [x] Egotistical
+
+#### Which of the following is NOT one of the ingredients in a Reese's Take 5 bar?
+
+- [ ] Chocolate
+- [x] Ham
+- [ ] Pretzel
+
+#### Which of the following is a type of clarified butter?
+
+- [x] Ghee
+- [ ] Gee
+- [ ] Glee
