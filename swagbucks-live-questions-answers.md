@@ -91545,3 +91545,9 @@
 - [x] Venus
 - [ ] Jupiter
 - [ ] Saturn
+
+#### What word would you use to describe someone who's full of themselves?
+
+- [ ] Ectoplasmic
+- [ ] Excellent
+- [x] Egotistical
