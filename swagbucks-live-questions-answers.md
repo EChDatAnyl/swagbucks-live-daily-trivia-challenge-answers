@@ -91563,3 +91563,99 @@
 - [x] Ghee
 - [ ] Gee
 - [ ] Glee
+
+#### What candy bar is traditionally packaged as four "fingers" that can be broken apart and shared?
+
+- [x] KitKat
+- [ ] Butterfinger
+- [ ] Nestle Crunch
+
+#### Which of the following statistics doesn't count toward a triple double in basketball?
+
+- [ ] Points
+- [ ] Rebounds
+- [x] Minutes
+
+#### The orange mascot Gritty represents which NHL team?
+
+- [ ] Las Vegas 
+- [ ] Florida Panthers
+- [x] Philadelphia Flyers
+
+#### Which of the following people do NOT appear in Grant Wood's "American Gothic"?
+
+- [ ] His sister
+- [x] His father
+- [ ] His dentist
+
+#### McDonald's replaced Speedee as this mascot because of what other brand's mascot?
+
+- [ ] Burger King
+- [ ] Texaco
+- [x] Aika Seltzer
+
+#### Actor and makeup artist Lon Chaney, Jr was known by what nickname?
+
+- [ ] The Man of Ten Faces
+- [x] The Man of a Thousand Faces
+- [ ] The Man of Zero Faces
+
+#### What is  the term for giving 10% of your income to a charity or religious organization?
+
+- [x] Tithing
+- [ ] Conregating
+- [ ] Teething
+
+#### Which of the following games came pre-installed with Windows from 1992 until 2012?
+
+- [ ] Gears of War
+- [x] Minesweeper
+- [ ] NBA 2k26
+
+#### "Hangry" is a portmanteau of "Angry" and what other word?
+
+- [ ] Hurried
+- [ ] Humid
+- [x] Hungry
+
+#### Which writer created James Bond?
+
+- [x] Ian Fleming
+- [ ] Sir Arthur Conan Doyle
+- [ ] Roald Dahl
+
+#### What soft drink was originally invented as a mixer to accompany alcohol?
+
+- [ ] Pepsi
+- [x] Mountain Dew
+- [ ] 7 Up
+
+#### Roger Bannister was the first runner to accomplish what feat?
+
+- [x] Break the 4-minute mile
+- [ ] Jump a hurdle
+- [ ] Run backwards
+
+#### Blake Lively's husband plays which superhero?
+
+- [ ] Superman
+- [ ] Wolverine
+- [x] Deadpool
+
+#### Roughly what percentage of snow is made of air?
+
+- [ ] 10
+- [ ] 50
+- [x] 90
+
+#### Which of the following films won Meryl Streep an Oscar?
+
+- [ ] Ricki and the Flash
+- [x] Kramer vs. Kramer
+- [ ] She-Devil
+
+#### Complete this R.E.M. song title: Losing My...
+
+- [x] Religion
+- [ ] Car Keys
+- [ ] Prop Bet
