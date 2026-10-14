@@ -91659,3 +91659,33 @@
 - [x] Religion
 - [ ] Car Keys
 - [ ] Prop Bet
+
+#### Post break-up, which Beatle was the first to simultaneously top the singles and album charts?
+
+- [ ] Paul
+- [x] George
+- [ ] John
+
+#### What do you commonly use a straw for?
+
+- [x] Drinking
+- [ ] Navigation
+- [ ] Dry Cleaning
+
+#### What country is home to The Museum Of Broken Relationships?
+
+- [ ] Japan
+- [ ] Germany
+- [x] Croatia
+
+#### In 1983, riots broke out over what holiday toy?
+
+- [ ] Transformers
+- [x] Cabbage Patch Kids
+- [ ] Atari 5200
+
+#### According to the Smart Canine and Dog Digest, what is currently the most expensive dog breed?
+
+- [x] Lowchen
+- [ ] Samoyed
+- [ ] Tibetan Mastiff
