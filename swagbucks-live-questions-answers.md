@@ -25206,7 +25206,7 @@
 - [x] Toys "R" Us
 - [ ] Babies "R" Us
 
-#### "After The Final Rose" is the after show for what reality competition?
+#### "After The Final Rose" is the aftershow for what reality competition?
 
 - [ ] Survivor
 - [ ] Road Rules
@@ -60159,7 +60159,7 @@
 - [ ] 21
 - [x] 23
 
-#### "After the Final Rose is the reunion special for which reality series?
+#### "After the Final Rose" is the reunion special for which reality series?
 
 - [ ] Survivor
 - [x] The Bachelor
@@ -87694,12 +87694,6 @@
 - [ ] Truths
 - [x] Appeals
 
-#### What is the name of Superman's home planet?
-
-- [ ] Candor
-- [ ] Gotham
-- [x] Krypton
-
 #### Which of the following heroes got their powers from a radioactive bite?
 
 - [ ] Captain Marvel
@@ -91689,3 +91683,123 @@
 - [x] Lowchen
 - [ ] Samoyed
 - [ ] Tibetan Mastiff
+
+#### Which of these candies has a hold in the middle?
+
+- [ ] Jolly Ranchers
+- [x] Life Savers
+- [ ] Tic Tac
+
+#### As of 2024 how many people have been President of the United States?
+
+- [ ] 103
+- [ ] 60
+- [x] 45
+
+#### What is the name of Superman's home planet? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [x] Krypton
+- [ ] Mars
+- [ ] Earth-616
+
+#### Since 2022, Denmark has shared a border with which unlikely country?
+
+- [ ] Australia
+- [x] Canada
+- [ ] Italy
+
+#### In a viral photo, people debated whether what item of clothing was blue & black or gold & white?
+
+- [x] Dress
+- [ ] Shoe
+- [ ] Beret
+
+#### What was Play-Doh originally created to do?
+
+- [ ] Copy print
+- [ ] Dental molds
+- [x] Clean wallpaper
+
+#### Michael Jordan and LeBron James both starred in versions of which sports film?
+
+- [x] Space Jam
+- [ ] The Longest Yard
+- [ ] Miracle
+
+#### What music legend wrote the State Farm jingle?
+
+- [ ] Neil Diamond
+- [x] Barry Manilow
+- [ ] Dolly Parton
+
+#### Which sport begins games with a kickoff?
+
+- [ ] Basketball
+- [ ] Baseball
+- [x] American Football
+
+#### What card game is designed to be played by just one person?
+
+- [ ] Poker
+- [x] Solitaire
+- [ ] Blackjack
+
+#### "Expect more. Pay less" is the slogan for which retail chain?
+
+- [x] Target
+- [ ] Prada
+- [ ] Saks Fifth Avenue
+
+#### Absolut is known for which alcoholic beverage?
+
+- [ ] Whiskey
+- [ ] Champagne
+- [x] Vodka
+
+#### Hanoi is the capital of which Asian country?
+
+- [ ] Thailand
+- [x] Vietnam
+- [ ] Nepal
+
+#### Which State's population is roughly equal to Canada's?
+
+- [x] California
+- [ ] Texas
+- [ ] New York
+
+#### The proceeds from which book's sales went directly to a London children's hospital?
+
+- [ ] Mary Poppins
+- [ ] Winnie The Pooh
+- [x] Peter Pan
+
+#### Which of the following is a card game?
+
+- [ ] Othello
+- [ ] Trouble
+- [x] Old Maid
+
+#### The kitchen set from the sitcom "It Takes Two" became an iconic set for which other sitcom?
+
+- [x] The Golden Girls
+- [ ] The Brady Bunch
+- [ ] Webster
+
+#### In May of 1985, whose voice was declared a Natural Resource by the State of Michigan? 
+
+- [x] Aretha Franklin
+- [ ] Madonna
+- [ ] Stevie Wonder
+
+#### In "Everybody Loves Raymond", what does Raymond do for a living?
+
+- [ ] Plumber
+- [x] Sportswriter
+- [ ] Teacher
+
+#### Pet Sounds was a seminal album for which music group?
+
+- [ ] The Byrds
+- [x] The Beach Boys
+- [ ] The Turtles
