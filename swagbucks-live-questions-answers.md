@@ -91803,3 +91803,27 @@
 - [ ] The Byrds
 - [x] The Beach Boys
 - [ ] The Turtles
+
+#### In which sport can you be called for a Double Dribble?
+
+- [x] Basketball
+- [ ] Softball
+- [ ] Dodgeball
+
+#### "Sweet Caroline" is a song by which artist?
+
+- [ ] Cab Calloway
+- [ ] Dee Snyder
+- [x] Neil Diamond
+
+#### Complete this Doc Brown quote: "Where we're going, we don't need..."
+
+- [ ] No education
+- [ ] Mind control
+- [x] Roads
+
+#### Machiaelli said"it is far safer to be feared than" what?
+
+- [x] Loved
+- [ ] Smelled
+- [ ] Driven insane
