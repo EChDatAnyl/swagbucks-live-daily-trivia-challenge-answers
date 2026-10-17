@@ -91827,3 +91827,21 @@
 - [x] Loved
 - [ ] Smelled
 - [ ] Driven insane
+
+#### Word ending in - ly are usually what part of speech?
+
+- [ ] Advertisement
+- [x] Adverb
+- [ ] Adversary
+
+#### In "A Christmas Story," what store did Ralphie visit to ask Santa for a Red Ryder BB Gun?
+
+- [ ] Macy's
+- [x] Higbee's
+- [ ] Harrods
+
+#### Who was the last President to hold office in the 1970's?
+
+- [x] Jimmy Carter
+- [ ] John F. Kennedy
+- [ ] Barack Obama
