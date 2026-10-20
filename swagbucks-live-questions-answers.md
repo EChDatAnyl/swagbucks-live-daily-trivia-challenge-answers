@@ -91929,3 +91929,15 @@
 - [x] Marty McFly
 - [ ] Biff Tannen
 - [ ] Mr. Strickland
+
+#### A red rubber playground ball would most likely be used to play what game?
+
+- [x] Dodgeball
+- [ ] Baseball
+- [ ] Tag
+
+#### Which home appliance was marketed by Hulk Hogan?
+
+- [x] Thunder Mixer
+- [ ] Bodyslam Blender
+- [ ] Python Pulverizer
