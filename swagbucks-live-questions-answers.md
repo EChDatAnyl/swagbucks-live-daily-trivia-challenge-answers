@@ -91845,3 +91845,87 @@
 - [x] Jimmy Carter
 - [ ] John F. Kennedy
 - [ ] Barack Obama
+
+#### Which pop star calls her fans "Little Monsters"?
+
+- [ ] Madonna
+- [ ] Sia
+- [x] Lady Gaga
+
+#### Scrub Daddy, Yum Crumbs, and Baker's Edge were all products pitched on what TV show?
+
+- [x] Shark Tank
+- [ ] Hardball
+- [ ] Good Morning America
+
+#### Which rapper founded Roc-A-Fella Records?
+
+- [ ] Nas
+- [x] Jay-Z
+- [ ] 50 Cent
+
+#### Which member of the Beatles was the drummer?
+
+- [ ] John Lennon
+- [x] Ringo Starr
+- [ ] George Harrison
+
+#### In 1980's "The Shining", what does Jack Torrance say after busting through a locked door?
+
+- [ ] Gotcha!
+- [ ] Bazinga!
+- [x] Here's Johnny!
+
+#### In "The Empire Strikes Back", who is revealed to be Luke's father?
+
+- [ ] Obi Wan Kenobi
+- [x] Darth Vader
+- [ ] The Emperor
+
+#### In "Gremlins", what causes the Gremlins to multiply?
+
+- [x] Water
+- [ ] Dreams
+- [ ] Oatmeal
+
+#### In "A Christmas Story", what does Ralphie want from Santa?
+
+- [x] An air rifle
+- [ ] A leg-shaped lamp
+- [ ] A new car
+
+#### Who plays the title role in both "Beetlejuice" and "Mr. Mom"?
+
+- [ ] Tom Hanks
+- [ ] Danny DeVito
+- [x] Michael Keaton
+
+#### In "Field of Dreams", where does Ray build his baseball diamond?
+
+- [x] In his cornfield
+- [ ] In a public park
+- [ ] At an airport
+
+#### In "Rain Man", what TV show does Raymond need to watch every day?
+
+- [ ] Jeopardy
+- [ ] The Tonight how
+- [x] The People's Court
+
+#### "Major League" is a 1989 comedy film that revolves around which sport?
+
+- [x] Baseball
+- [ ] Football
+- [ ] Tennis
+
+#### In "The Breakfast Club", why are all of the main characters in one place?
+
+- [ ] Party
+- [x] Detention
+- [ ] Wedding
+
+#### What is the name of the protagonist in "Back to the Future"?
+
+- [x] Marty McFly
+- [ ] Biff Tannen
+- [ ] Mr. Strickland
