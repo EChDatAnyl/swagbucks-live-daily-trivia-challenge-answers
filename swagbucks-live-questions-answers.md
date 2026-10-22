@@ -91941,3 +91941,135 @@
 - [x] Thunder Mixer
 - [ ] Bodyslam Blender
 - [ ] Python Pulverizer
+
+#### By what nickname was Abraham Lincoln known?
+
+- [x] Honest Abe
+- [ ] Pretty Abe
+- [ ] Abey Baby
+
+#### Which of the following board games has timed rounds?
+
+- [ ] Life
+- [x] Taboo
+- [ ] Sorry
+
+#### Wasabi is traditionally served as a side with which dish?
+
+- [ ] Hamburger
+- [ ] Rigatoni
+- [x] Sushi
+
+#### How did Marvel's Peter Parker get his powers?
+
+- [x] Radioactive spider bite
+- [ ] He's an alien
+- [ ] He made a wish
+
+#### In which country is it normal to ask someone's age hen you first meet them?
+
+- [ ] Italy
+- [x] Japan
+- [ ] Sweden
+
+#### Which of the following numbers is a prime number?
+
+- [x] 47
+- [ ] 48
+- [ ] 49
+
+#### In the summer of 2026, LeBron James signed a two-year deal with which NBA team?
+
+- [ ] Cleveland Cavaliers
+- [x] Philadelphia 76ers
+- [ ] Miami Heat
+
+#### Which of the following historic events happened first?
+
+- [ ] Statue of Liberty Dedicated
+- [ ] Eiffel Tower Completed
+- [x] First Coca-Cola Sold
+
+#### Zack Morris is the lead character on which TV show?
+
+- [ ] Gunsmoke
+- [x] Saved By The Bell
+- [ ] Beverly Hills, 90210
+
+#### By what nickname is Bruce Springsteen known?
+
+- [x] The Boss
+- [ ] The Employee
+- [ ] The Intern
+
+#### To which creative property has Seth Grahame-Smith NOT added zombies?
+
+- [ ] Marvel
+- [x] Lego
+- [ ] Pride and Prejudice
+
+#### The Nest began as a smart version of what household appliance?
+
+- [x] Thermostat
+- [ ] Refrigerator
+- [ ] Ceiling Fan
+
+#### Johannes Vermeer painted a famous portrait of a woman wearing what kind of earring?
+
+- [x] Pearl
+- [ ] Diamond
+- [ ] Ruby
+
+#### The Hamburglar is one of the mascots for which fast food chain?
+
+- [ ] Taco Bell
+- [ ] Burger King
+- [x] McDonald's
+
+#### Mount Olympus is the highest mountain in which country?
+
+- [ ] America
+- [x] Greece
+- [ ] Japan
+
+#### The abandoned Maine North High School in Des Plaines, Illinois was used to film which movie?
+
+- [ ] Toy Soldiers
+- [ ] Sixteen Candles
+- [x] The Breakfast Club
+
+#### Which of the following metals is NOT an alloy?
+
+- [ ] Steel
+- [ ] Bronze
+- [x] Copper
+
+#### Which Blues legend played a rectangular guitar?
+
+- [x] Bo Diddley
+- [ ] Muddy Water
+- [ ] B.B. King
+
+#### In "Hamlet", who delivers the "To be, or not to be" soliloquy?
+
+- [ ] Polonius
+- [ ] Claudius
+- [x] Hamlet
+
+#### Which video game character was inspired by a pizza?
+
+- [ ] Mario
+- [x] Pac-Man
+- [ ] Link
+
+#### Han, Tang, and Ming are all dynasties from which country's history?
+
+- [x] China
+- [ ] India
+- [ ] Russia
+
+#### What children's toy can copy newspaper print when you apply pressure?
+
+- [ ] Slink
+- [x] Silly Putty
+- [ ] Skip-It
