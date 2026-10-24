@@ -92073,3 +92073,105 @@
 - [ ] Slink
 - [x] Silly Putty
 - [ ] Skip-It
+
+#### Early in their careers, The Beastie Boys toured as an opener for what act?
+
+- [ ] Run DMC
+- [x] Madonna
+- [ ] Metallica
+
+#### Which Archie Comics character has yet to appear on Riverdale?
+
+- [ ] Dilton Doiley
+- [ ] Coach Clayton
+- [x] Professor Flutesnoot
+
+#### Winning the Belmont Stakes, Kentucky Derby, and Preakness Stakes is a feat known by what name?
+
+- [ ] Triple Scoop
+- [x] Triple Crown
+- [ ] Triple Threat
+
+#### Famed jeweler Faberge is known for creations made in what shape?
+
+- [x] Egg
+- [ ] Trapezoid
+- [ ] Rhombus
+
+#### What is known as the smelliest fruit?
+
+- [ ] Lemon
+- [x] Durian
+- [ ] Banana
+
+#### Addis Ababa is the capital of which African nation?
+
+- [x] Ethiopia
+- [ ] Egypt
+- [ ] Ivory Coast
+
+#### Where was Blockbuster Video founded?
+
+- [ ] Latrobe, PA
+- [x] Dallas, TX
+- [ ] Hollywood, FL
+
+#### "Come On Eileen" was the lone hit for which group?
+
+- [ ] Kajagoogoo
+- [ ] Nine Days
+- [x] Dexy's Midnight Runners
+
+#### Bram Stoker wrote which gothic horror novel?
+
+- [ ] Frankenstein
+- [x] Dracula
+- [ ] The Invisible Man
+
+#### In Sikhism, what does the turban represent?
+
+- [x] Equality
+- [ ] Royalty
+- [ ] Charity
+
+#### What does the jay in jaywalking stand for?
+
+- [ ] Criminal
+- [ ] Baby
+- [x] Foolish Person
+
+#### As of August 2026, how many total Toy Story movies have been released in theaters?
+
+- [x] Five
+- [ ] Four
+- [ ] Three
+
+#### Which of the following artists is NOT visually impaired?
+
+- [ ] Stevie Wonder
+- [ ] Ray Charles
+- [x] Etta James
+
+#### Which of these foods contains seeds?
+
+- [x] Apples
+- [ ] French Toast
+- [ ] Potatoes
+
+#### If you're happy, which could are you on?
+
+- [x] Cloud Nine
+- [ ] Cloud Atlas
+- [ ] SoundCloud
+
+#### Cleats are worn by athletes playing what sport?
+
+- [ ] Tennis
+- [ ] Basketball
+- [x] Soccer
+
+#### Kathryn Janeway was the captain of which starship?
+
+- [ ] Excelsior
+- [x] Voyager
+- [ ] Apollo 11
