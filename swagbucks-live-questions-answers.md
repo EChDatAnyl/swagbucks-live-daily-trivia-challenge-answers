@@ -92175,3 +92175,27 @@
 - [ ] Excelsior
 - [x] Voyager
 - [ ] Apollo 11
+
+#### Cosmonaut Alexey Leonov was the first person to do what?
+
+- [x] Spacewalk
+- [ ] Eat a grape
+- [ ] Drive a car
+
+#### According to his song, what's the most wonderful thing about Tiggers?
+
+- [ ] They're bouncy fun
+- [ ] Their tops are made of rubber
+- [x] He's the only one
+
+#### Which of these paintings is an example Pointillism?
+
+- [ ] The Scream
+- [ ] The Starry Night
+- [x] A Sunday on a La Grande Jatte
+
+#### Where is Jack Daniels whiskey primarily made?
+
+- [ ] Scotland
+- [x] Tennessee
+- [ ] Canada
