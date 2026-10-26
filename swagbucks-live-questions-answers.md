@@ -92199,3 +92199,15 @@
 - [ ] Scotland
 - [x] Tennessee
 - [ ] Canada
+
+#### What is Indiana Jones' real first name?
+
+- [ ] Kentucky
+- [ ] Rhode Island
+- [x] Henry
+
+#### In Trucker Lingo, what does the term "Alligator" refer to?
+
+- [x] A piece of tire
+- [ ] Highway patrol
+- [ ] A hitchhiker
