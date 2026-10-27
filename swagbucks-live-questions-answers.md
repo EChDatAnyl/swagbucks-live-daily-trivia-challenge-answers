@@ -4365,8 +4365,8 @@
 #### Which of these Halloween costumes would most likely involve fangs?
 
 - [ ] Princess Leia
-- [ ] He-Man
 - [x] Dracula
+- [ ] He-Man
 
 #### What word is used to describe George, the monkey from the children's books?
 
@@ -92211,3 +92211,21 @@
 - [x] A piece of tire
 - [ ] Highway patrol
 - [ ] A hitchhiker
+
+#### John Henry Pepper's work with ghosts can be found where?
+
+- [ ] In your toaster
+- [x] Disneyland's Haunted Mansion
+- [ ] Under your bed
+
+#### Skull Island is the home of which monster?
+
+- [x] King Kong
+- [ ] Godzilla
+- [ ] Mothra
+
+#### What waxy candy is most commonly eaten this time of year?
+
+- [ ] Cadbury Creme Eggs
+- [ ] Red Vines
+- [x] Candy Corn
