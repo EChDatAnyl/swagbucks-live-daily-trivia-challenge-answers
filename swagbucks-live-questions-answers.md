@@ -52297,7 +52297,7 @@
 - [x] Dory
 - [ ] Gill
 
-#### Who is Mike Wazowski's partner in "Monstersm Inc."?
+#### Who is Mike Wazowski's partner in "Monsters, Inc."?
 
 - [ ] Randall
 - [ ] Roz
@@ -92229,3 +92229,39 @@
 - [ ] Cadbury Creme Eggs
 - [ ] Red Vines
 - [x] Candy Corn
+
+#### In "Back to the Future", which school dance is the place where Marty's parents first kiss?
+
+- [ ] First Under the Sea
+- [x] Enchantment Under the Sea
+- [ ] Octopus Ball
+
+#### For which of these films was John Williams NOT nominated for an Oscar?
+
+- [ ] The Witches of Eastwick
+- [x] Jurassic Park
+- [ ] Harry Potter and the Prisoner of Azkaban
+
+#### From which country do apples originate?
+
+- [ ] Turkey
+- [x] Kazakhstan
+- [ ] China
+
+#### Which of these is a type of cookie?
+
+- [ ] Fahrvergnugen
+- [ ] Dinglehopper
+- [x] Snickerdoodle
+
+#### Throwing a sheet over your body with eye holes is the basic version of what Halloween costume?
+
+- [x] Ghost
+- [ ] Werewolf
+- [ ] Vampire
+
+#### What are Junior Mints named for?
+
+- [ ] A child
+- [x] A Broadway Play
+- [ ] Their size
