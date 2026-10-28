@@ -92265,3 +92265,15 @@
 - [ ] A child
 - [x] A Broadway Play
 - [ ] Their size
+
+#### Where would you have to go to visit the CERN laboratory?
+
+- [ ] Tokyo
+- [ ] Paris
+- [x] Switzerland
+
+#### What actor famously uses a 1-800 number in lieu of an agent or manager?
+
+- [ ] Drew Barrymore
+- [x] Bill Murray
+- [ ] George Clooney
