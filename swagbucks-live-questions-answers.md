@@ -37818,7 +37818,7 @@
 - [x] Love
 - [ ] Hate
 
-#### When a band called the Sex Maggots weren't allowed to put thier name on a marquee, what did they change it to?
+#### When a band called the Sex Maggots weren't allowed to put their name on a marquee, what did they change it to?
 
 - [x] Goo Goo Dolls
 - [ ] Nine Inch Nails
@@ -92301,3 +92301,27 @@
 - [ ] The Blob
 - [ ] The Thing
 - [x] Creature from the Black Lagoon
+
+#### In Greek mythology, the hundred-eyed Argus was honored by being transformed into what bird?
+
+- [ ] Eagle
+- [ ] Dove
+- [x] Peacock
+
+#### What rut is used to make Nutella spread?
+
+- [ ] Peanuts
+- [x] Hazelnuts
+- [ ] Cashews
+
+#### Mike Wazowski is a one-eyed character in which animated movie?
+
+- [ ] Cars
+- [ ] Toy Story
+- [x] Monsters Inc.
+
+#### Which of these musicals takes place in Iowa?
+
+- [ ] South Pacific
+- [ ] The King and I
+- [x] The Music Man
