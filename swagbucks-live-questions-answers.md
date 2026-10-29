@@ -38442,7 +38442,7 @@
 - [ ] Best Costume Design
 - [x] Best Director
 
-#### Mick Jagger is the lead singer of what band?
+#### Mick Jagger is the lead singer of what band? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
 
 - [ ] Cream
 - [x] The Rolling Stones
@@ -52692,12 +52692,6 @@
 - [ ] 11
 - [ ] 15
 - [x] 21
-
-#### What Mexican holiday almost immediately follows Halloween?
-
-- [ ] Cinco de Mayo
-- [x] Dia de los Muertos
-- [ ] Candelaria
 
 #### "Young Sheldon" is a prequel to what sitcom?
 
@@ -92277,3 +92271,33 @@
 - [ ] Drew Barrymore
 - [x] Bill Murray
 - [ ] George Clooney
+
+#### Joaquin Phoenix played a version of which comic book villain in 2019?
+
+- [x] The Joker
+- [ ] The Penguin
+- [ ] The Riddler
+
+#### What awards are given out for excellence in film?
+
+- [ ] Grovers
+- [ ] Big Birds
+- [x] Oscars
+
+#### Mick Jagger is the lead singer of what rock band?
+
+- [ ] The Ambling Pebbles
+- [ ] The Sliding Rocks
+- [x] The Rolling Stones
+
+#### Which of the following is a type of video conferencing software?
+
+- [ ] Zerg
+- [ ] Zop
+- [x] Zoom
+
+#### What classic movie monster is also known as The Gill-Man?
+
+- [ ] The Blob
+- [ ] The Thing
+- [x] Creature from the Black Lagoon
