@@ -92325,3 +92325,21 @@
 - [ ] South Pacific
 - [ ] The King and I
 - [x] The Music Man
+
+#### In "Halloween", Michael Myers wears a mask of which real celebrity's face?
+
+- [ ] Frank Sinatra
+- [ ] Dean Martin
+- [x] William Shatner
+
+#### Who makes the Galaxy line of smartphones?
+
+- [x] Samsung
+- [ ] Sony
+- [ ] JVC
+
+#### In the book world, what does the S in ISBN stand for?
+
+- [x] Standard
+- [ ] Section
+- [ ] System
