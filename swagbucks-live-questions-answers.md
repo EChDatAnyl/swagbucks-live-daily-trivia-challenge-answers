@@ -92961,3 +92961,123 @@
 - [x] Magic 8 Ball
 - [ ] Etch-A-Sketch
 - [ ] Simon
+
+#### How many days did it take for Avengers: Infinity War to gross $1 billion globally?
+
+- [ ] 7 days
+- [ ] 9 days
+- [x] 11 days
+
+#### In "Back to the Future", what happened to the town's Clock Tower on November 12th, 1955?
+
+- [ ] Tornado
+- [x] Lightning Strike
+- [ ] Blizzard
+
+#### When he travels back to 1955, what do people mistake Marty McFly's vest for?
+
+- [x] A life preserver
+- [ ] A hat
+- [ ] A dress
+
+#### In which fictional California town does "Back to the Future" take place?
+
+- [ ] Gower Gulch
+- [x] Hilly Valley
+- [ ] Sunnydale
+
+#### In "Back to the Future Part II", what arcade game does Marty play in Cafe 80s?
+
+- [ ] Hogan's Alley
+- [ ] Sunset Riders
+- [x] Wild Gunman
+
+#### Which of the following items is NOT brought back to 1955 by Marty McFly in "Back to the Future"?
+
+- [ ] Camcorder
+- [ ] Walkman
+- [x] Skateboard
+
+#### In "Back to the Future", the Mr. Fusion on the DeLorean makes fuel out of what?
+
+- [x] Trash
+- [ ] Grass
+- [ ] Wind
+
+#### What celebrity made their TV debut in the "Back to the Future" animated series live segments?
+
+- [ ] George Clooney
+- [ ] Matthew Perry
+- [x] Bill Nye
+
+#### In the "Back to the Future" movies, how does Doc Brown tell Marty he's stranded in the 19th century?
+
+- [ ] Time Capsule
+- [x] Letter
+- [ ] History Book
+
+#### In "Back to the Future", how much energy is needed to send Marty back to 1985?
+
+- [x] 1.21 Gigawatts
+- [ ] 9 Volts
+- [ ] 4 Amps
+
+#### In "Back to the Future", what kind of pet is Doc Brown's Einstein?
+
+- [ ] Fish
+- [x] Dog
+- [ ] Bird
+
+#### What mobile app became a source of memes and viral videos in 2019?
+
+- [ ] Periscope
+- [ ] Vine
+- [x] TikTok
+
+#### According to the saying, "Mighty Oaks from Little Acorns" do what?
+
+- [x] Grow
+- [ ] Bounce
+- [ ] Run
+
+#### Which of the following sea creatures is classified as a mammal?
+
+- [ ] Sturgeon
+- [x] Dolphin
+- [ ] Octopus
+
+#### What is the German term for a hot dog?
+
+- [x] Frankfurter
+- [ ] Frankenstein
+- [ ] Frank Langella
+
+#### Who assassinated John F. Kennedy?
+
+- [x] Lee Harvey Oswald
+- [ ] John Wilkes Booth
+- [ ] Sirhan Sirhan
+
+#### David Lee Roth is the lead singer of which band?
+
+- [ ] Soundgarden
+- [x] Van Halen
+- [ ] Metallica
+
+#### What city is known as The Eternal City?
+
+- [ ] Chicago
+- [x] Rome
+- [ ] Pittsburgh
+
+#### What is the only mammal that can fly?
+
+- [ ] Dog
+- [ ] Horse
+- [x] Bat
+
+#### Rook, Knight, and Queen are all pieces in which board game?
+
+- [x] Chess
+- [ ] Sorry
+- [ ] Backgammon
