@@ -93081,3 +93081,75 @@
 - [x] Chess
 - [ ] Sorry
 - [ ] Backgammon
+
+#### What are you meant to dip in Cane's sauce?
+
+- [x] Chicken Fingers
+- [ ] Raw Onions
+- [ ] Hard-Boiled Eggs
+
+#### Which of these fast food chains is known for seafood?
+
+- [ ] Zaxby's
+- [ ] Orange Julius
+- [x] Long John Silver's
+
+#### Which McDonald's sandwich was designed for adults?
+
+- [x] Arch Deluxe
+- [ ] Junior Cheeseburger
+- [ ] French Dip
+
+#### Complete this Arby's catchphrase: "We Have..."
+
+- [ ] Limited Inventory
+- [ ] Scurvy
+- [x] The Meats
+
+#### Since 2015, a series of different celebrities have taken on the role of which fast food spokesperson?
+
+- [x] Colonel Sanders
+- [ ] Early Bird
+- [ ] The Hamburglar
+
+#### McDonald's runs an annual promotion in conjunction with which board game?
+
+- [ ] Boggle
+- [ ] Catan
+- [x] Monopoly
+
+#### What fast food chain started as a hot dog cart in Madison Square Park?
+
+- [ ] Five Guys
+- [x] Shake Shack
+- [ ] Wienerschnitzel
+
+#### At which chain can you get your hash browns "scattered, smothered, covered"?
+
+- [ ] A&W
+- [x] Waffle House
+- [ ] Denny's
+
+#### Dave Thomas served as the spokesperson for the chain he founded? What is that chain?
+
+- [x] Wendy's
+- [ ] Dairy Queen
+- [ ] Whataburger
+
+#### What method does Burger King use to make The Whopper?
+
+- [ ] Sous vide
+- [ ] Teppanyaki
+- [x] Flame-Broiling
+
+#### Glaciers are generally made from what?
+
+- [ ] Grass
+- [ ] Clouds
+- [x] Ice
+
+#### As of 2020, which of these U.S. cities has the biggest population?
+
+- [ ] Wichita, Kansas
+- [x] New York, New York
+- [ ] Dubuque, Iowa
