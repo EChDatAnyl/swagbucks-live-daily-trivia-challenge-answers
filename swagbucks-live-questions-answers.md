@@ -93213,3 +93213,27 @@
 - [x] Reykjavik, Iceland
 - [ ] Wellington, New Zealand
 - [ ] Paris, France
+
+#### Where did the term for the spikes on a Stegosaurus' tail come from?
+
+- [x] A comic strip
+- [ ] The Smithsonian
+- [ ] Charles Darwin
+
+#### In which country did the modern version of Curling originate?
+
+- [ ] Italy
+- [x] Scotland
+- [ ] Switzerland
+
+#### What is the traditional flavor of a candy cane?
+
+- [ ] Sardine
+- [x] Peppermint
+- [ ] Hickory BBQ
+
+#### Which of these is not a type of tooth?
+
+- [ ] Incisor
+- [ ] Canine
+- [x] Metalarsal
