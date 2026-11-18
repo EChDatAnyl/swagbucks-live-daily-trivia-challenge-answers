@@ -93153,3 +93153,63 @@
 - [ ] Wichita, Kansas
 - [x] New York, New York
 - [ ] Dubuque, Iowa
+
+#### Which of the following is not a typical medium for painting?
+
+- [ ] Oil
+- [ ] Watercolor
+- [x] Spit
+
+#### Which of these animals has tusks?
+
+- [ ] Tiger
+- [x] Elephant
+- [ ] Sloth
+
+#### During 2020, Animal Crossing: New Horizons became a hit game for which platform?
+
+- [x] Nintendo Switch
+- [ ] Atari 2600
+- [ ] Segar Master System
+
+#### What sandwich was introduced by McDonald's to serve to customers who didn't eat red meat on Fridays?
+
+- [ ] Hot Dog
+- [ ] Spicy Chicken
+- [x] Filet-O-Fish
+
+#### In which country is kite flying a professional sport?
+
+- [ ] Canada
+- [x] Thailand
+- [ ] Denmark
+
+#### In which of these video games do the characters speak a made up gibberish language?
+
+- [ ] Overwatch
+- [ ] Super Mario Bros
+- [x] The Sims
+
+#### What classic horror novel was written by Bram Stoker?
+
+- [ ] Frankenstein
+- [x] Dracula
+- [ ] It
+
+#### Which famous artist used cat urine as a fixative?
+
+- [x] Gustav Kilmt
+- [ ] Pablo Picasso
+- [ ] Rembrandt
+
+#### Which of the following film directors started out as a child actor?
+
+- [ ] George Lucas
+- [x] Ron Howard
+- [ ] Wes Anderson
+
+#### What is the northernmost capital of a sovereign state?
+
+- [x] Reykjavik, Iceland
+- [ ] Wellington, New Zealand
+- [ ] Paris, France
