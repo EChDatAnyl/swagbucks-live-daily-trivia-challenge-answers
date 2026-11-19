@@ -93237,3 +93237,93 @@
 - [ ] Incisor
 - [ ] Canine
 - [x] Metalarsal
+
+#### Who has a reality show called "Drag Race"?
+
+- [x] RuPaul
+- [ ] Tim Gunn
+- [ ] Tyra Banks
+
+#### What kind of animal was Bastet?
+
+- [x] Cat
+- [ ] Dog
+- [ ] Sheep
+
+#### According to the saying, "It ain't over until" who sings?
+
+- [x] The fat lady
+- [ ] The beefy horse
+- [ ] The plus size turtle
+
+#### What terrorist organization is the enemy of G.I. Joe?
+
+- [ ] Treadstone
+- [x] Cobra
+- [ ] The Decepticons
+
+#### Mrs. Fields is a commercial manufacturer of what common treat?
+
+- [x] Cookies
+- [ ] Candied peanuts
+- [ ] Beef jerky
+
+#### How does The Evil Queen from "Snow White and the Seven Dwarfs" poison Snow White?
+
+- [ ] A glass of wine
+- [x] An apple
+- [ ] Magic mist
+
+#### What is the name of Disney's official fan club?
+
+- [x] D23
+- [ ] Kid's Club
+- [ ] The Hangout
+
+#### What does "Hakuna Matata" mean?
+
+- [ ] Chill
+- [x] No Worries
+- [ ] Shut Up
+
+#### In the "Beauty and the Beast" Broadway musical, how many kids does Gaston want to have with Belle?
+
+- [x] Six or seven
+- [ ] A hundred
+- [ ] Ten to twelve
+
+#### Which Disney character "Breaks The Internet" in their second movie?
+
+- [ ] Aladdin
+- [ ] Moana
+- [x] Wreck-It Ralph
+
+#### What movie does WALL-E watch over and over again?
+
+- [ ] Singin' in the Rain
+- [ ] The King & I
+- [x] Hello, Dolly!
+
+#### Nick Wilde and Judy Hopps are partners who work in what Disney City?
+
+- [ ] Arendelle
+- [x] Zootopia
+- [ ] Passamaquoddy
+
+#### What Disney film was the first animated movie to contain CGI elements?
+
+- [ ] The Fox and the Hound
+- [ ] Oliver & Company
+- [x] The Black Cauldron
+
+#### In "Mickey's Christmas Carol", who does Mickey Mouse play?
+
+- [x] Bob Cratchit
+- [ ] Ebenezer Scrooge
+- [ ] Christmas Past
+
+#### What trusty weapon does Indiana Jones always have at his side?
+
+- [ ] Longsword
+- [ ] Boomerang
+- [x] Bullwhip
