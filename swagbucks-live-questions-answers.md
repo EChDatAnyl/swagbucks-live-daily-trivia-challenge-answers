@@ -93327,3 +93327,15 @@
 - [ ] Longsword
 - [ ] Boomerang
 - [x] Bullwhip
+
+#### What animated show features a talking dog named Mr. Peanutbutter?
+
+- [ ] Bob's Burgers
+- [ ] Family Guy
+- [x] BoJack Horseman
+
+#### Which of the following is a synonym for "trivia"?
+
+- [x] Minutiae
+- [ ] Miniature
+- [ ] Mind games
