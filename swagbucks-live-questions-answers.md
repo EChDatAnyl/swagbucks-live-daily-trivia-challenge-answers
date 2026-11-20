@@ -93339,3 +93339,69 @@
 - [x] Minutiae
 - [ ] Miniature
 - [ ] Mind games
+
+#### What actor's stage name was partially inspired by a Marvel superhero?
+
+- [x] Nicolas Cage
+- [ ] Morgan Freeman
+- [ ] Clark Duke
+
+#### Who created Star Wars? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] Steven Spielberg
+- [x] George Lucas
+- [ ] Francis Ford Coppola
+
+#### During which holiday are people most likely to prank one another?
+
+- [x] April Fools' Day
+- [ ] Arbor Day
+- [ ] Labor Day
+
+#### Monster and Rockstar are known as brands of what kind of drink?
+
+- [ ] Coffee
+- [ ] Probiotic
+- [x] Energy
+
+#### Manila is the capital of which Asian country?
+
+- [ ] China
+- [x] Philippines
+- [ ] Japan
+
+#### What kind of rock is formed by cooling lava or magma?
+
+- [x] Ignenous
+- [ ] Sedimentary
+- [ ] Metamorphic
+
+#### In the original book of "The Wizard of Oz", what kind of slippers does Dorothy wear?
+
+- [ ] Ruby
+- [x] Silver
+- [ ] Gold
+
+#### The Berserkers were feared warriors in which historic group of people?
+
+- [ ] Samurai
+- [x] Vikings
+- [ ] Huns
+
+#### Which legume can produce cyanide when eaten raw?
+
+- [x] Lima Beans
+- [ ] Black Beans
+- [ ] Garbanzo Beans
+
+#### How does James Bond like his martini?
+
+- [x] Shaken
+- [ ] Blended
+- [ ] On the rocks
+
+#### Sgt. Pepper's Lonely Hearts Club Band is a fictional group created by which band?
+
+- [ ] The Who
+- [x] The Beatles
+- [ ] The Rolling Stones
