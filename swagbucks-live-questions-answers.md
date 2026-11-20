@@ -93405,3 +93405,15 @@
 - [ ] The Who
 - [x] The Beatles
 - [ ] The Rolling Stones
+
+#### What reality competition show centers on weight loss?
+
+- [ ] The Bachelor
+- [ ] The Circle
+- [x] The Biggest Loser
+
+#### Which of these products would you buy from Duncan Hines?
+
+- [ ] Radial Tires
+- [x] Brownie Mix
+- [ ] Stockings
