@@ -65868,7 +65868,7 @@
 #### The Memphis Southmen and Honoulu Hawaiians were teams in what now-defunct sports league?
 
 - [ ] National Bowling League
-- [ ] Roller Hockey Internaitonal
+- [ ] Roller Hockey International
 - [x] World Football League
 
 #### The genie in the movie "Aladdin" was trapped in what?
@@ -93417,3 +93417,15 @@
 - [ ] Radial Tires
 - [x] Brownie Mix
 - [ ] Stockings
+
+#### Complete this slogan: Nationalwide is on your...
+
+- [x] Side
+- [ ] Bride
+- [ ] Ride
+
+#### Who was the first guest on David Letterman's NBC and CBS talk shows?
+
+- [x] Bill Murray
+- [ ] Tom Hanks
+- [ ] Barbara Walters
