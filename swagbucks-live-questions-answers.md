@@ -93429,3 +93429,27 @@
 - [x] Bill Murray
 - [ ] Tom Hanks
 - [ ] Barbara Walters
+
+#### Spoiling something is also known as raining on someone's what?
+
+- [ ] Shoes
+- [x] Parade
+- [ ] Umbrella
+
+#### If it's 3pm in Germany, what time is it in Los Angeles?
+
+- [ ] 1:00 AM
+- [x] 6:00 AM
+- [ ] 11:00 AM
+
+#### Before "Star Trek", William Shatner was cast in a TV pilot as what historical figure?
+
+- [ ] Julius Caesar
+- [ ] Wyatt Earp
+- [x] Alexander The Great
+
+#### A recent meme involved Viggle AI being used to replace a concert video of what performer with various pop culture figures?
+
+- [ ] Lil Yachty
+- [ ] Post Malone
+- [x] Taylor Swift
