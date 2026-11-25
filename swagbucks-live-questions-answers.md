@@ -93453,3 +93453,171 @@
 - [ ] Lil Yachty
 - [ ] Post Malone
 - [x] Taylor Swift
+
+#### Which is the only vowel on a standard English keyboard that's not on the top row?
+
+- [x] A
+- [ ] O
+- [ ] E
+
+#### According to the song from Annie, "You're never fully dressed without a" what?
+
+- [ ] Barrel
+- [x] Smile
+- [ ] 2011 Ford Fiesta
+
+#### What flat bread is eaten at the Passover Seder?
+
+- [ ] Mitzi
+- [x] Matzoh
+- [ ] Mitzvah
+
+#### What did Hulk Hogan call his fans?
+
+- [x] Hulkamaniacs
+- [ ] Little Warriors
+- [ ] The Dog Pound
+
+#### Which "Dead Man Walking" grappler had his WrestleMania undefeated streak broken by Brock Lesnar?
+
+- [ ] Kane
+- [x] The Undertaker
+- [ ] The Boogeyman
+
+#### Which of the following is NOT one of the wrestling personas of Mick Foley?
+
+- [ ] Mankind
+- [ ] Cactus Jack
+- [x] The Glamazon
+
+#### Roman Reigns is the Tribal Chief of which WWE factions?
+
+- [x] The Bloodline
+- [ ] The Hardy Boyz
+- [ ] The LWO
+
+#### Which former WWE Champion was a real-life Olympic gold medalist?
+
+- [ ] Sherri Matrel
+- [x] Kurt Angle
+- [ ] Earthquake
+
+#### What does the winner of the WWE Royal Rumble get?
+
+- [ ] 15 Cents
+- [ ] A Haircut
+- [x] A Title Shot at WrestleMania
+
+#### What other wrestling company competed with and beat WE in the ratings during the Monday Night Wars?
+
+- [x] WCW
+- [ ] JCW
+- [ ] IWC
+
+#### Who was the first WWE Intercontinental Champion?
+
+- [ ] Randy "Macho Man" Savage
+- [x] Pat Patterson
+- [ ] Magnificent Don Muraco
+
+#### Which wrestler-turned-actor was known for Hustle, Loyalty, and Respect?
+
+- [ ] CM Punk
+- [ ] Randy Savage
+- [x] John Cena
+
+#### What year was the first WrestleMania held?
+
+- [x] 1985
+- [ ] 1941
+- [ ] 2010
+
+#### The fake gangster film "Angels with Filthy Souls" is featured in which holiday movie?
+
+- [ ] Santa Claus: The Movie
+- [x] Home Alone
+- [ ] A Christmas Story
+
+#### The voice of the Ghost Host in the Haunted Mansion is also the voice of which Disney character?
+
+- [ ] Pegleg Pete
+- [x] Ludwig Von Drake
+- [ ] Chip
+
+#### Cher Horowitz is the heroine of which teen comedy classic?
+
+- [ ] Drive Me Crazy
+- [x] Clueless
+- [ ] Whatever It Takes
+
+#### Ferdinand Magellan's ship was the first to achieve what feat?
+
+- [ ] Sailing across the Atlantic Ocean
+- [ ] Sailing to China
+- [x] Circumnavigating the globe
+
+#### Which breakfast cereal is based on characters from a TV show?
+
+- [ ] Basic 4
+- [x] Fruity Pebbles
+- [ ] Waffle Crisp
+
+#### What medicine uses the slogan "Plop Plop, Fizz Fizz"?
+
+- [ ] Pepto-Bismol
+- [x] Alka-Seltzer
+- [ ] Mallox
+
+#### Anheuser-Buscher is primarily known for the manufacturing of what beverage
+
+- [x] Beer
+- [ ] Wine
+- [ ] Vodka
+
+#### What river forms the border between Texas and Mexico?
+
+- [ ] Colorado
+- [ ] Mississippi
+- [x] Rio Grande
+
+#### The Great Sphinx can be found next to what other historic landmark?
+
+- [x] The Pyramids of Giza
+- [ ] The Hanging Gardens of Babylon
+- [ ] The Lighthouse of Alexandria
+
+#### Who was the first President who used the "Air Force One" callsign?
+
+- [ ] John F. Kennedy
+- [x] Dwight Eisenhower
+- [ ] Lyndon B. Johnson
+
+#### Complete this quote from "There Will Be Blood": "I DRINK YOUR..."
+
+- [x] Milkshake
+- [ ] Whiskey
+- [ ] Soda
+
+#### Bryan Adams, Alanis Morissette, and Justin Bieber all come from which country?
+
+- [ ] Ireland
+- [x] Canada
+- [ ] Australia
+
+#### Which Hall of Fame baseball player was known as "Chicken Man" because he only ate chicken on game days?
+
+- [ ] Ted Williams
+- [ ] Stan Musial
+- [x] Wade Boggs
+
+#### NBA Hall of Famer Magic Johnson had a legendary rivalry with what other NBA Hall of Famer?
+
+- [ ] Adrian Dantley
+- [x] Larry Bird
+- [ ] Ralph Sampson
+
+#### Which of the following is a drawing toy?
+
+- [ ] Lite-Brite
+- [ ] View-Master
+- [x] Spirograph
