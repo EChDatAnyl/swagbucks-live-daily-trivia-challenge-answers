@@ -93621,3 +93621,63 @@
 - [ ] Lite-Brite
 - [ ] View-Master
 - [x] Spirograph
+
+#### Which of the following is a common term for stuffing?
+
+- [x] Dressing
+- [ ] In-there Food
+- [ ] Crunchies
+
+#### Which berry cause is a common holiday food?
+
+- [ ] Strawberry Sauce
+- [x] Cranberry Sauce
+- [ ] Blackberry Sauce
+
+#### What part of the turkey is broken in half by two people in a traditional holiday ritual?
+
+- [ ] Thigh Bone
+- [ ] Rib
+- [x] Wishbone
+
+#### What year did Coca-Cola first use Santa Claus in its advertising?
+
+- [ ] 1899
+- [ ] 1912
+- [x] 1931
+
+#### What sweet topping is usually added to sweet potatoes?
+
+- [x] Marshmallow
+- [ ] Dark Chocolate
+- [ ] Caramel
+
+#### Who was the first British Monarch to serve Turkey at Christmas dinner?
+
+- [ ] Queen Elizabeth I
+- [ ] Queen Victoria
+- [x] King Henry VII
+
+#### Honey Baked is a company best known for making and selling what dish?
+
+- [ ] Apple Pie
+- [x] Ham
+- [ ] Potato Chips
+
+#### In which country do observers do a 40-day Vegan fast prior to Christmas?
+
+- [ ] Iceland
+- [ ] Brazil
+- [x] Ethiopia
+
+#### Yorkshire Pudding is a popular holiday dish in which country?
+
+- [ ] Brazil
+- [x] England
+- [ ] France
+
+#### What dessert is traditionally left out for Santa Claus on Christmas Eve?
+
+- [x] Cookies
+- [ ] Fudgsicles
+- [ ] Cherries Jubilee
