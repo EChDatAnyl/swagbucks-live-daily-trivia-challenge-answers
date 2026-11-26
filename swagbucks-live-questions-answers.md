@@ -93681,3 +93681,21 @@
 - [x] Cookies
 - [ ] Fudgsicles
 - [ ] Cherries Jubilee
+
+#### If you wanted to subject zucchini to Spaghettification, what would you need?
+
+- [ ] A pasta machine
+- [ ] A spiralizer
+- [x] A black hole
+
+#### Where is the smallest bone in the human body located?
+
+- [ ] Toe
+- [x] Ear
+- [ ] Mouth
+
+#### What college has won the most Men's Basketball National Championships?
+
+- [ ] Ball State
+- [x] UCLA
+- [ ] Vanderbilt
