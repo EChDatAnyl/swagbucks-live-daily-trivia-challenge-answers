@@ -93699,3 +93699,21 @@
 - [ ] Ball State
 - [x] UCLA
 - [ ] Vanderbilt
+
+#### Which restaurant chain was co-founded by a figure skater?
+
+- [ ] Wing Street
+- [x] Buffalo Wild Wings
+- [ ] Hooters
+
+#### Of all the gin joints in all the towns in all the world, The 1944 Oscar for Best Picture walked into this place
+
+- [x] Casablanca
+- [ ] The Bridge on the River Kwai
+- [ ] Grand Hotel
+
+#### What part of a lobster will NOT regenerate when served?
+
+- [x] Eyestalk
+- [ ] Cutter Claw
+- [ ] Front leg
